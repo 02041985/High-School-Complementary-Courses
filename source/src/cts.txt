@@ -1,0 +1,347 @@
+=== CTS10.A1 0
+hook: In Canadian workplaces, young and new workers are injured on the job at higher rates than experienced workers, often in their first months. The skills that keep you safe in a CTS lab, like reading hazards, using protective equipment and following procedures, are the same ones that keep workers safe in kitchens, shops and studios.
+sc: I can identify hazards in a CTS lab or shop | I can choose and use the right personal protective equipment | I can follow and explain safety procedures
+v: hazard :: Anything that could cause harm, such as a hot surface, sharp blade or chemical.
+v: risk :: How likely a hazard is to cause harm and how serious it could be.
+v: personal protective equipment (PPE) :: Gear such as safety glasses, gloves and aprons that protects the worker.
+v: safety data sheet (SDS) :: A document describing the hazards and safe handling of a product.
+v: WHMIS :: The Workplace Hazardous Materials Information System, Canada's system for labelling hazardous products.
+v: safety sign-off :: Confirmation that a student has been trained to use a tool or machine safely.
+ts: Hazard Hunt || Lab or shop task || How do I work safely in a CTS lab or shop?
+tx: Part 1, Hazard hunt (15 minutes): In pairs, walk through the CTS lab (foods lab, construction shop, design studio or computer lab) with a checklist. Record every hazard you find in four categories: ¶ • Physical (sharp tools, moving parts, hot surfaces, tripping hazards, noise) ¶ • Chemical (cleaning products, finishes, adhesives) ¶ • Biological (raw meat, mould, unwashed hands) ¶ • Ergonomic (poor posture, repetitive motion, heavy lifting) ¶ Part 2, PPE match (10 minutes): Match tasks to PPE: cutting wood (safety glasses, hearing protection on power tools), using a chef's knife (cut-resistant technique, closed-toe shoes), handling a cleaning chemical (gloves, eye protection, check the SDS), soldering (safety glasses, ventilation). ¶ Part 3, WHMIS symbols (10 minutes): Identify common WHMIS pictograms on real labels (flame, corrosion, exclamation mark, health hazard). Find the SDS for one product and record the first-aid measures. ¶ Part 4, Procedure (10 minutes): Watch the teacher demonstrate one tool or appliance. Write the safe procedure in five steps, then demonstrate it back for a safety sign-off. ¶ Your rights at work (Alberta Occupational Health and Safety): the right to know about hazards, the right to participate in health and safety, and the right to refuse dangerous work.
+src: Original activity written for this lesson; worker rights summarized from Alberta Occupational Health and Safety.
+st: Hunt for hazards in four categories | Match tasks to PPE | Identify WHMIS pictograms and read an SDS | Write and demonstrate a safe procedure | Review worker safety rights
+org: Hazard | Category | Risk (low, medium, high) | Control (remove, guard, PPE, procedure)
+an: Which hazards were easiest to miss? | Why is PPE the last line of defence, not the first? | What did the SDS tell you that the label didn't? | How do the three worker rights protect you at a part-time job?
+pr: Create a one-page safety guide for one CTS lab or shop: the top five hazards, PPE needed, two WHMIS symbols with meanings, a five-step procedure for one tool, and the three worker rights.
+ex: Categories || A frayed electrical cord is which hazard category? || Could cause shock or fire || Physical || How would you control it?
+ex: PPE || What PPE do you need to use a belt sander? || Eyes | Ears | Dust || Safety glasses, hearing protection and possibly a dust mask || What else reduces the risk?
+ex: WHMIS || What does the flame pictogram mean? || Fire hazard || The product is flammable || Where would you store it?
+ex: Right to refuse || A supervisor asks you to use a machine with a missing guard. What can you do? || Right to refuse dangerous work || Refuse, explain why and report it || Why is this right important for young workers?
+p: B || What is a hazard? || Anything that could cause harm.
+p: B || What is PPE? || Personal protective equipment such as safety glasses and gloves.
+p: B || What does SDS stand for? || Safety data sheet.
+p: B || What is WHMIS? || Canada's system for labelling hazardous products.
+p: B || What is a safety sign-off? || Confirmation you've been trained to use a tool safely.
+p: I || Name the four hazard categories. || Physical, chemical, biological and ergonomic.
+p: I || Give an example of a biological hazard. || Raw meat (also mould, unwashed hands).
+p: I || Give an example of an ergonomic hazard. || Poor posture (also repetitive motion, heavy lifting).
+p: I || Name the three worker rights. || Right to know, right to participate and right to refuse dangerous work.
+p: I || What PPE is used when soldering? || Safety glasses, with good ventilation.
+p: I || Where do you find first-aid measures for a chemical? || On its safety data sheet.
+p: C || Why is PPE the last line of defence? || It's better to remove or guard the hazard first; PPE protects only if the others fail.
+p: C || Why are young workers at higher risk? || Less experience and training, and hesitation to speak up.
+p: C || Why must you get a sign-off before using a machine? || To show you can use it safely.
+p: C || How does risk differ from hazard? || A hazard can cause harm; risk is how likely and how serious that harm is.
+mis: Thinking PPE alone makes a task safe | Thinking safety rules don't apply to quick jobs | Being afraid to report hazards or refuse unsafe work
+et: Identify one hazard and how to control it. | Name the three worker rights.
+mc: B || PPE stands for || personal protective equipment | personal project expectations | public power equipment | none || A
+mc: B || An SDS describes || hazards and safe handling | a recipe | a budget | a schedule || A
+mc: B || WHMIS is Canada's system for || labelling hazardous products | grading | taxes | food guides || A
+mc: B || Raw meat is a || biological hazard | chemical hazard | ergonomic hazard | physical hazard only || A
+mc: B || The flame pictogram means || flammable | toxic | corrosive | explosive only || A
+mc: B || A safety sign-off shows you || can use a tool safely | finished the project | passed the course | bought the tool || A
+mc: I || A frayed cord is a || physical hazard | biological hazard | ergonomic hazard | not a hazard || A
+mc: I || Heavy lifting is an || ergonomic hazard | chemical hazard | biological hazard | none || A
+mc: I || Using a belt sander needs || eye and hearing protection | no PPE | gloves only | an apron only || A
+mc: I || The three worker rights include || the right to refuse dangerous work | the right to skip breaks | the right to no training | the right to ignore rules || A
+mc: C || PPE is the last line of defence because || removing or guarding hazards comes first | it's expensive | it's optional | it's uncomfortable || A
+mc: C || Risk is || how likely and serious harm is | the hazard itself | always high | a type of PPE || A
+sa: B || Define hazard. || Anything that could cause harm.
+sa: B || What does WHMIS stand for? || Workplace Hazardous Materials Information System.
+sa: I || List the four hazard categories with an example of each. || Physical (sharp blade), chemical (cleaner), biological (raw meat), ergonomic (heavy lifting).
+sa: I || Name the three Alberta worker rights. || Right to know, participate and refuse dangerous work.
+sa: I || Write a five-step safe procedure for one tool. || Answers vary.
+sa: I || What information is on an SDS? || Hazards, safe handling, storage and first-aid measures.
+sa: C || Create a safety guide for a CTS lab. || Answers vary.
+sa: C || Explain why young workers should know their rights. || They face higher injury risk and must be able to refuse unsafe work and report hazards.
+
+=== CTS20.A1 0
+hook: Anyone can follow a recipe or a cut list once. Intermediate skill means doing it consistently, with precision, and knowing what to do when something goes wrong. That's what separates a hobbyist from someone ready for the workplace.
+sc: I can perform intermediate techniques with precision | I can maintain tools and equipment | I can troubleshoot common problems
+v: precision :: How exactly something matches a measurement or standard.
+v: tolerance :: The acceptable amount of variation from a measurement.
+v: maintenance :: Regular care that keeps tools and equipment working safely.
+v: troubleshoot :: To find and fix the cause of a problem.
+v: consistency :: Producing the same quality result every time.
+v: root cause :: The underlying reason a problem happens.
+ts: Precision and Problem-Solving || Lab or shop task || How do skilled workers achieve consistent quality?
+tx: Choose the task for your CTS area: ¶ • Foods: dice an onion into 0.5 cm cubes, then make a basic sauce (for example, a roux-based white sauce) with a smooth texture and no lumps. ¶ • Construction: cut and join two pieces at a 90° angle within 1 mm tolerance using a square, a saw and wood glue. ¶ • Computing: write a program that reads 10 numbers and finds their mean, then debug three planted errors. ¶ • Design or fashion: sew a straight 1.5 cm seam allowance along 50 cm of fabric within 2 mm. ¶ Step 1 (20 minutes): Complete the task three times. Measure or test each result against the standard. ¶ Step 2 (10 minutes): Maintenance: clean and check your tools. Foods: sharpen or hone knives and sanitize surfaces. Construction: check blades and clear sawdust. Computing: organize files and comment code. Sewing: change dull needles and clean the bobbin area. ¶ Step 3 (10 minutes): Troubleshoot using the "5 Whys": ask "Why did this happen?" up to five times to reach the root cause. Example: Sauce was lumpy → flour added too fast → I didn't whisk while adding → I was distracted → I had too many steps at once → Next time, prepare ingredients first (mise en place).
+src: Original activity written for this lesson.
+st: Choose the task for your CTS area | Complete it three times and measure each result | Maintain tools and equipment | Troubleshoot a problem with the 5 Whys | Record your consistency
+org: Attempt | Measurement or result | Within tolerance? | Problem | Root cause
+an: How consistent were your three attempts? | What did measuring show that looking didn't? | What maintenance did your tools need? | What root cause did the 5 Whys reveal?
+pr: Write a short quality report on your three attempts: measurements, whether each met the tolerance, one problem you troubleshot with the 5 Whys and your plan for the next attempt.
+ex: Tolerance || A board must be 300 mm ± 1 mm. Is 301.5 mm acceptable? || Range is 299–301 mm || No, it's outside tolerance || What about 300.8 mm?
+ex: Consistency || Your dice were 0.5, 0.8 and 0.4 cm. What does this show? || Variation || Inconsistent cuts; the technique needs work || How could you improve consistency?
+ex: 5 Whys || Your program crashes. Use the first two whys. || Why did it crash? Why did that happen? || It divided by zero → the list was empty because input wasn't read || What's the fix?
+ex: Maintenance || Why does a dull knife increase risk? || More force needed || It needs more force and can slip || What maintenance helps?
+p: B || What is precision? || How exactly something matches a standard.
+p: B || What is tolerance? || The acceptable variation from a measurement.
+p: B || What is maintenance? || Regular care that keeps tools working safely.
+p: B || What does troubleshoot mean? || Find and fix the cause of a problem.
+p: B || What is a root cause? || The underlying reason a problem happens.
+p: I || How many times do you complete the task? || Three.
+p: I || A cut must be 90° ± 1°. Is 90.5° acceptable? || Yes.
+p: I || What is "mise en place"? || Preparing and organizing ingredients before cooking.
+p: I || Name one maintenance task for sewing. || Change dull needles (also clean the bobbin area).
+p: I || What are the 5 Whys? || Asking "why" repeatedly to reach the root cause.
+p: I || Why comment code? || To make it easier to understand and maintain.
+p: C || Why measure instead of judging by eye? || Measurements are objective and reveal small errors.
+p: C || Why does consistency matter in a workplace? || Customers and employers expect the same quality every time.
+p: C || Why fix the root cause instead of the symptom? || Otherwise the problem keeps coming back.
+p: C || How does tool maintenance improve safety? || Well-maintained tools behave predictably and need less force.
+mis: Judging quality only by eye | Fixing symptoms instead of root causes | Skipping maintenance to save time
+et: Explain tolerance with an example. | Describe how the 5 Whys find a root cause.
+mc: B || Tolerance is || acceptable variation | the final product | a type of tool | a safety rule || A
+mc: B || Precision means || exactly matching a standard | going fast | using more material | guessing || A
+mc: B || Troubleshooting means || finding and fixing problems | ignoring problems | starting over always | buying new tools || A
+mc: B || The task was completed || three times | once | ten times | never || A
+mc: B || The 5 Whys find the || root cause | first symptom | best tool | cost || A
+mc: B || Mise en place means || preparing ingredients first | cleaning up | serving | tasting || A
+mc: I || 300 mm ± 1 mm allows || 299 to 301 mm | 290 to 310 mm | exactly 300 mm only | any length || A
+mc: I || A dull knife is risky because it || needs more force and can slip | is sharper | is lighter | cuts faster || A
+mc: I || Inconsistent dice sizes show || technique needs work | perfect skill | good tools | no problem || A
+mc: I || Dividing by zero in code is fixed by || checking the list isn't empty | adding more zeros | deleting the program | ignoring it || A
+mc: C || Fixing root causes matters because || problems stop recurring | it's faster | it's required | symptoms are fine || A
+mc: C || Measuring beats judging by eye because it is || objective | slower only | optional | random || A
+sa: B || Define tolerance. || The acceptable amount of variation from a measurement.
+sa: B || What is a root cause? || The underlying reason a problem happens.
+sa: I || Report your three attempts against the standard. || Answers vary.
+sa: I || Describe the maintenance your tools needed. || Answers vary.
+sa: I || Use the 5 Whys on one problem. || Answers vary.
+sa: I || Explain why consistency matters to employers. || They need reliable quality every time.
+sa: C || Write a quality report. || Answers vary.
+sa: C || Explain how maintenance connects to safety and quality. || Well-kept tools work predictably, need less force and produce better results.
+
+=== CTS30.A1 0
+hook: At the advanced level, you're not just learning techniques; you're expected to work like an industry professional. That means following real workflows, working efficiently and passing on your skills to others, the way a journeyperson trains an apprentice.
+sc: I can apply advanced techniques in my CTS area | I can follow an industry workflow | I can mentor a newer student in a skill
+v: workflow :: The organized sequence of steps used to complete a job.
+v: industry standard :: A level of quality or method accepted in a profession.
+v: efficiency :: Getting a quality result with the least wasted time and material.
+v: mentor :: An experienced person who guides someone less experienced.
+v: journeyperson :: A certified tradesperson who has completed an apprenticeship.
+v: specialization :: Focusing on one area of a field in depth.
+ts: Work Like a Pro || Lab or shop task || How do professionals work, and how do they pass on their skills?
+tx: Part 1, Industry workflow (10 minutes): Research the workflow for one professional task in your area: ¶ • Commercial kitchen: mise en place → cook to order → plate → quality check → clean as you go. ¶ • Carpentry: measure twice → mark → cut → test fit → assemble → finish. ¶ • Software development: plan → write code → test → review → deploy → fix. ¶ • Graphic design: brief → research → sketches → digital drafts → client feedback → final files. ¶ Part 2, Advanced task (25 minutes): Complete an advanced task following the workflow, timing each step. Examples: plate a three-component dish to a standard; build a box with a dado or rabbet joint; write a program with functions and error handling; design a brand logo set with colour and type specifications. ¶ Part 3, Efficiency review (5 minutes): Which step took longest? Where did you waste time or material? ¶ Part 4, Mentoring (15 minutes): Teach a CTS 10 student (or a classmate) one skill using: explain → demonstrate → guided practice → independent practice → feedback. ¶ Industry connection: in Alberta's apprenticeship system, journeypersons train apprentices on the job. The Registered Apprenticeship Program (RAP) lets high school students start that training while earning credits.
+src: Original activity written for this lesson; apprenticeship information from Alberta Apprenticeship and Industry Training and alis.alberta.ca.
+st: Research an industry workflow | Complete an advanced task following the workflow | Time each step and review efficiency | Mentor a newer student | Reflect on professional practice
+org: Workflow step | Time taken | Quality check | Improvement
+an: How did following an industry workflow change your work? | Where did you lose efficiency? | What was hardest about teaching someone else? | How does your work compare with an industry standard?
+pr: Write a professional practice report: the workflow you followed, your timing and efficiency review, how your product compares with an industry standard, and a reflection on mentoring.
+ex: Workflow || Why "measure twice, cut once"? || Mistakes waste material || Checking before cutting prevents costly errors || What's the equivalent in software?
+ex: Efficiency || Prep took 20 minutes of a 30-minute task. What could you change? || Organize before starting || Use mise en place or a cut list to prepare faster || How do professionals plan prep?
+ex: Mentoring steps || List the five mentoring steps. || Explain, demonstrate, guided, independent, feedback || Explain → demonstrate → guided practice → independent practice → feedback || Why not just demonstrate?
+ex: Industry standard || How can you find an industry standard? || Trade resources | Professionals | Competitions || Talk to professionals, check trade resources or Skills Canada competition standards || Why compare to industry?
+p: B || What is a workflow? || The organized sequence of steps for a job.
+p: B || What is an industry standard? || A level of quality or method accepted in a profession.
+p: B || What is efficiency? || Quality results with the least waste.
+p: B || What is a mentor? || An experienced person who guides someone less experienced.
+p: B || What is a journeyperson? || A certified tradesperson who completed an apprenticeship.
+p: I || Name the steps of the carpentry workflow. || Measure twice, mark, cut, test fit, assemble, finish.
+p: I || Name the steps of the software workflow. || Plan, write, test, review, deploy, fix.
+p: I || What does "clean as you go" mean? || Clean during work, not only at the end.
+p: I || List the five mentoring steps. || Explain, demonstrate, guided practice, independent practice, feedback.
+p: I || What is RAP? || The Registered Apprenticeship Program for high school students.
+p: I || Why time each step? || To find where efficiency can improve.
+p: C || Why do industries use standard workflows? || To ensure quality, safety and efficiency every time.
+p: C || Why does teaching a skill deepen your own understanding? || You must break it down and explain the reasons behind it.
+p: C || How can Skills Canada competitions help students? || They show industry standards and build skills and connections.
+p: C || What is the value of specialization? || Deep expertise in one area can lead to advanced roles.
+mis: Thinking speed matters more than quality | Mentoring by just doing the task for someone | Ignoring industry standards in school projects
+et: Describe a workflow in your CTS area. | Explain one mentoring step.
+mc: B || A workflow is || an organized sequence of steps | a tool | a uniform | a budget || A
+mc: B || A journeyperson is || a certified tradesperson | a beginner | a teacher only | a customer || A
+mc: B || Efficiency means || quality with least waste | working slowly | using more material | skipping steps || A
+mc: B || A mentor || guides someone less experienced | competes with them | grades them | ignores them || A
+mc: B || "Measure twice, cut once" is from || carpentry | cooking | coding | design only || A
+mc: B || RAP lets high school students || start an apprenticeship | skip school | avoid work | retire || A
+mc: I || The first mentoring step is || explain | feedback | independent practice | test || A
+mc: I || "Clean as you go" means cleaning || during work | only at the end | never | before starting only || A
+mc: I || The software workflow includes || test and review | sanding | plating | sewing || A
+mc: I || If prep takes most of the time, you should || organize before starting | skip prep | work faster unsafely | give up || A
+mc: C || Teaching deepens understanding because you || must break down and explain the skill | do less work | avoid practice | skip steps || A
+mc: C || Industries use workflows to || ensure quality and safety | slow work | confuse workers | raise costs || A
+sa: B || Define industry standard. || A level of quality or method accepted in a profession.
+sa: B || What is a journeyperson? || A certified tradesperson who has completed an apprenticeship.
+sa: I || Describe the workflow you followed. || Answers vary.
+sa: I || Explain where you lost efficiency and how to fix it. || Answers vary.
+sa: I || List the five mentoring steps. || Explain, demonstrate, guided practice, independent practice, feedback.
+sa: I || Explain what RAP offers students. || The chance to start an apprenticeship and earn credits in high school.
+sa: C || Write a professional practice report. || Answers vary.
+sa: C || Explain why mentoring is part of professional practice. || Professionals pass on skills, and teaching strengthens their own expertise.
+
+=== PSY20.A1 0
+hook: Why do people procrastinate? Why do we remember embarrassing moments so clearly? Why do some people stay calm under pressure? Everyone has theories about human behaviour, but psychology tests those ideas with evidence. That's what makes it a science.
+sc: I can define psychology and explain why it is a science | I can describe the major perspectives in psychology | I can tell the difference between psychology and pop psychology
+v: psychology :: The scientific study of behaviour and mental processes.
+v: behaviour :: Actions that can be observed, such as speaking, moving or eating.
+v: mental processes :: Inner experiences such as thinking, feeling, remembering and dreaming.
+v: perspective :: A way of explaining behaviour that focuses on certain causes.
+v: empirical evidence :: Information gained through observation and measurement.
+v: pseudoscience :: Claims presented as scientific without real evidence.
+ts: Six Ways to Explain Behaviour || Case study || What is psychology, and how do psychologists explain behaviour?
+tx: Major perspectives: ¶ • Biological: behaviour is shaped by the brain, nervous system, hormones and genes. ¶ • Behavioural: behaviour is learned through rewards, punishments and experience. ¶ • Cognitive: behaviour depends on how we think, remember and solve problems. ¶ • Humanistic: people have free will and are motivated to grow and reach their potential. ¶ • Psychodynamic: unconscious thoughts and early experiences influence behaviour (based on Freud; many ideas are now debated). ¶ • Sociocultural: culture, family and society shape behaviour. ¶ Case: Jordan, 16, procrastinates on every major assignment, then stays up all night before the deadline. ¶ Explain Jordan's behaviour through each perspective. Example (biological): the teenage prefrontal cortex, which helps with planning and impulse control, is still developing. ¶ Pop psychology check: Rate these claims as supported by evidence, mixed, or unsupported: ¶ 1. "People only use 10% of their brains." ¶ 2. "Sleep affects memory." ¶ 3. "You're either left-brained or right-brained." ¶ 4. "Exercise can improve mood." ¶ Science answer: 1 and 3 are myths; 2 and 4 are supported by research.
+src: Original case written for this lesson; perspectives summarized from introductory psychology sources.
+st: Define psychology | Learn the six perspectives | Explain the case through each perspective | Sort pop-psychology claims | Discuss what makes psychology a science
+org: Perspective | Main idea | Explanation of Jordan's behaviour
+an: Which perspective best explains Jordan's procrastination? Why? | Why might psychologists combine perspectives? | Why is the "10% of the brain" claim a myth? | What makes a claim scientific?
+pr: Choose a common behaviour (for example, stage fright or phone addiction) and explain it through three perspectives, then evaluate one pop-psychology claim about it using evidence.
+ex: Behaviour vs mental process || Is "remembering a phone number" a behaviour or mental process? || Happens inside the mind || A mental process || Give an example of a behaviour.
+ex: Behavioural perspective || How would a behaviourist explain Jordan? || Rewards and consequences || Last-minute work has been rewarded with passing grades, so the habit continues || How could the pattern change?
+ex: Cognitive perspective || How would a cognitive psychologist explain Jordan? || Thinking patterns || He may underestimate how long tasks take or think "I work best under pressure" || How could he change his thinking?
+ex: Pseudoscience || Why is "left-brained vs right-brained" a myth? || Brain-imaging evidence || Both hemispheres work together in nearly all tasks; people aren't one "type" || Why do myths spread?
+p: B || What is psychology? || The scientific study of behaviour and mental processes.
+p: B || What is behaviour? || Observable actions.
+p: B || What are mental processes? || Inner experiences like thinking and feeling.
+p: B || What is empirical evidence? || Information from observation and measurement.
+p: B || What is pseudoscience? || Claims presented as scientific without real evidence.
+p: I || Name the six perspectives. || Biological, behavioural, cognitive, humanistic, psychodynamic, sociocultural.
+p: I || Which perspective focuses on rewards and punishments? || Behavioural.
+p: I || Which perspective focuses on culture and society? || Sociocultural.
+p: I || Which perspective emphasizes free will and growth? || Humanistic.
+p: I || Is "sleep affects memory" supported? || Yes, by research.
+p: I || Which brain area for planning is still developing in teens? || The prefrontal cortex.
+p: C || Why do psychologists often combine perspectives? || Behaviour usually has many causes.
+p: C || Why is the "10% of the brain" claim false? || Brain imaging shows activity across the whole brain.
+p: C || What makes psychology a science? || It tests ideas with systematic, empirical evidence.
+p: C || Why are some psychodynamic ideas debated today? || Many are hard to test scientifically.
+mis: Thinking psychology is just common sense | Believing brain myths like the "10%" claim | Thinking one perspective explains everything
+et: Define psychology. | Explain a behaviour using one perspective.
+mc: B || Psychology studies || behaviour and mental processes | rocks | planets | plants || A
+mc: B || Empirical evidence comes from || observation and measurement | opinion | rumours | guessing || A
+mc: B || Pseudoscience is || claims without real evidence | proven science | math | history || A
+mc: B || The behavioural perspective focuses on || rewards and punishments | genes only | dreams | free will || A
+mc: B || Remembering is a || mental process | behaviour only | hormone | perspective || A
+mc: B || There are how many perspectives in this lesson? || 6 | 2 | 10 | 1 || A
+mc: I || The sociocultural perspective focuses on || culture and society | neurons | rewards | the unconscious || A
+mc: I || "People use only 10% of their brains" is || a myth | proven | partly true | a law || A
+mc: I || "Exercise can improve mood" is || supported by research | a myth | untested | impossible || A
+mc: I || The humanistic perspective emphasizes || growth and free will | punishment | hormones | the unconscious only || A
+mc: C || Psychologists combine perspectives because || behaviour has many causes | they disagree | it's required | perspectives are wrong || A
+mc: C || Some psychodynamic ideas are debated because they are || hard to test | too new | proven | illegal || A
+sa: B || Define psychology. || The scientific study of behaviour and mental processes.
+sa: B || What is pseudoscience? || Claims presented as scientific without real evidence.
+sa: I || Explain Jordan's procrastination through two perspectives. || Answers vary; e.g. behavioural and cognitive.
+sa: I || Describe the six perspectives. || Biological, behavioural, cognitive, humanistic, psychodynamic, sociocultural.
+sa: I || Evaluate the left-brain/right-brain claim. || It's a myth; both hemispheres work together.
+sa: I || What makes psychology a science? || It tests ideas with empirical evidence.
+sa: C || Explain a behaviour through three perspectives. || Answers vary.
+sa: C || Explain why pop-psychology myths spread. || They're simple, appealing and often repeated without checking evidence.
+
+=== PSY30.A1 0
+hook: Does listening to music while studying help or hurt? You could ask your friends, survey your class or run an experiment. Each method gives a different kind of answer, and only one can show cause and effect.
+sc: I can compare experiments, correlational studies, surveys and case studies | I can explain why only experiments show cause and effect | I can choose an appropriate method for a research question
+v: experiment :: A study where the researcher changes one variable to see its effect on another.
+v: correlational study :: A study measuring how strongly two variables are related.
+v: correlation :: A relationship between two variables; it can be positive or negative.
+v: survey :: A set of questions given to many people.
+v: case study :: An in-depth study of one person or a small group.
+v: confounding variable :: An outside factor that could affect the results.
+ts: Choosing the Right Method || Experiment || How do psychologists answer research questions?
+tx: Research methods: ¶ • Experiment: change the independent variable, measure the dependent variable, control everything else. The only method that can show cause and effect. ¶ • Correlational study: measure two variables and see if they're related. Correlation does not mean causation. ¶ • Survey: ask many people questions; useful for opinions and habits, but people may not answer honestly or accurately. ¶ • Case study: study one person in depth; rich detail, but results may not apply to others. ¶ • Naturalistic observation: watch behaviour in real settings without interfering. ¶ Example of correlation vs causation: Ice cream sales and drowning rates are positively correlated. Does ice cream cause drowning? No: a third variable, hot weather, increases both. ¶ Research questions (groups choose the best method and explain): ¶ 1. Does background music affect memory for a word list? ¶ 2. Is screen time related to sleep hours in Grade 11 students? ¶ 3. How do students feel about a later school start time? ¶ 4. How did one person recover language after a brain injury? ¶ Mini-experiment: Test question 1 in class with two groups (music vs silence), each memorizing 20 words for 2 minutes, then recalling them. Record results and identify possible confounding variables.
+src: Original activity written for this lesson.
+st: Learn five research methods | Discuss correlation vs causation | Match research questions to methods | Run a mini-experiment in class | Identify confounding variables
+org: Method | What it shows | Strength | Limitation
+an: Why can't a correlational study show that screen time causes poor sleep? | Which method fits question 3, and why? | What confounding variables could affect the mini-experiment? | Why might a case study be the only option for question 4?
+pr: Write a short research proposal for a psychology question of your choice: the question, the best method and why, the variables, possible confounding variables and one ethical consideration.
+ex: Cause and effect || Which method can show that music causes better or worse memory? || Change one variable, control others || An experiment || Why not a survey?
+ex: Third variable || Ice cream sales and drownings rise together. Why? || Hidden variable || Hot weather increases both || Name another example of a third variable.
+ex: Positive vs negative correlation || More screen time, less sleep. Positive or negative? || One goes up, the other goes down || Negative correlation || What would positive look like?
+ex: Confounds || In the mini-experiment, one group studied right after lunch. Why is this a problem? || Time of day could affect memory || It's a confounding variable that could change results || How could you control it?
+p: B || What is an experiment? || A study where one variable is changed to see its effect.
+p: B || What is a correlational study? || A study measuring how two variables are related.
+p: B || What is a survey? || Questions given to many people.
+p: B || What is a case study? || An in-depth study of one person or small group.
+p: B || What is a confounding variable? || An outside factor that could affect results.
+p: I || Which method can show cause and effect? || An experiment.
+p: I || What does "correlation does not mean causation" mean? || Two related variables may not cause each other.
+p: I || What third variable explains ice cream and drowning? || Hot weather.
+p: I || Which method fits "How do students feel about a later start?" || A survey.
+p: I || What is naturalistic observation? || Watching behaviour in real settings without interfering.
+p: I || What is a limitation of surveys? || People may not answer honestly or accurately.
+p: C || Why can't case study results always be generalized? || They focus on one person who may be unusual.
+p: C || How could you control a confounding variable? || Keep it the same for all groups or randomly assign participants.
+p: C || What is a negative correlation? || As one variable increases, the other decreases.
+p: C || Why might researchers use several methods together? || Each method's strengths cover others' weaknesses.
+mis: Assuming correlation proves causation | Thinking surveys show cause and effect | Ignoring confounding variables
+et: Explain why only experiments show cause and effect. | Choose a method for a research question and justify it.
+mc: B || An experiment changes || one variable | nothing | all variables | the results || A
+mc: B || A case study focuses on || one person or small group | thousands of people | animals only | numbers only || A
+mc: B || A survey asks || many people questions | one person in depth | nobody | only scientists || A
+mc: B || A confounding variable is || an outside factor | the main variable | the result | the hypothesis || A
+mc: B || Only experiments can show || cause and effect | opinions | correlations | case histories || A
+mc: B || Naturalistic observation means || watching without interfering | running a lab test | giving surveys | interviewing || A
+mc: I || Ice cream and drownings are linked by || hot weather | ice cream | lifeguards | swimsuits || A
+mc: I || More screen time with less sleep is a || negative correlation | positive correlation | cause | experiment || A
+mc: I || "How do students feel about start times?" fits a || survey | experiment | case study | brain scan || A
+mc: I || Studying right after lunch for one group is a || confounding variable | dependent variable | hypothesis | control || A
+mc: C || Case studies may not generalize because || one person may be unusual | they're too long | they use numbers | they're experiments || A
+mc: C || Random assignment helps by || spreading confounding factors evenly | removing all variables | ensuring one result | skipping controls || A
+sa: B || Define correlational study. || A study measuring how strongly two variables are related.
+sa: B || What is a confounding variable? || An outside factor that could affect results.
+sa: I || Compare experiments and correlational studies. || Experiments show cause and effect; correlations show relationships only.
+sa: I || Choose methods for the four research questions. || 1 experiment, 2 correlational, 3 survey, 4 case study.
+sa: I || Explain the ice cream and drowning example. || Hot weather increases both; ice cream doesn't cause drowning.
+sa: I || Identify two confounds in the mini-experiment. || Time of day and prior knowledge of words (also noise, fatigue).
+sa: C || Write a research proposal. || Answers vary.
+sa: C || Explain why multiple methods strengthen research. || Different methods offset each other's limitations.
+
+=== SOC20.A1 0
+hook: You might think your choices are entirely your own: what you wear, what you eat, what job you want. Sociologist C. Wright Mills argued that personal lives are shaped by larger social forces like the economy, culture and history. He called seeing these connections the "sociological imagination."
+sc: I can explain the sociological imagination | I can connect a personal experience to larger social forces | I can tell the difference between a personal trouble and a public issue
+v: sociology :: The study of society, social groups and how they shape human behaviour.
+v: sociological imagination :: The ability to see how personal experiences connect to larger social forces.
+v: personal trouble :: A problem experienced by an individual.
+v: public issue :: A problem affecting many people that comes from social structures.
+v: social structure :: Patterns in society, such as the economy, education and family systems.
+v: social force :: An influence from society, such as culture, technology or the economy.
+ts: Personal Troubles, Public Issues || Case study || How do social forces shape our lives?
+tx: C. Wright Mills (1959) distinguished: ¶ • Personal trouble: one person can't find a job. ¶ • Public issue: when thousands of people can't find jobs, the cause lies in the economy, not just in individuals. ¶ Cases: ¶ A. Maya, 17, works 20 hours a week at a fast-food restaurant and is falling behind in school. ¶ B. Liam spends 6 hours a day on social media and feels anxious when he compares himself to others. ¶ C. Priya's family moved from a rural Alberta town to Calgary because her parents' jobs ended when a local plant closed. ¶ D. Ethan can't afford to move out after graduating because rent in his city has risen sharply. ¶ For each case, ask: ¶ 1. What is the personal trouble? ¶ 2. What larger social forces might be involved (economy, technology, culture, government policy)? ¶ 3. Is this happening to many people? How could you find out (for example, Statistics Canada data)? ¶ 4. What would an individual solution be, and what would a social solution be? ¶ Personal connection: Write about one choice in your own life (your phone, your clothes, your plans after high school) and identify two social forces that influence it.
+src: Original cases written for this lesson; concept from C. Wright Mills, The Sociological Imagination (1959).
+st: Learn the sociological imagination | Distinguish personal troubles and public issues | Analyze cases A–D | Compare individual and social solutions | Apply the idea to your own life
+org: Case | Personal trouble | Social forces | Individual solution | Social solution
+an: Which case shows the clearest public issue? Why? | What social forces affect Liam's anxiety? | Why might an individual solution not be enough for Ethan? | How did your own choice connect to social forces?
+pr: Write a short essay applying the sociological imagination to one case or your own life: describe the personal trouble, identify at least two social forces, and compare an individual and a social solution.
+ex: Personal vs public || One student fails a test. Personal trouble or public issue? || One person || Personal trouble || When would failing grades become a public issue?
+ex: Social forces || What social forces affect Priya's family? || Economy | Industry change || The plant closure and economic change in rural Alberta || How many families might be affected?
+ex: Solutions || What social solution could help Ethan? || Policy | Housing || More affordable housing or rental policies || Why might an individual solution be limited?
+ex: Using data || How could you check whether Maya's situation is common? || Look for data || Statistics Canada data on students working part-time || Why is data important in sociology?
+p: B || What is sociology? || The study of society and how it shapes behaviour.
+p: B || What is the sociological imagination? || Seeing how personal experiences connect to social forces.
+p: B || Who developed the sociological imagination? || C. Wright Mills.
+p: B || What is a personal trouble? || A problem experienced by one person.
+p: B || What is a public issue? || A problem affecting many people from social structures.
+p: I || Give an example of a social force. || The economy (also culture, technology, government policy).
+p: I || What is the personal trouble in Case D? || Ethan can't afford to move out.
+p: I || What social force affects Ethan? || Rising rent and housing costs.
+p: I || Where could you find data on Canadian trends? || Statistics Canada.
+p: I || What year did Mills publish his idea? || 1959.
+p: I || What is a social structure? || Patterns in society such as the economy and education systems.
+p: C || Why isn't unemployment only a personal trouble? || When many people are affected, the cause lies in the economy.
+p: C || How can technology be a social force in Liam's case? || Social media design and culture shape his habits and comparisons.
+p: C || Why might social solutions be needed alongside individual ones? || Individual effort can't fix problems caused by larger structures.
+p: C || How does the sociological imagination change how we judge others? || It shows that circumstances, not just choices, shape people's lives.
+mis: Thinking all problems are caused only by individual choices | Ignoring data when deciding if something is a public issue | Thinking social forces remove all personal responsibility
+et: Explain the difference between a personal trouble and a public issue. | Name one social force that affects your life.
+mc: B || Sociology studies || society and groups | rocks | planets | cells || A
+mc: B || The sociological imagination was developed by || C. Wright Mills | Freud | Darwin | Einstein || A
+mc: B || A personal trouble affects || one person | millions always | the government | no one || A
+mc: B || A public issue comes from || social structures | one person's choice only | luck only | weather || A
+mc: B || The economy is a || social force | personal trouble | case study | myth || A
+mc: B || Canadian data can be found at || Statistics Canada | a fan site | a game | nowhere || A
+mc: I || Priya's family moved because of || a plant closure | a vacation | a sports team | a holiday || A
+mc: I || Rising rent affecting many people is a || public issue | personal trouble only | myth | hobby || A
+mc: I || A social solution for Ethan could be || affordable housing policy | buying more clothes | ignoring rent | moving to the moon || A
+mc: I || Liam's social media use is influenced by || technology and culture | weather | gravity | nothing || A
+mc: C || The sociological imagination helps us || see how circumstances shape lives | blame individuals only | ignore data | avoid society || A
+mc: C || Social solutions are needed because || individual effort can't fix structural problems | individuals don't matter | they're cheaper | they're optional || A
+sa: B || Define sociological imagination. || The ability to see how personal experiences connect to larger social forces.
+sa: B || What is a public issue? || A problem affecting many people that comes from social structures.
+sa: I || Analyze Case C using the sociological imagination. || Personal: family moved; social forces: plant closure, economic change in rural Alberta.
+sa: I || Compare individual and social solutions for Case D. || Individual: roommates or saving; social: affordable housing policy.
+sa: I || Name three social forces. || Economy, technology and culture.
+sa: I || How could you find out if a trouble is widespread? || Use data such as Statistics Canada.
+sa: C || Write a short essay applying the sociological imagination. || Answers vary.
+sa: C || Explain why the sociological imagination doesn't remove personal responsibility. || People still make choices, but within limits set by social forces.

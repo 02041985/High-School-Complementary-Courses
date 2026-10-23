@@ -1,0 +1,695 @@
+=== ART10.A1 0
+hook: Most people draw what they think something looks like, not what they actually see. A gesture drawing takes 30 seconds and captures energy; a contour drawing takes 10 minutes and captures every edge. Together they train your eye to see like an artist.
+sc: I can draw quick gesture drawings that capture movement | I can draw slow contour lines from observation | I can explain how each method helps me see
+v: gesture drawing :: A quick, loose drawing that captures the movement and energy of a subject.
+v: contour line :: A line that follows the edges and surface changes of a form.
+v: blind contour :: Drawing a contour without looking at the paper.
+v: observation :: Looking carefully at a real subject while drawing.
+v: line quality :: How a line varies in thickness, darkness and speed.
+v: sighting :: Measuring angles and proportions by eye, often with a pencil held at arm's length.
+ts: Seeing Like an Artist || Studio || How do gesture and contour drawing help me really see?
+tx: Part 1, Gesture warm-up (10 minutes): A classmate holds short poses (30 seconds, then 1 minute, then 2 minutes). Draw the whole figure with loose, continuous lines. Start with the line of action, a curve showing the main direction of the pose. ¶ Part 2, Blind contour (10 minutes): Draw your non-drawing hand or a shoe without looking at the paper. Move your eyes and pencil slowly at the same speed along every edge. The result will look strange; that's the point. You're training your eye, not making a finished drawing. ¶ Part 3, Modified contour (20 minutes): Draw a still life (a backpack, a plant, a crumpled bag). Look at the paper only to place your pencil. Vary line quality: press harder for edges closer to you or in shadow, lighter for distant or lit edges. ¶ Part 4, Sighting: hold your pencil at arm's length, close one eye, and compare the height and width of the object before drawing. ¶ Reflection: Compare your first and last drawings. What do you notice now that you missed before?
+src: Original activity written for this lesson.
+st: Draw timed gesture poses | Do a blind contour drawing | Draw a modified contour of a still life | Use sighting to check proportions | Reflect on what you now notice
+org: Exercise | Time | What it trained | What I noticed
+an: What did gesture drawing help you capture that contour drawing didn't? | Why does blind contour feel uncomfortable, and why is it useful? | How did varying line quality change your still life? | How did sighting change your proportions?
+pr: Complete a page of five gesture drawings and one finished modified contour drawing with varied line quality, and write a paragraph on how your observation changed.
+ex: Gesture || What should you draw first in a gesture? || The main direction of the pose || The line of action || Why not start with details?
+ex: Line quality || How can line show depth? || Darker, thicker lines come forward || Heavier lines for near or shadowed edges, lighter for far edges || Where would you use your darkest line?
+ex: Blind contour || Why not look at the paper? || Forces your eye to follow the subject || It trains you to draw what you see, not what you expect || What did yours reveal?
+ex: Sighting || How do you compare height and width? || Pencil at arm's length | One eye closed || Measure the height on the pencil, then turn it to compare the width || Why keep your arm straight?
+p: B || What is a gesture drawing? || A quick drawing capturing movement and energy.
+p: B || What is a contour line? || A line that follows the edges of a form.
+p: B || What is blind contour? || Drawing without looking at the paper.
+p: B || What is line quality? || How a line varies in thickness, darkness and speed.
+p: B || What is sighting? || Measuring proportions by eye with a pencil.
+p: I || What is the line of action? || A curve showing the main direction of a pose.
+p: I || How long were the gesture poses? || 30 seconds to 2 minutes.
+p: I || In modified contour, when do you look at the paper? || Only to place the pencil.
+p: I || How can line quality show something is closer? || Use a heavier, darker line.
+p: I || Why keep your arm straight when sighting? || So measurements stay consistent.
+p: I || What objects were used in the still life? || A backpack, a plant or a crumpled bag.
+p: C || Why do artists practise gesture before detailed drawing? || It captures overall movement and proportion first.
+p: C || Why do people draw what they think, not what they see? || The brain uses symbols and assumptions instead of observing.
+p: C || How could gesture drawing help in sports or animation? || It captures motion and action quickly.
+p: C || Explain how blind contour improves later drawings. || It strengthens hand-eye coordination and attention to edges.
+mis: Thinking a good drawing must look perfect right away | Drawing from memory instead of observing | Using the same line weight everywhere
+et: Explain the difference between gesture and contour drawing. | Describe one way to vary line quality.
+mc: B || Gesture drawing is || quick and loose | slow and detailed | traced | coloured || A
+mc: B || A contour line follows || edges of a form | only shadows | colour | the background || A
+mc: B || In blind contour you || don't look at the paper | trace a photo | use a ruler | colour in || A
+mc: B || Line quality refers to a line's || thickness and darkness | colour only | length only | price || A
+mc: B || Sighting uses || a pencil at arm's length | a camera | a ruler on paper | tracing paper || A
+mc: B || Gesture poses lasted || 30 seconds to 2 minutes | 1 hour | 1 second | all class || A
+mc: I || The line of action shows || the pose's main direction | the shadow | the outline only | the background || A
+mc: I || Heavier lines usually suggest edges that are || closer or in shadow | far away | lit | invisible || A
+mc: I || In modified contour, you look at the paper || only to place the pencil | the whole time | never | at the end only || A
+mc: I || Blind contour drawings usually look || strange but train the eye | perfect | photographic | coloured || A
+mc: C || Artists start with gesture because it || captures movement and proportion first | is the final step | is easiest to sell | avoids looking || A
+mc: C || People often draw symbols because the brain || relies on assumptions | sees perfectly | can't see edges | hates drawing || A
+sa: B || Define gesture drawing. || A quick, loose drawing capturing movement and energy.
+sa: B || What is blind contour? || Drawing without looking at the paper.
+sa: I || Explain how to sight proportions. || Hold a pencil at arm's length, close one eye, measure height and compare to width.
+sa: I || Describe how line quality shows depth. || Darker, heavier lines for near or shadowed edges; lighter for distant edges.
+sa: I || Compare gesture and contour drawing. || Gesture is quick and captures movement; contour is slow and captures edges.
+sa: I || Why is blind contour useful? || It trains the eye and hand to follow what you actually see.
+sa: C || Reflect on how your observation changed. || Answers vary.
+sa: C || Explain why drawing is a skill of seeing. || Drawing well depends on careful observation rather than talent alone.
+
+=== ART20.A1 0
+hook: Stand at the end of a long hallway and the walls, floor and ceiling all seem to rush toward a single point. Renaissance artists worked out the rules for this effect over 500 years ago, and those rules still power architecture drawings, video game levels and film storyboards today.
+sc: I can draw objects in two-point perspective | I can place a horizon line and vanishing points | I can use perspective to show depth in a scene
+v: perspective :: A system for showing three-dimensional space on a flat surface.
+v: horizon line :: A horizontal line at the viewer's eye level.
+v: vanishing point :: A point on the horizon line where parallel lines appear to meet.
+v: two-point perspective :: A system with two vanishing points, used when an object is viewed from a corner.
+v: orthogonal lines :: Lines that go toward a vanishing point.
+v: eye level :: The height from which the viewer sees the scene.
+ts: Corner Views || Studio || How do artists create convincing space with two-point perspective?
+tx: Step 1: Draw a horizon line across the page. Place two vanishing points (VP1 and VP2) far apart on it, near the edges of the page. ¶ Step 2: Draw a vertical line for the nearest corner of a box. ¶ Step 3: From the top and bottom of that line, draw light lines to both vanishing points. ¶ Step 4: Draw two more vertical lines to set the width of each side. ¶ Step 5: From the tops of those lines, draw lines to the opposite vanishing points; where they cross is the back corner of the top. ¶ Step 6: Erase guidelines and add value: one side light, one side medium, the top lightest. ¶ Eye level: If the box is above the horizon line, you see its bottom. If it's below, you see its top. If the horizon line passes through it, you see neither. ¶ Challenge (25 minutes): Draw a street corner with at least three buildings, a sidewalk and windows, all in two-point perspective. Add one figure or object for scale. ¶ Real-world link: architects, interior designers, game level designers and storyboard artists all use perspective drawing.
+src: Original activity written for this lesson.
+st: Draw a horizon line and two vanishing points | Construct a box in two-point perspective | Draw boxes above, on and below the horizon | Draw a street-corner scene | Add value and a figure for scale
+org: Step | What I drew | Mistake to avoid
+an: What happens to a box drawn above the horizon line? | Why should vanishing points be far apart? | Which part of your street scene looks most convincing, and why? | How does adding a figure show scale?
+pr: Complete a two-point perspective street-corner drawing with at least three buildings, windows and doors that follow the vanishing points, value on each surface and a figure for scale.
+ex: Horizon line || A box is drawn above the horizon line. Which side can you see? || Above eye level || The bottom || What if it's below?
+ex: Vanishing points || Why place vanishing points far apart? || Close points cause distortion || Far-apart points make shapes look natural, not stretched || What happens if they're too close?
+ex: Windows || How do you make windows follow perspective? || Draw their top and bottom edges toward the vanishing point || Use guidelines from the vanishing point for each row || Why do windows look smaller farther away?
+ex: Value || How can value make a box look solid? || Different tones on each face || Light top, medium side, darker side || Where is your light source?
+p: B || What is perspective? || A system for showing 3-D space on a flat surface.
+p: B || What is the horizon line? || A line at the viewer's eye level.
+p: B || What is a vanishing point? || Where parallel lines appear to meet on the horizon.
+p: B || How many vanishing points does two-point perspective use? || Two.
+p: B || What are orthogonal lines? || Lines going toward a vanishing point.
+p: I || What do you see if a box is below the horizon line? || Its top.
+p: I || What do you see if the horizon line passes through the box? || Neither the top nor the bottom.
+p: I || Which lines stay vertical in two-point perspective? || Vertical edges of objects.
+p: I || Why add a figure to a street scene? || To show scale.
+p: I || Name a career that uses perspective. || Architect (also game designer, storyboard artist).
+p: I || Where do you start drawing a box? || With the vertical line of the nearest corner.
+p: C || Why does two-point perspective suit corner views? || Two sets of parallel edges recede to two points.
+p: C || What causes distortion in perspective drawings? || Vanishing points too close together.
+p: C || How does eye level change the mood of a scene? || Low eye level makes things look tall and powerful; high eye level looks down.
+p: C || When might an artist use one-point instead of two-point perspective? || When looking straight down a road or hallway.
+mis: Placing vanishing points too close | Drawing vertical lines toward a vanishing point | Forgetting that windows and doors must follow the vanishing points
+et: Explain what the horizon line represents. | Describe how to construct a box in two-point perspective.
+mc: B || The horizon line represents || eye level | the ground only | the sky | a road || A
+mc: B || Parallel lines meet at the || vanishing point | horizon edge | centre of the paper | corner || A
+mc: B || Two-point perspective has || two vanishing points | one | three | none || A
+mc: B || Orthogonal lines go || toward a vanishing point | straight up | sideways only | nowhere || A
+mc: B || A box below the horizon shows its || top | bottom | inside | back || A
+mc: B || A figure in the scene shows || scale | colour | light | texture || A
+mc: I || Vertical edges in two-point perspective stay || vertical | slanted | curved | horizontal || A
+mc: I || Vanishing points too close cause || distortion | realism | colour | depth || A
+mc: I || Windows should follow || the vanishing points | the page edges | random lines | the horizon only || A
+mc: I || A box above the horizon shows its || bottom | top | front only | nothing || A
+mc: C || A low eye level makes buildings look || tall and powerful | small | flat | far away || A
+mc: C || One-point perspective suits || looking straight down a hallway | corner views | aerial maps | portraits || A
+sa: B || Define vanishing point. || A point on the horizon line where parallel lines appear to meet.
+sa: B || What is the horizon line? || A horizontal line at the viewer's eye level.
+sa: I || Describe the steps to draw a box in two-point perspective. || Horizon and two VPs, nearest vertical edge, lines to both VPs, side verticals, connect to opposite VPs.
+sa: I || Explain what you see when a box is above, on and below the horizon. || Above: bottom; on: neither; below: top.
+sa: I || Why add value to perspective drawings? || To make forms look solid and show light direction.
+sa: I || Name two careers that use perspective. || Architect and game level designer.
+sa: C || Evaluate your street scene's perspective. || Answers vary.
+sa: C || Explain how eye level affects a viewer's feeling. || Low eye level makes subjects feel large; high makes them feel small.
+
+=== ART30.A1 0
+hook: In Art 30, nobody hands you a worksheet. Professional artists set their own goals, choose their own problems and push their own practice. This year you'll do the same: design a drawing practice that takes your skills somewhere new.
+sc: I can set specific goals for my drawing practice | I can explore new mark-making and mixed-media approaches | I can track and assess my growth
+v: independent practice :: Self-directed work where the artist sets goals and methods.
+v: mark-making :: The different lines, dots, textures and gestures an artist uses.
+v: mixed media :: Using more than one material in an artwork.
+v: experimentation :: Trying new approaches without knowing the result.
+v: artistic goal :: A specific skill or idea an artist wants to develop.
+v: self-assessment :: Judging your own work against your goals.
+ts: Design Your Practice || Studio || How do I direct my own drawing practice?
+tx: Part 1, Look back (10 minutes): Lay out three drawings from previous years. Write: What are my strengths? What do I avoid? What do I want to try? ¶ Part 2, Set goals (10 minutes): Write two SMART artistic goals. Examples: ¶ • "By November, I will complete 20 figure drawings in charcoal to improve proportion and gesture." ¶ • "I will create a series of five mixed-media drawings combining ink, tea staining and collage to explore memory." ¶ Part 3, Mark-making experiment (25 minutes): Fill a sheet with a grid of 12 squares. In each, try a different tool or technique: charcoal smudge, ink wash, hatching, stippling, eraser drawing, scraping with a palette knife, string dipped in ink, sponge, dry brush, oil pastel resist, graphite powder, collage. Label each. ¶ Part 4, Plan (10 minutes): Choose the three most interesting results and plan a first drawing that uses them. Write your plan and timeline in your sketchbook. ¶ Weekly check-in: record what you did, what worked, what didn't and your next step.
+src: Original activity written for this lesson.
+st: Review past work for strengths and gaps | Write two SMART artistic goals | Complete a 12-square mark-making grid | Choose three techniques and plan a drawing | Set up a weekly check-in log
+org: Week | What I did | What worked | What I'll try next
+an: What did your past work show about your habits? | Which mark-making experiments surprised you? | How will your goals push you beyond your comfort zone? | How will you know you've improved?
+pr: Submit your two artistic goals, your labelled 12-square mark-making grid, a plan for your first drawing and your first weekly check-in entry.
+ex: SMART goal || Turn "I want to get better at faces" into a SMART goal. || Specific | Measurable | Time-bound || "By December, I will complete 15 portrait studies focusing on facial proportions." || How will you measure progress?
+ex: Mark-making || How is stippling different from hatching? || Dots vs lines || Stippling builds value with dots; hatching uses parallel lines || When might each be better?
+ex: Mixed media || What is an oil pastel resist? || Wax repels water || Oil pastel marks resist a watercolour or ink wash painted over them || What effect does this create?
+ex: Self-assessment || How can you assess growth? || Compare early and later work || Compare drawings against your goals and note specific changes || Why date your work?
+p: B || What is independent practice? || Self-directed work with your own goals and methods.
+p: B || What is mark-making? || The lines, dots and textures an artist uses.
+p: B || What is mixed media? || Using more than one material.
+p: B || What is experimentation? || Trying new approaches without knowing the result.
+p: B || What is self-assessment? || Judging your own work against your goals.
+p: I || How many squares were in the mark-making grid? || Twelve.
+p: I || Name three mark-making techniques. || Hatching, stippling and ink wash (also others).
+p: I || What does SMART stand for? || Specific, Measurable, Achievable, Relevant, Time-bound.
+p: I || What goes in a weekly check-in? || What I did, what worked, what didn't and the next step.
+p: I || How does an oil pastel resist work? || Wax repels the wet medium painted over it.
+p: I || Why review past work first? || To find strengths, habits and gaps.
+p: C || Why do professional artists set their own goals? || To develop a personal direction and keep growing.
+p: C || Why is failure useful in experimentation? || It shows what doesn't work and leads to new ideas.
+p: C || How could mark-making support a concept such as memory? || Faded washes or erased marks can suggest fading memories.
+p: C || Why should goals push you outside your comfort zone? || Growth comes from trying what you haven't mastered.
+mis: Waiting for inspiration instead of practising | Sticking only to techniques you're already good at | Judging experiments as failures
+et: Write one SMART artistic goal. | Name three mark-making techniques you tried.
+mc: B || Mark-making refers to || lines, dots and textures | framing | selling art | colour only || A
+mc: B || Mixed media uses || more than one material | one pencil | only paint | no materials || A
+mc: B || Independent practice is || self-directed | teacher-assigned only | copied | random || A
+mc: B || The grid had || 12 squares | 4 squares | 100 squares | 1 square || A
+mc: B || Self-assessment means || judging your work against goals | asking a friend only | ignoring goals | grading others || A
+mc: B || Stippling uses || dots | lines | blocks | paint drips || A
+mc: I || Hatching builds value with || parallel lines | dots | colour | smudges only || A
+mc: I || An oil pastel resist works because || wax repels water | paper absorbs wax | ink dissolves pastel | it's magnetic || A
+mc: I || A SMART goal must be || time-bound | vague | secret | optional || A
+mc: I || A weekly check-in records || what worked and next steps | only grades | nothing | others' work || A
+mc: C || Failed experiments are useful because they || show what doesn't work | waste time | must be hidden | end practice || A
+mc: C || Faded washes could support a concept of || memory | speed | noise | weight || A
+sa: B || Define experimentation. || Trying new approaches without knowing the result.
+sa: B || What is mixed media? || Using more than one material in an artwork.
+sa: I || Write two SMART artistic goals. || Answers vary.
+sa: I || Describe three techniques from your grid. || Answers vary.
+sa: I || Explain how you will track growth. || Weekly check-ins and comparing dated work to goals.
+sa: I || What did your past work reveal? || Answers vary.
+sa: C || Submit a plan for your first drawing. || Answers vary.
+sa: C || Explain why self-direction matters in Art 30. || Students develop their own artistic voice and practice like professionals.
+
+=== DR10.A1 0
+hook: Professional actors never walk on stage cold. Before a show, they stretch, breathe, hum and run tongue twisters, just like athletes before a game. A good warm-up prepares the body, voice and focus, and it protects your voice from strain.
+sc: I can lead a physical and vocal warm-up | I can use breath support to project my voice | I can explain why warm-ups protect actors
+v: warm-up :: Activities that prepare the body, voice and mind for performance.
+v: breath support :: Using the diaphragm and core muscles to control the breath for speaking.
+v: diaphragm :: The dome-shaped muscle below the lungs that controls breathing.
+v: projection :: Making the voice carry to the back of the space without shouting.
+v: articulation :: Shaping sounds clearly with the lips, teeth and tongue.
+v: resonance :: The richness of the voice created as sound vibrates in the chest and head.
+ts: Warm Up Like a Pro || Rehearsal || How do actors prepare their bodies and voices?
+tx: Physical warm-up (5 minutes): Shake out hands, arms and legs; roll shoulders; gentle neck rolls (side to side, not all the way back); spine roll down and up, one vertebra at a time. ¶ Breath (5 minutes): Lie on your back or stand with a hand on your belly. Breathe in through the nose for 4 counts, feeling the belly expand (not the shoulders rising). Breathe out on a "sss" for 8, then 12, then 16 counts. ¶ Resonance (3 minutes): Hum with closed lips, feeling the buzz in your face. Slide the hum from low to high and back ("siren"). ¶ Articulation (5 minutes): Tongue twisters, slowly then faster: "Red leather, yellow leather." "Unique New York." "The tip of the tongue, the teeth, the lips." ¶ Projection (5 minutes): Say a line ("Is anyone there?") to a partner 1 m away, then 5 m, then across the room, using breath support instead of throat strain. ¶ Ensemble focus (5 minutes): Pass a sound and movement around the circle. ¶ Leading: In groups of four, each student designs and leads a 5-minute warm-up for the group, including one physical, one breath, one vocal and one focus activity.
+src: Original activity written for this lesson; tongue twisters are traditional.
+st: Complete a physical warm-up | Practise diaphragmatic breathing | Warm up resonance and articulation | Project a line across the room | Design and lead a group warm-up
+org: Warm-up part | Activity | Purpose
+an: How did your voice feel after the warm-up compared with before? | What is the difference between projecting and shouting? | Which tongue twister was hardest, and why? | What made a peer's warm-up effective?
+pr: Write a 10-minute warm-up plan with physical, breath, resonance, articulation and focus activities, and explain the purpose of each.
+ex: Breath support || Where should you feel the breath when breathing in? || Belly and lower ribs, not shoulders || The belly and lower ribs expand || Why do raised shoulders cause tension?
+ex: Projection vs shouting || What's the difference? || Breath support vs throat strain || Projection uses breath and resonance; shouting strains the throat || How does shouting harm the voice?
+ex: Articulation || Why use tongue twisters? || Warm up lips, teeth and tongue || They train clear, quick articulation || Which sounds does "red leather, yellow leather" practise?
+ex: Safe neck rolls || Why not roll the head all the way back? || It strains the neck || Roll side to side only to protect the neck || What other stretches need care?
+p: B || What is a warm-up? || Activities that prepare the body, voice and mind.
+p: B || What is the diaphragm? || The muscle below the lungs that controls breathing.
+p: B || What is projection? || Making the voice carry without shouting.
+p: B || What is articulation? || Shaping sounds clearly with lips, teeth and tongue.
+p: B || What is resonance? || Richness of the voice from vibration in the chest and head.
+p: I || How long was the first "sss" exhale? || 8 counts.
+p: I || What is a vocal "siren"? || Sliding a hum from low to high and back.
+p: I || Name a tongue twister from the lesson. || "Red leather, yellow leather" (also "Unique New York").
+p: I || What four parts must a student-led warm-up include? || Physical, breath, vocal and focus.
+p: I || How far apart was the final projection exercise? || Across the room.
+p: I || Why hum with closed lips? || To feel and warm up resonance.
+p: C || Why do warm-ups protect actors? || They prepare muscles and voice and prevent strain.
+p: C || How does breath support help in long scenes? || It gives steady control and prevents vocal fatigue.
+p: C || Why include a focus activity? || It brings the ensemble together and sharpens concentration.
+p: C || How could you adapt a warm-up for a small, quiet space? || Use less projection and more articulation and breath work.
+mis: Thinking projection means shouting | Breathing high in the chest with raised shoulders | Skipping warm-ups when short on time
+et: Explain the difference between projection and shouting. | Name one activity for each part of a warm-up.
+mc: B || The diaphragm is below the || lungs | knees | head | arms || A
+mc: B || Projection means || the voice carries without shouting | whispering | singing | yelling || A
+mc: B || Tongue twisters practise || articulation | dancing | lighting | costumes || A
+mc: B || Humming warms up || resonance | the feet | the script | the lights || A
+mc: B || A warm-up prepares || body, voice and mind | only costumes | only the set | nothing || A
+mc: B || Neck rolls should go || side to side | fully backward | very fast | not at all ever || A
+mc: I || When breathing in, you should feel the || belly expand | shoulders rise | head tilt | knees bend || A
+mc: I || Shouting can || strain the throat | improve tone | replace breath support | protect the voice || A
+mc: I || A student-led warm-up includes || physical, breath, vocal and focus parts | only stretching | only singing | only games || A
+mc: I || The first exhale on "sss" was || 8 counts | 1 count | 30 counts | 100 counts || A
+mc: C || Breath support helps in long scenes by || preventing vocal fatigue | making actors louder only | removing lines | speeding speech || A
+mc: C || A focus activity helps because it || unites the ensemble | ends rehearsal | replaces acting | adds volume || A
+sa: B || Define breath support. || Using the diaphragm and core to control breath for speaking.
+sa: B || What is articulation? || Shaping sounds clearly with lips, teeth and tongue.
+sa: I || Describe a safe physical warm-up. || Shake out, shoulder rolls, side-to-side neck rolls, spine roll.
+sa: I || Explain how to project without shouting. || Use diaphragm breath and resonance instead of throat strain.
+sa: I || Name two tongue twisters. || "Red leather, yellow leather" and "Unique New York."
+sa: I || Why include breath work? || It builds control and supports projection.
+sa: C || Write a 10-minute warm-up plan. || Answers vary.
+sa: C || Explain why warm-ups prevent injury. || They prepare muscles and vocal folds so they aren't strained.
+
+=== DR20.A1 0
+hook: Imagine a stage with no set: just ten actors. In seconds they become a forest, a speeding train, a storm at sea. Physical theatre uses bodies to create images and tell stories, and it can be more powerful than any painted backdrop.
+sc: I can use my body to create images and environments | I can work with an ensemble to build physical theatre | I can combine physical images with text
+v: physical theatre :: Theatre that tells stories mainly through the body and movement.
+v: tableau :: A frozen image created by actors' bodies.
+v: transition :: How actors move from one image to the next.
+v: levels :: Low, medium and high positions on stage.
+v: ensemble :: A group of actors working together as one.
+v: soundscape :: A collection of sounds made by actors to create atmosphere.
+ts: Bodies as Scenery || Rehearsal || How can actors use bodies to tell a story?
+tx: Part 1, Become objects (10 minutes): In groups of five, the teacher calls out an object; groups have 10 seconds to make it with their bodies: a car, a washing machine, a clock, a tree, a bridge. ¶ Part 2, Environments (10 minutes): Create a 3-image sequence showing a place changing: ¶ • A forest at dawn → a storm hits → the forest after the storm ¶ • A city street at rush hour → a power outage → people helping each other ¶ Use levels, focus and slow-motion transitions (count to 8 between images). ¶ Part 3, Add a soundscape (5 minutes): Add sounds with voices and bodies: wind, footsteps, traffic, rain. ¶ Part 4, Add text (15 minutes): Choose a short piece of text, such as a line from a public-domain poem, a proverb, or a line your group writes (for example, "We didn't know how strong we were until the lights went out."). One actor speaks it during the sequence. Decide where it lands for the strongest effect. ¶ Share and feedback: Audience describes what they saw and which image was strongest.
+src: Original activity written for this lesson.
+st: Make objects with bodies | Create a three-image environment sequence | Add slow-motion transitions | Add a soundscape | Add a line of text and perform
+org: Image | What it shows | Levels used | Sound | Text placement
+an: Which object or environment was easiest to create, and why? | How did slow-motion transitions affect the audience? | Where did you place the text, and why there? | How did the soundscape change the mood?
+pr: Write a reflection on your group's physical theatre piece: describe the three images, the transitions, the soundscape and the choice of text placement, and evaluate what was most effective.
+ex: Levels || How can levels make a forest image stronger? || Some low (roots), some medium (trunks), some high (branches) || Mixing levels creates depth and a full picture || What happens if everyone stands?
+ex: Transitions || Why count to 8 between images? || Controlled, unified movement || It keeps the ensemble together and lets the audience follow the change || What would a sudden transition suggest?
+ex: Soundscape || Create a soundscape for a storm. || Wind, rain, thunder || Breath for wind, finger taps for rain, stamping for thunder || How can volume build tension?
+ex: Text placement || Where could a line about strength have the most impact? || After the crisis image || During the final image, after the storm or power outage || Why does timing matter?
+p: B || What is physical theatre? || Theatre that tells stories through the body and movement.
+p: B || What is a tableau? || A frozen image made by actors' bodies.
+p: B || What is a transition? || How actors move from one image to the next.
+p: B || What is a soundscape? || Sounds made by actors to create atmosphere.
+p: B || What is an ensemble? || A group of actors working together as one.
+p: I || How long did groups have to make an object? || 10 seconds.
+p: I || How many images were in the environment sequence? || Three.
+p: I || How long were slow-motion transitions? || A count of 8.
+p: I || Name two possible environments. || A forest and a city street.
+p: I || What was added in Part 4? || A line of text.
+p: I || Why use levels? || To create depth and a full stage picture.
+p: C || Why can physical theatre be more powerful than scenery? || It engages imagination and shows emotion through people.
+p: C || How does a soundscape affect an audience? || It builds atmosphere and emotion.
+p: C || Why does the placement of text matter? || The same line has different impact depending on the moment.
+p: C || How does physical theatre build ensemble skills? || Everyone must cooperate, watch and move together.
+mis: Thinking physical theatre is just mime | Rushing transitions | Everyone working at the same level
+et: Describe one image your group created. | Explain how a soundscape builds atmosphere.
+mc: B || Physical theatre mainly uses || the body | painted scenery | microphones | costumes only || A
+mc: B || A tableau is || a frozen image | a song | a script | a costume || A
+mc: B || A soundscape uses || actors' sounds | recorded music only | silence only | lighting || A
+mc: B || Groups had how long to make an object? || 10 seconds | 10 minutes | 1 hour | 1 second || A
+mc: B || The sequence had || three images | one image | ten images | no images || A
+mc: B || Transitions were counted to || 8 | 2 | 50 | 100 || A
+mc: I || Mixing levels creates || depth | confusion | silence | lighting || A
+mc: I || Finger taps could create the sound of || rain | thunder | traffic | birds || A
+mc: I || Slow-motion transitions help the audience || follow the change | fall asleep | leave | see costumes || A
+mc: I || A strong place for a line about strength is || after the crisis image | before anything happens | during the warm-up | never || A
+mc: C || Physical theatre can be more powerful than scenery because it || engages imagination | costs more | uses no actors | is louder || A
+mc: C || Text placement matters because || timing changes the line's impact | it's random | lines are optional | audiences don't listen || A
+sa: B || Define physical theatre. || Theatre that tells stories mainly through the body and movement.
+sa: B || What is a soundscape? || Sounds made by actors to create atmosphere.
+sa: I || Describe your three-image sequence. || Answers vary.
+sa: I || Explain how levels improved your images. || Answers vary; e.g. low roots, high branches.
+sa: I || Create a soundscape for a city street. || Footsteps, car horns, voices, a siren.
+sa: I || Why use slow-motion transitions? || To keep the ensemble together and make the change clear.
+sa: C || Reflect on your group's physical theatre piece. || Answers vary.
+sa: C || Explain why physical theatre needs strong ensemble work. || Every body forms the picture, so everyone must cooperate and stay focused.
+
+=== DR30.A1 0
+hook: Some actors are almost unrecognizable from role to role: they change how they walk, stand, breathe and gesture. That transformation starts in the body. Rudolf Laban, a movement theorist, gave actors a vocabulary for describing how people move, and it's still used in drama schools around the world.
+sc: I can describe movement using Laban's efforts | I can build a character's physicality from the inside out | I can transform physically for a role
+v: physicality :: How an actor uses their body to create a character.
+v: Laban efforts :: Eight types of movement described by weight, time and space.
+v: weight :: In Laban, whether movement is strong (heavy) or light.
+v: time :: In Laban, whether movement is sudden or sustained.
+v: space :: In Laban, whether movement is direct or indirect (flexible).
+v: centre :: The part of the body a character seems to lead with, such as the chest, head or hips.
+ts: Moving as Someone Else || Rehearsal || How do actors transform physically for a role?
+tx: Laban's eight efforts combine weight, time and space: ¶ • Punch: strong, sudden, direct ¶ • Press: strong, sustained, direct ¶ • Slash: strong, sudden, indirect ¶ • Wring: strong, sustained, indirect ¶ • Dab: light, sudden, direct ¶ • Glide: light, sustained, direct ¶ • Flick: light, sudden, indirect ¶ • Float: light, sustained, indirect ¶ Part 1, Explore (15 minutes): Move around the room in each effort, starting with the hands, then the whole body, then walking. Notice how each makes you feel. ¶ Part 2, Leading centres (10 minutes): Walk leading with the nose, then the chest, the hips, the knees. What kind of person does each suggest? ¶ Part 3, Build a character (20 minutes): Choose a character from a play you're studying (or invent one). Decide: dominant effort, leading centre, tempo, and one signature gesture. Perform a 1-minute silent scene: the character enters a room, waits for someone who doesn't arrive, and leaves. ¶ Audience feedback: What did they learn about the character without words?
+src: Original activity written for this lesson; Laban efforts are from Rudolf Laban's movement analysis.
+st: Learn the eight Laban efforts | Move in each effort | Explore leading centres | Build a character's physicality | Perform a silent one-minute scene
+org: Character | Dominant effort | Leading centre | Tempo | Signature gesture
+an: Which effort felt most unlike you, and why? | What did leading with the chest suggest about a person? | What did the audience learn about your character without words? | How could your character's effort change during a play?
+pr: Write a physicality profile for a character: dominant Laban effort, leading centre, tempo, posture and signature gesture, with reasons from the script or your character concept.
+ex: Identifying an effort || Strong, sustained, direct movement is which effort? || Check weight, time, space || Press || What character might use it?
+ex: Light efforts || What is the difference between dab and float? || Both light | dab is sudden and direct; float is sustained and indirect || Dab is quick and precise; float drifts slowly || Give an example of each.
+ex: Leading centre || Walking led by the nose suggests what? || Head forward || Curiosity, nosiness or arrogance || What about leading with the knees?
+ex: Character arc || How could a character's effort change? || Show change through movement || A nervous "flick" character could become a confident "press" by the end || How would the audience notice?
+p: B || What is physicality? || How an actor uses the body to create a character.
+p: B || Who developed the efforts? || Rudolf Laban.
+p: B || What three factors make up Laban efforts? || Weight, time and space.
+p: B || What is a leading centre? || The body part a character leads with.
+p: B || How many efforts are there? || Eight.
+p: I || Describe the punch effort. || Strong, sudden, direct.
+p: I || Describe the float effort. || Light, sustained, indirect.
+p: I || Describe the glide effort. || Light, sustained, direct.
+p: I || Describe the wring effort. || Strong, sustained, indirect.
+p: I || What happens in the silent scene? || A character enters, waits for someone who doesn't arrive and leaves.
+p: I || What is a signature gesture? || A repeated movement that defines a character.
+p: C || Why do actors build physicality before lines? || The body shapes how lines are spoken and how the character feels.
+p: C || How can an effort show a character's emotion? || Sudden, strong efforts can show anger; light, sustained ones calm.
+p: C || Why is a silent scene a good test of physicality? || The audience must read the character only from movement.
+p: C || How might two characters' efforts create conflict on stage? || Contrasting efforts, like punch and float, show opposing personalities.
+mis: Thinking character is only in the voice | Making physical choices without reasons | Exaggerating until the character becomes a cartoon
+et: Describe two Laban efforts. | Explain how a leading centre suggests personality.
+mc: B || Laban efforts use weight, time and || space | colour | volume | costume || A
+mc: B || There are how many Laban efforts? || 8 | 3 | 12 | 2 || A
+mc: B || Punch is || strong, sudden, direct | light, sustained, indirect | strong, sustained, indirect | light, sudden, direct || A
+mc: B || Physicality is how an actor uses the || body | script | lights | set || A
+mc: B || A leading centre is || the body part a character leads with | the centre of the stage | the director | a costume || A
+mc: B || The silent scene lasted || 1 minute | 10 minutes | 10 seconds | an hour || A
+mc: I || Float is || light, sustained, indirect | strong, sudden, direct | strong, sustained, direct | light, sudden, direct || A
+mc: I || Press is || strong, sustained, direct | light, sudden, indirect | strong, sudden, indirect | light, sustained, direct || A
+mc: I || Dab is || light, sudden, direct | strong, sustained, indirect | light, sustained, indirect | strong, sudden, direct || A
+mc: I || Leading with the chest often suggests || confidence or pride | shyness | sleepiness | nothing || A
+mc: C || A silent scene tests physicality because the audience || reads character only from movement | hears lines | sees the script | votes || A
+mc: C || Contrasting efforts between characters can show || conflict | agreement | lighting | costumes || A
+sa: B || Name the three Laban factors. || Weight, time and space.
+sa: B || Who was Rudolf Laban? || A movement theorist whose efforts describe how people move.
+sa: I || Describe four Laban efforts. || Punch, press, glide, float (with their weight, time and space).
+sa: I || Explain what a leading centre is with an example. || The body part a character leads with, e.g. the nose for curiosity.
+sa: I || Describe your character's physicality. || Answers vary.
+sa: I || What did the audience learn from your silent scene? || Answers vary.
+sa: C || Write a physicality profile for a character. || Answers vary.
+sa: C || Explain why physical choices need reasons. || They should come from the character's circumstances and personality.
+
+=== MU10.A1 0
+hook: Reading music is like reading a map of sound. Once you can count rhythms in simple time, you can sight-read a drum part, follow a guitar tab with rhythm, or play with any band. It all starts with a steady beat and knowing how long each note lasts.
+sc: I can count and perform rhythms in 2/4, 3/4 and 4/4 | I can read and write note and rest values | I can identify the time signature of a piece by ear
+v: time signature :: Two numbers that show how many beats are in a bar and which note gets the beat.
+v: simple time :: Time where each beat divides into two equal parts.
+v: bar (measure) :: A group of beats separated by bar lines.
+v: subdivision :: Dividing the beat into smaller parts, such as "1 & 2 &."
+v: tie :: A curved line joining two notes of the same pitch into one longer sound.
+v: dotted note :: A note with a dot that adds half its value.
+ts: Counting Time || Performance || How do I read and count rhythms in simple time?
+tx: Note values in 4/4: whole = 4 beats, half = 2, quarter = 1, eighth = ½, sixteenth = ¼, dotted half = 3, dotted quarter = 1½. Rests have the same values. ¶ Time signatures: The top number is beats per bar; the bottom number shows which note gets one beat (4 = quarter note). ¶ • 2/4: two beats per bar (marches) ¶ • 3/4: three beats per bar (waltzes) ¶ • 4/4: four beats per bar (most pop and rock) ¶ Counting: quarter notes "1 2 3 4"; eighths "1 & 2 & 3 & 4 &"; sixteenths "1 e & a 2 e & a." ¶ Part 1, Count and clap (10 minutes): Read 8 rhythm lines from the board, counting aloud. ¶ Part 2, Feel the metre (10 minutes): Listen to four short clips (a march, a waltz, a rock song and a pop ballad). Find the strong beat and count to identify 2/4, 3/4 or 4/4. ¶ Part 3, Write (10 minutes): Write four bars of 3/4 and four bars of 4/4 using at least one dotted note, one tie and one rest. Check each bar adds up. ¶ Part 4, Perform (10 minutes): Perform your rhythm on body percussion or drums while a partner keeps the beat.
+src: Original activity written for this lesson.
+st: Review note and rest values | Count and clap rhythm lines | Identify metres by ear | Write rhythms in 3/4 and 4/4 | Perform with a partner keeping the beat
+org: Note or rest | Beats in 4/4 | How to count it
+an: How did you identify the waltz as 3/4? | Which rhythm line was hardest to count? | How do you check that a bar adds up? | How is a dotted quarter different from a quarter tied to an eighth?
+pr: Write and perform eight bars of rhythm (four in 3/4, four in 4/4) using whole, half, quarter, eighth and dotted notes, a tie and two rests, with counts written underneath.
+ex: Time signature || What does 3/4 mean? || Top = beats per bar | Bottom 4 = quarter note gets the beat || Three quarter-note beats per bar || What does 2/4 mean?
+ex: Adding a bar || Does half + quarter + quarter fill 4/4? || 2 + 1 + 1 || Yes, 4 beats || Would it fit 3/4?
+ex: Sixteenths || Count four sixteenth notes in one beat. || "1 e & a" || 1 e & a || How many sixteenths in a 4/4 bar?
+ex: Dotted note || How long is a dotted half in 4/4? || 2 + 1 || 3 beats || Which time signature does it fill alone?
+p: B || What does the top number of a time signature show? || Beats per bar.
+p: B || How many beats is a half note in 4/4? || Two.
+p: B || How many beats is a whole note in 4/4? || Four.
+p: B || What is a bar? || A group of beats separated by bar lines.
+p: B || What is a tie? || A curved line joining two notes of the same pitch.
+p: I || How many beats is a dotted quarter? || One and a half.
+p: I || How do you count eighth notes? || "1 & 2 & 3 & 4 &."
+p: I || Which time signature fits a waltz? || 3/4.
+p: I || How many sixteenth notes fit in a 4/4 bar? || Sixteen.
+p: I || Does dotted half + quarter fill 4/4? || Yes (3 + 1).
+p: I || What does a dot add to a note? || Half its value.
+p: C || How can you identify a metre by ear? || Find the strong beat and count beats until it repeats.
+p: C || Why do composers use ties instead of dotted notes sometimes? || To hold a note across a bar line.
+p: C || Write a bar of 3/4 with a rest. || Sample: quarter, quarter, quarter rest.
+p: C || What is simple time? || Time where each beat divides into two.
+mis: Forgetting to count rests | Bars that don't add up | Confusing the top and bottom numbers of time signatures
+et: Explain what a time signature tells you. | Count a bar with eighth and dotted notes.
+mc: B || The top number of 4/4 means || 4 beats per bar | 4 bars | 4 notes total | loud || A
+mc: B || A half note in 4/4 lasts || 2 beats | 1 beat | 4 beats | ½ beat || A
+mc: B || A waltz is usually in || 3/4 | 4/4 | 2/4 | 6/8 || A
+mc: B || A tie joins || two notes of the same pitch | two rests | two bars of silence | two songs || A
+mc: B || Eighth notes are counted || "1 & 2 &" | "1 2 3 4" | "1 e & a" only | "and and" || A
+mc: B || A rest means || silence | loud | high | long note only || A
+mc: I || A dotted quarter lasts || 1½ beats | 1 beat | 2 beats | 3 beats || A
+mc: I || Sixteenths are counted || "1 e & a" | "1 & 2 &" | "1 2" | "a e" || A
+mc: I || Dotted half + quarter equals || 4 beats | 3 beats | 5 beats | 2 beats || A
+mc: I || A 4/4 bar holds how many sixteenths? || 16 | 8 | 4 | 32 || A
+mc: C || Ties are used to hold a note || across a bar line | for silence | to speed up | to change pitch || A
+mc: C || In simple time, each beat divides into || two | three | four always | five || A
+sa: B || What does a time signature show? || Beats per bar and which note gets one beat.
+sa: B || How many beats is a dotted half in 4/4? || Three.
+sa: I || Count this bar in 4/4: half, quarter, two eighths. || "1 (2) 3 4 &."
+sa: I || Explain how to identify 3/4 by ear. || Find the strong beat and count three beats until it repeats.
+sa: I || What is the difference between a tie and a dot? || A tie joins two notes; a dot adds half the value.
+sa: I || Write a bar of 2/4. || Sample: quarter, two eighths.
+sa: C || Write and perform eight bars of rhythm with counts. || Answers vary.
+sa: C || Explain why bars must add up. || Each bar must contain exactly the beats in the time signature.
+
+=== MU20.A1 0
+hook: Why does the "Jaws" theme feel threatening, while a doorbell sounds cheerful? Much of the answer is intervals: the distance between two notes. Some intervals sound stable and sweet; others sound tense. Composers choose them on purpose.
+sc: I can identify intervals by number and quality | I can hear the difference between consonant and dissonant intervals | I can use intervals in a short melody
+v: interval :: The distance in pitch between two notes.
+v: semitone :: The smallest interval in Western music (a half step).
+v: interval number :: Counting letter names from one note to the other, including both (a 3rd, 5th, etc.).
+v: interval quality :: Major, minor, perfect, augmented or diminished.
+v: consonance :: Intervals that sound stable and pleasant.
+v: dissonance :: Intervals that sound tense or unstable.
+ts: Measuring Sound || Listening || How do intervals create mood in music?
+tx: Interval number: count letter names, including both notes. C to E = C, D, E = a 3rd. C to G = a 5th. ¶ Interval quality (from C, counting semitones): ¶ • Minor 2nd C–D♭ (1) · Major 2nd C–D (2) ¶ • Minor 3rd C–E♭ (3) · Major 3rd C–E (4) ¶ • Perfect 4th C–F (5) · Tritone C–F♯ (6) ¶ • Perfect 5th C–G (7) · Minor 6th C–A♭ (8) · Major 6th C–A (9) ¶ • Minor 7th C–B♭ (10) · Major 7th C–B (11) · Perfect octave C–C (12) ¶ Consonant: unison, 3rds, perfect 4th and 5th, 6ths, octave. Dissonant: 2nds, 7ths and the tritone. ¶ Ear-training memory aids (many musicians use familiar tune openings): the "Jaws" theme alternates notes a minor 2nd apart; "Here Comes the Bride" begins with a rising perfect 4th. ¶ Part 1 (15 minutes): Identify intervals on the staff and keyboard. ¶ Part 2 (10 minutes): Listen to pairs of notes and label them consonant or dissonant, then by number. ¶ Part 3 (15 minutes): Compose an 8-bar melody that uses mostly consonant intervals, with one dissonant interval that resolves. Perform or play it back with notation software.
+src: Original activity written for this lesson.
+st: Learn interval numbers and qualities | Identify intervals on the staff and keyboard | Classify intervals by ear | Compose an 8-bar melody with a resolved dissonance | Perform and reflect
+org: Interval | Notes from C | Semitones | Consonant or dissonant
+an: Why does the minor 2nd sound tense? | How did you use dissonance in your melody? | Which intervals were easiest to hear, and why? | How do composers use intervals to create mood?
+pr: Compose an 8-bar melody, label every interval between consecutive notes, and write a short explanation of how consonance and dissonance shape its mood.
+ex: Interval number || What interval is D to A? || Count D, E, F, G, A || A 5th || Is it perfect?
+ex: Quality || C to E♭: major or minor 3rd? || 3 semitones || Minor 3rd || What is C to E?
+ex: Tritone || How many semitones is a tritone? || Halfway through the octave || 6 semitones || Why is it unstable?
+ex: Resolution || How can a dissonance resolve? || Move by step to a consonance || A major 7th (C–B) resolves up to the octave (C–C) || Why does resolution feel satisfying?
+p: B || What is an interval? || The distance in pitch between two notes.
+p: B || What is a semitone? || The smallest interval, a half step.
+p: B || What interval is C to E? || A major 3rd.
+p: B || What interval is C to G? || A perfect 5th.
+p: B || What is consonance? || Intervals that sound stable.
+p: I || How many semitones is a minor 3rd? || Three.
+p: I || How many semitones is a perfect 4th? || Five.
+p: I || What interval is C to B♭? || A minor 7th.
+p: I || Name two dissonant intervals. || The minor 2nd and the tritone (also 7ths).
+p: I || What interval is E to G? || A minor 3rd.
+p: I || How many semitones is an octave? || Twelve.
+p: C || Why does a melody often end on a consonant interval? || It feels resolved and stable.
+p: C || How does the "Jaws" theme create tension? || It alternates notes a minor 2nd apart.
+p: C || What interval is F to B? || A tritone (augmented 4th).
+p: C || How could a film composer use intervals to suggest danger? || Use repeated dissonances such as minor 2nds and tritones.
+mis: Forgetting to count both notes when numbering an interval | Assuming all 3rds are the same quality | Thinking dissonance is always "wrong"
+et: Identify two intervals by number and quality. | Explain the difference between consonance and dissonance.
+mc: B || An interval is || the distance between two notes | a chord | a rest | a time signature || A
+mc: B || A semitone is || a half step | a whole step | an octave | a 5th || A
+mc: B || C to E is a || major 3rd | minor 3rd | perfect 4th | 5th || A
+mc: B || C to G is a || perfect 5th | major 3rd | octave | 2nd || A
+mc: B || An octave has || 12 semitones | 7 semitones | 8 semitones | 5 semitones || A
+mc: B || Consonant intervals sound || stable | tense | wrong | silent || A
+mc: I || C to E♭ is a || minor 3rd | major 3rd | perfect 4th | minor 2nd || A
+mc: I || D to A is a || 5th | 3rd | 4th | 6th || A
+mc: I || A tritone has || 6 semitones | 5 semitones | 7 semitones | 4 semitones || A
+mc: I || A dissonant interval is || the minor 2nd | the octave | the perfect 5th | unison || A
+mc: C || Melodies often end on consonance because it || feels resolved | is louder | is required | is shorter || A
+mc: C || F to B is a || tritone | perfect 4th | perfect 5th | major 3rd || A
+sa: B || Define interval. || The distance in pitch between two notes.
+sa: B || What is dissonance? || Intervals that sound tense or unstable.
+sa: I || Name the interval and semitones for C to A. || Major 6th, 9 semitones.
+sa: I || Explain how to find an interval number. || Count letter names from one note to the other, including both.
+sa: I || List three consonant intervals. || Major 3rd, perfect 5th, octave.
+sa: I || Explain how a dissonance can resolve. || By moving, often by step, to a consonant interval.
+sa: C || Compose and label an 8-bar melody. || Answers vary.
+sa: C || Explain how intervals create mood in film music. || Consonance feels calm or happy; dissonance creates tension or fear.
+
+=== MU30.A1 0
+hook: Thousands of hit songs use just four chords. Musicians can hear a song once and play along because they recognize the progression. Roman-numeral analysis is the tool that makes this possible: it describes chords by their role in a key, not by their names.
+sc: I can label chords in a major key with Roman numerals | I can analyze progressions in real songs | I can explain the function of tonic, subdominant and dominant chords
+v: Roman-numeral analysis :: Labelling chords by their scale degree in a key.
+v: tonic (I) :: The home chord of a key; it feels stable and resolved.
+v: subdominant (IV) :: The chord on the 4th degree; it moves away from home.
+v: dominant (V) :: The chord on the 5th degree; it creates tension that pulls back to I.
+v: cadence :: A chord progression that ends a phrase.
+v: diatonic :: Belonging to the notes of the key.
+ts: Hearing the Hidden Structure || Listening || How does harmonic analysis reveal how songs work?
+tx: Chords in C major (built on each scale degree): ¶ I C major · ii D minor · iii E minor · IV F major · V G major · vi A minor · vii° B diminished ¶ Upper-case = major, lower-case = minor, ° = diminished. ¶ Function: ¶ • Tonic (I, vi): home, rest ¶ • Subdominant (IV, ii): moving away ¶ • Dominant (V, vii°): tension, wants to return to I ¶ Cadences: ¶ • Perfect (authentic): V–I, sounds final ¶ • Plagal: IV–I, the "Amen" cadence ¶ • Half: ends on V, sounds unfinished ¶ • Deceptive: V–vi, a surprise ¶ Common progressions: I–V–vi–IV (C–G–Am–F), I–IV–V–I, ii–V–I (jazz), I–vi–IV–V (1950s doo-wop). ¶ Part 1 (15 minutes): Label progressions in C, G (G Am Bm C D Em F♯°) and F major. ¶ Part 2 (15 minutes): Listen to four songs chosen by the teacher and identify which common progression each uses. ¶ Part 3 (15 minutes): Transpose I–V–vi–IV into three keys and play it on keyboard or guitar.
+src: Original activity written for this lesson.
+st: Build chords on each degree of a major scale | Label chords with Roman numerals | Identify cadences | Analyze progressions in songs | Transpose and play a progression
+org: Key | I | ii | iii | IV | V | vi | vii°
+an: Why does V–I sound final? | What makes a deceptive cadence surprising? | Which progression appeared most in the songs? | How does Roman-numeral analysis help with transposing?
+pr: Analyze the chord progression of a song of your choice with Roman numerals, identify its cadences and transpose the progression into another key.
+ex: Labelling || In G major, what is the IV chord? || G A B C D E F♯ || C major || What is V in G?
+ex: Function || Why does V pull toward I? || Leading tone resolves up to the tonic || The 3rd of V is the leading tone, a half step below the tonic || In C, what is the leading tone?
+ex: Cadences || A phrase ends G–Am in C major. Which cadence? || V–vi || Deceptive cadence || How does it feel?
+ex: Transposing || Transpose I–V–vi–IV to D major. || D E F♯ G A B C♯ || D–A–Bm–G || Why is Roman-numeral analysis useful here?
+p: B || What is Roman-numeral analysis? || Labelling chords by scale degree in a key.
+p: B || What is the tonic chord? || I, the home chord.
+p: B || What is the dominant chord? || V, which creates tension.
+p: B || What is a cadence? || A progression that ends a phrase.
+p: B || In C major, what is the V chord? || G major.
+p: I || What is the vi chord in C major? || A minor.
+p: I || What cadence is V–I? || Perfect (authentic).
+p: I || What cadence is IV–I? || Plagal.
+p: I || What is the IV chord in F major? || B♭ major.
+p: I || Write I–V–vi–IV in C. || C–G–Am–F.
+p: I || What does lower-case mean in Roman numerals? || A minor chord.
+p: C || Why does a half cadence sound unfinished? || It ends on V, which wants to resolve to I.
+p: C || What is the leading tone in G major? || F♯.
+p: C || Transpose I–IV–V–I to A major. || A–D–E–A.
+p: C || Why do so many songs share progressions? || Certain chord functions create satisfying tension and release.
+mis: Confusing chord names with Roman numerals | Forgetting that ii, iii and vi are minor in major keys | Thinking analysis only applies to classical music
+et: Label the chords of a progression with Roman numerals. | Explain the function of the dominant chord.
+mc: B || I is the || tonic | dominant | subdominant | leading tone || A
+mc: B || V is the || dominant | tonic | subdominant | submediant || A
+mc: B || IV is the || subdominant | dominant | tonic | supertonic || A
+mc: B || In C major, IV is || F major | G major | A minor | D minor || A
+mc: B || A cadence || ends a phrase | starts a song | is a rhythm | is a scale || A
+mc: B || Lower-case Roman numerals mean || minor | major | diminished | augmented || A
+mc: I || V–I is a || perfect cadence | plagal cadence | half cadence | deceptive cadence || A
+mc: I || IV–I is a || plagal cadence | perfect cadence | deceptive cadence | half cadence || A
+mc: I || V–vi is a || deceptive cadence | perfect cadence | plagal cadence | half cadence || A
+mc: I || I–V–vi–IV in C is || C–G–Am–F | C–F–G–C | Am–F–C–G | G–D–Em–C || A
+mc: C || The leading tone in G major is || F♯ | G | D | C || A
+mc: C || I–IV–V–I in A major is || A–D–E–A | A–E–D–A | A–C♯m–D–A | D–G–A–D || A
+sa: B || Define cadence. || A chord progression that ends a phrase.
+sa: B || What is the function of the tonic? || Home and stability.
+sa: I || List the chords of C major with Roman numerals. || I C, ii Dm, iii Em, IV F, V G, vi Am, vii° B°.
+sa: I || Explain the four cadences. || Perfect V–I, plagal IV–I, half ends on V, deceptive V–vi.
+sa: I || Transpose I–V–vi–IV to D major. || D–A–Bm–G.
+sa: I || Why does V pull to I? || Its leading tone resolves to the tonic.
+sa: C || Analyze a song's progression and cadences. || Answers vary.
+sa: C || Explain why Roman numerals help with transposing. || They describe function, so the same numerals apply in any key.
+
+=== IM10.A1 0
+hook: Two students play the same note on the same instrument. One sounds thin and wobbly; the other sounds full and steady. The difference usually isn't the instrument; it's air. In high school band, great tone starts with great breath support.
+sc: I can use full, supported breaths when playing | I can produce a steady, characteristic tone | I can assess my tone with a tuner and recordings
+v: tone :: The quality of sound an instrument produces.
+v: characteristic tone :: The ideal sound for an instrument, as heard in professional players.
+v: breath support :: Using the core and diaphragm to keep air steady.
+v: airstream :: The flow of air through a wind instrument.
+v: long tones :: Held notes used to build tone and control.
+v: intonation :: How in tune a note is.
+ts: Air Is Everything || Rehearsal || How does breath support create a great tone?
+tx: Part 1, Breathing (5 minutes): Sit tall at the front of the chair. Breathe in for 4 counts, low and full, like filling a glass of water from the bottom. Exhale on a steady "hiss" for 8 counts, then 12, then 16. ¶ Part 2, Long tones (15 minutes): Play concert F (or a comfortable note) for 8 counts at mezzo-forte. Keep the sound steady: no wobbles, no fading at the end. Then try: ¶ • 4 counts crescendo + 4 counts decrescendo ¶ • 8 counts at piano (soft but still supported) ¶ • Long tones on the concert B♭ scale, one note per breath ¶ Percussion: play rolls and single strokes with an even sound at each dynamic, focusing on stroke height and relaxed grip. ¶ Part 3, Listen and measure (10 minutes): Play a long tone with a tuner. Watch the needle: is it steady? Record yourself on a phone and listen back. Compare with a professional recording of your instrument. ¶ Part 4, Ensemble (10 minutes): The full band plays a concert B♭ chorale slowly, listening across the room to match tone and blend. ¶ Daily goal: 5 minutes of long tones at the start of every practice.
+src: Original activity written for this lesson.
+st: Practise low, full breaths | Play long tones at different dynamics | Check steadiness with a tuner | Record and compare with a professional | Play a chorale and match tone across the band
+org: Exercise | Dynamic | Steady? (Y/N) | Notes for improvement
+an: What happened to your tone when your air was weak? | Did your pitch go sharp or flat when playing softly? | How did your recording compare with the professional? | How did matching tone change the band's sound?
+pr: Record two long tones (one at forte, one at piano) and a short scale, then write a self-assessment comparing your tone with a professional recording and setting one tone goal.
+ex: Breath || Where should a full breath fill first? || Low in the body || The belly and lower ribs, like filling a glass from the bottom || Why avoid raising the shoulders?
+ex: Soft playing || Why does pitch often go flat when playing softly? || Air support drops || Less supported air lowers pitch on many instruments || How can you fix it?
+ex: Tuner || The needle wobbles on a long tone. What does that show? || Unsteady air || The airstream isn't steady || What exercise helps?
+ex: Characteristic tone || How do you learn what your instrument should sound like? || Listen to professionals || Listen to recordings of professional players || Name a player or ensemble to listen to.
+p: B || What is tone? || The quality of sound an instrument produces.
+p: B || What are long tones? || Held notes used to build tone and control.
+p: B || What is breath support? || Using the core and diaphragm to keep air steady.
+p: B || What is intonation? || How in tune a note is.
+p: B || What is a characteristic tone? || The ideal sound for an instrument.
+p: I || How long was the longest hiss exhale? || 16 counts.
+p: I || What should happen at the end of a long tone? || The sound should stay steady, not fade.
+p: I || What does a wobbling tuner needle show? || Unsteady air or embouchure.
+p: I || Why record yourself? || To hear your tone as others do.
+p: I || How long should daily long tones be? || About 5 minutes.
+p: I || What do percussionists focus on in this lesson? || Even sound, stroke height and a relaxed grip.
+p: C || Why does supported air improve intonation? || Steady air keeps pitch stable.
+p: C || Why play a chorale for tone? || Slow, sustained notes let players listen and blend.
+p: C || How can soft playing still be supported? || Keep air fast and steady while using less volume.
+p: C || Why compare with professional recordings? || To learn the sound you're aiming for.
+mis: Thinking soft playing means less air support | Raising shoulders when breathing | Practising only fast passages and skipping long tones
+et: Describe how to take a full, supported breath. | Explain one way to check your tone.
+mc: B || Tone is the || quality of sound | speed | key | rhythm || A
+mc: B || Long tones build || tone and control | speed only | reading only | volume only || A
+mc: B || Breath support uses the || core and diaphragm | shoulders | neck | fingers only || A
+mc: B || Intonation is || how in tune a note is | how loud | how fast | how long || A
+mc: B || The longest hiss was || 16 counts | 4 counts | 60 counts | 2 counts || A
+mc: B || Daily long tones should take about || 5 minutes | 1 hour | 10 seconds | none || A
+mc: I || A wobbly tuner needle suggests || unsteady air | perfect tone | a broken tuner always | loud playing || A
+mc: I || Playing softly, many winds tend to go || flat | sharp always | louder | faster || A
+mc: I || A full breath fills || low first | the shoulders first | the cheeks | nowhere || A
+mc: I || A chorale helps the band || blend and match tone | play faster | skip rests | sight-read only || A
+mc: C || Supported air improves intonation because || steady air keeps pitch stable | it's louder | it changes the key | it's faster || A
+mc: C || Soft supported playing keeps air || steady with less volume | weak | stopped | fast and loud || A
+sa: B || Define characteristic tone. || The ideal sound for an instrument, as heard in professional players.
+sa: B || What are long tones? || Held notes used to build tone and control.
+sa: I || Describe the long-tone routine. || Steady 8-count notes, crescendo-decrescendo, soft supported notes, scale long tones.
+sa: I || Explain why pitch drops when playing softly. || Air support weakens, lowering pitch.
+sa: I || How can a tuner help tone? || It shows if the pitch is steady and in tune.
+sa: I || Why compare with professionals? || To hear and aim for a characteristic tone.
+sa: C || Record and self-assess your tone. || Answers vary.
+sa: C || Explain how good air improves the whole band. || Steady tone and intonation help the band blend and play in tune.
+
+=== IM20.A1 0
+hook: Many high school wind players have a comfortable range of about an octave and a half. Professional players often have two and a half or more. Range doesn't come from pressing harder; it comes from flexible muscles, fast air and patient daily practice.
+sc: I can extend my upper and lower range safely | I can use flexibility exercises to move between registers | I can practise range without strain
+v: range :: The span of notes from lowest to highest a player can play well.
+v: register :: A section of an instrument's range with its own tone, such as low, middle or high.
+v: flexibility :: The ability to move smoothly between notes and registers.
+v: lip slur :: A brass exercise moving between notes without changing valves or slide position.
+v: register key :: A woodwind key that moves notes into a higher register.
+v: air speed :: How fast the air moves; faster air helps higher notes.
+ts: Reaching Higher (and Lower) || Rehearsal || How do I extend my range safely?
+tx: Principles: ¶ • High notes need faster air and a firm, not pinched, embouchure. ¶ • Low notes need relaxed, open, warm air. ¶ • Never force high notes by pressing the mouthpiece harder into the lips (brass) or biting (woodwinds). ¶ • Rest as much as you play. ¶ Part 1, Warm-up (5 minutes): Long tones in the middle register. ¶ Part 2, Flexibility (15 minutes): ¶ • Brass: lip slurs on one valve combination, such as concert B♭ to F and back, then up to the next partial. Keep the air steady and let the lips do small adjustments. ¶ • Woodwinds: register slurs (low to high with the register or octave key), and long tones at the top and bottom of the comfortable range. ¶ • Flute: harmonic exercises (overblowing a low fingering to sound higher partials). ¶ • Percussion: expand dynamic "range" with very soft to very loud strokes, and four-mallet or timpani tuning if available. ¶ Part 3, Extend by one note (10 minutes): Play a scale up to your highest comfortable note, rest, then try one note higher with a big, fast breath. If it doesn't sound good, go back. Do the same downward. ¶ Part 4, Range log: Record your lowest and highest good-sounding notes each week.
+src: Original activity written for this lesson.
+st: Warm up in the middle register | Do flexibility exercises for your instrument | Extend range by one note up and down | Rest between attempts | Record range in a weekly log
+org: Week | Lowest good note | Highest good note | Exercise used | Notes
+an: What changes in your air when you go higher? | What happens when you press harder for high notes? | Which flexibility exercise helped most? | Why log your range each week?
+pr: Keep a four-week range log with daily flexibility exercises, and write a reflection on how your range and control changed and which strategy helped most.
+ex: Air speed || What kind of air helps high notes? || Faster, focused air || Faster, steady air with a firm embouchure || What helps low notes?
+ex: Pressure || Why not press the mouthpiece harder for high notes? || Damages lips | Thin, pinched tone || It cuts off lip vibration, causes fatigue and can injure the lips || What should you do instead?
+ex: Lip slurs || What changes in a lip slur? || Not valves || Air and small lip adjustments, not fingerings || Why does this build flexibility?
+ex: Extending safely || You try one note higher and it squeaks. What next? || Go back and rest || Return to your comfortable top note, rest, and try again another day || Why is patience important?
+p: B || What is range? || The span from lowest to highest playable note.
+p: B || What is a register? || A section of the range with its own tone.
+p: B || What is flexibility? || Moving smoothly between notes and registers.
+p: B || What is a lip slur? || A brass exercise changing notes without changing valves.
+p: B || What does a register key do? || Moves notes into a higher register.
+p: I || What helps high notes? || Faster air and a firm embouchure.
+p: I || What helps low notes? || Relaxed, open, warm air.
+p: I || What should you never do for high notes on brass? || Press the mouthpiece harder.
+p: I || How much should you rest? || As much as you play.
+p: I || How many notes do you extend at a time? || One.
+p: I || What goes in the range log? || Lowest and highest good-sounding notes each week.
+p: C || Why does mouthpiece pressure limit range? || It stops the lips from vibrating freely.
+p: C || Why does range take weeks to grow? || Muscles strengthen and coordinate gradually.
+p: C || How could percussionists work on "range"? || Expand dynamic control and techniques like four-mallet playing.
+p: C || Why warm up in the middle register first? || It prepares muscles before demanding notes.
+mis: Pressing harder to reach high notes | Skipping rest | Trying too many new notes at once
+et: Explain how air changes for high and low notes. | Describe one flexibility exercise.
+mc: B || Range is || the span of playable notes | the volume | the tempo | the key || A
+mc: B || A lip slur changes notes without || changing valves | air | lips | breathing || A
+mc: B || A register key moves notes || higher | lower | louder | softer || A
+mc: B || Flexibility means || moving smoothly between notes | playing loudly | playing fast | resting || A
+mc: B || You extend range by || one note at a time | ten notes at once | pressing harder | skipping rest || A
+mc: B || Rest should be || as much as you play | never | only at night | once a month || A
+mc: I || High notes need || faster air | slower air | no air | more pressure || A
+mc: I || Low notes need || relaxed, open air | pinched lips | biting | pressure || A
+mc: I || Pressing the mouthpiece harder || cuts off lip vibration | improves range | is recommended | improves tone || A
+mc: I || If a new note squeaks, you should || go back and rest | force it | quit | play louder || A
+mc: C || Range takes weeks because || muscles develop gradually | it's random | it can't improve | instruments change || A
+mc: C || Warming up in the middle register first || prepares muscles | wastes time | lowers range | is optional always || A
+sa: B || Define register. || A section of an instrument's range with its own tone.
+sa: B || What is a lip slur? || A brass exercise moving between notes without changing valves.
+sa: I || Explain how air differs for high and low notes. || High: faster, focused; low: relaxed, open, warm.
+sa: I || Describe a flexibility exercise for your instrument. || Answers vary.
+sa: I || Why avoid pressure? || It limits vibration, causes fatigue and can injure lips.
+sa: I || Describe how to extend range safely. || Add one note at a time with good air, rest often, go back if it doesn't sound good.
+sa: C || Keep and reflect on a four-week range log. || Answers vary.
+sa: C || Explain why patience matters in range development. || Muscles strengthen slowly; forcing causes injury and bad habits.
+
+=== IM30.A1 0
+hook: Professional musicians often practise a hard passage at half speed, perfectly, many times, before playing it at tempo. It seems slow, but it's the fastest way to get it right. In Instrumental Music 30, you'll learn to practise like a professional.
+sc: I can identify the hardest passages in a piece | I can use slow practice, chunking and rhythm variations to master them | I can measure my progress with a metronome log
+v: technical passage :: A difficult section that demands finger, tongue or stick control.
+v: slow practice :: Practising well below tempo with perfect accuracy.
+v: chunking :: Breaking a passage into small sections.
+v: rhythm variation :: Practising a passage in altered rhythms (such as long-short) to build control.
+v: target tempo :: The final performance speed.
+v: deliberate practice :: Focused practice on specific weaknesses with clear goals.
+ts: Practise Like a Pro || Rehearsal || How do professionals master difficult passages?
+tx: Step 1, Find the problem (5 minutes): Play through your concert piece and mark the two hardest passages with brackets. ¶ Step 2, Diagnose (5 minutes): Is the problem notes, rhythm, fingering, tonguing, breathing or endurance? Write it down. ¶ Step 3, Chunk (10 minutes): Break the passage into chunks of one or two beats. Practise each chunk, then link chunk 1 to the first note of chunk 2 ("chaining"). ¶ Step 4, Slow practice (10 minutes): Set the metronome at half the target tempo. Play the passage 3 times in a row perfectly before moving the metronome up by 4–8 beats per minute. A mistake means going back down. ¶ Step 5, Rhythm variations (5 minutes): Play the passage long-short, then short-long, then in triplets. This strengthens weak finger or stick combinations. ¶ Step 6, Context (5 minutes): Play from four bars before the passage to four bars after, so it connects musically. ¶ Practice log: date, passage, starting tempo, ending tempo, what improved. ¶ Professional habit: Stop practising a passage while it's still going well, rather than when you're tired and making mistakes.
+src: Original activity written for this lesson.
+st: Mark the hardest passages | Diagnose the problem | Chunk and chain the passage | Use slow practice with the metronome | Add rhythm variations and practise in context
+org: Date | Passage | Problem | Start tempo | End tempo | What improved
+an: What was the real problem in your hardest passage? | How did chunking change your accuracy? | How much did your tempo improve in one session? | Why stop while a passage is still going well?
+pr: Keep a one-week deliberate-practice log for two difficult passages, recording tempos and strategies, and record the passages at the start and end of the week.
+ex: Diagnosing || You keep missing the same note change. What's the problem type? || Fingering or coordination || A technical (fingering or coordination) problem || What strategy fits best?
+ex: Tempo steps || Target tempo is 120. Where should slow practice start? || Half of target || 60 || When do you move it up?
+ex: Rhythm variations || Why play even notes as long-short? || Strengthens each note change || It isolates weak finger combinations and builds control || What other variations help?
+ex: Chaining || How do you link chunks? || Overlap by one note || Play chunk 1 plus the first note of chunk 2, then join them || Why overlap?
+p: B || What is slow practice? || Practising well below tempo with accuracy.
+p: B || What is chunking? || Breaking a passage into small sections.
+p: B || What is a rhythm variation? || Practising in altered rhythms to build control.
+p: B || What is the target tempo? || The final performance speed.
+p: B || What is deliberate practice? || Focused practice on specific weaknesses with goals.
+p: I || Where should slow practice start for a target of 132? || About 66.
+p: I || How many perfect repetitions before raising tempo? || Three.
+p: I || How much should tempo go up each step? || 4–8 beats per minute.
+p: I || What does a mistake mean in slow practice? || Go back down in tempo.
+p: I || Why practise in context? || So the passage connects musically.
+p: I || How many bars before and after for context practice? || Four.
+p: C || Why does slow practice lead to faster mastery? || Accurate repetitions build reliable muscle memory.
+p: C || Why diagnose before practising? || Different problems need different strategies.
+p: C || Why stop while it's going well? || To end with correct repetitions in memory.
+p: C || How does deliberate practice differ from playing through pieces? || It targets specific weaknesses with focused goals.
+mis: Practising only at full speed | Repeating mistakes | Practising passages in isolation without context
+et: Describe three practice strategies. | Explain why slow practice works.
+mc: B || Slow practice means || well below tempo, accurately | full speed | random speed | no metronome || A
+mc: B || Chunking breaks a passage into || small sections | longer sections | silence | new pieces || A
+mc: B || Target tempo is || the final speed | the slowest speed | a rest | a key || A
+mc: B || Before raising tempo, play perfectly || 3 times | once | 20 times | never || A
+mc: B || Deliberate practice targets || specific weaknesses | only favourite parts | nothing | the whole piece only || A
+mc: B || Tempo increases by || 4–8 bpm | 50 bpm | 1 bpm | 100 bpm || A
+mc: I || For a target of 120, slow practice starts at about || 60 | 120 | 10 | 200 || A
+mc: I || A mistake in slow practice means || go back down | speed up | stop forever | ignore it || A
+mc: I || Long-short rhythm variations || strengthen note changes | slow the band | replace scales | are wrong || A
+mc: I || Chaining overlaps chunks by || one note | ten bars | a whole page | none || A
+mc: C || Slow practice works because || accurate repetitions build muscle memory | it's boring | it changes the music | it's required || A
+mc: C || Stopping while it's going well || leaves correct repetitions in memory | wastes time | causes mistakes | is unprofessional || A
+sa: B || Define chunking. || Breaking a passage into small sections.
+sa: B || What is deliberate practice? || Focused practice on specific weaknesses with clear goals.
+sa: I || List the six practice steps. || Find, diagnose, chunk, slow practice, rhythm variations, context.
+sa: I || Explain the slow-practice tempo rule. || Start at half tempo, three perfect repetitions, raise 4–8 bpm, go back after a mistake.
+sa: I || Why use rhythm variations? || To build control of weak note changes.
+sa: I || Why practise in context? || So the passage connects musically with what comes before and after.
+sa: C || Keep a one-week practice log. || Answers vary.
+sa: C || Explain why slow practice is faster in the long run. || Correct repetitions build reliable skills; mistakes repeated become habits.

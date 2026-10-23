@@ -1,0 +1,532 @@
+=== FSL10.A1 0
+hook: Think about your morning: you wake up, get up, shower, get dressed, brush your teeth. In French, almost every one of those actions uses a reflexive verb, a verb where you do the action to yourself. Master these, and you can describe any daily routine.
+sc: I can conjugate reflexive verbs in the present tense | I can describe my daily routine in order | I can ask a partner about their routine
+v: se réveiller :: To wake up.
+v: se lever :: To get up (je me lève).
+v: se doucher :: To shower.
+v: s'habiller :: To get dressed.
+v: se brosser les dents :: To brush one's teeth.
+v: se coucher :: To go to bed.
+v: d'abord / ensuite / puis / enfin :: First / next / then / finally.
+ts: Ma routine || Dialogue || How do I describe my daily routine with reflexive verbs?
+tx: Reflexive pronouns go before the verb: ¶ je me réveille · tu te réveilles · il/elle/on se réveille · nous nous réveillons · vous vous réveillez · ils/elles se réveillent ¶ Before a vowel or silent h: me → m', te → t', se → s' (je m'habille, il s'habille). ¶ Se lever adds an accent: je me lève, tu te lèves, il se lève, nous nous levons, vous vous levez, ils se lèvent. ¶ Negative: Je ne me lève pas tôt. ¶ Dialogue: ¶ Inès : À quelle heure est-ce que tu te réveilles le matin ? ¶ Karim : Je me réveille à six heures et demie, mais je me lève à sept heures. ¶ Inès : Sept heures ! Tu as le temps de prendre le petit-déjeuner ? ¶ Karim : Oui. D'abord, je me douche. Ensuite, je m'habille et je mange des céréales. Enfin, je me brosse les dents et je pars à l'école à sept heures quarante-cinq. Et toi ? ¶ Inès : Moi, je ne me lève pas avant sept heures et demie ! Je m'habille très vite et je prends le bus. ¶ Karim : Et le soir, tu te couches à quelle heure ? ¶ Inès : Je me couche vers onze heures. ¶ English support: à six heures et demie = at 6:30; prendre le petit-déjeuner = to eat breakfast; je pars = I leave; vers = around. ¶ Activity: Interview a partner about their weekday and weekend routines, then compare them in five sentences.
+src: Original dialogue written for this lesson.
+st: Learn reflexive pronouns and verbs | Read the dialogue with a partner | Put Karim's routine in order | Interview a partner about their routine | Compare weekday and weekend routines
+org: Heure | Activité (verbe pronominal) | En semaine ou le week-end
+an: What time does Karim wake up and get up? | Why is it "je m'habille" and not "je me habille"? | Where does "ne… pas" go with a reflexive verb? | How does your routine compare with Inès's?
+pr: Write a paragraph (8–10 sentences) describing a typical school day and a weekend day, using at least six reflexive verbs, four sequence words and one negative.
+ex: Conjugation || Conjugate se réveiller with nous. || nous + nous + réveillons || Nous nous réveillons. || Now try with vous.
+ex: Elision || Say "She gets dressed." || se + vowel → s' || Elle s'habille. || Why does se become s'?
+ex: Negative || Say "I don't go to bed early." || ne before the pronoun, pas after the verb || Je ne me couche pas tôt. || Make "Tu te lèves" negative.
+ex: Sequence || Order: shower, wake up, get dressed. || d'abord, ensuite, enfin || D'abord, je me réveille. Ensuite, je me douche. Enfin, je m'habille. || Add one more step.
+p: B || What does se réveiller mean? || To wake up.
+p: B || What does se coucher mean? || To go to bed.
+p: B || What is the reflexive pronoun for je? || Me.
+p: B || What is the reflexive pronoun for nous? || Nous.
+p: B || What does d'abord mean? || First.
+p: I || Conjugate se lever with je. || Je me lève.
+p: I || Conjugate s'habiller with ils. || Ils s'habillent.
+p: I || What time does Karim get up? || At seven o'clock.
+p: I || What time does Inès go to bed? || Around eleven.
+p: I || Say "We brush our teeth." || Nous nous brossons les dents.
+p: I || What does "vers onze heures" mean? || Around eleven o'clock.
+p: C || Why does se lever take an accent in some forms? || The e before the silent ending changes to è for pronunciation.
+p: C || Make "Vous vous réveillez tôt" negative. || Vous ne vous réveillez pas tôt.
+p: C || Why do reflexive verbs use a pronoun? || The subject does the action to itself.
+p: C || Write one sentence comparing your routine with a partner's. || Sample: Je me lève plus tôt que Marc.
+mis: Forgetting the reflexive pronoun | Putting "pas" before the pronoun | Writing "me habille" instead of "m'habille"
+et: Conjugate one reflexive verb fully. | Describe three steps of your morning routine.
+mc: B || "Je me réveille" means || I wake up | I go to bed | I get dressed | I shower || A
+mc: B || "Se coucher" means || to go to bed | to get up | to shower | to eat || A
+mc: B || The pronoun for tu is || te | me | se | vous || A
+mc: B || "Ensuite" means || next | first | finally | never || A
+mc: B || "S'habiller" means || to get dressed | to brush teeth | to wake up | to sleep || A
+mc: B || Karim wakes up at || 6:30 | 5:00 | 8:00 | 9:30 || A
+mc: I || "She gets dressed" is || Elle s'habille | Elle se habille | Elle habille | Elle s'habilles || A
+mc: I || "I get up" is || Je me lève | Je me leve | Je lève | Je me lèves || A
+mc: I || "We wake up" is || Nous nous réveillons | Nous réveillons | Nous se réveillons | Nous nous réveille || A
+mc: I || "I don't get up early" is || Je ne me lève pas tôt | Je me ne lève pas tôt | Je ne lève me pas tôt | Je pas me lève || A
+mc: C || Se lever takes an accent because || pronunciation changes before silent endings | it's plural | it's past tense | it's optional || A
+mc: C || Reflexive verbs show || the subject acting on itself | an action on others | past tense | questions || A
+sa: B || Conjugate se réveiller. || Je me réveille, tu te réveilles, il se réveille, nous nous réveillons, vous vous réveillez, ils se réveillent.
+sa: B || Name four sequence words. || D'abord, ensuite, puis, enfin.
+sa: I || Describe Karim's morning in order. || He wakes at 6:30, gets up at 7, showers, dresses, eats cereal, brushes his teeth and leaves at 7:45.
+sa: I || Explain elision with an example. || Se becomes s' before a vowel: il s'habille.
+sa: I || Make a reflexive sentence negative. || Je ne me couche pas tard.
+sa: I || Ask a partner two routine questions. || À quelle heure est-ce que tu te lèves ? Tu te couches à quelle heure ?
+sa: C || Write a paragraph about your routines. || Answers vary.
+sa: C || Explain the placement of ne… pas with reflexive verbs. || Ne goes before the pronoun and pas after the verb.
+
+=== FSL20.A1 0
+hook: You're planning a trip: Paris, then Brussels, then Dakar, then back home to Canada. In French, you'd say "à Paris," "en Belgique," "au Sénégal" and "au Canada": four different words for "to" or "in." It looks random, but the rule is simple once you know it.
+sc: I can use à, en, au and aux correctly with places | I can talk about where I am going and where I have been | I can plan a trip itinerary in French
+v: à :: Used with cities (à Paris, à Montréal).
+v: en :: Used with feminine countries and those starting with a vowel (en France, en Italie, en Iran).
+v: au :: Used with masculine countries (au Canada, au Japon, au Sénégal).
+v: aux :: Used with plural countries (aux États-Unis, aux Pays-Bas).
+v: l'itinéraire (m.) :: Itinerary, travel plan.
+v: le billet :: Ticket.
+v: la réservation :: Reservation.
+ts: Mon itinéraire || Dialogue || How do I talk about where I'm going in French?
+tx: The rule: ¶ • Cities: à → à Paris, à Calgary, à Tokyo ¶ • Feminine countries (most end in -e): en → en France, en Belgique, en Suisse, en Chine, en Espagne ¶ • Countries starting with a vowel: en → en Iran, en Israël, en Afghanistan ¶ • Masculine countries: au → au Canada, au Mexique, au Japon, au Maroc, au Sénégal (le Mexique ends in -e but is masculine!) ¶ • Plural countries: aux → aux États-Unis, aux Pays-Bas ¶ • Provinces: au Québec, au Manitoba, en Alberta, en Ontario, en Colombie-Britannique ¶ Dialogue: ¶ Zoé : Cet été, je vais faire un grand voyage ! ¶ Félix : Ah oui ? Où vas-tu ? ¶ Zoé : D'abord, je vais à Paris, en France. Ensuite, je vais en Belgique pour visiter Bruxelles. Puis je vais au Sénégal, à Dakar, pour voir ma tante. ¶ Félix : Super ! Comment vas-tu voyager ? ¶ Zoé : En avion, sauf entre Paris et Bruxelles : je vais prendre le train. ¶ Félix : Moi, je reste au Canada. Je vais au Québec avec ma famille. ¶ English support: Cet été = this summer; sauf = except; je reste = I'm staying. ¶ Activity: Plan a 10-day trip to three francophone places (at least one city, one feminine country and one masculine country). Write your itinerary and present it.
+src: Original dialogue written for this lesson.
+st: Learn à, en, au and aux | Sort countries and provinces by preposition | Read the dialogue with a partner | Plan a three-stop francophone trip | Present your itinerary
+org: Jour | Destination | Préposition | Transport | Activité
+an: Why is it "au Mexique" even though Mexique ends in -e? | Why "en Alberta" but "au Manitoba"? | Which countries does Zoé visit, and with which prepositions? | How does Zoé travel between Paris and Brussels?
+pr: Write a 10-day itinerary (8–10 sentences) for a trip to three francophone destinations, using à, en, au or aux correctly for each and saying how you will travel.
+ex: Cities || Say "I'm going to Montréal." || City = à || Je vais à Montréal. || Say "I live in Edmonton."
+ex: Feminine country || Say "I'm going to Switzerland." || La Suisse is feminine || Je vais en Suisse. || What about Spain?
+ex: Masculine country || Say "We live in Canada." || Le Canada is masculine || Nous habitons au Canada. || What about Morocco?
+ex: Plural and provinces || Say "They're going to the United States and to Alberta." || aux + plural; en + vowel || Ils vont aux États-Unis et en Alberta. || What about Quebec?
+p: B || Which preposition goes with cities? || À.
+p: B || Which preposition goes with feminine countries? || En.
+p: B || Which preposition goes with masculine countries? || Au.
+p: B || Which preposition goes with plural countries? || Aux.
+p: B || What is "le billet"? || Ticket.
+p: I || Say "in France." || En France.
+p: I || Say "in Japan." || Au Japon.
+p: I || Say "in the United States." || Aux États-Unis.
+p: I || Say "in Alberta." || En Alberta.
+p: I || Say "in Quebec" (the province). || Au Québec.
+p: I || How does Zoé travel from Paris to Brussels? || By train.
+p: C || Why is it "en Iran" although Iran is masculine? || Countries starting with a vowel use en.
+p: C || Why is Mexique an exception? || It ends in -e but is masculine, so it takes au.
+p: C || Say "I'm going to Dakar, in Senegal." || Je vais à Dakar, au Sénégal.
+p: C || Write a sentence with three destinations. || Sample: Je vais à Paris, en Belgique et au Maroc.
+mis: Using "à" with countries | Assuming every country ending in -e is feminine | Forgetting "aux" with plural countries
+et: Choose the correct preposition for a city, a feminine country and a masculine country. | Say where you'd like to travel.
+mc: B || "To Paris" is || à Paris | en Paris | au Paris | aux Paris || A
+mc: B || "In France" is || en France | au France | à France | aux France || A
+mc: B || "In Canada" is || au Canada | en Canada | à Canada | aux Canada || A
+mc: B || "In the United States" is || aux États-Unis | au États-Unis | en États-Unis | à États-Unis || A
+mc: B || "Le billet" means || ticket | trip | hotel | train || A
+mc: B || Zoé visits her aunt in || Dakar | Paris | Brussels | Quebec || A
+mc: I || "In Alberta" is || en Alberta | au Alberta | à Alberta | aux Alberta || A
+mc: I || "In Mexico" is || au Mexique | en Mexique | à Mexique | aux Mexique || A
+mc: I || "In Senegal" is || au Sénégal | en Sénégal | à Sénégal | aux Sénégal || A
+mc: I || "In Belgium" is || en Belgique | au Belgique | à Belgique | aux Belgique || A
+mc: C || Iran takes "en" because it || starts with a vowel | is feminine | is plural | is a city || A
+mc: C || "In Quebec" (province) is || au Québec | en Québec | à Québec | aux Québec || A
+sa: B || State the rule for à, en, au and aux. || À cities; en feminine or vowel countries; au masculine; aux plural.
+sa: B || How do you say "I'm going to Japan"? || Je vais au Japon.
+sa: I || Translate "in Ontario and in Manitoba." || En Ontario et au Manitoba.
+sa: I || Explain the Mexique exception. || It ends in -e but is masculine, so it takes au.
+sa: I || Describe Zoé's trip. || Paris in France, Brussels in Belgium, then Dakar in Senegal, by plane and train.
+sa: I || Write a sentence about where you live. || Sample: J'habite à Red Deer, en Alberta, au Canada.
+sa: C || Write a 10-day francophone itinerary. || Answers vary.
+sa: C || Explain why prepositions matter for clear communication. || They show the type of place and are expected in correct French.
+
+=== FSL30.A1 0
+hook: In Canada, bilingualism is an advantage in many careers, from the federal public service to health care, law, tourism and business. Being able to talk about your plans and dreams in French, using "would" and "if," is a skill you'll use in interviews, scholarships and conversations for years.
+sc: I can name careers and fields of study in French | I can form and use the conditionnel | I can describe what I would like to do in the future and why
+v: le métier / la profession :: Job, profession.
+v: les études (f.) :: Studies, education.
+v: je voudrais :: I would like.
+v: j'aimerais :: I would love to / I would like to.
+v: le conditionnel :: The conditional mood, used for "would."
+v: si j'étais… :: If I were…
+v: bilingue :: Bilingual.
+ts: Si j'étais… || Dialogue || How do I talk about my future plans in French?
+tx: Forming the conditionnel: future stem + imparfait endings (-ais, -ais, -ait, -ions, -iez, -aient). ¶ • aimer → j'aimerais, tu aimerais, il aimerait, nous aimerions, vous aimeriez, ils aimeraient ¶ • Irregular stems: être → ser- (je serais), avoir → aur- (j'aurais), faire → fer- (je ferais), aller → ir- (j'irais), vouloir → voudr- (je voudrais), pouvoir → pourr- (je pourrais) ¶ Si + imparfait, conditionnel: Si j'avais le temps, je voyagerais. (If I had time, I would travel.) ¶ Careers (masculine / feminine): un infirmier / une infirmière (nurse), un ingénieur / une ingénieure (engineer), un avocat / une avocate (lawyer), un enseignant / une enseignante (teacher), un médecin (doctor), un ou une journaliste. ¶ Dialogue: ¶ Mme Roy : Qu'est-ce que tu aimerais faire après l'école secondaire ? ¶ Amir : J'aimerais étudier les sciences infirmières à l'université. ¶ Mme Roy : Pourquoi ? ¶ Amir : Parce que je voudrais aider les gens, et les infirmiers bilingues sont très recherchés. Je pourrais travailler à Edmonton ou au Nouveau-Brunswick. ¶ Mme Roy : Et si tu ne pouvais pas devenir infirmier ? ¶ Amir : Si je ne pouvais pas, je serais peut-être pharmacien ! ¶ English support: après l'école secondaire = after high school; très recherchés = in high demand; peut-être = maybe. ¶ Activity: Interview three classmates: "Qu'est-ce que tu aimerais faire dans dix ans ?" and "Si tu pouvais avoir n'importe quel métier, qu'est-ce que tu ferais ?"
+src: Original dialogue written for this lesson.
+st: Learn career vocabulary with gender forms | Form the conditionnel, including irregular stems | Read the dialogue with a partner | Practise si + imparfait + conditionnel | Interview three classmates about the future
+org: Question | Réponse au conditionnel | Raison (parce que…)
+an: What would Amir like to study, and why? | Why are bilingual nurses "très recherchés"? | How is the conditionnel formed? | What does "Si je ne pouvais pas…" show about si clauses?
+pr: Write a paragraph (8–10 sentences) about what you would like to do after high school and in ten years, using at least five conditional verbs, one si clause and a reason for each choice.
+ex: Forming || Conjugate travailler in the conditionnel with nous. || Stem travailler- + -ions || Nous travaillerions. || Try with ils.
+ex: Irregular || Say "I would be an engineer." || être → ser- || Je serais ingénieur (ingénieure). || What about "I would have"?
+ex: Si clause || Say "If I had money, I would travel." || Si + imparfait, conditionnel || Si j'avais de l'argent, je voyagerais. || Make your own.
+ex: Gender || Give the feminine form of "infirmier." || -ier → -ière || Infirmière || What about "avocat"?
+p: B || What does "je voudrais" mean? || I would like.
+p: B || What does "le métier" mean? || Job or profession.
+p: B || What does "bilingue" mean? || Bilingual.
+p: B || What does "les études" mean? || Studies or education.
+p: B || What are the conditionnel endings? || -ais, -ais, -ait, -ions, -iez, -aient.
+p: I || Conjugate aimer with je in the conditionnel. || J'aimerais.
+p: I || What is the conditional stem of faire? || Fer-.
+p: I || What is the conditional stem of aller? || Ir-.
+p: I || What would Amir like to study? || Nursing.
+p: I || Give the feminine form of enseignant. || Enseignante.
+p: I || Where could Amir work? || In Edmonton or New Brunswick.
+p: C || What tense follows "si" in a hypothetical sentence? || The imparfait.
+p: C || Say "If I could, I would live in Quebec." || Si je pouvais, j'habiterais au Québec.
+p: C || Why is French useful in Canadian careers? || Many jobs value or require both official languages.
+p: C || Why might bilingual nurses be in demand in New Brunswick? || It is Canada's officially bilingual province.
+mis: Using the conditionnel after "si" | Forgetting irregular stems | Using the masculine form for every profession
+et: Form two verbs in the conditionnel. | Write one si sentence about your future.
+mc: B || "J'aimerais" means || I would like | I like | I liked | I will like || A
+mc: B || "Le métier" means || job | school | city | trip || A
+mc: B || Conditionnel endings match the || imparfait | présent | passé composé | futur proche || A
+mc: B || "Bilingue" means || bilingual | busy | bored | brave || A
+mc: B || Amir wants to be a || nurse | lawyer | pilot | chef || A
+mc: B || "Peut-être" means || maybe | never | always | today || A
+mc: I || "Nous travaillerions" means || we would work | we work | we worked | we will work || A
+mc: I || The conditional of être with je is || je serais | je serai | j'étais | je suis || A
+mc: I || "If I had time, I would travel" is || Si j'avais le temps, je voyagerais | Si j'aurais le temps, je voyagerais | Si j'ai le temps, je voyagerais | Si j'avais le temps, je voyage || A
+mc: I || The feminine of avocat is || avocate | avocatte | avocatrice | avocat || A
+mc: C || After "si" in hypotheses, use || the imparfait | the conditionnel | the future | the subjunctive || A
+mc: C || New Brunswick is || officially bilingual | French only | English only | not a province || A
+sa: B || Give the conditionnel endings. || -ais, -ais, -ait, -ions, -iez, -aient.
+sa: B || How do you say "I would like to be a teacher"? || Je voudrais être enseignant(e).
+sa: I || List four irregular conditional stems. || Ser-, aur-, fer-, ir- (also voudr-, pourr-).
+sa: I || Write a si + imparfait + conditionnel sentence. || Sample: Si j'étais riche, j'aiderais ma communauté.
+sa: I || Explain why Amir chose nursing. || He wants to help people, and bilingual nurses are in demand.
+sa: I || Give masculine and feminine forms of two professions. || Infirmier/infirmière, ingénieur/ingénieure.
+sa: C || Write a paragraph about your future plans using the conditionnel. || Answers vary.
+sa: C || Explain the value of French in Canadian careers. || Many jobs in government, health and business value or require bilingualism.
+
+=== SPA10.A1 0
+hook: Spanish has two verbs for "to be": ser and estar. "Soy aburrido" means "I'm boring," but "Estoy aburrido" means "I'm bored." Choosing the right one changes your meaning completely, so it's worth getting right.
+sc: I can use ser for identity, origin and characteristics | I can use estar for location and temporary states | I can describe myself and others with the correct verb
+v: ser :: To be (identity, origin, characteristics, time, profession).
+v: estar :: To be (location, feelings, temporary conditions).
+v: la nacionalidad :: Nationality.
+v: la personalidad :: Personality.
+v: el origen :: Origin.
+v: cansado/a :: Tired.
+v: contento/a :: Happy, pleased.
+ts: ¿Ser o estar? || Dialogue || When do I use ser and when estar?
+tx: Ser: soy, eres, es, somos, sois, son. Use for: ¶ • Identity and profession: Soy estudiante. Mi madre es enfermera. ¶ • Origin and nationality: Soy de Edmonton. Somos canadienses. ¶ • Characteristics: Mi hermano es alto y simpático. ¶ • Time and dates: Son las tres. Hoy es lunes. ¶ Estar: estoy, estás, está, estamos, estáis, están. Use for: ¶ • Location: Estoy en la biblioteca. Calgary está en Alberta. ¶ • Feelings and temporary states: Estoy cansada. Estamos contentos. ¶ Meaning changes: ser aburrido (boring) / estar aburrido (bored); ser listo (clever) / estar listo (ready). ¶ Dialogue: ¶ Camila: ¡Hola! Soy Camila. Soy de Colombia, pero ahora vivo en Edmonton. ¶ Andrés: Mucho gusto. Yo soy Andrés. Soy de aquí. ¿Cómo estás? ¶ Camila: Estoy un poco nerviosa. Es mi primer día en esta escuela. ¶ Andrés: No te preocupes. Los estudiantes son simpáticos. ¿Dónde está tu clase de matemáticas? ¶ Camila: Está en el segundo piso. ¶ Andrés: ¡Yo también estoy en esa clase! Vamos juntos. ¶ English support: ahora = now; de aquí = from here; No te preocupes = don't worry; el segundo piso = the second floor; juntos = together. ¶ Activity: Write a self-portrait in Spanish (identity, origin, personality, where you are now and how you feel today) and present it to a small group.
+src: Original dialogue written for this lesson.
+st: Learn ser and estar conjugations | Sort uses of ser and estar | Read the dialogue with a partner | Practise meaning-changing adjectives | Write and present a self-portrait
+org: Frase | ¿Ser o estar? | ¿Por qué?
+an: Why does Camila say "Soy de Colombia" but "Estoy un poco nerviosa"? | Why is it "Está en el segundo piso"? | What is the difference between "es aburrido" and "está aburrido"? | Which uses of ser and estar appear in your self-portrait?
+pr: Write a self-portrait (8–10 sentences) using ser at least four times and estar at least three times, and explain the reason for each choice in English.
+ex: Origin || Say "I am from Lethbridge." || Origin uses ser || Soy de Lethbridge. || Say where a classmate is from.
+ex: Location || Say "The library is on the first floor." || Location uses estar || La biblioteca está en el primer piso. || Where is your locker?
+ex: Feelings || Say "We are happy." || Temporary state uses estar || Estamos contentos. || Say how you feel now.
+ex: Meaning change || What's the difference between "Eres listo" and "Estás listo"? || Ser = trait | estar = state || "You're clever" vs "You're ready" || Write another pair.
+p: B || Conjugate ser with yo. || Soy.
+p: B || Conjugate estar with yo. || Estoy.
+p: B || Which verb is used for origin? || Ser.
+p: B || Which verb is used for location? || Estar.
+p: B || What does "cansado" mean? || Tired.
+p: I || Say "My brother is tall." || Mi hermano es alto.
+p: I || Say "I am in class." || Estoy en clase.
+p: I || Say "It is three o'clock." || Son las tres.
+p: I || Where is Camila from? || Colombia.
+p: I || How does Camila feel? || A little nervous.
+p: I || What does "No te preocupes" mean? || Don't worry.
+p: C || Why is "Calgary está en Alberta" correct? || Location uses estar, even for permanent places.
+p: C || What does "Es aburrido" mean? || He is boring.
+p: C || Say "The students are friendly." || Los estudiantes son simpáticos.
+p: C || Why does Andrés say "estoy en esa clase"? || He's describing where he is (location).
+mis: Using ser for location | Using estar for origin or nationality | Thinking estar is only for temporary things (location of permanent places still uses estar)
+et: Write one sentence with ser and one with estar. | Explain why each verb is used.
+mc: B || "Soy" means || I am (ser) | I have | I go | I am (estar) || A
+mc: B || Location uses || estar | ser | tener | ir || A
+mc: B || Origin uses || ser | estar | tener | hacer || A
+mc: B || "Cansado" means || tired | happy | tall | bored || A
+mc: B || Camila is from || Colombia | Mexico | Spain | Peru || A
+mc: B || "Juntos" means || together | alone | later | now || A
+mc: I || "I am in the library" is || Estoy en la biblioteca | Soy en la biblioteca | Es la biblioteca | Estás en la biblioteca || A
+mc: I || "We are Canadian" is || Somos canadienses | Estamos canadienses | Son canadienses | Soy canadiense || A
+mc: I || "It's Monday" is || Hoy es lunes | Hoy está lunes | Hoy son lunes | Hoy estoy lunes || A
+mc: I || "I'm a little nervous" is || Estoy un poco nerviosa | Soy un poco nerviosa | Es nerviosa | Son nerviosa || A
+mc: C || "Está aburrido" means || he is bored | he is boring | he is tall | he is from here || A
+mc: C || "Calgary está en Alberta" uses estar because || it's a location | it's temporary | it's an emotion | it's a time || A
+sa: B || Conjugate ser. || Soy, eres, es, somos, sois, son.
+sa: B || Conjugate estar. || Estoy, estás, está, estamos, estáis, están.
+sa: I || List four uses of ser. || Identity, origin, characteristics and time.
+sa: I || List two uses of estar. || Location and feelings or temporary states.
+sa: I || Explain "ser listo" vs "estar listo." || Clever vs ready.
+sa: I || Describe yourself in two sentences with ser and estar. || Sample: Soy de Edmonton. Estoy contento hoy.
+sa: C || Write a self-portrait using ser and estar. || Answers vary.
+sa: C || Explain why location uses estar even for permanent places. || Estar marks location regardless of permanence.
+
+=== SPA20.A1 0
+hook: Tell a story about a trip and you'll naturally switch between two kinds of past: the background ("It was sunny, we were tired") and the events ("We arrived, I lost my passport"). Spanish uses two different tenses for these: the imperfect and the preterite.
+sc: I can tell the difference between the preterite and the imperfect | I can use both tenses to narrate a past trip | I can explain why each tense is used
+v: el pretérito :: The preterite: completed actions at a specific time.
+v: el imperfecto :: The imperfect: descriptions, background, habits and ongoing actions in the past.
+v: ayer :: Yesterday.
+v: cuando era niño/a :: When I was a child.
+v: de repente :: Suddenly.
+v: siempre / todos los días :: Always / every day (often with the imperfect).
+ts: Contar un viaje || Dialogue || How do I tell a story about the past in Spanish?
+tx: Preterite (completed events): ¶ • -ar: viajé, viajaste, viajó, viajamos, viajasteis, viajaron ¶ • -er/-ir: comí, comiste, comió, comimos, comisteis, comieron ¶ • Irregular: ir/ser → fui, fuiste, fue, fuimos, fuisteis, fueron; tener → tuve; hacer → hice ¶ Imperfect (background and habits): ¶ • -ar: viajaba, viajabas, viajaba, viajábamos, viajabais, viajaban ¶ • -er/-ir: comía, comías, comía, comíamos, comíais, comían ¶ • Irregular: ser → era; ir → iba; ver → veía ¶ Use the imperfect for: weather, time, age, feelings, descriptions, repeated actions, what was happening. ¶ Use the preterite for: actions that started and ended, a sequence of events, something that interrupted. ¶ Story: ¶ "El verano pasado, mi familia y yo fuimos a México. Hacía mucho calor y el cielo estaba azul. Todos los días, íbamos a la playa y comíamos tacos de pescado. Un día, mientras nadaba en el mar, de repente vi un delfín. ¡Fue increíble! Después, visitamos las pirámides de Teotihuacán. Mi hermana estaba cansada, pero yo estaba muy contento. Volvimos a Calgary el 15 de agosto." ¶ English support: Hacía mucho calor = it was very hot; mientras nadaba = while I was swimming; un delfín = a dolphin; Volvimos = we returned. ¶ Activity: Highlight preterite verbs in one colour and imperfect verbs in another, then tell a partner about a real or imagined trip.
+src: Original story written for this lesson.
+st: Learn preterite and imperfect forms | Learn when to use each tense | Read and colour-code the story | Explain each tense choice | Tell a partner about a trip
+org: Verbo | Pretérito o imperfecto | ¿Por qué?
+an: Why is "Hacía mucho calor" in the imperfect? | Why is "vi un delfín" in the preterite? | What does "mientras nadaba" show about the two tenses together? | Why are "íbamos" and "comíamos" imperfect?
+pr: Write a story (10–12 sentences) about a real or imagined trip using at least five preterite and five imperfect verbs, and include one interrupted action ("mientras… de repente…").
+ex: Background || "It was sunny." Which tense? || Weather and description || Imperfect: Hacía sol. || Describe the sky.
+ex: Completed event || "We visited the museum." Which tense? || A completed action || Preterite: Visitamos el museo. || Add when.
+ex: Interrupted action || "I was reading when the phone rang." || Background = imperfect | Interruption = preterite || Leía cuando sonó el teléfono. || Make your own.
+ex: Habits || "Every summer we went camping." || Repeated past habit || Imperfect: Todos los veranos íbamos de campamento. || What did you do as a child?
+p: B || What is the preterite used for? || Completed actions.
+p: B || What is the imperfect used for? || Background, descriptions and habits.
+p: B || What does "ayer" mean? || Yesterday.
+p: B || What does "de repente" mean? || Suddenly.
+p: B || Give the preterite of ir with nosotros. || Fuimos.
+p: I || Give the imperfect of comer with yo. || Comía.
+p: I || Give the preterite of viajar with ellos. || Viajaron.
+p: I || Give the imperfect of ser with yo. || Era.
+p: I || Where did the family go? || Mexico.
+p: I || What did the narrator see while swimming? || A dolphin.
+p: I || When did they return to Calgary? || August 15.
+p: C || Why is "estaba cansada" imperfect? || It describes a feeling or state.
+p: C || Translate "When I was a child, I lived in Red Deer." || Cuando era niño/a, vivía en Red Deer.
+p: C || Why does "mientras" usually take the imperfect? || It describes an ongoing action in the background.
+p: C || Translate "Suddenly, it started to rain." || De repente, empezó a llover.
+mis: Using the preterite for weather and descriptions | Using the imperfect for single completed events | Confusing fue (ir/ser) in context
+et: Write one sentence in each past tense. | Explain the difference between the preterite and the imperfect.
+mc: B || The preterite is for || completed actions | descriptions | habits | age || A
+mc: B || The imperfect is for || background and habits | single events | future plans | commands || A
+mc: B || "Ayer" means || yesterday | tomorrow | today | always || A
+mc: B || "Fuimos" means || we went | we were going | we go | we will go || A
+mc: B || The family went to || Mexico | Spain | Peru | Cuba || A
+mc: B || "De repente" means || suddenly | slowly | always | never || A
+mc: I || "Hacía calor" uses the imperfect because it describes || weather | a completed event | a command | the future || A
+mc: I || "Vi un delfín" uses the preterite because it is || a completed event | a habit | a description | weather || A
+mc: I || "Every day we went to the beach" is || Todos los días íbamos a la playa | Todos los días fuimos a la playa | Todos los días vamos | Todos los días iremos || A
+mc: I || The imperfect of ser with yo is || era | fui | soy | sería || A
+mc: C || "I was reading when the phone rang" is || Leía cuando sonó el teléfono | Leí cuando sonaba | Leía cuando sonaba | Leí cuando sonó || A
+mc: C || "Mientras" usually takes || the imperfect | the preterite | the future | the subjunctive || A
+sa: B || Define the preterite. || The tense for completed actions at a specific time.
+sa: B || Give three uses of the imperfect. || Weather, descriptions and habits.
+sa: I || Conjugate viajar in the preterite and imperfect with yo. || Viajé; viajaba.
+sa: I || Explain the tenses in "mientras nadaba, vi un delfín." || Imperfect for the ongoing action, preterite for the interruption.
+sa: I || Translate "Last summer we visited Mexico." || El verano pasado visitamos México.
+sa: I || Translate "It was sunny and I was happy." || Hacía sol y estaba contento/a.
+sa: C || Write a trip story using both tenses. || Answers vary.
+sa: C || Explain why Spanish needs two past tenses. || One marks completed events; the other sets the scene and describes ongoing or habitual actions.
+
+=== SPA30.A1 0
+hook: Climate change, poverty, access to clean water, migration: global issues affect Spanish-speaking countries and Canada alike. At the 30 level, you can discuss these issues in Spanish and recommend solutions using one of the most important structures in the language: the subjunctive.
+sc: I can discuss global issues in Spanish | I can form the present subjunctive of regular verbs | I can make recommendations with "es importante que" and "recomiendo que"
+v: el tema global :: Global issue.
+v: el cambio climático :: Climate change.
+v: la pobreza :: Poverty.
+v: el agua potable :: Drinking water.
+v: la migración :: Migration.
+v: es importante que… :: It is important that… (followed by the subjunctive).
+v: recomiendo que… :: I recommend that… (followed by the subjunctive).
+ts: Soluciones globales || Discussion || How do I discuss global issues and recommend solutions in Spanish?
+tx: Forming the present subjunctive (regular verbs): take the yo form of the present, drop the -o, add the "opposite" endings. ¶ • -ar → -e: hablar (hablo) → hable, hables, hable, hablemos, habléis, hablen ¶ • -er/-ir → -a: comer (como) → coma, comas, coma, comamos, comáis, coman; vivir (vivo) → viva ¶ • Spelling changes keep the sound: reciclar → recicle; proteger → proteja; pagar → pague ¶ Use the subjunctive after expressions of recommendation, necessity or wish with a change of subject: ¶ • Es importante que todos reciclemos. ¶ • Es necesario que el gobierno proteja los bosques. ¶ • Recomiendo que usemos menos plástico. ¶ • Ojalá que más personas tengan agua potable. (tener → tenga) ¶ Reading (short text): "En muchos países de América Latina, el cambio climático afecta la agricultura. En partes de Centroamérica, las sequías hacen más difícil cultivar maíz y frijoles, y algunas familias migran a otras regiones. Los expertos dicen que es importante que los países inviertan en agua potable y en agricultura sostenible." ¶ English support: las sequías = droughts; cultivar = to grow; migran = migrate; inviertan (invertir) = invest; sostenible = sustainable. ¶ Activity: In groups, choose a global issue, research one fact, and write three recommendations using the subjunctive. Present them as a short panel discussion.
+src: Original text written for this lesson.
+st: Learn global-issue vocabulary | Learn to form the present subjunctive | Read the short text | Write three recommendations with the subjunctive | Present a panel discussion
+org: Tema | Problema | Recomendación (con subjuntivo)
+an: How does climate change affect agriculture in Central America, according to the text? | Why does "es importante que" take the subjunctive? | Why does reciclar become recicle? | Which recommendation from your group is strongest, and why?
+pr: Write a short opinion piece (10–12 sentences) on a global issue, including at least one fact, two problems and four recommendations using the subjunctive.
+ex: Forming || Form the subjunctive of hablar with nosotros. || hablo → habl- + -emos || hablemos || Now try comer.
+ex: Spelling change || Why is it "recicle" not "recice"? || Keep the hard c sound || c → qu before e || What happens to pagar?
+ex: Recommendation || Say "I recommend that we use less water." || recomiendo que + subjunctive || Recomiendo que usemos menos agua. || Make another.
+ex: Ojalá || Say "I hope everyone has drinking water." || Ojalá que + subjunctive || Ojalá que todos tengan agua potable. || Make your own wish.
+p: B || What is "el cambio climático"? || Climate change.
+p: B || What is "la pobreza"? || Poverty.
+p: B || What is "el agua potable"? || Drinking water.
+p: B || What follows "es importante que"? || The subjunctive.
+p: B || What does "ojalá" mean? || I hope / hopefully.
+p: I || Form the subjunctive of comer with yo. || Coma.
+p: I || Form the subjunctive of vivir with ellos. || Vivan.
+p: I || Form the subjunctive of reciclar with nosotros. || Reciclemos.
+p: I || Form the subjunctive of tener with ellos. || Tengan.
+p: I || What do droughts make harder in Central America? || Growing corn and beans.
+p: I || What does "sostenible" mean? || Sustainable.
+p: C || Why does proteger become proteja? || G changes to j to keep the same sound.
+p: C || Why is the subjunctive used in "Recomiendo que usemos…"? || It follows a recommendation with a change of subject.
+p: C || Translate "It is necessary that the government invest in clean energy." || Es necesario que el gobierno invierta en energía limpia.
+p: C || Write a sentence connecting a global issue to Canada. || Sample: Es importante que Canadá reduzca sus emisiones.
+mis: Using the indicative after "es importante que" | Forgetting spelling changes | Using the subjunctive without a change of subject
+et: Form the subjunctive of two regular verbs. | Write one recommendation with the subjunctive.
+mc: B || "La pobreza" means || poverty | pollution | population | politics || A
+mc: B || "El agua potable" means || drinking water | sea water | rain | ice || A
+mc: B || "Es importante que" is followed by || the subjunctive | the preterite | the future | an infinitive always || A
+mc: B || "Ojalá" means || I hope | never | maybe not | always || A
+mc: B || "Las sequías" are || droughts | floods | storms | forests || A
+mc: B || "Sostenible" means || sustainable | expensive | difficult | fast || A
+mc: I || The subjunctive of hablar with yo is || hable | hablo | hablé | hablaba || A
+mc: I || The subjunctive of comer with nosotros is || comamos | comemos | comimos | comíamos || A
+mc: I || The subjunctive of reciclar with yo is || recicle | recice | reciclo | recicla || A
+mc: I || "I recommend that we use less plastic" is || Recomiendo que usemos menos plástico | Recomiendo que usamos menos plástico | Recomiendo usamos | Recomiendo que usar || A
+mc: C || Proteger becomes proteja because || g → j keeps the sound | it's irregular randomly | it's plural | it's past tense || A
+mc: C || The subjunctive here needs || a change of subject | the same subject | no subject | a question || A
+sa: B || Name three global issues in Spanish. || El cambio climático, la pobreza, la migración.
+sa: B || What follows "recomiendo que"? || The subjunctive.
+sa: I || Explain how to form the present subjunctive. || Take the yo form, drop -o, add opposite endings (-e for -ar, -a for -er/-ir).
+sa: I || Write two recommendations with the subjunctive. || Sample: Es importante que reciclemos. Recomiendo que ahorremos agua.
+sa: I || Summarize the reading. || Climate change and droughts make farming harder in Central America; experts recommend investing in water and sustainable farming.
+sa: I || Explain the spelling change in pagar → pague. || G becomes gu to keep the hard g sound before e.
+sa: C || Write an opinion piece on a global issue. || Answers vary.
+sa: C || Explain why global issues matter to both Canada and the Spanish-speaking world. || Issues like climate change and migration cross borders and need shared solutions.
+
+=== CHI10.A1 0
+hook: In Mandarin, time words come early in the sentence, before the verb, unlike in English, where we often say "I wake up at seven." Once you learn this word order, describing your whole day becomes simple.
+sc: I can use time words and clock times in Mandarin | I can describe my daily routine with correct word order | I can sequence events with 先…然后…最后
+v: 早上 zǎoshang :: Morning.
+v: 中午 zhōngwǔ :: Noon.
+v: 下午 xiàwǔ :: Afternoon.
+v: 晚上 wǎnshang :: Evening.
+v: 点 diǎn :: O'clock.
+v: 半 bàn :: Half (past).
+v: 起床 qǐchuáng :: Get up.
+v: 睡觉 shuìjiào :: Go to sleep.
+ts: 我的一天 || Dialogue || How do I describe my daily routine in Mandarin?
+tx: Word order: Subject + time + (place) + verb. ¶ • 我七点起床。Wǒ qī diǎn qǐchuáng. = I get up at seven. ¶ • 我每天早上七点半吃早饭。Wǒ měitiān zǎoshang qī diǎn bàn chī zǎofàn. = Every day I eat breakfast at 7:30 in the morning. ¶ Clock times: 八点 bā diǎn (8:00), 八点半 bā diǎn bàn (8:30), 八点一刻 bā diǎn yí kè (8:15), 八点十分 bā diǎn shí fēn (8:10). ¶ Sequence: 先 xiān… (first), 然后 ránhòu… (then), 最后 zuìhòu… (finally). ¶ Dialogue: ¶ 王明 Wáng Míng：你每天几点起床？Nǐ měitiān jǐ diǎn qǐchuáng? ¶ 莉莉 Lìlì：我早上六点半起床。我先洗澡，然后吃早饭，最后坐公共汽车去学校。 ¶ Wǒ zǎoshang liù diǎn bàn qǐchuáng. Wǒ xiān xǐzǎo, ránhòu chī zǎofàn, zuìhòu zuò gōnggòng qìchē qù xuéxiào. ¶ 王明：你几点上课？Nǐ jǐ diǎn shàngkè? ¶ 莉莉：八点四十五分。下午三点半下课。你呢？ ¶ Bā diǎn sìshíwǔ fēn. Xiàwǔ sān diǎn bàn xiàkè. Nǐ ne? ¶ 王明：我七点起床，晚上十一点睡觉。 ¶ Wǒ qī diǎn qǐchuáng, wǎnshang shíyī diǎn shuìjiào. ¶ English support: 几点 jǐ diǎn = what time; 洗澡 xǐzǎo = shower/bathe; 吃早饭 chī zǎofàn = eat breakfast; 坐公共汽车 zuò gōnggòng qìchē = take the bus; 上课 shàngkè = start class; 下课 xiàkè = finish class. ¶ Activity: Interview a partner about their daily schedule and draw a timeline of their day labelled in characters and pinyin.
+src: Original dialogue written for this lesson.
+st: Learn time words and clock times | Practise subject + time + verb word order | Read the dialogue with a partner | Sequence actions with 先…然后…最后 | Interview a partner and draw their timeline
+org: 时间 (time) | Pinyin | 活动 (activity) | English
+an: What time does Lìlì get up, and what does she do first? | Where does the time word go in a Mandarin sentence? | How do you say 8:15 in two ways? | How is Wáng Míng's schedule different from Lìlì's?
+pr: Write a paragraph (8 sentences) in characters and pinyin describing your weekday routine, with at least five clock times, the correct word order and the sequence words 先, 然后 and 最后.
+ex: Word order || Say "I go to sleep at 10 p.m." || Subject + time + verb || 我晚上十点睡觉。Wǒ wǎnshang shí diǎn shuìjiào. || Where does 晚上 go?
+ex: Clock time || Say 9:30. || 点 + 半 || 九点半 jiǔ diǎn bàn || Say 9:15.
+ex: Sequence || Say "First I eat breakfast, then I go to school." || 先…然后… || 我先吃早饭，然后去学校。 || Add 最后.
+ex: Asking time || Ask "What time do you finish class?" || 几点 + verb || 你几点下课？Nǐ jǐ diǎn xiàkè? || How would you answer?
+p: B || What is 早上? || Morning.
+p: B || What is 晚上? || Evening.
+p: B || What does 点 mean? || O'clock.
+p: B || What does 起床 mean? || Get up.
+p: B || What does 睡觉 mean? || Go to sleep.
+p: I || Say 7:30. || 七点半 qī diǎn bàn.
+p: I || Say 8:15 using 刻. || 八点一刻 bā diǎn yí kè.
+p: I || What time does Lìlì get up? || 6:30.
+p: I || What does Lìlì do first? || She showers.
+p: I || How does Lìlì get to school? || By bus.
+p: I || What does 几点 mean? || What time.
+p: C || Where do time words go in Mandarin sentences? || Before the verb, after or before the subject.
+p: C || Translate 我每天下午四点回家。 || I go home at 4 p.m. every day.
+p: C || Write a sentence with 先 and 然后. || Sample: 我先做作业，然后看电视。
+p: C || What time does Lìlì finish class? || 3:30 p.m.
+mis: Putting time words at the end of the sentence | Forgetting tones on 点 and 半 | Using 二 instead of 两 for 2:00 (两点)
+et: Say three times of day in Mandarin. | Describe your morning in two sentences with correct word order.
+mc: B || 早上 means || morning | evening | noon | night || A
+mc: B || 起床 means || get up | go to sleep | eat | study || A
+mc: B || 点 means || o'clock | minute | half | day || A
+mc: B || 半 means || half | quarter | hour | minute || A
+mc: B || 睡觉 means || go to sleep | wake up | shower | go to school || A
+mc: B || Lìlì gets up at || 6:30 | 7:00 | 8:00 | 5:00 || A
+mc: I || "I get up at seven" is || 我七点起床 | 我起床七点 | 七点我起床床 | 我起七点床 || A
+mc: I || 八点一刻 is || 8:15 | 8:30 | 8:45 | 8:10 || A
+mc: I || 先 means || first | then | finally | never || A
+mc: I || 你几点下课？asks || what time you finish class | where your class is | your teacher's name | your age || A
+mc: C || In Mandarin, time words go || before the verb | at the end | nowhere | after the object || A
+mc: C || 2:00 is said || 两点 liǎng diǎn | 二点 èr diǎn | 二十点 | 十二点 || A
+sa: B || Name four times of day in Mandarin. || 早上, 中午, 下午, 晚上.
+sa: B || How do you say 9:30? || 九点半 jiǔ diǎn bàn.
+sa: I || Explain Mandarin word order for time. || Subject + time + verb.
+sa: I || Describe Lìlì's morning. || She gets up at 6:30, showers, eats breakfast, then takes the bus to school.
+sa: I || Ask a partner what time they get up. || 你每天几点起床？
+sa: I || Write a sentence with 先…然后…最后. || Answers vary.
+sa: C || Write a paragraph about your weekday routine. || Answers vary.
+sa: C || Explain why 两点 is used instead of 二点. || 两 is used for "two" before measure words like 点.
+
+=== CHI20.A1 0
+hook: Many large Chinese cities have huge subway systems, high-speed trains and bike-share everywhere. Knowing how to talk about transportation and ask for directions is essential if you ever travel there, or help a visitor in Calgary or Vancouver.
+sc: I can name ways to travel in Mandarin | I can ask for and give directions | I can describe how I get somewhere
+v: 坐 zuò :: Take (a bus, train, plane); literally "sit."
+v: 骑 qí :: Ride (a bike).
+v: 开车 kāi chē :: Drive (a car).
+v: 走路 zǒu lù :: Walk.
+v: 地铁 dìtiě :: Subway.
+v: 往前走 wǎng qián zǒu :: Go straight ahead.
+v: 往左拐 / 往右拐 wǎng zuǒ guǎi / wǎng yòu guǎi :: Turn left / turn right.
+v: 在…旁边 zài…pángbiān :: Next to…
+ts: 请问，怎么走？ || Dialogue || How do I talk about travel and directions in Mandarin?
+tx: Transportation: 坐公共汽车 zuò gōnggòng qìchē (take the bus), 坐地铁 zuò dìtiě (take the subway), 坐火车 zuò huǒchē (take the train), 坐飞机 zuò fēijī (take a plane), 骑自行车 qí zìxíngchē (ride a bike), 开车 kāi chē (drive), 走路 zǒu lù (walk). ¶ Pattern: Subject + 坐/骑 + vehicle + 去 + place. 我坐地铁去学校。Wǒ zuò dìtiě qù xuéxiào. = I take the subway to school. ¶ Directions: 一直往前走 yìzhí wǎng qián zǒu (go straight), 往左拐 (turn left), 往右拐 (turn right), 在…对面 duìmiàn (across from), 在…旁边 (next to). ¶ Dialogue: ¶ 游客 Yóukè (tourist)：请问，地铁站在哪儿？Qǐngwèn, dìtiě zhàn zài nǎr? ¶ 学生 Xuésheng：地铁站离这儿不远。您一直往前走，到第二个路口往右拐。地铁站在银行旁边。 ¶ Dìtiě zhàn lí zhèr bù yuǎn. Nín yìzhí wǎng qián zǒu, dào dì-èr gè lùkǒu wǎng yòu guǎi. Dìtiě zhàn zài yínháng pángbiān. ¶ 游客：走路要多长时间？Zǒu lù yào duō cháng shíjiān? ¶ 学生：大概十分钟。Dàgài shí fēnzhōng. ¶ 游客：谢谢！ ¶ 学生：不客气！Bú kèqi! ¶ English support: 请问 = excuse me (may I ask); 离这儿不远 = not far from here; 路口 = intersection; 银行 = bank; 要多长时间 = how long does it take; 大概 = about; 不客气 = you're welcome. ¶ Activity: Using a map of your school's neighbourhood, take turns asking for and giving directions to three places.
+src: Original dialogue written for this lesson.
+st: Learn transportation vocabulary | Practise 坐/骑 + vehicle + 去 + place | Learn direction phrases | Read the dialogue with a partner | Give directions on a neighbourhood map
+org: 地方 (place) | 怎么去 (how to get there) | 方向 (directions) | 时间 (time)
+an: Where is the subway station? | How long does it take to walk there? | Why does 坐 mean "take" for buses and trains? | How do you get to school, and how would you say it?
+pr: Write directions in characters and pinyin from your school to two nearby places, and describe how you travel to school, including the time it takes.
+ex: Transportation || Say "I ride my bike to school." || 骑 + 自行车 + 去 + place || 我骑自行车去学校。Wǒ qí zìxíngchē qù xuéxiào. || Say it with the bus.
+ex: Asking directions || Ask "Excuse me, where is the bank?" || 请问 + place + 在哪儿 || 请问，银行在哪儿？Qǐngwèn, yínháng zài nǎr? || How would someone answer?
+ex: Giving directions || Say "Go straight, then turn left." || 一直往前走，然后往左拐 || 一直往前走，然后往左拐。 || Add a landmark.
+ex: Time || Ask "How long does it take by subway?" || 坐地铁要多长时间？ || 坐地铁要多长时间？Zuò dìtiě yào duō cháng shíjiān? || Answer: about 20 minutes.
+p: B || What is 地铁? || Subway.
+p: B || What does 开车 mean? || Drive.
+p: B || What does 走路 mean? || Walk.
+p: B || What does 往左拐 mean? || Turn left.
+p: B || What does 请问 mean? || Excuse me (may I ask).
+p: I || Say "take the train." || 坐火车 zuò huǒchē.
+p: I || Which verb goes with bikes? || 骑 qí.
+p: I || Where is the subway station? || Next to the bank.
+p: I || How long is the walk? || About ten minutes.
+p: I || What does 不客气 mean? || You're welcome.
+p: I || What does 路口 mean? || Intersection.
+p: C || Why does Mandarin use 坐 (sit) for buses and planes? || You sit in the vehicle.
+p: C || Translate 学校在图书馆对面。 || The school is across from the library.
+p: C || Say "I take the subway to school; it takes 20 minutes." || 我坐地铁去学校，要二十分钟。
+p: C || Why does the student use 您 nín instead of 你? || To be polite to an adult stranger.
+mis: Using 坐 for bikes instead of 骑 | Putting the place before the vehicle | Forgetting 请问 when asking a stranger
+et: Say how you get to school in Mandarin. | Give two direction phrases.
+mc: B || 地铁 is || subway | bus | train | plane || A
+mc: B || 骑 is used for || bikes | planes | trains | buses || A
+mc: B || 往右拐 means || turn right | turn left | go straight | stop || A
+mc: B || 走路 means || walk | drive | fly | ride || A
+mc: B || 不客气 means || you're welcome | thank you | excuse me | goodbye || A
+mc: B || The subway station is next to the || bank | school | library | hospital || A
+mc: I || "I take the bus to school" is || 我坐公共汽车去学校 | 我骑公共汽车去学校 | 我去学校坐公共汽车公共 | 我开公共汽车 || A
+mc: I || 一直往前走 means || go straight ahead | turn around | turn left | stop here || A
+mc: I || The walk takes about || ten minutes | an hour | two minutes | thirty minutes || A
+mc: I || 在银行旁边 means || next to the bank | across from the bank | inside the bank | far from the bank || A
+mc: C || 您 is used to be || polite | casual | plural | rude || A
+mc: C || Mandarin uses 坐 for buses because you || sit in them | ride them like bikes | drive them | walk them || A
+sa: B || Name four ways to travel in Mandarin. || 坐公共汽车, 坐地铁, 骑自行车, 走路.
+sa: B || How do you ask where something is? || 请问，…在哪儿？
+sa: I || Give directions from the dialogue. || Go straight, turn right at the second intersection; it's next to the bank.
+sa: I || Describe how you get to school. || Answers vary; e.g. 我坐公共汽车去学校。
+sa: I || Explain 坐 vs 骑. || 坐 for vehicles you sit in; 骑 for things you straddle, like bikes.
+sa: I || Ask how long it takes by bus. || 坐公共汽车要多长时间？
+sa: C || Write directions to two nearby places. || Answers vary.
+sa: C || Explain why polite forms matter when asking strangers. || They show respect, which is valued in Chinese culture.
+
+=== CHI30.A1 0
+hook: What will you do after high school? University, college, an apprenticeship, travel, work? Being able to explain your plans and reasons in Mandarin is a real skill, useful for scholarship interviews, exchange programs and conversations with Mandarin-speaking families and employers.
+sc: I can describe my plans after high school | I can explain reasons using 因为…所以… | I can talk about careers using 想当 and 打算
+v: 毕业 bìyè :: Graduate.
+v: 以后 yǐhòu :: After, later.
+v: 打算 dǎsuan :: Plan to.
+v: 上大学 shàng dàxué :: Go to university.
+v: 当 dāng :: Become, work as.
+v: 职业 zhíyè :: Career, occupation.
+v: 将来 jiānglái :: In the future.
+v: 因为…所以… yīnwèi…suǒyǐ… :: Because… therefore…
+ts: 我的将来 || Dialogue || How do I talk about my future plans in Mandarin?
+tx: Patterns: ¶ • 高中毕业以后，我打算… Gāozhōng bìyè yǐhòu, wǒ dǎsuan… = After graduating high school, I plan to… ¶ • 我想当医生。Wǒ xiǎng dāng yīshēng. = I want to be a doctor. ¶ • 因为我喜欢帮助别人，所以我想当护士。Yīnwèi wǒ xǐhuan bāngzhù biérén, suǒyǐ wǒ xiǎng dāng hùshi. = Because I like helping others, I want to be a nurse. ¶ Careers: 医生 yīshēng (doctor), 护士 hùshi (nurse), 工程师 gōngchéngshī (engineer), 老师 lǎoshī (teacher), 律师 lǜshī (lawyer), 电脑工程师 diànnǎo gōngchéngshī (software engineer), 商人 shāngrén (businessperson), 电工 diàngōng (electrician). ¶ Dialogue: ¶ 张老师 Zhāng lǎoshī：高中毕业以后，你打算做什么？ ¶ Gāozhōng bìyè yǐhòu, nǐ dǎsuan zuò shénme? ¶ 马克 Mǎkè：我打算上大学，学习工程。 ¶ Wǒ dǎsuan shàng dàxué, xuéxí gōngchéng. ¶ 张老师：为什么？ ¶ 马克：因为我对数学和科学很感兴趣，所以我将来想当工程师。 ¶ Yīnwèi wǒ duì shùxué hé kēxué hěn gǎn xìngqù, suǒyǐ wǒ jiānglái xiǎng dāng gōngchéngshī. ¶ 张老师：会说中文对你的职业有帮助吗？ ¶ 马克：有！很多公司跟中国有生意，所以会说中文的工程师有更多机会。 ¶ English support: 学习工程 = study engineering; 对…感兴趣 duì…gǎn xìngqù = be interested in…; 有帮助 = helpful; 公司 gōngsī = company; 生意 shēngyi = business; 机会 jīhuì = opportunities. ¶ Activity: Interview three classmates: "高中毕业以后，你打算做什么？为什么？" and report one answer in Mandarin.
+src: Original dialogue written for this lesson.
+st: Learn career and future vocabulary | Practise 打算, 想当 and 以后 | Use 因为…所以… to give reasons | Read the dialogue with a partner | Interview classmates and report
+org: 同学 (classmate) | 打算 (plan) | 职业 (career) | 因为 (reason)
+an: What does Mǎkè plan to do after high school? | Why does he want to be an engineer? | How could Mandarin help his career? | How does 对…感兴趣 work?
+pr: Write a paragraph (8–10 sentences) in characters and pinyin about your plans after high school and your future career, using 打算, 想当, 以后 and at least two 因为…所以… sentences.
+ex: Plans || Say "After graduating, I plan to work." || 毕业以后 + 打算 + verb || 毕业以后，我打算工作。Bìyè yǐhòu, wǒ dǎsuan gōngzuò. || Say it with "go to university."
+ex: Career || Say "I want to be a teacher." || 想当 + career || 我想当老师。Wǒ xiǎng dāng lǎoshī. || Name another career.
+ex: Reason || Say "Because I like computers, I want to be a software engineer." || 因为…所以… || 因为我喜欢电脑，所以我想当电脑工程师。 || Give a different reason.
+ex: Interest || Say "I am interested in art." || 对 + topic + 感兴趣 || 我对美术很感兴趣。Wǒ duì měishù hěn gǎn xìngqù. || What are you interested in?
+p: B || What does 毕业 mean? || Graduate.
+p: B || What does 打算 mean? || Plan to.
+p: B || What does 上大学 mean? || Go to university.
+p: B || What is 医生? || Doctor.
+p: B || What does 将来 mean? || In the future.
+p: I || Say "I want to be an engineer." || 我想当工程师。
+p: I || What does Mǎkè want to study? || Engineering.
+p: I || Why does Mǎkè want to be an engineer? || He is interested in math and science.
+p: I || What does 机会 mean? || Opportunities.
+p: I || What is 护士? || Nurse.
+p: I || What is 电工? || Electrician.
+p: C || How could Mandarin help an engineer's career? || Many companies do business with China, creating more opportunities.
+p: C || Translate 因为我想帮助别人，所以我想当护士。 || Because I want to help others, I want to be a nurse.
+p: C || Where does 以后 go in "after graduating"? || After the verb phrase: 毕业以后.
+p: C || Say "I am interested in history." || 我对历史很感兴趣。
+mis: Putting 以后 before the event instead of after it | Using 是 instead of 当 for "become" | Leaving out 所以 in 因为…所以… sentences
+et: Describe your plan after high school in Mandarin. | Give one reason using 因为…所以….
+mc: B || 毕业 means || graduate | study | work | travel || A
+mc: B || 打算 means || plan to | finished | never | maybe || A
+mc: B || 医生 is || doctor | nurse | teacher | lawyer || A
+mc: B || 工程师 is || engineer | electrician | businessperson | student || A
+mc: B || 上大学 means || go to university | go to work | go home | go shopping || A
+mc: B || Mǎkè plans to study || engineering | medicine | law | art || A
+mc: I || "I want to be a teacher" is || 我想当老师 | 我当想老师 | 老师我想 | 我想老师当 || A
+mc: I || "After graduating" is || 毕业以后 | 以后毕业 | 毕业以前 | 毕业然后 || A
+mc: I || 对数学感兴趣 means || interested in math | good at math | bad at math | teaching math || A
+mc: I || 机会 means || opportunities | company | business | career || A
+mc: C || 因为…所以… expresses || cause and result | time order | comparison | contrast || A
+mc: C || Mandarin helps Mǎkè's career because || many companies do business with China | it's required | engineers must speak it | it's easy || A
+sa: B || What does 将来 mean? || In the future.
+sa: B || Name four careers in Mandarin. || 医生, 护士, 工程师, 老师.
+sa: I || Describe Mǎkè's plan. || He plans to go to university to study engineering and become an engineer.
+sa: I || Write a 因为…所以… sentence about your career. || Answers vary.
+sa: I || Say what you're interested in using 对…感兴趣. || Answers vary.
+sa: I || Explain how Mandarin can help careers. || Many companies trade with China, so Mandarin speakers have more opportunities.
+sa: C || Write a paragraph about your future plans. || Answers vary.
+sa: C || Explain the word order of 毕业以后. || 以后 follows the event it refers to.
