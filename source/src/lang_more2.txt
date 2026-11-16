@@ -1,0 +1,175 @@
+=== FSL20.B1 0
+hook: French is spoken on five continents, by more than 320 million people. A student in Moncton, one in Dakar and one in Port-au-Prince all speak French, but each would notice the others' accents and expressions right away.
+sc: I can locate major francophone regions on a map | I can describe some regional differences in French | I can explain cultural connections in the francophonie
+v: la Francophonie :: The community of countries and people who use French.
+v: le pays francophone :: A French-speaking country.
+v: l'accent :: Accent.
+v: l'expression régionale :: A regional expression.
+v: l'Acadie :: Acadia, the francophone region of Atlantic Canada.
+v: le patrimoine :: Heritage.
+ts: La francophonie dans le monde || Investigation || Where is French spoken, and how does it vary?
+tx: Francophone regions: ¶ • Canada: Québec, Acadie (New Brunswick, Nova Scotia, PEI), francophone communities in Ontario, Manitoba and Alberta (for example Saint-Paul, Bonnyville and Edmonton's Bonnie Doon). ¶ • Europe: France, Belgium, Switzerland, Luxembourg, Monaco. ¶ • Africa: about half of the world's French speakers, for example Senegal, Côte d'Ivoire, Democratic Republic of the Congo, Cameroon, Morocco (widely used). ¶ • Caribbean and elsewhere: Haiti, Martinique, Guadeloupe, French Polynesia, Vanuatu. ¶ Regional expressions (Québec vs France): ¶ • Weekend: la fin de semaine (Québec) / le week-end (France) ¶ • Car: le char (familiar, Québec) / la voiture ¶ • To chat: jaser (Québec) / bavarder ¶ • Shopping: magasiner (Québec) / faire du shopping (France) ¶ • Breakfast, lunch, supper: déjeuner, dîner, souper (Québec) / petit-déjeuner, déjeuner, dîner (France) ¶ Texte : Je m'appelle Awa. J'habite à Dakar, au Sénégal. À la maison, je parle wolof avec ma famille, mais à l'école, je parle français. Mon cousin habite à Montréal. Quand il dit « On va magasiner en fin de semaine », je ris ! Mais nous partageons la même langue et beaucoup de chansons. ¶ Task: Label a world map with ten francophone countries or regions. Then match expressions to regions.
+src: Original text written for this lesson; figures summarized from the Organisation internationale de la Francophonie.
+st: Locate francophone regions on a map | Learn facts about francophone communities | Compare Québec and France expressions | Read Awa's text | Explain cultural connections across the francophonie
+org: Region | Country or province | Fact | Expression or cultural connection
+an: Why is French spoken in so many places? | Why does Awa speak two languages? | Which regional expression surprised you most? | Are regional differences a problem or a richness?
+pr: Create a French-language poster or slide about one francophone region: location, population speaking French, two cultural facts, one regional expression and one artist or tradition.
+ex: Map || Name three francophone countries in Africa. || Recall || Le Sénégal, la Côte d'Ivoire, le Cameroun (other valid answers) || Which continent has the most French speakers?
+ex: Expression || Translate the Québec "Je vais magasiner." || Regional vocabulary || I'm going shopping || How would someone in France say it?
+ex: Meals || In Québec, what is "le dîner"? || Compare regions || Lunch (in France, it's dinner) || What is "le souper"?
+ex: Text || Which languages does Awa speak? || Read || Wolof at home and French at school || Why is this common in Senegal?
+p: B || What is la Francophonie? || The community of French-speaking countries and people.
+p: B || What is l'Acadie? || The francophone region of Atlantic Canada.
+p: B || Name a francophone country in Europe. || France, Belgium, Switzerland, Luxembourg or Monaco.
+p: B || What does "le patrimoine" mean? || Heritage.
+p: B || Where does Awa live? || In Dakar, Senegal.
+p: I || Which continent has about half of the world's French speakers? || Africa.
+p: I || What does "la fin de semaine" mean? || The weekend (Québec).
+p: I || What is "jaser" in France? || Bavarder (to chat).
+p: I || Name an Alberta francophone community. || Saint-Paul, Bonnyville, Bonnie Doon in Edmonton or another valid answer.
+p: I || Name a francophone Caribbean country. || Haiti (also Martinique and Guadeloupe, French territories).
+p: I || Why does Awa laugh at her cousin? || He uses Québec expressions like "magasiner en fin de semaine."
+p: C || Why is French spoken in Africa? || Because of colonial history; today it is an official or shared language in many countries.
+p: C || Are Québec expressions "wrong" French? Explain. || No; they are regional varieties, as valid as any other.
+p: C || How do Awa and her cousin share a culture? || Through the French language and music.
+p: C || Translate into France French: "Je vais souper avec mon char." || Je vais dîner avec ma voiture (or Je vais dîner, j'y vais en voiture).
+mis: Thinking France is the only "real" French | Thinking French in Canada exists only in Québec | Thinking regional differences make speakers unable to understand each other
+et: Name francophone regions on three continents. | Give one Québec expression and its France equivalent.
+mc: B || La Francophonie refers to || French-speaking countries and people | only France | a French restaurant | a Canadian province
+mc: B || L'Acadie is in || Atlantic Canada | Africa | Belgium | the Caribbean
+mc: B || Awa lives in || Dakar, Senegal | Montréal | Paris | Brussels
+mc: B || Which is a francophone country in Europe? || Belgium | Spain | Germany | Portugal
+mc: I || About half of the world's French speakers live in || Africa | France | Canada | Asia
+mc: I || In Québec, "magasiner" means || to go shopping | to store | to chat | to drive
+mc: I || In Québec, "le souper" is || supper | breakfast | lunch | dessert
+mc: I || Awa speaks Wolof || at home | at school | with her cousin only | never
+mc: I || An Alberta francophone community is || Saint-Paul | Dakar | Liège | Lyon
+mc: C || Québec French expressions are best described as || a regional variety of French | incorrect French | a different language | slang only
+mc: C || French is spoken in many African countries mainly because of || colonial history | tourism | the internet | the Olympics
+mc: C || "Le dîner" means lunch in || Québec | France | Belgium only | nowhere
+sa: B || Define la Francophonie. || The community of countries and people who use French.
+sa: B || Name two francophone regions in Canada. || Québec, Acadie, francophone Ontario, Manitoba or Alberta.
+sa: I || Give two Québec expressions and their France equivalents. || Answers vary.
+sa: I || Explain the difference in meal names between Québec and France. || Québec: déjeuner, dîner, souper; France: petit-déjeuner, déjeuner, dîner.
+sa: I || Why does Awa speak two languages? || Wolof at home and French at school in Senegal.
+sa: I || Name three francophone countries outside Canada. || Answers vary.
+sa: C || Explain why regional differences in French are a richness. || Answers vary.
+sa: C || Explain how the francophonie connects people across continents. || A shared language, culture, music and media.
+
+=== FSL20.C1 0
+hook: What will the planet look like in 2050? The answer depends partly on what we do now. To talk about the future and plans to protect the environment in French, you need the futur simple.
+sc: I can describe environmental problems in French | I can form the futur simple of regular and irregular verbs | I can propose future actions using si + present, futur
+v: l'environnement :: The environment.
+v: le réchauffement climatique :: Global warming.
+v: la pollution :: Pollution.
+v: recycler :: To recycle.
+v: le gaspillage :: Waste.
+v: le futur simple :: The simple future tense (je ferai, nous protégerons).
+v: il faudra :: It will be necessary.
+ts: Demain, la planète || Grammar and reading || How do I talk about environmental problems and future solutions in French?
+tx: Problems: la pollution de l'air et de l'eau, le réchauffement climatique, les déchets (waste) en plastique, la déforestation, le gaspillage d'eau et de nourriture, les feux de forêt. ¶ Futur simple: infinitive + endings -ai, -as, -a, -ons, -ez, -ont. (For -re verbs, drop the -e: prendre → je prendrai.) ¶ parler: je parlerai, tu parleras, il parlera, nous parlerons, vous parlerez, ils parleront. ¶ Irregular stems: être → ser-, avoir → aur-, faire → fer-, aller → ir-, pouvoir → pourr-, venir → viendr-, devoir → devr-, falloir → il faudra. ¶ Si + present, futur: Si nous recyclons, il y aura moins de déchets. ¶ Texte : ¶ « En 2050, notre ville sera différente. Nous irons à l'école à vélo ou en autobus électrique. Les maisons auront des panneaux solaires. Il n'y aura plus de bouteilles en plastique : tout le monde utilisera une bouteille réutilisable. Si nous plantons des arbres aujourd'hui, l'air sera plus propre demain. Mais il faudra agir maintenant ! » – Élise, 16 ans, Edmonton ¶ Task: Find all verbs in the futur simple in Élise's text. Then write your own vision for your city in 2050.
+src: Original text written for this lesson.
+st: Learn environmental vocabulary | Learn the futur simple endings | Learn irregular future stems | Read Élise's text and find future verbs | Write your own vision for 2050
+org: Problem | Future action (futur simple) | Si + present, futur sentence
+an: Which of Élise's predictions is most realistic? | Why do irregular verbs keep the same endings? | What will you personally do for the environment? | How do si clauses connect actions and results?
+pr: Write and present a 120-word "Ma ville en 2050" vision using at least eight futur simple verbs (four irregular) and two si clauses.
+ex: Regular || Conjugate recycler with nous in the future. || infinitive + -ons || Nous recyclerons. || With ils?
+ex: Irregular || Say "We will go to school by bike." || aller → ir- || Nous irons à l'école à vélo. || What is the stem of faire?
+ex: Si clause || Finish: Si nous plantons des arbres... || si + present, futur || ...l'air sera plus propre. || Make your own.
+ex: Il faudra || Say "It will be necessary to reduce waste." || falloir → il faudra || Il faudra réduire le gaspillage. || What follows il faudra?
+p: B || What does "l'environnement" mean? || The environment.
+p: B || What does "recycler" mean? || To recycle.
+p: B || What does "le gaspillage" mean? || Waste.
+p: B || Give the futur simple endings. || -ai, -as, -a, -ons, -ez, -ont.
+p: B || What does "il faudra" mean? || It will be necessary.
+p: I || Conjugate parler with je in the future. || Je parlerai.
+p: I || What is the future stem of être? || Ser-.
+p: I || What is the future stem of avoir? || Aur-.
+p: I || Translate: They will make less waste. || Ils feront moins de déchets.
+p: I || How will people go to school in Élise's city? || By bike or electric bus.
+p: I || What will houses have in 2050? || Solar panels.
+p: C || Why is it "je prendrai" not "je prendreai"? || -re verbs drop the final -e before the future endings.
+p: C || Complete: Si nous ne protégeons pas les forêts, ... || Answers vary, for example il y aura plus de feux.
+p: C || What tense follows "si" in a future condition? || The present.
+p: C || Translate: If you recycle, there will be less pollution. || Si tu recycles, il y aura moins de pollution.
+mis: Using the future after si | Forgetting irregular stems (je allerai) | Adding -e to -re verbs (je vendreai)
+et: Write the future of faire and aller with nous. | Write one si clause about the environment.
+mc: B || "Le réchauffement climatique" means || global warming | recycling | pollution | forest
+mc: B || "Recycler" means || to recycle | to throw away | to pollute | to plant
+mc: B || The futur simple ending for nous is || -ons | -ez | -ai | -ont
+mc: B || "Il faudra" means || it will be necessary | it was necessary | it is raining | he will fall
+mc: I || The future stem of aller is || ir- | aller- | va- | all-
+mc: I || "Nous serons" comes from || être | savoir | sortir | servir
+mc: I || In Élise's city, houses will have || solar panels | gardens on roofs | no windows | gas heaters
+mc: I || The future of faire with je is || je ferai | je fairai | je faisai | je fais
+mc: I || "Ils auront" means || they will have | they had | they have | they would have
+mc: C || Which sentence is correct? || Si nous recyclons, il y aura moins de déchets. | Si nous recyclerons, il y aura moins de déchets. | Si nous recyclons, il y a eu moins de déchets. | Si nous avons recyclé, il y aura moins.
+mc: C || "Je prendrai" drops the final -e of prendre because || -re verbs drop it before future endings | it is irregular in all tenses | it uses être | it is plural
+mc: C || Élise says plastic bottles will be || replaced by reusable bottles | more common | made of glass | sold in stores
+sa: B || Translate "la pollution de l'air." || Air pollution.
+sa: B || List the futur simple endings. || -ai, -as, -a, -ons, -ez, -ont.
+sa: I || Conjugate finir in the future with tu and ils. || Tu finiras, ils finiront.
+sa: I || Give the future stems of être, avoir and faire. || Ser-, aur-, fer-.
+sa: I || Write a si clause about the environment. || Answers vary.
+sa: I || Name two predictions from Élise's text. || Bikes or electric buses, solar panels, no plastic bottles, cleaner air.
+sa: C || Explain the rule for si clauses about the future. || Si + present, then the futur simple.
+sa: C || Write three sentences about your city in 2050. || Answers vary.
+
+=== FSL20.D1 0
+hook: Should school start at 10 a.m.? Should phones be banned in class? In French, a strong opinion isn't enough. You need to support it, admit the other side and connect your ideas so others follow your argument.
+sc: I can express and justify opinions | I can agree and disagree politely | I can link ideas with connectors (cependant, par contre, donc, en plus)
+v: à mon avis :: In my opinion.
+v: je suis d'accord / je ne suis pas d'accord :: I agree / I disagree.
+v: par contre :: On the other hand.
+v: cependant :: However.
+v: donc :: Therefore / so.
+v: en plus / de plus :: In addition.
+v: en conclusion :: In conclusion.
+ts: Le grand débat || Discussion and writing || How do I build and defend an opinion in French?
+tx: Opinion: À mon avis, ... / Je pense que ... / Je crois que ... / Selon moi, ... ¶ Justify: parce que ..., car ..., par exemple ... ¶ Agree: Je suis d'accord avec toi. Tu as raison. C'est vrai. ¶ Disagree politely: Je ne suis pas d'accord parce que ... Je comprends ton point de vue, mais ... Tu as raison, cependant ... ¶ Connectors: d'abord (first), en plus (in addition), par contre (on the other hand), cependant (however), donc (therefore), en conclusion. ¶ Débat modèle : « Les téléphones devraient être interdits en classe. » ¶ Malik : À mon avis, il faut interdire les téléphones en classe parce qu'ils sont une distraction. En plus, certains élèves trichent avec leur téléphone. ¶ Sofia : Je comprends ton point de vue, mais je ne suis pas d'accord. Les téléphones sont utiles pour la recherche et les dictionnaires. Par contre, on devrait les utiliser seulement quand le prof le permet. ¶ Malik : C'est vrai, cependant beaucoup d'élèves ne respectent pas les règles. ¶ Sofia : Donc, il faut des règles claires, pas une interdiction totale ! ¶ Task: Choose a debate topic, prepare three arguments and one counter-argument, then debate in pairs.
+src: Original model debate written for this lesson.
+st: Learn opinion and justification phrases | Learn polite agreement and disagreement | Learn connectors | Analyze the model debate | Prepare and hold your own debate
+org: Argument | Justification | Connector | Counter-argument
+an: Who made the stronger argument, Malik or Sofia? Why? | How does "Je comprends ton point de vue, mais..." change the tone? | Which connectors made the debate easier to follow? | Can you change your mind during a debate?
+pr: Hold a three-minute debate with a partner and then write a 150-word opinion paragraph using at least five connectors and a counter-argument.
+ex: Justify || Say "In my opinion, school should start later because we are tired." || Opinion + parce que || À mon avis, l'école devrait commencer plus tard parce que nous sommes fatigués. || Add a second argument with en plus.
+ex: Polite disagreement || Disagree politely with "Homework is useless." || Acknowledge, then disagree || Je comprends ton point de vue, mais les devoirs nous aident à pratiquer. || What other phrase could you use?
+ex: Connector || Join: "Phones are useful. They are distracting." || Contrast || Les téléphones sont utiles; cependant, ils sont distrayants. || Use par contre instead.
+ex: Conclusion || Write a conclusion sentence. || en conclusion / donc || En conclusion, il faut des règles claires pour les téléphones. || Why restate your opinion?
+p: B || What does "à mon avis" mean? || In my opinion.
+p: B || What does "je suis d'accord" mean? || I agree.
+p: B || What does "cependant" mean? || However.
+p: B || What does "donc" mean? || Therefore / so.
+p: B || What does "en plus" mean? || In addition.
+p: I || Give two ways to justify an opinion. || Parce que, car, par exemple.
+p: I || How do you disagree politely? || Je comprends ton point de vue, mais...
+p: I || What is Malik's opinion? || Phones should be banned in class.
+p: I || What is Sofia's solution? || Clear rules, not a total ban.
+p: I || Translate: On the other hand, phones help with research. || Par contre, les téléphones aident pour la recherche.
+p: I || Give two opinion starters besides à mon avis. || Je pense que, je crois que, selon moi.
+p: C || Why include a counter-argument in your writing? || It shows you considered other views and makes your argument stronger.
+p: C || Explain the difference between "par contre" and "en plus." || Par contre contrasts; en plus adds.
+p: C || Write a sentence agreeing partly, then disagreeing. || Tu as raison, cependant...
+p: C || Why are connectors important in an argument? || They show how ideas relate and make it easy to follow.
+mis: Stating opinions without reasons | Using "mais" for every connection | Disagreeing rudely ("Tu as tort!") instead of politely
+et: Write an opinion sentence with a reason. | Use two different connectors in sentences.
+mc: B || "À mon avis" means || in my opinion | I agree | on the other hand | in conclusion
+mc: B || "Je ne suis pas d'accord" means || I disagree | I agree | I don't know | I'm not ready
+mc: B || "Donc" means || therefore | however | in addition | first
+mc: B || "En plus" means || in addition | on the other hand | however | finally
+mc: I || Which phrase disagrees politely? || Je comprends ton point de vue, mais... | Tu as tort ! | C'est stupide. | Non !
+mc: I || "Cependant" is used to || contrast ideas | add an example | conclude | agree
+mc: I || Sofia thinks phones are useful for || research and dictionaries | games | music | photos
+mc: I || Malik says some students || cheat with their phones | lose their phones | don't have phones | need phones
+mc: I || Which word introduces a reason? || parce que | cependant | en conclusion | d'abord
+mc: C || Including a counter-argument makes your writing || stronger and more balanced | weaker | longer only | confusing
+mc: C || The best connector to add a second argument is || en plus | par contre | cependant | en conclusion
+mc: C || Sofia's final position is || clear rules, not a total ban | a total ban | no rules | phones all the time
+sa: B || Translate "Je pense que l'école est importante." || I think school is important.
+sa: B || What does "par contre" mean? || On the other hand.
+sa: I || Write an opinion with two reasons using en plus. || Answers vary.
+sa: I || Write a polite disagreement. || Answers vary.
+sa: I || Summarize Malik's and Sofia's positions. || Malik: ban phones; Sofia: clear rules, not a ban.
+sa: I || Give three connectors and their meanings. || Answers vary.
+sa: C || Explain why connectors make arguments stronger. || They show logical relationships between ideas.
+sa: C || Write a short opinion paragraph with a counter-argument. || Answers vary.

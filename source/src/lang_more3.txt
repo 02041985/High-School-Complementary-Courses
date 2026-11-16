@@ -1,0 +1,175 @@
+=== FSL30.B1 0
+hook: « Il faut que nous agissions. » That small change, agissions instead of agissons, is the subjunctive, the mood French uses for necessity, wishes and emotions. You'll hear it in every debate about society and change.
+sc: I can discuss a social issue in French | I can form the present subjunctive of regular and common irregular verbs | I can use il faut que and other triggers to build arguments
+v: l'enjeu :: The issue / what is at stake.
+v: la société :: Society.
+v: le subjonctif :: The subjunctive mood, used after expressions of necessity, emotion, wish and doubt.
+v: il faut que :: It is necessary that.
+v: l'argument :: Argument.
+v: la solution :: Solution.
+v: l'inégalité :: Inequality.
+ts: Changer la société || Grammar and reading || How do I discuss social issues and propose solutions using the subjunctive?
+tx: Social issues: l'inégalité, la pauvreté, le racisme, le harcèlement (bullying), l'accès à l'éducation, la santé mentale des jeunes, l'itinérance (homelessness). ¶ Forming the present subjunctive: take the ils form of the present, drop -ent, add -e, -es, -e, -ions, -iez, -ent. ¶ parler (ils parlent → parl-): que je parle, que tu parles, qu'il parle, que nous parlions, que vous parliez, qu'ils parlent. ¶ finir (ils finissent → finiss-): que je finisse. ¶ Common irregulars: être → que je sois, que nous soyons; avoir → que j'aie; faire → que je fasse; aller → que j'aille, que nous allions; pouvoir → que je puisse; savoir → que je sache. ¶ Triggers: il faut que, il est important que, je veux que, je souhaite que, il est essentiel que. ¶ Texte : « Le harcèlement en ligne est un enjeu majeur pour les jeunes. Selon moi, il faut que les écoles fassent plus d'ateliers sur le respect en ligne. Il est essentiel que les victimes puissent parler à un adulte de confiance. Je veux aussi que les plateformes soient plus responsables. Enfin, il est important que chacun de nous réagisse quand il voit du harcèlement. » – Mathis, 17 ans ¶ Task: Underline every subjunctive verb in Mathis's text. Then choose an issue and write three solutions with three different triggers.
+src: Original text written for this lesson.
+st: Learn vocabulary for social issues | Learn how to form the subjunctive | Learn common irregular forms | Find subjunctive verbs in the text | Propose solutions for an issue
+org: Issue | Trigger | Solution with subjunctive
+an: Why does French use the subjunctive after il faut que? | Which of Mathis's solutions is most realistic? | What issue matters most to your generation? | How does the subjunctive make an argument sound more persuasive?
+pr: Write a 150-word opinion text on a social issue, proposing at least four solutions with the subjunctive and using four different triggers, then present it.
+ex: Regular || Form: il faut que nous (parler). || ils parlent → parl- + -ions || Il faut que nous parlions. || Form it with tu.
+ex: Irregular || Form: il est important que les écoles (faire) plus. || faire → fass- || Il est important que les écoles fassent plus. || What is the subjunctive of être for ils?
+ex: Trigger || Say "I want the government to help." || je veux que + subjunctive || Je veux que le gouvernement aide. || Why subjunctive?
+ex: Text || Find the subjunctive of pouvoir in the text. || Read || puissent (que les victimes puissent parler) || What is its infinitive?
+p: B || What does "l'enjeu" mean? || The issue / what is at stake.
+p: B || What does "il faut que" mean? || It is necessary that.
+p: B || What does "le harcèlement" mean? || Bullying / harassment.
+p: B || Translate "la santé mentale." || Mental health.
+p: B || What does "l'itinérance" mean? || Homelessness.
+p: I || How do you form the subjunctive stem? || Ils form of the present minus -ent.
+p: I || What is the subjunctive of être with je? || Que je sois.
+p: I || What is the subjunctive of faire with nous? || Que nous fassions.
+p: I || Translate: It is important that you (tu) listen. || Il est important que tu écoutes.
+p: I || Name two subjunctive triggers. || Il faut que, je veux que, il est essentiel que, je souhaite que.
+p: I || What does Mathis want platforms to do? || Be more responsible.
+p: C || Why does "je veux que" take the subjunctive? || It expresses a wish about someone else's action.
+p: C || What is the subjunctive of aller with nous? || Que nous allions.
+p: C || Write a solution for poverty with "il est essentiel que." || Answers vary.
+p: C || Why does French use the indicative after "je pense que" but the subjunctive after "il faut que"? || Je pense que states belief as fact; il faut que expresses necessity.
+mis: Using the subjunctive after every "que" | Forgetting irregular forms (que je soie) | Using the infinitive after il faut que
+et: Form the subjunctive of finir and être with je. | Write one solution with il faut que.
+mc: B || "L'enjeu" means || the issue | the game | the solution | the society
+mc: B || "Il faut que" is followed by || the subjunctive | the future | the infinitive only | the past
+mc: B || "La pauvreté" means || poverty | power | pollution | patience
+mc: B || "Le harcèlement" means || bullying | homework | happiness | housing
+mc: I || The subjunctive stem comes from || the ils form of the present | the infinitive only | the future | the past participle
+mc: I || Que je (être) → || sois | suis | serai | étais
+mc: I || Que nous (parler) → || parlions | parlons | parlerons | parlé
+mc: I || Mathis wants schools to || offer more workshops on online respect | ban the internet | close earlier | give more tests
+mc: I || "Il est essentiel que les victimes puissent parler" uses the subjunctive of || pouvoir | parler | être | savoir
+mc: C || Which sentence is correct? || Il faut que tu fasses tes devoirs. | Il faut que tu fais tes devoirs. | Il faut que tu faire tes devoirs. | Il faut que tu feras tes devoirs.
+mc: C || "Je veux que" takes the subjunctive because it expresses || a wish | a fact | the past | a certainty
+mc: C || Which uses the indicative, not the subjunctive? || Je pense que | Il faut que | Je veux que | Il est important que
+sa: B || Translate "l'inégalité." || Inequality.
+sa: B || List the subjunctive endings. || -e, -es, -e, -ions, -iez, -ent.
+sa: I || Form the subjunctive of avoir and aller with je. || Que j'aie, que j'aille.
+sa: I || Write a solution to bullying using il est important que. || Answers vary.
+sa: I || Find two subjunctive verbs in Mathis's text. || Fassent, puissent, soient, réagisse.
+sa: I || Name three subjunctive triggers. || Il faut que, je veux que, il est essentiel que (others).
+sa: C || Explain when French uses the subjunctive. || After expressions of necessity, emotion, wish and doubt.
+sa: C || Write three solutions to a social issue using different triggers. || Answers vary.
+
+=== FSL30.C1 0
+hook: Antoine de Saint-Exupéry's "Le Petit Prince" has been translated into more than 500 languages. It's a children's book about a tiny prince from an asteroid, and also a book adults read to understand love, loss and what really matters. Francophone literature often works on two levels at once.
+sc: I can read and understand a short francophone text | I can analyze characters, plot and themes in French | I can write a personal and critical response
+v: le roman :: The novel.
+v: le personnage :: The character.
+v: l'intrigue :: The plot.
+v: le thème :: The theme.
+v: le narrateur :: The narrator.
+v: la critique :: The review / critique.
+ts: Lire « Le Petit Prince » || Literary analysis || How do I read and respond to francophone literature in French?
+tx: Contexte : « Le Petit Prince » (1943), d'Antoine de Saint-Exupéry, pilote et écrivain français. Le narrateur, un aviateur, tombe en panne dans le désert du Sahara. Il rencontre un petit garçon venu d'une autre planète. ¶ Résumé du chapitre 21 (en français simple) : Le petit prince rencontre un renard. Le renard lui demande de l'« apprivoiser », c'est-à-dire de créer des liens. Chaque jour, le petit prince s'assoit un peu plus près. Ils deviennent amis. Quand le petit prince part, le renard est triste, mais il dit que c'est bien, car maintenant les champs de blé lui rappelleront les cheveux dorés du prince. Avant de partir, le renard lui donne un secret : « On ne voit bien qu'avec le cœur. L'essentiel est invisible pour les yeux. » ¶ Analyse : Personnages (le petit prince, le renard), intrigue (rencontre, amitié, séparation), thèmes (l'amitié, la responsabilité, ce qui est vraiment important), symboles (le blé, la rose). ¶ Film option: the 2015 animated film "Le Petit Prince" (Mark Osborne) or a francophone short film chosen by the teacher. ¶ Task: Answer comprehension questions, then write a response: what the fox's secret means to you and an example from your life.
+src: Summary written for this lesson; the short quotation is from Antoine de Saint-Exupéry, "Le Petit Prince" (1943).
+st: Learn about the author and context | Read the chapter summary | Answer comprehension questions | Analyze characters, plot, themes and symbols | Write a personal and critical response
+org: Élément | Dans le texte | Ce que cela signifie
+an: Que veut dire « apprivoiser » ? | Pourquoi le blé est-il important pour le renard ? | Que signifie « l'essentiel est invisible pour les yeux » ? | Pourquoi les adultes lisent-ils aussi ce livre ?
+pr: Write a 200-word response in French: summarize the passage, explain one theme and one symbol, and connect the fox's secret to your own life.
+ex: Vocabulary || What does "apprivoiser" mean in the story? || Context clue: créer des liens || To tame, to build a bond || Who tames whom?
+ex: Symbol || Why will the wheat fields matter to the fox? || Connection to the prince || They will remind him of the prince's golden hair || What does this say about friendship?
+ex: Theme || State a theme of the chapter in French. || Big idea || L'amitié demande du temps et crée des responsabilités || Find evidence.
+ex: Quote || Explain "L'essentiel est invisible pour les yeux." || Interpret || What matters most, like love and friendship, can't be seen, only felt || Do you agree?
+p: B || Who wrote "Le Petit Prince"? || Antoine de Saint-Exupéry.
+p: B || What does "le personnage" mean? || The character.
+p: B || What does "l'intrigue" mean? || The plot.
+p: B || Where does the narrator crash his plane? || In the Sahara desert.
+p: B || Which animal does the prince meet in chapter 21? || A fox.
+p: I || What does "apprivoiser" mean? || To tame / to create bonds.
+p: I || How do the prince and fox become friends? || The prince sits a little closer each day.
+p: I || Why is the fox sad? || The prince leaves.
+p: I || What is the fox's secret? || One sees clearly only with the heart; what is essential is invisible to the eyes.
+p: I || Name a theme of the chapter. || Friendship, responsibility, what really matters.
+p: I || What year was the book published? || 1943.
+p: C || Why do adults also read this book? || It explores deep themes like love, loss and values beneath a simple story.
+p: C || Explain the symbol of the wheat. || It becomes meaningful because it reminds the fox of his friend.
+p: C || How does the fox's secret apply to modern life? || Answers vary, for example valuing people over appearances or possessions.
+p: C || Write a sentence in French explaining a theme. || Answers vary.
+mis: Thinking children's books can't have deep themes | Translating word by word instead of using context | Summarizing instead of analyzing
+et: Name the two characters in chapter 21. | Explain the fox's secret in your own words.
+mc: B || "Le Petit Prince" was written by || Antoine de Saint-Exupéry | Victor Hugo | Molière | Gabrielle Roy
+mc: B || "L'intrigue" means || the plot | the character | the narrator | the review
+mc: B || The narrator is || a pilot | a farmer | a teacher | a king
+mc: B || In chapter 21, the prince meets || a fox | a rose | a snake | a king
+mc: I || "Apprivoiser" means || to tame or create bonds | to run away | to fly | to forget
+mc: I || The wheat fields will remind the fox of || the prince's golden hair | the desert | his home | food
+mc: I || The fox's secret is about || seeing with the heart | finding treasure | flying a plane | growing wheat
+mc: I || The narrator's plane breaks down in || the Sahara | the Alps | Paris | the ocean
+mc: I || A theme of the chapter is || friendship | war | money | sports
+mc: C || "L'essentiel est invisible pour les yeux" means || what matters most can't be seen | eyes are not important | nothing is visible | be careful with your eyes
+mc: C || Adults read "Le Petit Prince" because || it explores deep themes beneath a simple story | it is very long | it is only for adults | it is a history book
+mc: C || The best analysis of a symbol explains || what it represents and why | only what it looks like | its colour | its size
+sa: B || Who is the author of "Le Petit Prince"? || Antoine de Saint-Exupéry.
+sa: B || Define "le thème." || The central idea of a text.
+sa: I || Summarize chapter 21 in two sentences. || Answers vary.
+sa: I || What does "apprivoiser" mean and why is it important? || To create bonds; it explains how friendship forms.
+sa: I || Explain the symbol of the wheat. || It reminds the fox of the prince, giving it meaning.
+sa: I || Name one theme and give evidence. || Answers vary.
+sa: C || Explain the fox's secret and connect it to your life. || Answers vary.
+sa: C || Explain why this book works for both children and adults. || Answers vary.
+
+=== FSL30.D1 0
+hook: You'd never write "Salut le prof, ça va ?" in a university application, and you'd never say "Je vous prie d'agréer..." to your best friend. Knowing which French to use, and when, is called register, and it matters as much as grammar.
+sc: I can compare formal and informal register | I can choose register for audience and purpose | I can deliver a structured formal presentation and answer questions
+v: le registre :: Register, the level of formality.
+v: formel (soutenu) :: Formal.
+v: familier :: Informal, casual.
+v: courant :: Standard, everyday neutral French.
+v: le vouvoiement :: Using vous for politeness.
+v: la présentation :: The presentation.
+v: la conclusion :: The conclusion.
+ts: Le bon registre || Language analysis and presentation || How do I choose the right register and present formally in French?
+tx: Three registers: ¶ • Familier (friends, texting): Salut ! T'es où ? J'ai pas le temps. C'est cool. Les amis → les potes. ¶ • Courant (most situations): Bonjour. Où es-tu ? Je n'ai pas le temps. C'est bien. ¶ • Formel / soutenu (letters, presentations, interviews): Bonjour Madame. Où êtes-vous ? Je n'ai malheureusement pas le temps. Je vous remercie de votre attention. ¶ Signs of formal register: vous, full negation (ne ... pas), inversion questions (Pouvez-vous...?), precise vocabulary, no slang. ¶ Formal presentation structure: ¶ 1. Introduction: Bonjour à tous. Aujourd'hui, je vais vous présenter... Mon exposé comporte trois parties. ¶ 2. Body: Premièrement... Deuxièmement... Enfin... ¶ 3. Conclusion: En conclusion... Pour résumer... ¶ 4. Questions: Merci de votre attention. Avez-vous des questions ? Answers: C'est une excellente question. / Je ne suis pas certain(e), mais je pense que... ¶ Task: Rewrite three informal texts into formal French. Then prepare and deliver a three-minute formal presentation on a topic from the course.
+src: Original activity written for this lesson.
+st: Compare three registers | Identify signs of formal register | Rewrite informal texts formally | Prepare a structured presentation | Deliver it and answer questions
+org: Familier | Courant | Formel
+an: When would you use each register? | What makes "J'ai pas le temps" informal? | Why is it important to signpost the structure of a presentation? | How should you answer a question you don't know?
+pr: Deliver a three-minute formal presentation in French with a clear introduction, three parts, a conclusion and a question period, using formal register throughout.
+ex: Negation || Make formal: "J'ai pas fini." || Add ne || Je n'ai pas fini. || Which register is "J'ai pas fini"?
+ex: Question || Make formal: "Tu peux m'aider ?" || vous + inversion || Pouvez-vous m'aider ? || Make it even more polite.
+ex: Introduction || Begin a formal presentation about climate change. || Greeting + topic + plan || Bonjour à tous. Aujourd'hui, je vais vous présenter le changement climatique. Mon exposé comporte trois parties. || What are the three parts?
+ex: Unknown answer || Respond formally to a question you can't answer. || Honest and polite || C'est une excellente question. Je ne suis pas certain, mais je pense que... || Why not just say "Je sais pas"?
+p: B || What is register? || The level of formality in language.
+p: B || What does "familier" mean? || Informal, casual.
+p: B || Which pronoun is used for formality? || Vous.
+p: B || Translate "les potes." || Friends (informal).
+p: B || What does "en conclusion" mean? || In conclusion.
+p: I || Make formal: "C'est cool." || C'est très bien / C'est excellent.
+p: I || Make formal: "T'es où ?" || Où êtes-vous ?
+p: I || Name three signs of formal register. || Vous, full negation, inversion, precise vocabulary, no slang.
+p: I || Give a formal presentation opening. || Bonjour à tous. Aujourd'hui, je vais vous présenter...
+p: I || Give three signposting words for the body. || Premièrement, deuxièmement, enfin.
+p: I || How do you end a formal presentation? || Merci de votre attention. Avez-vous des questions ?
+p: C || When would you use courant register? || In most everyday situations with people you don't know well.
+p: C || Why is dropping "ne" informal? || In spoken casual French, ne is often dropped; formal French keeps it.
+p: C || Why signpost a presentation? || It helps listeners follow the structure.
+p: C || Rewrite formally: "Salut, j'veux savoir si t'as le temps." || Bonjour, je voudrais savoir si vous avez le temps.
+mis: Using tu in formal situations | Dropping ne in formal writing | Thinking informal French is "wrong" rather than suited to certain contexts
+et: Rewrite "T'as pas de questions ?" formally. | Give the three parts of a formal presentation structure.
+mc: B || "Familier" register is used with || friends | a job interviewer | a judge | a university
+mc: B || Which pronoun is formal? || vous | tu | toi | te
+mc: B || "Les potes" means || friends (informal) | parents | teachers | pots
+mc: B || "En conclusion" is used || at the end of a presentation | at the start | for questions | for greetings
+mc: I || The formal version of "J'ai pas le temps" is || Je n'ai pas le temps. | J'ai pas d'temps. | Pas le temps ! | Moi, pas temps.
+mc: I || "Pouvez-vous m'aider ?" is || formal | familier | incorrect | slang
+mc: I || A formal presentation begins with || Bonjour à tous. Aujourd'hui, je vais vous présenter... | Salut ! | Bon, ben... | Ok, alors...
+mc: I || "Premièrement, deuxièmement, enfin" help to || signpost structure | ask questions | greet people | end a letter
+mc: I || Which is a sign of formal register? || full negation with ne ... pas | slang | dropping ne | using tu
+mc: C || If you don't know the answer to a question, the best formal response is || C'est une excellente question. Je ne suis pas certain, mais... | Je sais pas. | Aucune idée ! | Next question.
+mc: C || Informal French is best described as || suited to casual contexts | incorrect French | always rude | never used
+mc: C || Courant register is || neutral everyday French | very formal | only for texting | only for writing
+sa: B || Define register. || The level of formality in language.
+sa: B || Give one formal and one informal greeting. || Bonjour Madame / Salut.
+sa: I || Rewrite "Tu veux venir ?" formally. || Voulez-vous venir ?
+sa: I || List three signs of formal register. || Vous, full negation, inversion, precise vocabulary.
+sa: I || Write a formal introduction to a presentation. || Answers vary.
+sa: I || How should you end a formal presentation? || Thank the audience and invite questions.
+sa: C || Explain when to use each of the three registers. || Familier with friends, courant everyday, formel for presentations, letters and interviews.
+sa: C || Rewrite a three-sentence informal message into formal French. || Answers vary.

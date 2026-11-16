@@ -1,0 +1,175 @@
+=== FSL10.B1 0
+hook: To tell any story in French, what you did last weekend, a trip, a funny moment, you need the passé composé. Good news: it's built from two verbs you already know, avoir and être, plus a past participle.
+sc: I can form the passé composé with avoir | I can form the passé composé with être and make the participle agree | I can tell what I did in the past in a short paragraph
+v: passé composé :: A past tense for completed actions: helping verb (avoir or être) + past participle.
+v: participe passé :: The past participle (parlé, fini, vendu).
+v: hier :: Yesterday.
+v: le week-end dernier :: Last weekend.
+v: l'été dernier :: Last summer.
+v: d'abord, ensuite, puis, enfin :: First, next, then, finally.
+ts: Mon week-end || Grammar and dialogue || How do I tell what happened in the past in French?
+tx: Forming the passé composé: subject + avoir or être (present) + past participle. ¶ Regular participles: -er → -é (parler → parlé), -ir → -i (finir → fini), -re → -u (vendre → vendu). ¶ Common irregulars with avoir: faire → fait, voir → vu, prendre → pris, boire → bu, lire → lu, avoir → eu, être → été. ¶ With avoir: J'ai regardé un film. Nous avons fini nos devoirs. ¶ With être: verbs of movement in "DR MRS VANDERTRAMP" (devenir, revenir, monter, rester, sortir, venir, aller, naître, descendre, entrer, rentrer, tomber, retourner, arriver, mourir, partir) and all reflexive verbs. The participle agrees with the subject: Elle est allée au cinéma. Ils sont partis à huit heures. ¶ Negative: Je n'ai pas mangé. Elle n'est pas sortie. ¶ Dialogue: ¶ Léa : Qu'est-ce que tu as fait le week-end dernier ? ¶ Samuel : Samedi, je suis allé au match de hockey avec mon père. Ensuite, nous avons mangé une poutine. ¶ Léa : Super ! Moi, je suis restée à la maison. J'ai lu un roman et j'ai fait mes devoirs. ¶ Samuel : Et dimanche ? ¶ Léa : Dimanche, ma cousine est arrivée de Montréal. Nous sommes sorties au centre commercial.
+src: Original dialogue written for this lesson.
+st: Learn how to form the passé composé | Learn regular and irregular participles | Learn which verbs use être and agreement | Read the dialogue and find every passé composé | Write and tell about your weekend
+org: Verb | Helping verb | Past participle | Sentence
+an: Why does Léa write "restée" but Samuel writes "allé"? | Which verbs in the dialogue use être? | How do sequence words make a story easier to follow? | What's the difference between "je mange" and "j'ai mangé"?
+pr: Write a 100-word paragraph about last weekend using at least six verbs in the passé composé (two with être) and four sequence words, then tell it to a partner.
+ex: With avoir || Say "I watched TV." || regarder → regardé | avoir || J'ai regardé la télé. || Make it negative.
+ex: Irregular || Say "We did our homework." || faire → fait || Nous avons fait nos devoirs. || What is the participle of prendre?
+ex: With être || Say "She went to the park." || aller uses être | agree with elle || Elle est allée au parc. || Why the extra -e?
+ex: Plural agreement || Say "They (boys) left at eight." || partir uses être | masculine plural || Ils sont partis à huit heures. || What if they were girls?
+p: B || What two helping verbs form the passé composé? || Avoir and être.
+p: B || What is the past participle of parler? || Parlé.
+p: B || What is the past participle of finir? || Fini.
+p: B || What does "hier" mean? || Yesterday.
+p: B || What is the past participle of vendre? || Vendu.
+p: I || What is the past participle of faire? || Fait.
+p: I || Translate: I read a book. || J'ai lu un livre.
+p: I || Translate: We arrived at noon. || Nous sommes arrivés (or arrivées) à midi.
+p: I || Make negative: J'ai mangé. || Je n'ai pas mangé.
+p: I || Where did Samuel go on Saturday? || To a hockey game with his father.
+p: I || What did Léa do on Saturday? || She stayed home, read a novel and did homework.
+p: C || Why is it "Léa est restée" with an extra -e? || With être, the participle agrees with a feminine subject.
+p: C || Correct the error: Elle a allé au cinéma. || Elle est allée au cinéma.
+p: C || Write: First we went to the restaurant, then we saw a film. || D'abord, nous sommes allés au restaurant, ensuite nous avons vu un film.
+p: C || Why does "Nous sommes sorties" end in -ies? || Feminine plural subject with être.
+mis: Using avoir with movement verbs like aller | Forgetting agreement with être | Translating "I did" with the verb "faire" every time
+et: Write one sentence with avoir and one with être in the passé composé. | Give the past participle of voir and prendre.
+mc: B || The passé composé uses || avoir or être plus a past participle | only avoir | the future tense | the infinitive only
+mc: B || The past participle of manger is || mangé | mangi | mangu | mangeait
+mc: B || "Hier" means || yesterday | tomorrow | today | last year
+mc: B || The past participle of finir is || fini | finé | finu | finis
+mc: I || Which is correct? || Je suis allé au parc. | J'ai allé au parc. | Je suis allé au parc hier demain. | J'allé au parc.
+mc: I || The past participle of faire is || fait | faisé | fairé | fu
+mc: I || "Elle est arrivée" ends in -e because || the participle agrees with a feminine subject | arriver is irregular | it uses avoir | it is plural
+mc: I || Where did Samuel go on Saturday? || to a hockey game | to the mall | to Montreal | to the library
+mc: I || The negative of "J'ai vu le film" is || Je n'ai pas vu le film. | Je ne vu pas le film. | J'ai ne pas vu le film. | Je pas ai vu le film.
+mc: C || Which sentence is correct for a group of girls? || Elles sont parties. | Elles sont parti. | Elles ont parties. | Elles sont partis.
+mc: C || Which verb uses être in the passé composé? || tomber | regarder | manger | finir
+mc: C || "Nous avons pris le bus" means || We took the bus. | We take the bus. | We will take the bus. | We were taking the bus.
+sa: B || Name the two helping verbs of the passé composé. || Avoir and être.
+sa: B || Give the past participles of parler, finir and vendre. || Parlé, fini, vendu.
+sa: I || Translate: I did my homework. || J'ai fait mes devoirs.
+sa: I || Translate: She went out with her friends. || Elle est sortie avec ses amies (or amis).
+sa: I || What did Léa's cousin do on Sunday? || She arrived from Montreal.
+sa: I || Write the negative of "Il est parti." || Il n'est pas parti.
+sa: C || Explain when to use être instead of avoir. || With movement verbs (DR MRS VANDERTRAMP) and reflexive verbs.
+sa: C || Write three sentences about last weekend in the passé composé. || Answers vary.
+
+=== FSL10.C1 0
+hook: Mangez vos légumes ! Dors plus ! Bois de l'eau ! Health advice is everywhere, and in French you need just a few structures to give it: il faut, tu devrais and the imperative.
+sc: I can talk about healthy and unhealthy habits | I can give advice with il faut, tu devrais and the imperative | I can respond to a friend's health problem with suggestions
+v: la santé :: Health.
+v: manger équilibré :: To eat a balanced diet.
+v: le sommeil :: Sleep.
+v: faire de l'exercice :: To exercise.
+v: il faut :: It is necessary to / you have to.
+v: tu devrais :: You should.
+v: le stress :: Stress.
+ts: Conseils santé || Grammar and dialogue || How do I talk about health habits and give advice in French?
+tx: Healthy habits: manger des fruits et des légumes, boire de l'eau, dormir huit à dix heures, faire du sport, se détendre (to relax). Unhealthy habits: manger trop de sucre, rester sur son téléphone tard le soir, sauter le petit-déjeuner (skip breakfast), ne pas dormir assez. ¶ Giving advice: ¶ • Il faut + infinitive: Il faut dormir plus. (general) ¶ • Tu devrais / Vous devriez + infinitive: Tu devrais boire plus d'eau. (polite suggestion) ¶ • Imperative (tu, nous, vous forms without the subject): Mange des légumes ! Faisons du sport ! Buvez de l'eau ! Note: -er verbs drop the -s in the tu form: tu manges → Mange ! ¶ • Negative imperative: Ne mange pas trop de sucre ! ¶ Dialogue: ¶ Zoé : Ça ne va pas, je suis toujours fatiguée. ¶ Marc : Tu dors combien d'heures ? ¶ Zoé : Cinq ou six heures. Je regarde mon téléphone jusqu'à minuit. ¶ Marc : Il faut dormir plus ! Tu devrais éteindre ton téléphone à dix heures. ¶ Zoé : Et le matin, je n'ai pas faim, alors je ne mange pas. ¶ Marc : Mange au moins un fruit et bois un verre de lait. Et fais une promenade après l'école, ça aide contre le stress.
+src: Original dialogue written for this lesson.
+st: Learn vocabulary for healthy and unhealthy habits | Learn three ways to give advice | Practise the imperative | Read the dialogue and list Marc's advice | Role-play giving advice to a friend
+org: Problem | Advice with il faut | Advice with tu devrais | Advice with the imperative
+an: What is Zoé's main problem and what causes it? | Which form of advice is most polite? | How does the imperative change for -er verbs? | What advice would you give Zoé?
+pr: Create a health advice column: write three short letters from teens with problems and answer each with three pieces of advice using il faut, tu devrais and the imperative.
+ex: Il faut || Say "You have to drink water." || Il faut + infinitive || Il faut boire de l'eau. || Make it negative.
+ex: Tu devrais || Say "You should go to bed earlier." || Tu devrais + infinitive || Tu devrais te coucher plus tôt. || Why is it "te coucher"?
+ex: Imperative || Tell a friend "Eat vegetables!" || tu manges → Mange || Mange des légumes ! || Say it to a group.
+ex: Negative imperative || Say "Don't eat too much sugar!" || ne ... pas around the verb || Ne mange pas trop de sucre ! || Say it with vous.
+p: B || What does "la santé" mean? || Health.
+p: B || What does "le sommeil" mean? || Sleep.
+p: B || Translate "faire de l'exercice." || To exercise.
+p: B || What does "il faut" mean? || It is necessary / you have to.
+p: B || What does "tu devrais" mean? || You should.
+p: I || Give the tu imperative of manger. || Mange !
+p: I || Give the vous imperative of boire. || Buvez !
+p: I || Translate: You should sleep more. || Tu devrais dormir plus.
+p: I || How many hours does Zoé sleep? || Five or six hours.
+p: I || Why is Zoé tired? || She looks at her phone until midnight.
+p: I || What does Marc suggest for breakfast? || At least a fruit and a glass of milk.
+p: C || Why does "mange" have no -s in the imperative? || -er verbs drop the -s in the tu imperative.
+p: C || Write a negative imperative about phones. || Ne regarde pas ton téléphone au lit !
+p: C || Which form of advice is most polite: il faut, tu devrais or the imperative? || Tu devrais (vous devriez).
+p: C || Give Zoé one more piece of advice with "il faut." || Answers vary, for example Il faut faire du sport.
+mis: Keeping the -s in -er imperatives (Manges !) | Using a conjugated verb after il faut | Using tu devrais with a conjugated verb instead of an infinitive
+et: Give one piece of advice with each structure. | Write the tu imperative of finir and manger.
+mc: B || "La santé" means || health | sleep | stress | food
+mc: B || "Tu devrais" means || you should | you must not | you did | you will
+mc: B || "Le sommeil" means || sleep | the sun | the weekend | exercise
+mc: B || "Il faut dormir" means || you have to sleep | he sleeps | it is sleeping | sleep later
+mc: I || The tu imperative of manger is || Mange ! | Manges ! | Mangez ! | Manger !
+mc: I || "You should drink water" is || Tu devrais boire de l'eau. | Tu devrais bois de l'eau. | Tu bois devrais de l'eau. | Tu devrais buvez de l'eau.
+mc: I || Why is Zoé always tired? || She uses her phone until midnight | She exercises too much | She eats too much | She works at night
+mc: I || The vous imperative of faire is || Faites ! | Fais ! | Faisons ! | Faire !
+mc: I || "Ne mange pas trop de sucre" means || Don't eat too much sugar | Eat more sugar | You ate sugar | Sugar is good
+mc: C || Which is the most polite way to give advice? || Vous devriez... | Mange ! | Il faut ! | Ne fais pas !
+mc: C || Marc suggests that after school Zoé should || go for a walk | play video games | eat candy | sleep
+mc: C || After "il faut," you use || an infinitive | a past participle | a conjugated verb | a noun only
+sa: B || Translate "manger équilibré." || To eat a balanced diet.
+sa: B || What does "il faut" mean? || It is necessary / you have to.
+sa: I || Write the tu imperative of boire, faire and manger. || Bois, fais, mange.
+sa: I || Give advice to someone who doesn't exercise. || Answers vary.
+sa: I || List two pieces of advice Marc gives Zoé. || Turn off phone at ten, eat a fruit, drink milk, go for a walk.
+sa: I || Translate: Don't skip breakfast! || Ne saute pas le petit-déjeuner !
+sa: C || Explain three ways to give advice in French. || Il faut + infinitive, tu devrais + infinitive, imperative.
+sa: C || Write a short reply to a friend who is stressed, with three pieces of advice. || Answers vary.
+
+=== FSL10.D1 0
+hook: Québécois rap, Belgian comics, French films, Senegalese music, Acadian folk: the francophone world makes media for 320 million French speakers. Exploring it is one of the best ways to hear real French and share your opinion about it.
+sc: I can name types of francophone media and artists | I can give and justify opinions about media | I can compare two songs or shows using comparatives
+v: les médias :: The media.
+v: la chanson :: The song.
+v: l'émission :: The TV show or program.
+v: le chanteur / la chanteuse :: The singer.
+v: je trouve que :: I find that / I think that.
+v: plus ... que / moins ... que / aussi ... que :: More ... than / less ... than / as ... as.
+v: à mon avis :: In my opinion.
+ts: J'aime, je n'aime pas || Listening and opinion task || How do I share and compare opinions about francophone media?
+tx: Francophone artists and media (teachers choose clips): Coeur de pirate (Québec, pop), Les Cowboys Fringants (Québec, folk-rock), Stromae (Belgium, electro-pop), Angèle (Belgium, pop), Youssou N'Dour (Senegal, mbalax, sings in Wolof and French), Radio-Canada and TV5Monde shows, French comics like "Astérix" and Belgian "Tintin." ¶ Opinion phrases: J'aime / j'adore / je déteste... parce que... ; Je trouve que la chanson est entraînante (catchy) / ennuyeuse (boring) / émouvante (moving) ; À mon avis... ; Ce qui me plaît, c'est... (What I like is...). ¶ Comparatives: Stromae est plus original que... ; Cette chanson est moins rapide que... ; Ce film est aussi drôle que... Irregular: bon → meilleur (better). ¶ Dialogue: ¶ Noah : Tu connais Angèle ? ¶ Chloé : Oui ! J'adore sa chanson « Balance ton quoi ». Je trouve que les paroles sont importantes. ¶ Noah : Moi, je préfère Stromae. À mon avis, sa musique est plus originale et ses vidéos sont meilleures. ¶ Chloé : C'est vrai, mais Angèle est aussi talentueuse que Stromae ! ¶ Task: Listen to two songs. Rate each and write three opinion sentences and two comparisons.
+src: Original activity and dialogue written for this lesson; teachers choose and preview media.
+st: Learn about francophone artists and media | Learn opinion phrases | Learn comparatives including meilleur | Listen to and rate two songs | Write and share opinions and comparisons
+org: Song or show | Artist and country | My opinion (adjective) | Comparison
+an: Which artist surprised you most? | Why is "meilleur" used instead of "plus bon"? | How do opinion phrases make your French sound more natural? | How does francophone media show the diversity of the French-speaking world?
+pr: Present a 90-second review in French comparing two francophone songs or shows, using at least three opinion phrases and three comparatives.
+ex: Opinion || Say "I find the song catchy." || Je trouve que + clause || Je trouve que la chanson est entraînante. || Add a reason with parce que.
+ex: Comparative || Say "Stromae is more original than Angèle." || plus + adjective + que || Stromae est plus original qu'Angèle. || Why "qu'" here?
+ex: Equality || Say "This show is as funny as that film." || aussi ... que || Cette émission est aussi drôle que ce film. || Say "less funny."
+ex: Meilleur || Say "Her videos are better." || bon → meilleur, agrees || Ses vidéos sont meilleures. || Why -es?
+p: B || What does "la chanson" mean? || The song.
+p: B || What does "l'émission" mean? || The TV show.
+p: B || What does "à mon avis" mean? || In my opinion.
+p: B || Translate "je trouve que." || I find that / I think that.
+p: B || Name a francophone singer. || Angèle, Stromae, Coeur de pirate or another valid answer.
+p: I || Where is Stromae from? || Belgium.
+p: I || How do you say "more ... than"? || Plus ... que.
+p: I || What is the comparative of bon? || Meilleur.
+p: I || Translate: This song is less fast than the other. || Cette chanson est moins rapide que l'autre.
+p: I || What does Chloé like about Angèle's song? || The lyrics are important.
+p: I || Why does Noah prefer Stromae? || His music is more original and his videos are better.
+p: C || Why is it "meilleures" in "ses vidéos sont meilleures"? || It agrees with the feminine plural noun vidéos.
+p: C || Write an opinion with a reason about a show. || Answers vary, using parce que.
+p: C || Name a francophone artist from Africa. || Youssou N'Dour (Senegal) or another valid answer.
+p: C || Why is francophone media useful for learning French? || It gives authentic language and culture from many regions.
+mis: Saying "plus bon" instead of "meilleur" | Forgetting adjective agreement in comparisons | Thinking French media comes only from France
+et: Write one opinion sentence with a reason. | Write one comparison using plus, moins or aussi.
+mc: B || "L'émission" means || the TV show | the singer | the song | the movie theatre
+mc: B || "À mon avis" means || in my opinion | in my house | I agree | I don't know
+mc: B || Stromae is from || Belgium | Québec | Senegal | Switzerland
+mc: B || "La chanteuse" means || the female singer | the song | the stage | the guitar
+mc: I || "Plus original que" means || more original than | less original than | as original as | the most original
+mc: I || The comparative of bon is || meilleur | plus bon | bonner | mieux bon
+mc: I || "Aussi drôle que" means || as funny as | funnier than | less funny than | not funny
+mc: I || Why does Noah prefer Stromae? || His music is more original | He sings in Wolof | He is from Québec | He is younger
+mc: I || "Entraînante" describes a song that is || catchy | boring | sad | long
+mc: C || Which sentence is correct? || Ses chansons sont meilleures. | Ses chansons sont plus bonnes. | Ses chansons sont meilleur. | Ses chansons sont bonnes que.
+mc: C || Youssou N'Dour sings in || Wolof and French | Spanish | German | only English
+mc: C || Chloé says Angèle is || as talented as Stromae | less talented than Stromae | more boring than Stromae | from Senegal
+sa: B || Translate "je trouve que la chanson est ennuyeuse." || I find the song boring.
+sa: B || Name two francophone artists. || Answers vary.
+sa: I || Write a sentence using plus ... que. || Answers vary.
+sa: I || Write a sentence using meilleur. || Answers vary.
+sa: I || Give an opinion about a show with a reason. || Answers vary.
+sa: I || Where are Angèle and Coeur de pirate from? || Angèle from Belgium; Coeur de pirate from Québec.
+sa: C || Compare two songs using two different comparatives. || Answers vary.
+sa: C || Explain why francophone media comes from many countries. || French is spoken across Canada, Europe, Africa, the Caribbean and beyond.
