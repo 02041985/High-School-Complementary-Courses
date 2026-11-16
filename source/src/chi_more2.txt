@@ -1,0 +1,176 @@
+=== CHI20.B1 0
+hook: In China, people pay for almost everything with their phones: street food, bus fares, even donations, often with a QR code. Comparing technology habits in China and Canada is a great way to practise Mandarin and see how culture shapes technology.
+sc: I can describe my technology habits | I can give opinions with 我觉得 wǒ juéde and reasons | I can compare technology use in China and Canada
+v: 手机 shǒujī :: Mobile phone.
+v: 电脑 diànnǎo :: Computer.
+v: 上网 shàng wǎng :: To go online.
+v: 应用 yìngyòng :: App.
+v: 方便 fāngbiàn :: Convenient.
+v: 扫码 sǎo mǎ :: To scan a (QR) code.
+v: 我觉得 wǒ juéde :: I think / I feel.
+ts: 科技和我 Kējì hé wǒ || Discussion and reading || How do people in China and Canada use technology?
+tx: Technology vocabulary: 用手机 yòng shǒujī (use a phone), 发短信 fā duǎnxìn (send a text), 看视频 kàn shìpín (watch videos), 玩游戏 wán yóuxì (play games), 网上购物 wǎngshàng gòuwù (shop online), 手机支付 shǒujī zhīfù (mobile payment). ¶ Duration: 我每天用手机两个小时。Wǒ měitiān yòng shǒujī liǎng ge xiǎoshí. = I use my phone two hours a day. (Time duration comes after the verb.) ¶ Opinions: 我觉得…因为… wǒ juéde... yīnwèi... (I think... because...). 我觉得手机很方便，因为可以扫码付钱。 ¶ In China, apps such as WeChat (微信 Wēixìn) combine messaging, payment, ride-hailing and more in one app. Mobile payment by QR code is extremely common. ¶ 短文 Short text: ¶ 我叫李华，住在上海。我每天用手机三个小时。我用微信跟朋友聊天，也用手机买东西、坐地铁。我觉得手机支付很方便，可是有时候我用手机太多了。我的加拿大朋友杰克说，他常常用银行卡买东西。 ¶ Wǒ jiào Lǐ Huá, zhù zài Shànghǎi. Wǒ měitiān yòng shǒujī sān ge xiǎoshí. Wǒ yòng Wēixìn gēn péngyou liáotiān, yě yòng shǒujī mǎi dōngxi, zuò dìtiě. Wǒ juéde shǒujī zhīfù hěn fāngbiàn, kěshì yǒu shíhou wǒ yòng shǒujī tài duō le. Wǒ de Jiānádà péngyou Jiékè shuō, tā chángcháng yòng yínhángkǎ mǎi dōngxi. ¶ Task: Survey classmates on technology habits, then compare with Lǐ Huá.
+src: Original text written for this lesson.
+st: Learn technology vocabulary | Learn duration word order | Give opinions with 我觉得 and 因为 | Read Lǐ Huá's text | Compare habits in China and Canada
+org: 习惯 Habit | 我 Me | 李华 Lǐ Huá | 比较 Comparison
+an: How does Lǐ Huá use her phone differently from you? | Why might mobile payment be so common in China? | Is using a phone a lot a problem? | How does Jack usually pay?
+pr: Present a 90-second talk in Mandarin about your technology habits, with three opinions using 我觉得…因为… and two comparisons with China.
+ex: Duration || Say "I go online one hour a day." || verb + duration || 我每天上网一个小时。Wǒ měitiān shàng wǎng yí ge xiǎoshí. || Say "three hours."
+ex: Opinion || Say "I think computers are convenient because I can do homework." || 我觉得…因为… || 我觉得电脑很方便，因为我可以做作业。 || Give another reason.
+ex: Comparison || Say "Lǐ Huá uses her phone more than I do." || 比 || 李华比我用手机多。Lǐ Huá bǐ wǒ yòng shǒujī duō. || Compare yourself with Jack.
+ex: Culture || What can WeChat do? || Read the passage || Chat, pay, take the metro, shop || Is there one app like this in Canada?
+p: B || What does 手机 shǒujī mean? || Mobile phone.
+p: B || What does 上网 shàng wǎng mean? || To go online.
+p: B || What does 方便 fāngbiàn mean? || Convenient.
+p: B || What does 应用 yìngyòng mean? || App.
+p: B || What does 我觉得 mean? || I think / I feel.
+p: I || Where does Lǐ Huá live? || Shanghai.
+p: I || How long does Lǐ Huá use her phone each day? || Three hours.
+p: I || Name two things Lǐ Huá uses her phone for. || Chatting on WeChat, shopping, taking the metro.
+p: I || How does Jack usually pay? || With a bank card.
+p: I || Translate: I watch videos every day. || 我每天看视频。Wǒ měitiān kàn shìpín.
+p: I || What does 扫码 mean? || To scan a QR code.
+p: C || Where does a time duration go in a Mandarin sentence? || After the verb.
+p: C || What problem does Lǐ Huá mention? || Sometimes she uses her phone too much.
+p: C || Why might one super-app be convenient? || You can do many tasks without switching apps.
+p: C || Write an opinion about online shopping with a reason. || Answers vary.
+mis: Putting duration before the verb | Thinking technology use is the same everywhere | Forgetting 因为 when giving reasons
+et: Say how long you use your phone each day. | Give one opinion about technology with a reason.
+mc: B || 手机 means || mobile phone | computer | TV | camera
+mc: B || 上网 means || to go online | to go upstairs | to fish | to send mail
+mc: B || 方便 means || convenient | expensive | difficult | slow
+mc: B || 电脑 means || computer | phone | electricity | brain
+mc: I || Lǐ Huá lives in || Shanghai | Beijing | Canada | Hong Kong
+mc: I || Lǐ Huá uses her phone || three hours a day | one hour a day | ten hours a day | never
+mc: I || Jack usually pays with || a bank card | his phone | cash only | WeChat
+mc: I || 我每天上网两个小时 means || I go online two hours a day | I went online twice | I'll go online for two days | I go online at two o'clock
+mc: I || WeChat in China is used for || chatting, paying and more | only games | only email | only music
+mc: C || In Mandarin, duration of time goes || after the verb | before the subject | at the end of the paragraph | nowhere
+mc: C || Lǐ Huá's concern is that she || sometimes uses her phone too much | doesn't have a phone | can't pay with her phone | lives far away
+mc: C || Which sentence gives an opinion with a reason? || 我觉得手机很方便，因为可以扫码。 | 我有手机。 | 手机是黑色的。 | 他用手机。
+sa: B || Translate 看视频. || To watch videos.
+sa: B || Name three technology words in Mandarin. || Answers vary.
+sa: I || Write a sentence about how long you use your computer each day. || Answers vary.
+sa: I || Write an opinion about phones with 我觉得 and 因为. || Answers vary.
+sa: I || Name three things Lǐ Huá does with her phone. || Chats on WeChat, buys things, takes the metro.
+sa: I || How is payment different for Lǐ Huá and Jack? || She pays by phone; he uses a bank card.
+sa: C || Compare technology use in China and Canada. || Answers vary.
+sa: C || Explain the word order for time duration with an example. || Duration follows the verb: 我学中文三年了。
+
+=== CHI20.C1 0
+hook: During Spring Festival, families put up red couplets, give red envelopes and eat dumplings. Every custom has a reason, and in Mandarin you explain reasons with 因为…所以… yīnwèi... suǒyǐ...: because..., therefore...
+sc: I can describe customs of major Chinese festivals | I can explain reasons with 因为…所以… | I can compare festivals in China and Canada
+v: 传统 chuántǒng :: Tradition, traditional.
+v: 节日 jiérì :: Festival, holiday.
+v: 习俗 xísú :: Custom.
+v: 庆祝 qìngzhù :: To celebrate.
+v: 因为…所以… yīnwèi... suǒyǐ... :: Because..., therefore...
+v: 家人 jiārén :: Family members.
+v: 红包 hóngbāo :: Red envelope with money.
+ts: 中国的节日 Zhōngguó de jiérì || Culture and grammar || How are Chinese festivals celebrated, and why?
+tx: Festivals: ¶ • 春节 Chūnjié (Spring Festival, Lunar New Year, January or February): family reunion dinner, dumplings 饺子 jiǎozi, red envelopes 红包, red decorations and couplets, fireworks. Red symbolizes luck and was said to scare away the monster Nián 年. ¶ • 中秋节 Zhōngqiū jié (Mid-Autumn Festival, September or October): families admire the full moon and eat mooncakes 月饼 yuèbing; the round moon symbolizes family togetherness. Story of Cháng'é 嫦娥 who flew to the moon. ¶ • 端午节 Duānwǔ jié (Dragon Boat Festival, June): dragon boat races and 粽子 zòngzi (sticky rice wrapped in leaves), remembering the poet Qū Yuán 屈原. ¶ Grammar: 因为 A，所以 B: 因为红色代表好运，所以春节的时候人们用很多红色。Yīnwèi hóngsè dàibiǎo hǎoyùn, suǒyǐ Chūnjié de shíhou rénmen yòng hěn duō hóngsè. = Because red represents good luck, people use lots of red at Spring Festival. ¶ 短文: ¶ 中秋节是我最喜欢的节日。因为月亮又圆又亮，所以我们全家一起在外面看月亮。我们吃月饼，喝茶，聊天。因为奶奶住得很远，所以我们给她打电话。 ¶ Zhōngqiū jié shì wǒ zuì xǐhuan de jiérì. Yīnwèi yuèliang yòu yuán yòu liàng, suǒyǐ wǒmen quánjiā yìqǐ zài wàimiàn kàn yuèliang. Wǒmen chī yuèbing, hē chá, liáotiān. Yīnwèi nǎinai zhù de hěn yuǎn, suǒyǐ wǒmen gěi tā dǎ diànhuà. ¶ Task: Research one festival, then explain three customs with 因为…所以….
+src: Original text written for this lesson; festival information summarized from cultural sources.
+st: Learn about three Chinese festivals | Learn the 因为…所以… pattern | Read the Mid-Autumn text | Explain customs with reasons | Compare with a Canadian festival
+org: 节日 Festival | 习俗 Custom | 因为…所以… | 加拿大的比较 Canadian comparison
+an: Why is red so important at Spring Festival? | Why do families gather at Mid-Autumn? | Which Canadian holiday is most like Spring Festival? | Why do festivals keep old stories alive?
+pr: Create a festival guide in Mandarin for one Chinese festival: date, three customs explained with 因为…所以…, one food and one comparison with a Canadian holiday.
+ex: Reason || Say "Because the moon is round, families get together." || 因为…所以… || 因为月亮很圆，所以家人在一起。 || What does the round moon symbolize?
+ex: Custom || What is a 红包? || Spring Festival || A red envelope with money given to children and younger family members || Why red?
+ex: Food || What food is eaten at Dragon Boat Festival? || 端午节 || 粽子 zòngzi, sticky rice wrapped in leaves || Who is remembered?
+ex: Comparison || Compare Spring Festival and Thanksgiving. || Family and food || Both bring families together for a big meal || How are they different?
+p: B || What does 节日 jiérì mean? || Festival / holiday.
+p: B || What does 传统 chuántǒng mean? || Tradition.
+p: B || What does 庆祝 qìngzhù mean? || To celebrate.
+p: B || What is 春节? || Spring Festival / Lunar New Year.
+p: B || What is eaten at Mid-Autumn Festival? || Mooncakes 月饼.
+p: I || What does 因为…所以… mean? || Because..., therefore...
+p: I || What does red symbolize at Spring Festival? || Good luck.
+p: I || What does the full moon symbolize? || Family togetherness.
+p: I || Who is remembered at Dragon Boat Festival? || The poet Qū Yuán.
+p: I || In the text, why does the family call grandma? || She lives far away.
+p: I || Translate: Because I like dumplings, I eat them at Spring Festival. || 因为我喜欢饺子，所以春节我吃饺子。
+p: C || Explain the legend of Nián. || A monster scared away by red colours and loud noises.
+p: C || Who is Cháng'é? || A woman in legend who flew to the moon.
+p: C || Compare Mid-Autumn Festival with a Canadian holiday. || Answers vary, for example Thanksgiving: harvest and family.
+p: C || Why do festivals use symbols? || Symbols express hopes and values like luck, unity and memory.
+mis: Thinking Lunar New Year is only celebrated in China | Describing a custom without explaining the reason behind it | Thinking festival customs have no meaning
+et: Name one custom of Spring Festival and explain it with 因为…所以…. | Name the food of Mid-Autumn Festival.
+mc: B || 春节 is || Spring Festival | Mid-Autumn Festival | Dragon Boat Festival | Christmas
+mc: B || 红包 is || a red envelope with money | a red hat | a lantern | a dumpling
+mc: B || Mooncakes are eaten at || Mid-Autumn Festival | Spring Festival | Dragon Boat Festival | National Day
+mc: B || 庆祝 means || to celebrate | to cook | to travel | to study
+mc: I || At Spring Festival, red symbolizes || good luck | danger | sadness | anger
+mc: I || 因为…所以… expresses || cause and effect | comparison | time | location
+mc: I || Dragon boat races remember || Qū Yuán | Cháng'é | Confucius | Nián
+mc: I || In the text, the family looks at the moon because || it is round and bright | it is raining | grandma asked | it is Spring Festival
+mc: I || 粽子 are || sticky rice wrapped in leaves | mooncakes | dumplings | noodles
+mc: C || The full moon at Mid-Autumn symbolizes || family togetherness | wealth | the new year | the harvest only
+mc: C || The legend of Nián explains why people use || red and loud noises | mooncakes | dragon boats | lanterns only
+mc: C || A Canadian holiday similar to Mid-Autumn Festival in themes of harvest and family is || Thanksgiving | Canada Day | Halloween | Remembrance Day
+sa: B || Translate 传统节日. || Traditional festival.
+sa: B || Name three Chinese festivals. || Spring Festival, Mid-Autumn Festival, Dragon Boat Festival.
+sa: I || Explain one Spring Festival custom with 因为…所以…. || Answers vary.
+sa: I || What do people do at Mid-Autumn Festival? || Admire the moon, eat mooncakes, gather with family.
+sa: I || Why does the family in the text call grandma? || She lives far away.
+sa: I || What is 粽子 and when is it eaten? || Sticky rice in leaves, at Dragon Boat Festival.
+sa: C || Compare a Chinese festival with a Canadian festival. || Answers vary.
+sa: C || Explain why symbols are important in festivals. || They express hopes and values and keep traditions alive.
+
+=== CHI20.D1 0
+hook: In Chinese culture, disagreeing directly can seem rude. Polite speakers often agree with part of what you said first, then add their view: 虽然…但是… suīrán... dànshì...: "Although..., but..."
+sc: I can express opinions with 我认为 wǒ rènwéi and reasons | I can agree and disagree politely | I can use 虽然…但是… to balance ideas
+v: 我认为 wǒ rènwéi :: I believe / in my view.
+v: 同意 tóngyì :: To agree.
+v: 不同意 bù tóngyì :: To disagree.
+v: 虽然…但是… suīrán... dànshì... :: Although..., (but)...
+v: 理由 lǐyóu :: Reason.
+v: 第一…第二… dì yī... dì èr... :: First..., second...
+v: 有道理 yǒu dàolǐ :: Makes sense, reasonable.
+ts: 你同意吗？Nǐ tóngyì ma? || Discussion || How do I share and challenge opinions politely in Mandarin?
+tx: Opinion phrases: 我认为… wǒ rènwéi (I believe), 我觉得… wǒ juéde (I think), 在我看来… zài wǒ kàn lái (in my view). ¶ Giving reasons: 第一…第二…第三… (first, second, third); 因为… ¶ Agreeing: 我同意你的看法。Wǒ tóngyì nǐ de kànfǎ. 你说得对。Nǐ shuō de duì. 很有道理。Hěn yǒu dàolǐ. ¶ Disagreeing politely: 我不太同意。Wǒ bú tài tóngyì. (I don't quite agree.) 你说得有道理，但是… (You make sense, but...). 虽然…但是…: 虽然手机很有用，但是上课的时候不应该用。Suīrán shǒujī hěn yǒuyòng, dànshì shàngkè de shíhou bù yīnggāi yòng. ¶ 对话 Topic: 学生应该穿校服吗？Should students wear uniforms? ¶ 王小雨 Wáng Xiǎoyǔ：我认为学生应该穿校服。第一，很方便；第二，大家都一样。 ¶ 马克 Mǎkè：你说得有道理，但是我不太同意。虽然校服很方便，但是学生不能表现自己。 ¶ 王小雨：我明白你的意思。可是校服可以减少压力。 ¶ 马克：好吧，也许可以每个星期五穿自己的衣服！ ¶ 王小雨：这个主意很好，我同意！ ¶ Task: In pairs, discuss one topic (homework, phones at school, a four-day school week) using opinion, reasons, polite disagreement and a compromise.
+src: Original dialogue written for this lesson.
+st: Learn opinion phrases | Give reasons with 第一 and 第二 | Learn to agree and disagree politely | Use 虽然…但是… | Debate a topic and reach a compromise
+org: 看法 Opinion | 理由 Reasons | 不同意的方法 How to disagree | 结论 Compromise
+an: How does Mǎkè disagree politely? | Why is partial agreement important in Chinese communication? | What compromise do they reach? | How is polite disagreement similar or different in your culture?
+pr: Hold a three-minute discussion in Mandarin with a partner on a school topic, using at least two opinion phrases, two reasons, one 虽然…但是… sentence and a compromise.
+ex: Opinion + reasons || Say "I believe homework is useful. First, we practise; second, we review." || 我认为 + 第一 + 第二 || 我认为作业很有用。第一，我们可以练习；第二，我们可以复习。 || Add a third reason.
+ex: 虽然…但是… || Say "Although phones are fun, they are distracting." || Balance two ideas || 虽然手机很好玩，但是会让人分心。 || Write another.
+ex: Polite disagreement || Disagree politely with "Uniforms are bad." || Acknowledge, then disagree || 你说得有道理，但是我不太同意。 || Why "不太"?
+ex: Agreeing || Say "That makes sense. I agree." || Agreement phrases || 很有道理，我同意。Hěn yǒu dàolǐ, wǒ tóngyì. || Another way to agree?
+p: B || What does 同意 mean? || To agree.
+p: B || What does 我认为 mean? || I believe / in my view.
+p: B || What does 理由 mean? || Reason.
+p: B || What does 有道理 mean? || Makes sense.
+p: B || What does 第一 mean? || First.
+p: I || What does 虽然…但是… mean? || Although..., but...
+p: I || What is Wáng Xiǎoyǔ's opinion? || Students should wear uniforms.
+p: I || Give one of her reasons. || It's convenient, or everyone is the same.
+p: I || What is Mǎkè's concern? || Students can't express themselves.
+p: I || What compromise do they reach? || Wear your own clothes every Friday.
+p: I || How do you say "I don't quite agree"? || 我不太同意。Wǒ bú tài tóngyì.
+p: C || Why is 不太同意 more polite than 不同意? || It softens the disagreement.
+p: C || Why might partial agreement matter in Chinese culture? || It preserves harmony and respect (face).
+p: C || Write a 虽然…但是… sentence about a four-day school week. || Answers vary.
+p: C || Why include a compromise in a discussion? || It shows respect and finds common ground.
+mis: Disagreeing bluntly with 不对 in formal discussion | Forgetting 但是 after 虽然 | Giving opinions without reasons
+et: Write one opinion with two reasons. | Write a 虽然…但是… sentence.
+mc: B || 同意 means || to agree | to disagree | to know | to ask
+mc: B || 理由 means || reason | rule | rest | result
+mc: B || 有道理 means || makes sense | has a road | is rude | is far
+mc: B || 第二 means || second | first | third | last
+mc: I || 虽然…但是… expresses || although..., but... | because..., so... | if..., then... | first..., then...
+mc: I || Wáng Xiǎoyǔ thinks students || should wear uniforms | should not wear uniforms | should wear pyjamas | don't care
+mc: I || Mǎkè worries that with uniforms students || can't express themselves | are cold | lose their clothes | spend more money
+mc: I || The compromise is to || wear their own clothes on Fridays | ban uniforms | wear uniforms on weekends | stop school
+mc: I || "I don't quite agree" is || 我不太同意。 | 我很同意。 | 我同意了。 | 你不同意。
+mc: C || 不太同意 is more polite than 不同意 because it || softens disagreement | is shorter | means agree | is formal writing only
+mc: C || Partial agreement before disagreeing helps || keep harmony and respect | end the discussion | win every argument | avoid giving reasons
+mc: C || Which is a complete 虽然…但是… sentence? || 虽然作业很多，但是很有用。 | 虽然作业很多。 | 但是作业有用虽然。 | 虽然但是作业。
+sa: B || Translate 我认为学生应该运动. || I believe students should exercise.
+sa: B || How do you say "I agree"? || 我同意。
+sa: I || Write an opinion with 第一 and 第二. || Answers vary.
+sa: I || Write a polite disagreement. || Answers vary.
+sa: I || Summarize the uniform discussion. || Xiǎoyǔ supports uniforms; Mǎkè disagrees; they agree on own clothes on Fridays.
+sa: I || Write a 虽然…但是… sentence about phones. || Answers vary.
+sa: C || Explain why polite disagreement matters in Chinese communication. || It maintains harmony and shows respect.
+sa: C || Write a short dialogue that reaches a compromise. || Answers vary.

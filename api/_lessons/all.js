@@ -97,6 +97,15 @@ module.exports = {
   "SPA30.C1": require("./SPA30.C1.json"),
   "SPA30.D1": require("./SPA30.D1.json"),
   "CHI10.A1": require("./CHI10.A1.json"),
+  "CHI10.B1": require("./CHI10.B1.json"),
+  "CHI10.C1": require("./CHI10.C1.json"),
+  "CHI10.D1": require("./CHI10.D1.json"),
   "CHI20.A1": require("./CHI20.A1.json"),
-  "CHI30.A1": require("./CHI30.A1.json")
+  "CHI20.B1": require("./CHI20.B1.json"),
+  "CHI20.C1": require("./CHI20.C1.json"),
+  "CHI20.D1": require("./CHI20.D1.json"),
+  "CHI30.A1": require("./CHI30.A1.json"),
+  "CHI30.B1": require("./CHI30.B1.json"),
+  "CHI30.C1": require("./CHI30.C1.json"),
+  "CHI30.D1": require("./CHI30.D1.json")
 };

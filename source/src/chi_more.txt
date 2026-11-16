@@ -1,0 +1,175 @@
+=== CHI10.B1 0
+hook: In English we say "taller than," "more interesting than." Mandarin uses one small word for all comparisons: 比 bǐ. Learn its pattern and you can compare schools, subjects, cities and friends.
+sc: I can describe my school, subjects and schedule | I can make comparisons with 比 bǐ | I can use 更 gèng, 一样 yíyàng and 没有 méiyǒu in comparisons
+v: 学校 xuéxiào :: School.
+v: 科目 kēmù :: School subject.
+v: 比 bǐ :: Compared to (used in comparisons).
+v: 更 gèng :: Even more.
+v: 一样 yíyàng :: The same.
+v: 考试 kǎoshì :: Exam, test.
+v: 作业 zuòyè :: Homework.
+ts: 我的学校 Wǒ de xuéxiào || Grammar and dialogue || How do I describe and compare school life in Mandarin?
+tx: Subjects: 数学 shùxué (math), 科学 kēxué (science), 英语 Yīngyǔ (English), 中文 Zhōngwén (Chinese), 历史 lìshǐ (history), 体育 tǐyù (PE), 美术 měishù (art), 音乐 yīnyuè (music). ¶ Comparison patterns: ¶ • A 比 B + adjective: 数学比历史难。Shùxué bǐ lìshǐ nán. = Math is harder than history. (No 很 hěn before the adjective!) ¶ • A 比 B 更 + adjective: 科学比数学更有意思。Kēxué bǐ shùxué gèng yǒu yìsi. = Science is even more interesting than math. ¶ • A 没有 B + adjective: 美术没有数学难。Měishù méiyǒu shùxué nán. = Art is not as hard as math. ¶ • A 跟 B 一样 + adjective: 我的学校跟你的学校一样大。Wǒ de xuéxiào gēn nǐ de xuéxiào yíyàng dà. = My school is as big as yours. ¶ 对话 Duìhuà: ¶ 安娜 Ānnà：你最喜欢什么科目？Nǐ zuì xǐhuan shénme kēmù? ¶ 大卫 Dàwèi：我最喜欢体育。体育比数学有意思！Wǒ zuì xǐhuan tǐyù. Tǐyù bǐ shùxué yǒu yìsi! ¶ 安娜：我觉得中文比英语难，可是中文更有意思。Wǒ juéde Zhōngwén bǐ Yīngyǔ nán, kěshì Zhōngwén gèng yǒu yìsi. ¶ 大卫：我们学校的作业很多。Wǒmen xuéxiào de zuòyè hěn duō. ¶ 安娜：我们学校的作业没有你们学校多。Wǒmen xuéxiào de zuòyè méiyǒu nǐmen xuéxiào duō. ¶ Task: Compare four subjects and two schools using all four patterns.
+src: Original dialogue written for this lesson.
+st: Learn school subject vocabulary | Learn the 比 pattern | Add 更 for "even more" | Use 没有 and 一样 | Compare your school life with a partner
+org: A | 比较 Pattern | B | 句子 Sentence
+an: Why can't you use 很 in a 比 sentence? | What does Dàwèi like best and why? | How is 没有 different from 不? | How does your school compare with a school in China?
+pr: Write and present eight sentences comparing your subjects, schedule and school with a partner's or a school in China, using 比, 更, 没有 and 一样.
+ex: 比 || Say "Science is harder than art." || A 比 B + adj || 科学比美术难。Kēxué bǐ měishù nán. || Make it "even harder."
+ex: 更 || Say "Music is even more interesting than history." || 比 + 更 || 音乐比历史更有意思。Yīnyuè bǐ lìshǐ gèng yǒu yìsi. || Where does 更 go?
+ex: 没有 || Say "PE is not as hard as math." || A 没有 B + adj || 体育没有数学难。Tǐyù méiyǒu shùxué nán. || How is it different from 体育不难?
+ex: 一样 || Say "My homework is the same as yours." || 跟 ... 一样 || 我的作业跟你的作业一样。Wǒ de zuòyè gēn nǐ de zuòyè yíyàng. || Add an adjective.
+p: B || What does 学校 xuéxiào mean? || School.
+p: B || What does 作业 zuòyè mean? || Homework.
+p: B || What does 考试 kǎoshì mean? || Exam.
+p: B || How do you say math? || 数学 shùxué.
+p: B || What does 比 bǐ do? || Makes comparisons.
+p: I || Translate: Chinese is harder than English. || 中文比英语难。Zhōngwén bǐ Yīngyǔ nán.
+p: I || What does 更 gèng add? || "Even more."
+p: I || What is Dàwèi's favourite subject? || PE (体育 tǐyù).
+p: I || What does Ānnà think about Chinese? || It's harder than English but more interesting.
+p: I || Translate: My school is as big as your school. || 我的学校跟你的学校一样大。
+p: I || How do you say "not as ... as"? || A 没有 B + adjective.
+p: C || Why is "数学比历史很难" incorrect? || 很 is not used in 比 comparisons.
+p: C || Whose school has more homework, Ānnà's or Dàwèi's? || Dàwèi's.
+p: C || Translate: Art is even easier than music. || 美术比音乐更容易。Měishù bǐ yīnyuè gèng róngyì.
+p: C || Compare two subjects using 没有. || Answers vary.
+mis: Adding 很 hěn in 比 sentences | Putting 更 before 比 | Using 不 instead of 没有 for "not as ... as"
+et: Write one sentence with 比 and one with 没有. | Name four school subjects in Mandarin.
+mc: B || 学校 means || school | student | teacher | homework
+mc: B || 作业 means || homework | exam | subject | class
+mc: B || 比 is used to || compare | ask questions | show past tense | count
+mc: B || 数学 means || math | science | history | art
+mc: I || "Math is harder than history" is || 数学比历史难。 | 数学比历史很难。 | 历史比数学难。 | 数学难比历史。
+mc: I || 更 means || even more | not | the same | very
+mc: I || Dàwèi's favourite subject is || PE | math | Chinese | music
+mc: I || 一样 means || the same | more | less | different
+mc: I || 没有 in a comparison means || not as ... as | more than | the same as | very
+mc: C || Which sentence is correct? || 科学比数学更有意思。 | 科学更比数学有意思。 | 科学比数学很有意思。 | 科学有意思比数学。
+mc: C || 我们学校的作业没有你们学校多 means || Our school has less homework than yours | Our school has more homework | Both schools have no homework | Your school has less homework
+mc: C || Why is 很 not used in 比 sentences? || The comparison already shows degree | It is too polite | It means "not" | It is past tense
+sa: B || Translate 考试. || Exam / test.
+sa: B || Name three subjects in Mandarin. || Answers vary.
+sa: I || Write a 比 sentence comparing two subjects. || Answers vary.
+sa: I || Write a sentence with 一样. || Answers vary.
+sa: I || What does Ānnà say about Chinese and English? || Chinese is harder than English but more interesting.
+sa: I || Translate: History is not as interesting as science. || 历史没有科学有意思。
+sa: C || Explain the four comparison patterns. || 比; 比 + 更; 没有; 跟 ... 一样.
+sa: C || Compare your school with a school in China in three sentences. || Answers vary.
+
+=== CHI10.C1 0
+hook: In China, a common greeting isn't "How are you?" but 你吃了吗？Nǐ chī le ma? "Have you eaten?" Food is at the heart of Chinese culture, and the particle 了 le helps you talk about what you've done.
+sc: I can talk about healthy habits and food | I can use 了 le to show completed actions | I can describe Chinese food culture and table customs
+v: 健康 jiànkāng :: Healthy, health.
+v: 蔬菜 shūcài :: Vegetables.
+v: 筷子 kuàizi :: Chopsticks.
+v: 喝茶 hē chá :: To drink tea.
+v: 运动 yùndòng :: To exercise, sports.
+v: 了 le :: Particle showing a completed action or a change.
+v: 菜 cài :: Dish (of food).
+ts: 吃了吗？Chī le ma? || Grammar and culture || How do I talk about health, food and completed actions in Mandarin?
+tx: Healthy habits: 多吃蔬菜 duō chī shūcài (eat more vegetables), 多喝水 duō hē shuǐ (drink more water), 每天运动 měitiān yùndòng (exercise every day), 早睡早起 zǎo shuì zǎo qǐ (early to bed, early to rise), 少吃糖 shǎo chī táng (eat less sugar). ¶ 了 le for completed actions: verb + 了: 我吃了早饭。Wǒ chī le zǎofàn. = I ate breakfast. Negative uses 没 méi without 了: 我没吃早饭。Wǒ méi chī zǎofàn. = I didn't eat breakfast. Question: 你吃了吗？/ 你吃了没有？ ¶ Food culture: Dishes are shared from the centre of the table; each person has a bowl of rice. Use 筷子 kuàizi; never stick chopsticks upright in rice (it resembles incense at funerals). Hot tea is common with meals. Regional cuisines: 四川 Sìchuān (spicy), 广东 Guǎngdōng (dim sum), 北京 Běijīng (roast duck). ¶ 对话: ¶ 小明 Xiǎomíng：你吃了吗？Nǐ chī le ma? ¶ 莉莉 Lìlì：我吃了。我吃了米饭和蔬菜，还喝了茶。Wǒ chī le. Wǒ chī le mǐfàn hé shūcài, hái hē le chá. ¶ 小明：你很健康！我今天没吃早饭。Nǐ hěn jiànkāng! Wǒ jīntiān méi chī zǎofàn. ¶ 莉莉：不好！你应该每天吃早饭。Bù hǎo! Nǐ yīnggāi měitiān chī zǎofàn. ¶ Task: Write what you ate and did yesterday using 了 and 没, then share table customs from your culture.
+src: Original dialogue written for this lesson.
+st: Learn health and food vocabulary | Learn 了 for completed actions | Learn the negative with 没 | Learn Chinese table customs | Compare food cultures
+org: 我做了什么 What I did | 健康吗？Healthy? | 句子 Sentence with 了 or 没
+an: Why might people greet each other with "Have you eaten?" | Why is 了 dropped in the negative? | What table customs differ from yours? | What is a healthy habit you'd like to start?
+pr: Write a food and health diary in Mandarin for two days (at least six sentences with 了 and two with 没), and present one Chinese table custom.
+ex: 了 || Say "I drank water." || verb + 了 || 我喝了水。Wǒ hē le shuǐ. || Make it negative.
+ex: 没 || Say "I didn't exercise." || 没 + verb, no 了 || 我没运动。Wǒ méi yùndòng. || Ask "Did you exercise?"
+ex: Question || Ask "Did you eat?" || 了吗 or 了没有 || 你吃了吗？Nǐ chī le ma? || What's the cultural meaning?
+ex: Custom || Why not stick chopsticks upright in rice? || Funeral association || It looks like incense offered for the dead || What should you do instead?
+p: B || What does 健康 jiànkāng mean? || Healthy / health.
+p: B || What does 蔬菜 shūcài mean? || Vegetables.
+p: B || What does 筷子 kuàizi mean? || Chopsticks.
+p: B || What does 运动 yùndòng mean? || Exercise / sports.
+p: B || What does 你吃了吗 mean? || Have you eaten?
+p: I || Translate: I ate rice. || 我吃了米饭。Wǒ chī le mǐfàn.
+p: I || Make negative: 我喝了茶。 || 我没喝茶。Wǒ méi hē chá.
+p: I || What did Lìlì eat? || Rice and vegetables, and she drank tea.
+p: I || What didn't Xiǎomíng do today? || Eat breakfast.
+p: I || Name a regional Chinese cuisine. || Sichuan, Cantonese or Beijing.
+p: I || What does 早睡早起 mean? || Early to bed, early to rise.
+p: C || Why is 了 not used with 没? || 没 already shows the action didn't happen.
+p: C || Explain how dishes are shared at a Chinese meal. || Dishes are in the centre; everyone takes from them with their own rice bowl.
+p: C || Translate: You should eat more vegetables. || 你应该多吃蔬菜。Nǐ yīnggāi duō chī shūcài.
+p: C || What is the cultural meaning of 你吃了吗？ || A friendly greeting showing care, like "How are you?"
+mis: Using 不 instead of 没 for past actions | Keeping 了 in negative sentences | Thinking all Chinese food is the same
+et: Write two sentences with 了 and one with 没. | Name one Chinese table custom.
+mc: B || 健康 means || healthy | hungry | happy | homework
+mc: B || 筷子 means || chopsticks | spoon | bowl | tea
+mc: B || 你吃了吗 means || Have you eaten? | Are you hungry? | What will you eat? | Do you eat?
+mc: B || 蔬菜 means || vegetables | fruit | meat | rice
+mc: I || 了 after a verb shows || a completed action | a question | a future plan | a comparison
+mc: I || "I didn't eat breakfast" is || 我没吃早饭。 | 我不吃了早饭。 | 我没吃了早饭。 | 我吃了没早饭。
+mc: I || Lìlì drank || tea | coffee | juice | milk
+mc: I || Sichuan food is known for being || spicy | sweet | cold | raw
+mc: I || 早睡早起 means || early to bed, early to rise | eat early | sleep late | wake up late
+mc: C || Sticking chopsticks upright in rice is avoided because || it resembles funeral incense | it is unhygienic | it breaks them | it is a game
+mc: C || In a negative past sentence, 了 is || dropped | doubled | moved to the start | required
+mc: C || At a Chinese meal, dishes are usually || shared from the centre | served one per person | eaten standing | eaten without rice
+sa: B || Translate 喝茶. || To drink tea.
+sa: B || Name two healthy habits in Mandarin. || Answers vary.
+sa: I || Write three sentences about what you ate yesterday using 了. || Answers vary.
+sa: I || Make negative: 我运动了。 || 我没运动。
+sa: I || What advice does Lìlì give Xiǎomíng? || He should eat breakfast every day.
+sa: I || Describe one Chinese table custom. || Answers vary.
+sa: C || Explain how 了 and 没 work together. || 了 shows completed actions; 没 negates the past without 了.
+sa: C || Compare Chinese table customs with your own. || Answers vary.
+
+=== CHI10.D1 0
+hook: Chinese has thousands of characters, but you don't need to memorize each from scratch. Most are built from parts, and one part, the radical, often hints at the meaning. 河 (river), 海 (sea) and 湖 (lake) all share the water radical 氵.
+sc: I can identify common radicals and their meanings | I can use radicals and context to guess unknown characters | I can read a short text in characters with support
+v: 部首 bùshǒu :: Radical, the part of a character that hints at meaning.
+v: 偏旁 piānpáng :: Component of a character.
+v: 上下文 shàngxiàwén :: Context.
+v: 生词 shēngcí :: New word.
+v: 意思 yìsi :: Meaning.
+v: 读 dú :: To read.
+ts: 读汉字 Dú Hànzì || Reading strategy task || How can radicals and context help me read new characters?
+tx: Common radicals: ¶ 氵water: 河 hé river, 海 hǎi sea, 洗 xǐ wash, 湖 hú lake ¶ 口 mouth: 吃 chī eat, 喝 hē drink, 叫 jiào call, 唱 chàng sing ¶ 木 tree/wood: 林 lín forest, 树 shù tree, 桌 zhuō table ¶ 亻person: 你 nǐ you, 他 tā he, 住 zhù live, 休 xiū rest (person leaning on a tree!) ¶ 讠speech: 说 shuō speak, 话 huà words, 语 yǔ language ¶ 女 woman: 妈 mā mother, 姐 jiě older sister, 好 hǎo good ¶ 扌hand: 打 dǎ hit/play, 拿 ná take, 找 zhǎo look for ¶ 日 sun: 明 míng bright, 早 zǎo early, 星 xīng star ¶ Reading strategy: 1) Read the whole sentence. 2) Look at the radical of the unknown character. 3) Use context. 4) Guess, then check with a dictionary app. ¶ 短文 Short text: ¶ 我家住在海边。每天早上，我和姐姐去海边跑步。妈妈在家里做早饭。我们回家以后，一起吃饭、喝茶。周末，我们去树林里休息，听鸟唱歌。 ¶ Wǒ jiā zhù zài hǎibiān. Měitiān zǎoshang, wǒ hé jiějie qù hǎibiān pǎobù. Māma zài jiā lǐ zuò zǎofàn. Wǒmen huí jiā yǐhòu, yìqǐ chīfàn, hē chá. Zhōumò, wǒmen qù shùlín lǐ xiūxi, tīng niǎo chànggē. ¶ Task: Circle every character with a radical from the list and guess its meaning. Then answer comprehension questions.
+src: Original text written for this lesson.
+st: Learn eight common radicals | Sort characters by radical | Learn the four-step reading strategy | Read the short text and circle radicals | Answer comprehension questions
+org: 汉字 Character | 部首 Radical | 我的猜测 My guess | 正确意思 Correct meaning
+an: Which radical was easiest to spot? | How did context help you guess meaning? | Why is 休 (rest) a person beside a tree? | When might a radical mislead you?
+pr: Create a radical poster with six radicals and three example characters each, and read the short text aloud, explaining how you figured out three new characters.
+ex: Water radical || In "我喜欢在海里游泳," what might 游泳 mean, with the 氵radical? || Water + context (in the sea) || To swim (yóuyǒng) || Find another water character.
+ex: Mouth radical || Which radical is in 唱 chàng (sing)? || Action with the mouth || 口 mouth || Name another 口 character.
+ex: Person + tree || Why does 休 mean rest? || 亻 + 木 || A person leaning against a tree to rest || Does every character work this way?
+ex: Context || In "我们去树林里休息," what is 树林? || 木 radicals + context || A forest or woods (shùlín) || What do they do there?
+p: B || What is a radical? || The part of a character that hints at meaning.
+p: B || What does 氵mean? || Water.
+p: B || What does 口 mean? || Mouth.
+p: B || What does 木 mean? || Tree / wood.
+p: B || What does 亻mean? || Person.
+p: I || Which radical is in 说 shuō? || 讠speech.
+p: I || Which radical is in 妈 mā? || 女 woman.
+p: I || Where does the writer's family live? || By the sea.
+p: I || What does the writer do every morning? || Runs by the sea with older sister.
+p: I || What does Mum do? || Makes breakfast at home.
+p: I || What do they do on weekends? || Rest in the forest and listen to birds sing.
+p: C || Why might a radical mislead you? || Some characters' meanings have changed over time or the radical is only loosely related.
+p: C || Explain the four-step reading strategy. || Read the sentence, check the radical, use context, guess and check.
+p: C || Find two characters with 木 in the text. || 树 and 林.
+p: C || Why is 好 (good) made of 女 and 子? || Often explained as a woman and child, a picture of something good.
+mis: Thinking every character can be guessed from its radical | Ignoring context when reading | Thinking characters are random pictures
+et: Name three radicals and their meanings. | Guess the meaning of 洗 using its radical.
+mc: B || A radical is || a part of a character hinting at meaning | a full sentence | a tone | a number
+mc: B || 氵means || water | fire | person | mouth
+mc: B || 口 means || mouth | tree | sun | hand
+mc: B || 木 means || tree / wood | water | speech | woman
+mc: I || 河, 海 and 湖 share the radical || 氵 | 口 | 木 | 亻
+mc: I || 说 and 话 share the speech radical || 讠 | 女 | 扌 | 日
+mc: I || The writer's family lives || by the sea | in the mountains | in a city centre | on a farm
+mc: I || 休 means rest because it shows || a person by a tree | water and fire | two mouths | a sun
+mc: I || On weekends the family goes to || the forest | the market | school | a restaurant
+mc: C || The best first step for an unknown character is to || read the whole sentence | skip the text | guess randomly | memorize the dictionary
+mc: C || Radicals can mislead because || meanings have changed over time | they are always wrong | they are invisible | they are tones
+mc: C || 喝 (drink) uses the 口 radical because || drinking uses the mouth | it is about water only | it is about people | it is a tree
+sa: B || Name four radicals and their meanings. || Answers vary.
+sa: B || What is 生词? || A new word.
+sa: I || Explain how radicals help you read. || They hint at meaning so you can guess new characters.
+sa: I || Guess the meaning of 林 and explain. || Forest: two 木 trees.
+sa: I || Summarize the short text in English. || The family lives by the sea; runs in the morning; eats and drinks tea together; rests in the forest on weekends.
+sa: I || Name three characters with 女. || 妈, 姐, 好 (others).
+sa: C || Describe the four-step reading strategy. || Read the sentence, find the radical, use context, guess and check.
+sa: C || Explain one limitation of using radicals. || Some radicals only loosely relate to the modern meaning.

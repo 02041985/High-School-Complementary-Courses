@@ -1,0 +1,176 @@
+=== CHI30.B1 0
+hook: China has some of the world's largest cities and has also become the biggest producer of solar panels and electric vehicles. Environmental issues are a major topic in Chinese media, and talking about them needs conditional sentences: 如果…就… rúguǒ... jiù...: "If..., then..."
+sc: I can discuss environmental and social issues in Mandarin | I can use 如果…就… for conditions and results | I can propose solutions and explain their effects
+v: 环境 huánjìng :: Environment.
+v: 污染 wūrǎn :: Pollution.
+v: 保护 bǎohù :: To protect.
+v: 如果…就… rúguǒ... jiù... :: If..., then...
+v: 社会 shèhuì :: Society.
+v: 减少 jiǎnshǎo :: To reduce.
+v: 回收 huíshōu :: To recycle.
+ts: 保护环境 Bǎohù huánjìng || Discussion and reading || How do I discuss environmental issues and solutions in Mandarin?
+tx: Issues: 空气污染 kōngqì wūrǎn (air pollution), 水污染 shuǐ wūrǎn (water pollution), 气候变化 qìhòu biànhuà (climate change), 塑料垃圾 sùliào lājī (plastic waste), 交通堵塞 jiāotōng dǔsè (traffic jams). ¶ Solutions: 坐公共汽车 zuò gōnggòng qìchē (take the bus), 骑自行车 qí zìxíngchē (ride a bike), 节约用水 jiéyuē yòng shuǐ (save water), 回收 huíshōu (recycle), 用电动车 yòng diàndòngchē (use electric vehicles), 种树 zhòng shù (plant trees). ¶ Grammar: 如果 + condition，(subject) 就 + result. 如果大家都骑自行车，空气就会更干净。Rúguǒ dàjiā dōu qí zìxíngchē, kōngqì jiù huì gèng gānjìng. = If everyone rides bikes, the air will be cleaner. Note: 就 goes after the subject of the second clause. ¶ 短文: ¶ 以前，北京的空气污染很严重。现在，政府鼓励人们用电动车和坐地铁，所以空气比以前好多了。我认为如果每个人都减少用塑料袋，环境就会更好。如果我们不保护环境，我们的孩子就会有很多问题。 ¶ Yǐqián, Běijīng de kōngqì wūrǎn hěn yánzhòng. Xiànzài, zhèngfǔ gǔlì rénmen yòng diàndòngchē hé zuò dìtiě, suǒyǐ kōngqì bǐ yǐqián hǎo duō le. Wǒ rènwéi rúguǒ měi ge rén dōu jiǎnshǎo yòng sùliàodài, huánjìng jiù huì gèng hǎo. Rúguǒ wǒmen bù bǎohù huánjìng, wǒmen de háizi jiù huì yǒu hěn duō wèntí. ¶ Task: Choose an issue in Alberta or China and propose three solutions with 如果…就….
+src: Original text written for this lesson.
+st: Learn vocabulary for environmental issues | Learn vocabulary for solutions | Learn the 如果…就… pattern | Read the text about Beijing | Propose solutions with conditions and results
+org: 问题 Problem | 解决办法 Solution | 如果…就… Result
+an: How has Beijing's air changed and why? | Where does 就 go in a 如果 sentence? | What environmental issue matters most in Alberta? | Which solution is most realistic for your family?
+pr: Present a two-minute proposal in Mandarin on an environmental or social issue, with the problem, three solutions and four 如果…就… sentences.
+ex: Condition || Say "If we recycle, there will be less garbage." || 如果…就… || 如果我们回收，垃圾就会减少。 || Make one about water.
+ex: Word order || Fix: 如果你骑自行车，就你会健康。 || 就 after the subject || 如果你骑自行车，你就会很健康。 || Why?
+ex: Negative condition || Say "If we don't protect the environment, there will be problems." || 不 in the condition || 如果我们不保护环境，就会有很多问题。 || Who is affected?
+ex: Reading || Why is Beijing's air better now? || Find the reason || The government encourages electric vehicles and the subway || What does 鼓励 mean?
+p: B || What does 环境 mean? || Environment.
+p: B || What does 污染 mean? || Pollution.
+p: B || What does 保护 mean? || To protect.
+p: B || What does 回收 mean? || To recycle.
+p: B || What does 减少 mean? || To reduce.
+p: I || What does 如果…就… mean? || If..., then...
+p: I || Translate: If it rains, I will take the bus. || 如果下雨，我就坐公共汽车。
+p: I || Why is Beijing's air better than before? || People use electric vehicles and the subway.
+p: I || What does the writer suggest about plastic bags? || Everyone should use fewer.
+p: I || How do you say "climate change"? || 气候变化 qìhòu biànhuà.
+p: I || Name two solutions in Mandarin. || 骑自行车, 回收, 种树, 节约用水 (others).
+p: C || Where does 就 go in the result clause? || After the subject, before the verb.
+p: C || What does the writer warn will happen if we don't protect the environment? || Our children will have many problems.
+p: C || Write a 如果…就… sentence about an Alberta issue. || Answers vary.
+p: C || How does 社会 connect to environmental issues? || Pollution and climate affect health, jobs and communities.
+mis: Placing 就 before the subject | Forgetting 会 for future results | Using 如果 without a clear result
+et: Write two 如果…就… sentences about the environment. | Name three environmental problems in Mandarin.
+mc: B || 环境 means || environment | pollution | society | protection
+mc: B || 污染 means || pollution | recycling | weather | trees
+mc: B || 保护 means || to protect | to reduce | to recycle | to destroy
+mc: B || 回收 means || to recycle | to buy | to throw | to wash
+mc: I || 如果…就… expresses || if..., then... | although..., but... | because..., so... | first..., second...
+mc: I || Beijing's air improved because of || electric vehicles and the subway | more factories | more cars | less rain
+mc: I || 气候变化 means || climate change | weather report | air quality | seasons
+mc: I || "If everyone rides bikes, the air will be cleaner" is || 如果大家都骑自行车，空气就会更干净。 | 如果空气干净，大家骑自行车。 | 大家骑自行车如果就空气干净。 | 就大家骑自行车如果空气干净。
+mc: I || The writer suggests everyone should || use fewer plastic bags | drive more | plant fewer trees | buy more plastic
+mc: C || In 如果你努力，你就会成功, 就 goes || after the subject of the second clause | before 如果 | at the end | after 成功
+mc: C || The writer says that without protecting the environment || our children will have many problems | nothing will change | air will be cleaner | cities will grow
+mc: C || 减少 means || to reduce | to increase | to protect | to recycle
+sa: B || Translate 空气污染. || Air pollution.
+sa: B || Name two solutions to pollution in Mandarin. || Answers vary.
+sa: I || Write three 如果…就… sentences about the environment. || Answers vary.
+sa: I || Explain why Beijing's air improved. || The government encouraged electric vehicles and subway use.
+sa: I || Translate: If we save water, the environment will be better. || 如果我们节约用水，环境就会更好。
+sa: I || What does 社会 mean? || Society.
+sa: C || Explain the word order of 如果…就… sentences. || 如果 + condition, subject + 就 + result.
+sa: C || Propose a solution to an environmental issue in Alberta in Mandarin. || Answers vary.
+
+=== CHI30.C1 0
+hook: When a Chinese speaker says someone is 画蛇添足 huà shé tiān zú, "drawing legs on a snake," they mean the person ruined something by doing too much. These four-character idioms, 成语 chéngyǔ, come from stories over 2,000 years old and are still used every day.
+sc: I can explain the stories and meanings of common chéngyǔ | I can use chéngyǔ correctly in sentences | I can retell a classic story in Mandarin
+v: 成语 chéngyǔ :: Four-character idiom, usually from a classical story.
+v: 故事 gùshi :: Story.
+v: 寓意 yùyì :: Moral, implied meaning.
+v: 典故 diǎngù :: The classical story or source behind an idiom.
+v: 画蛇添足 huà shé tiān zú :: Draw a snake and add feet: ruin something by overdoing it.
+v: 守株待兔 shǒu zhū dài tù :: Guard a tree stump waiting for rabbits: wait for luck instead of working.
+v: 对牛弹琴 duì niú tán qín :: Play the zither to a cow: speak to the wrong audience.
+ts: 成语故事 Chéngyǔ gùshi || Story and language task || What stories lie behind Chinese idioms, and how are they used?
+tx: Story 1, 画蛇添足 (from an ancient text, about 2,000 years old): Some servants had one jug of wine. They agreed that whoever drew a snake first would drink it. One man finished first, picked up the wine and said, "I can even add feet!" While he drew feet, another man finished his snake, took the wine and said, "Snakes don't have feet. Yours isn't a snake!" and drank it. Meaning: doing something unnecessary that spoils the result. ¶ Story 2, 守株待兔 (from the philosopher Hán Fēizǐ): A farmer saw a rabbit run into a tree stump and die. He took it home and ate it. From then on, he stopped farming and waited by the stump for another rabbit. None came, and his fields were ruined. Meaning: relying on luck instead of effort. ¶ Story 3, 对牛弹琴: A musician played beautiful music to a cow, but the cow kept eating grass. Meaning: talking about something to an audience that can't understand or appreciate it. ¶ Using chéngyǔ: 你的作文已经很好了，别画蛇添足。Nǐ de zuòwén yǐjīng hěn hǎo le, bié huà shé tiān zú. = Your essay is already good; don't overdo it. 想考好成绩不能守株待兔，要努力学习。 ¶ Task: Retell one story in Mandarin in six sentences, then write two sentences using each chéngyǔ in modern situations.
+src: Retellings written for this lesson from classical Chinese fables (public domain).
+st: Read three chéngyǔ stories | Identify each moral | Learn how chéngyǔ are used in sentences | Retell one story in Mandarin | Use chéngyǔ in modern situations
+org: 成语 Chéngyǔ | 故事 Story summary | 寓意 Moral | 现代例子 Modern example
+an: Why are chéngyǔ usually four characters? | Which moral is most useful for students? | Are there English idioms with similar meanings? | Why do idioms survive for thousands of years?
+pr: Create an illustrated chéngyǔ booklet: three idioms with characters, pinyin, story summary, moral and a modern example sentence, and retell one story aloud in Mandarin.
+ex: Meaning || What does 画蛇添足 mean? || Story: adding feet to a snake || Ruining something by doing too much || Give an English idiom with a similar idea.
+ex: Use || Use 守株待兔 for a student. || Situation: waiting for luck || 考试前不复习，只等运气，这是守株待兔。 || Translate it.
+ex: Audience || When would you say 对牛弹琴? || Wrong audience || Explaining advanced physics to a toddler || Is it polite to say to someone?
+ex: English equivalent || Find an English idiom close to 画蛇添足. || Similar moral || "Gilding the lily" or "Leave well enough alone" || How are they different?
+p: B || What is a 成语? || A four-character idiom from a classical story.
+p: B || What does 故事 mean? || Story.
+p: B || What does 寓意 mean? || The moral or implied meaning.
+p: B || How many characters are in most chéngyǔ? || Four.
+p: B || What does 画蛇添足 literally mean? || Draw a snake and add feet.
+p: I || What is the moral of 画蛇添足? || Doing too much ruins the result.
+p: I || What did the farmer in 守株待兔 do wrong? || Stopped working and waited for luck.
+p: I || What is the moral of 对牛弹琴? || Speaking to the wrong audience.
+p: I || Who lost the wine in 画蛇添足? || The man who added feet.
+p: I || Which philosopher told 守株待兔? || Hán Fēizǐ.
+p: I || Translate: Don't overdo it. (using a chéngyǔ) || 别画蛇添足。
+p: C || Why are chéngyǔ valued in Chinese writing? || They express complex ideas concisely and show cultural knowledge.
+p: C || Write a modern situation for 守株待兔. || Answers vary.
+p: C || Is 对牛弹琴 polite to say about someone? || Not usually; it can imply they can't understand.
+p: C || Why have these idioms lasted so long? || Their stories teach lasting lessons and are memorable.
+mis: Translating chéngyǔ word for word without the story | Using a chéngyǔ in the wrong situation | Thinking chéngyǔ are only for old or formal texts
+et: Explain the story of one chéngyǔ in two sentences. | Use one chéngyǔ in a modern sentence.
+mc: B || A 成语 is usually || four characters | one character | ten characters | a full sentence
+mc: B || 故事 means || story | idiom | moral | snake
+mc: B || 画蛇添足 involves || adding feet to a snake | drawing a rabbit | playing music | farming
+mc: B || 寓意 means || moral | story | character | animal
+mc: I || The moral of 守株待兔 is || don't wait for luck instead of working | always guard trees | rabbits are fast | farming is easy
+mc: I || 对牛弹琴 means || speaking to the wrong audience | playing music well | feeding animals | singing loudly
+mc: I || In 画蛇添足, the man lost the wine because || he added feet to the snake | he drew too slowly | he dropped it | he shared it
+mc: I || 守株待兔 comes from the philosopher || Hán Fēizǐ | Confucius | Qū Yuán | Laozi
+mc: I || "别画蛇添足" means || Don't overdo it | Draw a snake | Add more | Be quick
+mc: C || A student who never studies and hopes the test will be easy is || 守株待兔 | 画蛇添足 | 对牛弹琴 | 一心一意
+mc: C || An English idiom close to 画蛇添足 is || gilding the lily | the early bird gets the worm | break a leg | piece of cake
+mc: C || Chéngyǔ are valued because they || express complex ideas concisely | are long | are only for children | have no stories
+sa: B || What is a chéngyǔ? || A four-character idiom usually from a classical story.
+sa: B || Give the pinyin and meaning of 守株待兔. || Shǒu zhū dài tù: waiting for luck instead of working.
+sa: I || Retell 画蛇添足 in English in three sentences. || Answers vary.
+sa: I || Use 对牛弹琴 in a sentence. || Answers vary.
+sa: I || What is the moral of 画蛇添足? || Doing something unnecessary spoils the result.
+sa: I || Why did the farmer's fields get ruined? || He stopped farming and waited for rabbits.
+sa: C || Explain why chéngyǔ have survived for over 2,000 years. || Memorable stories with lasting lessons, used in writing and speech.
+sa: C || Write modern example sentences for two chéngyǔ. || Answers vary.
+
+=== CHI30.D1 0
+hook: A good presentation in any language has a clear map: tell them what you'll say, say it, then tell them what you said. Mandarin has its own signpost words, 首先 shǒuxiān, 其次 qícì, 最后 zuìhòu, 总之 zǒngzhī, that make your talk easy to follow.
+sc: I can organize a formal presentation with an introduction, body and conclusion | I can use signposting words and formal expressions | I can answer audience questions politely
+v: 演讲 yǎnjiǎng :: Speech, presentation.
+v: 首先 shǒuxiān :: First of all.
+v: 其次 qícì :: Secondly, next.
+v: 最后 zuìhòu :: Finally.
+v: 总之 zǒngzhī :: In summary, in short.
+v: 观点 guāndiǎn :: Point of view.
+v: 谢谢大家 xièxie dàjiā :: Thank you, everyone.
+ts: 我的演讲 Wǒ de yǎnjiǎng || Presentation skills || How do I deliver a clear, formal presentation in Mandarin?
+tx: Structure: ¶ 1. Opening: 大家好！Dàjiā hǎo! 今天我想跟大家谈谈… Jīntiān wǒ xiǎng gēn dàjiā tántan... (Today I'd like to talk with everyone about...). 我的演讲有三个部分。Wǒ de yǎnjiǎng yǒu sān ge bùfen. ¶ 2. Body: 首先… shǒuxiān (first), 其次… qícì (next), 另外… lìngwài (in addition), 最后… zuìhòu (finally). Give examples: 比如… bǐrú (for example). ¶ 3. Conclusion: 总之… zǒngzhī (in summary), 我的观点是… wǒ de guāndiǎn shì (my view is). 谢谢大家！ ¶ 4. Questions: 大家有什么问题吗？Dàjiā yǒu shénme wèntí ma? Answering: 这是个好问题。Zhè shì ge hǎo wèntí. 我不太确定，但是我认为… Wǒ bú tài quèdìng, dànshì wǒ rènwéi... ¶ Model opening: 大家好！今天我想跟大家谈谈学习中文的好处。首先，中文是世界上说的人最多的语言之一。其次，学中文可以帮助我们了解中国文化。最后，会说中文对以后找工作很有帮助。总之，我认为学中文非常值得。谢谢大家！ ¶ Delivery tips: make eye contact, speak slowly and clearly, use tones carefully, use a few key words on cards, not a full script. ¶ Task: Prepare and deliver a three-minute presentation on a topic from this course.
+src: Original model written for this lesson.
+st: Learn the structure of a formal presentation | Learn signposting words | Analyze the model presentation | Prepare a presentation with key-word cards | Deliver it and answer questions
+org: 部分 Part | 关键词 Key words | 例子 Example
+an: How do signposting words help the audience? | What three reasons does the model give for learning Chinese? | Why use key-word cards instead of a full script? | How should you answer a question you're unsure about?
+pr: Deliver a three-minute formal presentation in Mandarin on a course topic, using an opening, at least four signposting words, examples, a conclusion and a question period.
+ex: Opening || Begin a presentation about Chinese festivals. || Greeting + topic + parts || 大家好！今天我想跟大家谈谈中国的节日。我的演讲有三个部分。 || What are the three parts?
+ex: Signposting || Order these: 最后, 首先, 其次. || Sequence || 首先, 其次, 最后 || Where does 总之 go?
+ex: Conclusion || Write a conclusion about technology. || 总之 + view || 总之，我认为科技让生活更方便，但是我们不能用得太多。谢谢大家！ || Why restate your view?
+ex: Question || Respond politely when unsure. || Acknowledge and give a view || 这是个好问题。我不太确定，但是我认为… || Why not just say 不知道?
+p: B || What does 演讲 mean? || Speech / presentation.
+p: B || What does 首先 mean? || First of all.
+p: B || What does 最后 mean? || Finally.
+p: B || What does 总之 mean? || In summary.
+p: B || How do you say "Thank you, everyone"? || 谢谢大家。
+p: I || What does 其次 mean? || Secondly / next.
+p: I || How do you say "for example"? || 比如 bǐrú.
+p: I || Give a formal opening line. || 大家好！今天我想跟大家谈谈…
+p: I || What are the three reasons in the model? || Many speakers, understanding culture, help finding jobs.
+p: I || How do you invite questions? || 大家有什么问题吗？
+p: I || What does 观点 mean? || Point of view.
+p: C || Why use key-word cards instead of reading a script? || You can make eye contact and sound natural.
+p: C || How should you answer a question you're unsure of? || 这是个好问题。我不太确定，但是我认为…
+p: C || Why are tones especially important in a presentation? || Wrong tones can change meaning and confuse listeners.
+p: C || Why tell the audience how many parts your talk has? || It gives them a map to follow.
+mis: Reading a full script without eye contact | Using 然后 for every transition | Ending abruptly without a conclusion or thanks
+et: Put 首先, 总之, 其次, 最后 in order. | Write a formal opening sentence.
+mc: B || 演讲 means || speech / presentation | story | idiom | exam
+mc: B || 首先 means || first of all | finally | in summary | secondly
+mc: B || 谢谢大家 means || thank you, everyone | hello, everyone | goodbye | sorry
+mc: B || 总之 means || in summary | first | next | for example
+mc: I || The correct order is || 首先, 其次, 最后, 总之 | 最后, 首先, 其次, 总之 | 总之, 首先, 最后, 其次 | 其次, 首先, 总之, 最后
+mc: I || 比如 means || for example | but | because | if
+mc: I || 大家有什么问题吗 means || Does anyone have questions? | Everyone has problems | What is the problem? | Who is everyone?
+mc: I || The model says learning Chinese helps with || finding jobs | cooking | sports | driving
+mc: I || 观点 means || point of view | sightseeing | question | part
+mc: C || The best response to a question you're unsure about is || 这是个好问题。我不太确定，但是我认为… | 不知道。 | 下一个问题。 | 我不说。
+mc: C || Key-word cards are better than a full script because they || allow eye contact and natural delivery | are longer | have no words | are required
+mc: C || Telling the audience your talk has three parts || gives them a map to follow | makes the talk longer | is impolite | replaces the conclusion
+sa: B || Translate 我的演讲有三个部分. || My presentation has three parts.
+sa: B || Name four signposting words in Mandarin. || 首先, 其次, 最后, 总之 (others).
+sa: I || Write a formal opening for a presentation. || Answers vary.
+sa: I || Write a conclusion with 总之. || Answers vary.
+sa: I || Summarize the model presentation's three reasons. || Many speakers, culture, jobs.
+sa: I || How do you answer a question politely when unsure? || 这是个好问题。我不太确定，但是我认为…
+sa: C || Explain the structure of a formal presentation in Mandarin. || Opening with topic and parts, body with signposts and examples, conclusion, thanks and questions.
+sa: C || Explain two delivery tips for presenting in Mandarin. || Eye contact, speak slowly, careful tones, key-word cards.
