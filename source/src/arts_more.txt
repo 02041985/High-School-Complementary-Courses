@@ -1,0 +1,175 @@
+=== ART10.B1 0
+hook: Painters can make a red apple glow, a sky feel cold or a shadow feel full of colour, all with only a few tubes of paint. The secret isn't buying more colours. It's knowing how to mix them and how to control light and dark.
+sc: I can mix secondary and tertiary colours from primaries | I can build a value scale with tints and shades | I can use complementary or analogous colours on purpose in a composition
+v: hue :: The name of a colour, such as red, blue or yellow-green.
+v: tint :: A hue mixed with white to make it lighter.
+v: shade :: A hue mixed with black or its complement to make it darker.
+v: complementary colours :: Colours opposite each other on the colour wheel, such as red and green.
+v: analogous colours :: Colours next to each other on the colour wheel, such as blue, blue-green and green.
+v: value :: How light or dark a colour is.
+v: composition :: How the parts of an artwork are arranged.
+ts: Colour Wheel and Value Studio || Studio task || How do painters control colour and value?
+tx: Materials: acrylic or tempera paint in red, yellow, blue, white and black; brushes; palette; water; heavy paper. ¶ Part 1, Colour wheel (20 minutes): Paint a 12-part wheel. Start with the primaries (red, yellow, blue), mix the secondaries (orange, green, violet), then the tertiaries (red-orange, yellow-green and so on). Add small amounts of the darker colour to the lighter one. ¶ Part 2, Value scale (15 minutes): Choose one hue. Paint a nine-step scale: four tints (add white), the pure hue, and four shades (add black on one side; on a second strip, darken with the complement instead and compare). ¶ Part 3, Colour schemes (10 minutes): Paint two small thumbnails of the same simple scene (for example a mug on a table): one with a complementary scheme, one with an analogous scheme. ¶ Part 4, Reflect (5 minutes): Which scheme feels calmer? Which feels more energetic? Why? ¶ Tip: Darkening with the complement gives richer shadows than black, which can make colours look muddy.
+src: Original studio task written for this lesson; colour theory summarized from standard art education sources.
+st: Mix primaries into secondaries and tertiaries | Paint a nine-step value scale | Compare darkening with black and with the complement | Paint two colour-scheme thumbnails | Reflect on the mood of each scheme
+org: Colour scheme | Colours used | Mood created | Where my eye goes first
+an: Which mixes were hardest to get right, and why? | How does darkening with the complement change a shadow? | Which thumbnail has more contrast? | How could you use a colour scheme to lead the viewer's eye?
+pr: Paint a small still life using either a complementary or analogous scheme, with at least five values, and write two sentences explaining your colour choices.
+ex: Secondary colours || What do you get when you mix blue and yellow? || Both are primaries | Mixing two primaries makes a secondary || Green || What happens if you add more yellow?
+ex: Tints and shades || How do you make a tint and a shade of blue? || Tint: add white | Shade: add black or orange (the complement) || Light blue is a tint; navy is a shade || Which shade looks richer?
+ex: Complementary scheme || Name the complement of violet. || Find violet on the wheel | Look directly across || Yellow || Why do complements make each other look brighter?
+ex: Analogous scheme || Choose an analogous scheme for a calm ocean scene. || Pick neighbours on the wheel || Blue, blue-green and green || How could you add one accent colour?
+p: B || What are the three primary colours in painting? || Red, yellow and blue.
+p: B || What is a tint? || A colour mixed with white.
+p: B || What is a shade? || A colour darkened with black or its complement.
+p: B || What does value mean? || How light or dark a colour is.
+p: B || What is the complement of red? || Green.
+p: I || Mix red and yellow. What secondary do you get? || Orange.
+p: I || Name a tertiary colour and how to mix it. || Blue-green: mix blue and green (other tertiaries accepted).
+p: I || What is an analogous colour scheme? || Three or more colours next to each other on the wheel.
+p: I || Why add dark paint to light paint a little at a time? || Dark colours are stronger and quickly overpower the mix.
+p: I || What happens when you mix complements in equal amounts? || You get a neutral brown or grey.
+p: I || Why does a value scale matter in painting? || Value creates form, depth and contrast.
+p: C || Why might an artist darken with a complement instead of black? || It gives richer, more natural shadows; black can make colours muddy.
+p: C || How could colour lead the viewer's eye to a focal point? || Put the strongest contrast or a complementary accent at the focal point.
+p: C || Compare the mood of a complementary and an analogous scheme. || Complementary feels energetic and high contrast; analogous feels calm and unified.
+p: C || A painting looks flat. Suggest two fixes. || Increase the value range, add warm-cool contrast or stronger shadows.
+mis: Thinking black is the best way to darken every colour | Thinking more colours of paint means better paintings | Thinking value only matters in drawing, not painting
+et: Mix and name one tertiary colour. | Explain why complementary colours create contrast.
+mc: B || Which colours are primaries in painting? || red, yellow, blue | red, green, blue | orange, green, violet | black, white, grey
+mc: B || Adding white to a hue makes a || tint | shade | tone | complement
+mc: B || The complement of blue is || orange | green | violet | red
+mc: B || Value describes || how light or dark a colour is | how bright a colour is | the name of a colour | the size of a shape
+mc: I || Mixing yellow and blue makes || green | orange | violet | brown
+mc: I || An analogous scheme uses colours that are || next to each other on the wheel | opposite on the wheel | only black and white | only primaries
+mc: I || Mixing two complements together makes || a neutral brown or grey | a brighter colour | a tint | a primary
+mc: I || Red-orange is a || tertiary colour | primary colour | secondary colour | neutral
+mc: I || Why add dark paint to light paint gradually? || Dark pigment quickly overpowers a mix | Light paint dries faster | Dark paint is cheaper | It makes a tint
+mc: C || Which choice best creates a focal point? || placing the strongest contrast at the centre of interest | using the same value everywhere | using only analogous colours | painting the background first
+mc: C || A shadow painted with black looks dull. A better choice is || mixing in the complement | adding white | adding more water | using a brighter hue
+mc: C || A calm, unified mood is most likely with || an analogous scheme | a complementary scheme | high value contrast | many unrelated hues
+sa: B || Name the three secondary colours. || Orange, green and violet.
+sa: B || What is a shade? || A hue darkened with black or its complement.
+sa: I || How do you mix a tertiary colour? || Mix a primary with a neighbouring secondary.
+sa: I || Explain what a complementary colour scheme is. || Colours opposite each other on the wheel, used together for contrast.
+sa: I || Why is a value scale useful? || It shows the range of light to dark to create form and contrast.
+sa: I || Describe the mood of a warm analogous scheme. || Warm, energetic or cozy (answers vary with reasons).
+sa: C || Plan a colour scheme for a stormy landscape and explain it. || Answers vary; for example cool analogous blues and greys with high value contrast for drama.
+sa: C || Explain how colour and value together create depth. || Warm, high-contrast colours come forward; cool, low-contrast colours recede.
+
+=== ART10.C1 0
+hook: Two people can look at the same painting and see completely different things. A critique isn't about saying "I like it" or "I don't." It's a step-by-step way of looking that lets you back up what you think with what you see.
+sc: I can describe an artwork objectively | I can analyze how the elements and principles are used | I can interpret meaning and judge an artwork with evidence
+v: critique :: A structured discussion that describes, analyzes, interprets and judges an artwork.
+v: describe :: To list what you see without giving opinions.
+v: analyze :: To explain how the elements and principles of design are organized.
+v: interpretation :: An explanation of what an artwork means, backed by evidence.
+v: symbolism :: Using an object, colour or image to stand for an idea.
+v: context :: The time, place and culture in which an artwork was made.
+v: aesthetic :: Ideas about beauty and what makes art meaningful or successful.
+ts: Four Steps to Seeing || Critique || How can we look closely at art from any culture and respond with evidence?
+tx: Choose three artworks from different cultures and times, for example: a Haida bentwood box or button blanket, Katsushika Hokusai's "The Great Wave off Kanagawa" (Japan, about 1831), and a work by a contemporary Canadian artist. ¶ Step 1, Describe (What do I see?): List subject, colours, lines, shapes, textures, medium and size. No opinions yet. ¶ Step 2, Analyze (How is it organized?): Which elements and principles stand out? Where is the focal point? How does the eye move? How is balance or rhythm created? ¶ Step 3, Interpret (What does it mean?): What mood or message does it suggest? What symbols appear? What does the context (culture, time, purpose) add? Use "I think ... because I see ..." ¶ Step 4, Judge (Is it successful?): Decide whether the work succeeds and by which criteria: skill, expression, originality or function. ¶ Respect: When looking at Indigenous and other cultural works, learn what the work means to the culture that made it, use the correct names, and remember that some objects are ceremonial, not decorative.
+src: Original critique activity written for this lesson using the Feldman four-step model.
+st: Describe what you see | Analyze elements and principles | Research context and interpret meaning | Judge using stated criteria | Share and compare interpretations
+org: Step | Artwork 1 | Artwork 2 | Artwork 3
+an: Why is it important to describe before you judge? | How did context change your interpretation? | Did classmates interpret the same work differently? Were both supported? | What criteria should we use to judge art from another culture?
+pr: Write a four-paragraph critique (one paragraph per step) of an artwork from a culture other than your own, including at least one fact about its context.
+ex: Describe || Describe "The Great Wave" without opinions. || Subject | Colours | Lines || A huge curling wave with claw-like foam, small boats and Mount Fuji in the distance, in blues and white || What details might you miss at first glance?
+ex: Analyze || Where is the focal point of "The Great Wave"? || Look for size and contrast || The curling crest of the wave, which frames Mount Fuji || How does the curve move your eye?
+ex: Interpret || What might the work say about people and nature? || Tiny boats | Enormous wave || Nature is powerful and people are small or vulnerable || What other interpretations could the image support?
+ex: Judge || Is the work successful? Use a criterion. || Choose a criterion | Give evidence || Yes, on expression: the dramatic composition makes the viewer feel the wave's power || Would your judgment change with a different criterion?
+p: B || Name the four steps of a critique. || Describe, analyze, interpret, judge.
+p: B || What do you do in the describe step? || List what you see without opinions.
+p: B || What is symbolism? || Using an image or colour to stand for an idea.
+p: B || What is context? || The time, place and culture an artwork comes from.
+p: B || What is a focal point? || The area that draws the eye first.
+p: I || Why describe before judging? || So opinions are based on evidence.
+p: I || What questions guide the analyze step? || How are the elements and principles organized? Where does the eye go?
+p: I || Write an interpretation sentence starter. || I think ... because I see ...
+p: I || Give two criteria for judging art. || Technical skill, expression, originality or function.
+p: I || Why research context? || It reveals meanings the image alone might not show.
+p: I || Why use the correct names for cultural works? || To show respect and accuracy.
+p: C || Two students interpret a work differently. Can both be right? || Yes, if both are supported by evidence from the work and its context.
+p: C || Why might judging a ceremonial object only on beauty be unfair? || Its purpose and meaning in its culture matter more than decoration.
+p: C || How does an artist's culture shape an artwork? || Through materials, symbols, beliefs, stories and purpose.
+p: C || Revise "This painting is ugly" into a judgment with criteria. || For example: The composition feels unbalanced because all the weight is on the left.
+mis: Thinking a critique means criticizing | Thinking there is one correct interpretation | Judging art from other cultures only by one's own standards
+et: Name the four steps of a critique in order. | Write one interpretation using "I think ... because I see ..."
+mc: B || The first step of a critique is || describe | judge | interpret | analyze
+mc: B || In the describe step, you should || list what you see without opinions | decide if it's good | explain its meaning | research the artist
+mc: B || Context means || the time, place and culture of a work | the frame around a work | the price of a work | the medium used
+mc: B || Symbolism is || using an image to stand for an idea | painting from life | a type of brush | a colour scheme
+mc: I || Which question belongs to the analyze step? || How are the elements and principles organized? | What does it mean to me? | Is it the best artwork ever? | Who bought it?
+mc: I || A good interpretation is || supported by evidence in the work | based only on feeling | the same for everyone | the artist's name
+mc: I || Which is a criterion for judging art? || expression | price | size of the gallery | the artist's age
+mc: I || Why research context before interpreting? || It can reveal meaning the image alone does not | It replaces looking | It decides the price | It is required by law
+mc: I || A focal point is || where the eye goes first | the edge of the work | the signature | the background
+mc: C || Two different interpretations of one work are both valid when || both are supported by evidence | both students agree | the teacher prefers one | one is longer
+mc: C || When responding to a ceremonial Indigenous object, it is most important to || learn its meaning to the culture that made it | judge only its colours | compare its price to other works | ignore its purpose
+mc: C || Which statement is a judgment with criteria? || The strong contrast makes the message powerful. | I don't like it. | It is blue. | It's old.
+sa: B || List the four critique steps. || Describe, analyze, interpret, judge.
+sa: B || What is an interpretation? || An explanation of an artwork's meaning backed by evidence.
+sa: I || Describe the difference between describing and analyzing. || Describing lists what you see; analyzing explains how it is organized.
+sa: I || Why does context matter in a critique? || It helps explain purpose, symbols and meaning.
+sa: I || Give one symbol you might see in an artwork and its meaning. || Answers vary, for example a dove for peace.
+sa: I || Name two criteria for judging art. || For example skill and expression.
+sa: C || Explain how to respond respectfully to art from another culture. || Learn its meaning and purpose from that culture, use correct names and avoid judging by one's own standards only.
+sa: C || Write a short judgment of an artwork you know, with a criterion and evidence. || Answers vary; must name a criterion and evidence.
+
+=== ART10.D1 0
+hook: Artists rarely start with a perfect idea. Picasso made dozens of sketches for "Guernica." The sketchbook is where messy ideas get tested, changed and turned into something worth making.
+sc: I can generate many ideas from a prompt | I can develop one idea through thumbnails and studies | I can reflect on choices in my sketchbook
+v: sketchbook :: A book for recording ideas, studies and experiments.
+v: ideation :: The process of generating many ideas.
+v: thumbnail :: A small, quick sketch used to test a composition.
+v: concept :: The main idea behind an artwork.
+v: mind map :: A diagram that connects a central idea to related ideas.
+v: reflection :: Thinking and writing about your choices and what you learned.
+ts: From Prompt to Plan || Studio task || How do artists turn a simple prompt into a strong idea?
+tx: Prompt: "Something I carry" (an object, a memory, a responsibility or a feeling). ¶ Part 1, Mind map (10 minutes): Write the prompt in the centre of a sketchbook page. Branch out with at least 15 words, objects, places, people and feelings. Circle three that surprise you. ¶ Part 2, Visual research (10 minutes): Collect references: draw two objects from life, take or find two photos, and note one artist who works with a similar idea. ¶ Part 3, Thumbnails (15 minutes): Draw six thumbnails (5 cm by 7 cm) showing different compositions: close-up, bird's-eye view, unusual crop, symbolic object, combined images, empty space. ¶ Part 4, Develop (10 minutes): Choose the strongest thumbnail. Make a larger study testing value or colour. ¶ Part 5, Reflect (5 minutes): Annotate the page: Why this idea? What will you change? What feeling do you want the viewer to have?
+src: Original studio task written for this lesson.
+st: Mind map the prompt | Collect visual research | Draw six different thumbnails | Develop the strongest idea in a study | Annotate and reflect
+org: Thumbnail | Viewpoint or idea | Strength | What to change
+an: Why make six thumbnails instead of one? | Which surprising idea from your mind map led somewhere? | How did visual research change your idea? | What makes a concept personal rather than generic?
+pr: Complete a two-page sketchbook spread (mind map, research, six thumbnails, one developed study, annotations) and a one-paragraph plan for a final artwork.
+ex: Mind map || Expand "something I carry" with three branches. || Objects | Memories | Feelings || Backpack, grandmother's ring, worry about exams || Which branch is most personal?
+ex: Thumbnails || Why draw thumbnails small? || Speed | Focus on composition || They are quick and force you to think about big shapes and placement, not details || How many could you draw in 10 minutes?
+ex: Concept || Turn "my backpack" into a concept. || Ask what it means || The weight of expectations, shown by an overflowing backpack || How could scale show weight?
+ex: Annotation || Write a useful annotation for a thumbnail. || Name the choice | Explain why || "Low viewpoint makes the backpack look huge, like the pressure I feel" || What will you test next?
+p: B || What is a sketchbook for? || Recording ideas, studies and experiments.
+p: B || What is ideation? || Generating many ideas.
+p: B || What is a thumbnail sketch? || A small, quick sketch to test a composition.
+p: B || What is a concept? || The main idea behind an artwork.
+p: B || What is a mind map? || A diagram connecting a central idea to related ideas.
+p: I || Why generate many ideas before choosing one? || The first idea is often the most obvious; more ideas lead to original ones.
+p: I || Name two kinds of visual research. || Drawing from life, photos, artist research.
+p: I || Give two ways to vary a thumbnail composition. || Change viewpoint, crop, scale or placement.
+p: I || What should an annotation explain? || The choice made and why.
+p: I || Why draw from life during research? || It builds observation and gives accurate reference.
+p: I || What makes a study different from a thumbnail? || A study is larger and tests value, colour or detail.
+p: C || How can a personal concept make art stronger? || It gives meaning and originality the viewer can feel.
+p: C || Turn the generic idea "a tree" into a concept. || For example, a tree with roots shaped like hands to show family history.
+p: C || Why might an artist abandon an idea in the sketchbook? || It doesn't communicate the concept or a better idea emerged.
+p: C || How does reflection improve the next artwork? || It identifies what worked and what to change.
+mis: Thinking a sketchbook must be neat and finished | Thinking the first idea is the best idea | Thinking research means copying other artists
+et: Draw two quick thumbnails of the same idea from different viewpoints. | Write one annotation explaining a choice.
+mc: B || A thumbnail is || a small, quick composition sketch | a finished painting | a type of brush | a photograph
+mc: B || Ideation means || generating many ideas | framing art | mixing paint | signing a work
+mc: B || A concept is || the main idea behind an artwork | the paper size | the medium | the frame
+mc: B || A mind map helps an artist || connect ideas to a central prompt | mix colours | measure proportion | sell art
+mc: I || Why make several thumbnails? || To compare compositions before committing | To fill pages | To copy other artists | To practise signing
+mc: I || Which is visual research? || drawing objects from life | painting the final work | framing the work | choosing a title last
+mc: I || A good annotation || explains a choice and why | lists the date only | copies the prompt | praises the work
+mc: I || A study is || a larger test of value, colour or detail | the final artwork | a mind map | a critique
+mc: I || Changing the viewpoint of a thumbnail can || change the meaning and drama | change the paper | fix a spelling error | replace the concept
+mc: C || Which idea is the most developed concept? || an overflowing backpack showing the weight of expectations | a backpack | a bag on a table | school
+mc: C || Researching an artist with a similar idea is useful because || it shows new approaches you can adapt | you can copy the work | it replaces your sketchbook | it decides your grade
+mc: C || Reflection in a sketchbook mainly helps an artist || learn from choices and plan improvements | make the book neat | finish faster | avoid ideas
+sa: B || What is a sketchbook used for? || Recording ideas, studies and experiments.
+sa: B || Define ideation. || Generating many ideas.
+sa: I || Explain why thumbnails are drawn small. || To work fast and focus on composition.
+sa: I || Name three ways to make thumbnails different from each other. || Viewpoint, crop, scale, placement or symbolism.
+sa: I || What is the difference between research and copying? || Research gathers references and ideas; copying reproduces another work.
+sa: I || Write an annotation for a sketch. || Answers vary; names a choice and reason.
+sa: C || Turn a simple subject into a personal concept and explain it. || Answers vary.
+sa: C || Explain how the sketchbook process leads to a stronger final artwork. || Testing many ideas and compositions reveals the strongest one and solves problems before the final work.

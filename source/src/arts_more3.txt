@@ -1,0 +1,115 @@
+=== ART30.C1 0
+hook: Kent Monkman paints huge canvases that look like 19th-century museum paintings, but at the centre is Miss Chief Eagle Testickle, his gender-fluid Cree alter ego, rewriting the story of Canada. Contemporary art often looks familiar at first and then asks you to see history differently.
+sc: I can describe strategies contemporary artists use | I can analyze how an artwork addresses an issue | I can respond to Indigenous and Canadian contemporary art with respect and evidence
+v: contemporary art :: Art made by living artists, roughly from the 1970s to today.
+v: appropriation :: Borrowing existing images or styles and changing their meaning.
+v: identity :: Who a person or group is, including culture, gender, language and history.
+v: Indigenous art :: Art by First Nations, Métis and Inuit artists, from ancient to contemporary.
+v: decolonize :: To challenge and undo colonial ways of thinking and telling history.
+v: curator :: A person who selects and organizes artworks for an exhibition.
+ts: Art That Asks Questions || Case study || How do contemporary Canadian and Indigenous artists use art to explore issues?
+tx: Contemporary art strategies: appropriation (reusing familiar images), humour and irony, performance, installation, new media and collaboration with communities. ¶ Artist 1, Kent Monkman (Cree): Paints in the grand style of 19th-century history painting and inserts his alter ego, Miss Chief, to challenge colonial stories about Indigenous peoples. Example: "The Scream" (2017) depicts children being taken to residential schools. ¶ Artist 2, Christi Belcourt (Métis): Large paintings that look like traditional Métis beadwork, showing plants and their relationships; she also led "Walking With Our Sisters," a memorial to missing and murdered Indigenous women and girls. ¶ Artist 3, Annie Pootoogook (Inuit, Kinngait): Coloured-pencil drawings of everyday modern Inuit life (television, kitchens, shopping), changing outsiders' ideas of "Inuit art." ¶ Artist 4, Edward Burtynsky (Toronto): Large photographs of industrial landscapes (mines, oil sands, quarries) that are beautiful and disturbing at the same time. ¶ Task: In groups, analyze one artist: strategy, issue, how form supports the message, and audience response. Present to the class.
+src: Case study written for this lesson; summarized from public gallery and artist sources.
+st: Learn five contemporary art strategies | Read about four artists | Analyze one artist's strategy and issue | Connect form to message | Present and discuss respectfully
+org: Artist | Strategy | Issue | How form supports the message
+an: Why might Monkman borrow the style of colonial-era painting? | How did Annie Pootoogook change ideas of what Inuit art is? | Can a beautiful image like Burtynsky's be a warning? | How should non-Indigenous viewers respond to work about residential schools?
+pr: Write a 400-word critical analysis of one contemporary Canadian or Indigenous artwork, explaining its strategy, issue and how form supports meaning.
+ex: Appropriation || How does Monkman use appropriation? || Borrows historical painting style | Inserts new figures || He reuses the look of colonial history paintings to tell Indigenous perspectives and challenge them || Why is this more powerful than an original style?
+ex: Everyday subjects || Why were Pootoogook's drawings surprising? || Expected: traditional scenes | Saw: modern life || She showed contemporary Inuit life, challenging stereotypes || What stereotypes did her work challenge?
+ex: Beauty and warning || How can Burtynsky's photos be beautiful and critical? || Composition and colour | Subject of damage || Striking compositions draw viewers in, then they realize the scale of environmental change || Does beauty help or hurt the message?
+ex: Memorial || What made "Walking With Our Sisters" powerful? || Community-made | Moccasin tops (vamps) || Over a thousand beaded vamps, each for a missing or murdered woman, made it personal and collective || Why might it travel to many communities?
+p: B || What is contemporary art? || Art by living artists, roughly 1970s to today.
+p: B || What is appropriation? || Borrowing existing images and changing their meaning.
+p: B || What does a curator do? || Selects and organizes art for exhibitions.
+p: B || Name a contemporary Indigenous artist from Canada. || Kent Monkman, Christi Belcourt, Annie Pootoogook or other valid answer.
+p: B || What does Edward Burtynsky photograph? || Industrial landscapes.
+p: I || Who is Miss Chief Eagle Testickle? || Kent Monkman's gender-fluid Cree alter ego.
+p: I || What issue does Monkman's "The Scream" address? || Children taken to residential schools.
+p: I || What does Christi Belcourt's painting style resemble? || Métis beadwork.
+p: I || Name two strategies contemporary artists use. || Appropriation, humour, performance, installation, new media.
+p: I || What did Annie Pootoogook draw? || Everyday modern Inuit life.
+p: I || What does decolonize mean? || To challenge colonial ways of thinking and telling history.
+p: C || Why might contemporary art make viewers uncomfortable? || It raises difficult issues to provoke thought and change.
+p: C || How does form support Belcourt's message? || Beadwork-like style connects plants and Métis culture and knowledge.
+p: C || How should a viewer respond respectfully to art about trauma? || Listen to the artist's perspective, learn the history and reflect rather than judge quickly.
+p: C || Compare Monkman's and Burtynsky's strategies. || Monkman uses appropriation and narrative painting; Burtynsky uses large documentary photography.
+mis: Thinking Indigenous art is only traditional or historical | Thinking contemporary art has no skill or meaning | Thinking beautiful art can't be critical
+et: Name one contemporary artist and the issue they explore. | Define appropriation.
+mc: B || Contemporary art is made by || living artists, roughly 1970s to today | Renaissance artists | only Europeans | only painters
+mc: B || A curator || selects and organizes art for exhibitions | paints murals | builds frames | sells paint
+mc: B || Edward Burtynsky is known for || photographs of industrial landscapes | Métis beadwork paintings | Inuit drawings | sculpture from sneakers
+mc: B || Annie Pootoogook drew || everyday modern Inuit life | European palaces | abstract shapes only | landscapes of Spain
+mc: I || Appropriation means || borrowing existing images and changing their meaning | inventing a new colour | painting outdoors | framing art
+mc: I || Kent Monkman's "The Scream" addresses || residential schools | climate change | city traffic | sports
+mc: I || Christi Belcourt's paintings resemble || Métis beadwork | Impressionist landscapes | comic books | photographs
+mc: I || "Walking With Our Sisters" honoured || missing and murdered Indigenous women and girls | soldiers | athletes | artists
+mc: I || To decolonize means || to challenge colonial ways of telling history | to paint colonies | to restore old paintings | to sell art abroad
+mc: C || Why might Monkman borrow colonial painting style? || To challenge the stories that style once told | To copy famous paintings | To avoid originality | To please collectors
+mc: C || Burtynsky's photographs are effective because || their beauty draws viewers in to a troubling subject | they hide the subject | they are small | they are abstract
+mc: C || A respectful response to art about residential schools || learns the history and listens to the artist's perspective | judges quickly | ignores the subject | focuses only on colour
+sa: B || Define contemporary art. || Art by living artists, roughly 1970s to today.
+sa: B || What does a curator do? || Selects and organizes artworks for exhibitions.
+sa: I || Describe one strategy Kent Monkman uses. || Appropriation of historical painting style, inserting Miss Chief.
+sa: I || What stereotype did Annie Pootoogook's work challenge? || That Inuit art shows only traditional life.
+sa: I || Name two strategies of contemporary art. || Appropriation, performance, installation, humour, new media.
+sa: I || What issue do Burtynsky's photographs raise? || Human impact on the environment.
+sa: C || Analyze how form supports meaning in one contemporary artwork. || Answers vary.
+sa: C || Explain why contemporary Indigenous art matters to Canadian art history. || It tells Indigenous perspectives, challenges colonial narratives and shows living cultures.
+
+=== ART30.D1 0
+hook: A university portfolio reviewer may spend only a few minutes on your work. In that time they need to see who you are as an artist. Curating means choosing what to leave out as much as what to put in.
+sc: I can select works that show range and a strong personal voice | I can sequence and present a portfolio | I can document work with clear photos and labels
+v: portfolio :: A curated collection of an artist's best work.
+v: curate :: To select and arrange works for a purpose and audience.
+v: sequence :: The order in which works are presented.
+v: documentation :: Photos and information that record an artwork.
+v: process work :: Sketches and studies showing how an artwork developed.
+v: exhibition :: A public display of artworks.
+ts: Curate Your Best || Studio task || How do artists choose and present their strongest work?
+tx: Part 1, Inventory (15 minutes): Lay out or list every artwork from Grades 10 to 12. Rate each from 1 to 4 on skill, idea and personal voice. ¶ Part 2, Know the audience (5 minutes): Portfolios for art schools often ask for 10 to 20 works, mostly from observation plus some personal projects and sketchbook pages. Exhibitions need a theme and space plan. ¶ Part 3, Select (15 minutes): Choose 12 works that show: drawing from observation, range of media, a series or theme, and at least two process pages. Remove weaker pieces even if they took a long time. ¶ Part 4, Sequence (10 minutes): Start and end with your strongest works. Group related pieces. ¶ Part 5, Document (15 minutes): Photograph each work square-on in even, natural light with no glare, cropped to the edges. Label: title, medium, size, year. Write one or two sentences per work.
+src: Original studio task written for this lesson; portfolio guidance summarized from post-secondary art program requirements.
+st: Inventory and rate all your work | Identify the audience and its requirements | Select 12 works showing range and voice | Sequence for impact | Photograph and label each work
+org: Artwork | Skill (1–4) | Idea (1–4) | Voice (1–4) | Include?
+an: Which work was hardest to leave out? Why? | Why open and close with your strongest work? | What does your portfolio say about you as an artist? | How does a poor photo affect how a reviewer sees good work?
+pr: Assemble a digital portfolio of 12 documented works with labels, sequence and a 150-word artist statement.
+ex: Selection || You spent 20 hours on a weak painting. Include it? || Judge quality, not time || No; include only works that show your best skill and voice || What could you do with it instead?
+ex: Sequence || Where should your strongest work go? || First impressions | Last impressions || First, with another strong work last || Why do the middle works matter less?
+ex: Documentation || How do you photograph a painting? || Square-on | Even light | No glare | Crop || Shoot straight on in indirect natural light and crop to the edges || What causes glare?
+ex: Label || Label a work correctly. || Title, medium, size, year || "Still Waters," acrylic on canvas, 60 × 90 cm, 2026 || Why include size?
+p: B || What is a portfolio? || A curated collection of an artist's best work.
+p: B || What does curate mean? || To select and arrange works for a purpose.
+p: B || What is process work? || Sketches and studies showing how art developed.
+p: B || Name the four parts of an artwork label. || Title, medium, size, year.
+p: B || What is documentation? || Photos and information recording an artwork.
+p: I || Why include process pages? || They show thinking and development.
+p: I || How should you light a photo of artwork? || Even, indirect natural light without glare.
+p: I || What three criteria help rate works? || Skill, idea, personal voice.
+p: I || Why group related works? || To show series and themes clearly.
+p: I || What do art schools often want to see? || Observational drawing, range of media, personal projects.
+p: I || Why crop artwork photos to the edges? || To remove distracting background.
+p: C || Why should time spent not decide selection? || Reviewers judge quality, not effort.
+p: C || How does a portfolio show personal voice? || Recurring themes, subjects and approaches across works.
+p: C || How would a portfolio for an exhibition differ from one for an art school? || An exhibition follows a theme and space; a school portfolio shows range and skill.
+p: C || What should you do if two works are very similar? || Choose the stronger one or present them as a series.
+mis: Including every artwork to show effort | Thinking photo quality doesn't matter | Leaving out sketchbook and process work
+et: Name three things a strong portfolio should show. | Write a label for one of your works.
+mc: B || A portfolio is || a curated collection of best work | every artwork you made | a sketchbook | a gallery
+mc: B || To curate means to || select and arrange works | paint quickly | sell art | frame art
+mc: B || An artwork label includes || title, medium, size and year | price only | the teacher's name | the date bought
+mc: B || Process work shows || how an artwork developed | the final price | the frame | the exhibition room
+mc: I || Where should your strongest work go? || first | in the middle | hidden at the back | nowhere
+mc: I || The best light for photographing art is || even, indirect natural light | a camera flash | a single lamp from the side | darkness
+mc: I || Why include sketchbook pages? || They show thinking and development | They fill space | They are required by law | They hide weak work
+mc: I || Which should be left out? || a weak piece that took a long time | your strongest drawing | a series piece | a process page
+mc: I || Grouping related works helps show || themes and series | price | medium only | your age
+mc: C || A reviewer has two minutes. What matters most? || strong opening work and clear documentation | number of works | expensive frames | long descriptions
+mc: C || Personal voice in a portfolio is shown by || recurring themes and approaches across works | copying a famous style | using one medium only | many unrelated works
+mc: C || An exhibition differs from an art school portfolio because it || follows a theme and uses a space | shows only drawings | has no labels | has no audience
+sa: B || Define portfolio. || A curated collection of an artist's best work.
+sa: B || What are the parts of an artwork label? || Title, medium, size, year.
+sa: I || Explain how to photograph a 2D artwork well. || Straight on, even indirect light, no glare, cropped to edges.
+sa: I || Why should you start with your strongest work? || First impressions shape how reviewers see the rest.
+sa: I || Name three things art schools often look for. || Observational drawing, range of media, personal voice or process.
+sa: I || Why include process work? || It shows thinking, development and problem-solving.
+sa: C || Explain how you would choose 12 works from 30. || Rate on skill, idea and voice; keep range and series; remove weaker or repeated works.
+sa: C || Describe what your portfolio would say about you as an artist. || Answers vary.

@@ -1,0 +1,231 @@
+=== ART20.B1 0
+hook: Before the printing press, every image had to be made by hand, one at a time. Printmaking changed that: carve a block once and you can pull dozens of prints. Artists from Japanese ukiyo-e masters to Inuit printmakers in Kinngait (Cape Dorset) have used it to share images with the world.
+sc: I can design an image for relief printing in reverse | I can carve or prepare a plate safely | I can pull a consistent edition and label it correctly
+v: relief print :: A print made by carving away areas so the raised surface takes the ink.
+v: monoprint :: A one-of-a-kind print made from a painted or inked smooth plate.
+v: brayer :: A small roller used to spread ink evenly.
+v: edition :: A set of identical prints from the same plate.
+v: registration :: Lining up the paper and plate so each print is in the same place.
+v: positive and negative space :: The printed (raised) areas and the carved-away areas.
+ts: Carve, Ink, Print || Studio task || How does printmaking change the way an artist designs an image?
+tx: Materials: soft-cut lino or foam blocks, lino cutters with guards, bench hooks, water-based block ink, brayers, inking plates, wooden spoons or a press, paper. ¶ Safety: Always carve away from your body with the block held in a bench hook. Keep your free hand behind the blade. ¶ Part 1, Design (15 minutes): Draw a design the size of the block. Use strong contrast: large black and white shapes. Remember that the print will be reversed, so text must be written backward. Shade areas you will NOT carve. ¶ Part 2, Transfer and carve (30 minutes): Transfer the design by rubbing a pencil drawing face-down onto the block. Carve the white areas away using a V-gouge for lines and a U-gouge for clearing. ¶ Part 3, Ink and print (20 minutes): Roll a thin, even layer of ink on the plate until it sounds like velvet. Ink the block, place the paper using a registration jig and burnish with a spoon. Pull a proof. ¶ Part 4, Edition (15 minutes): Make adjustments, then pull an edition of three to five. Sign in pencil below the image: edition number (for example 2/5), title, signature, year. ¶ Monoprint option: Paint directly onto a smooth plexiglass plate and print once.
+src: Original studio task written for this lesson; printmaking conventions summarized from standard art education sources.
+st: Design a high-contrast image in reverse | Transfer the design to the block | Carve safely with the right gouges | Ink evenly and pull a proof | Pull and sign an edition
+org: Print number | Ink coverage | Registration | What I changed
+an: How did carving change your design compared to drawing? | Why does reversal matter? | What made some prints better than others in the edition? | How did printmaking let Inuit artists in Kinngait share their work widely?
+pr: Produce a signed edition of three relief prints (or a series of monoprints) and write a short reflection on how the process shaped your image.
+ex: Reversal || You want the word "ART" to read correctly. How do you carve it? || The print is a mirror image || Carve it backward on the block || What other parts of an image would flip?
+ex: Positive space || Which areas print in a relief print? || Raised surface takes ink || The areas you did not carve || What colour are the carved areas on the print?
+ex: Edition label || Label the third print of an edition of eight. || Number/total, title, signature, year || 3/8 "Title" Signature 2026 || Why use pencil?
+ex: Troubleshooting || A print is blotchy with gaps. What went wrong? || Ink too thin or uneven | Not enough pressure || Re-roll ink evenly and burnish more firmly || How would too much ink look?
+p: B || What is a relief print? || A print made from the raised surface of a carved block.
+p: B || What is a brayer? || A roller for spreading ink.
+p: B || What is an edition? || A set of identical prints from the same plate.
+p: B || What is a monoprint? || A one-of-a-kind print from a painted plate.
+p: B || Which direction do you carve? || Away from your body.
+p: I || Why must text be carved backward? || The print is a mirror image of the block.
+p: I || Which gouge is best for clearing large areas? || A U-gouge.
+p: I || What does 4/10 mean on a print? || The fourth print in an edition of ten.
+p: I || What is registration? || Lining up paper and block so each print matches.
+p: I || How do you know ink is rolled correctly? || It is thin and even and sounds velvety.
+p: I || Why use strong contrast in a relief design? || Fine grey tones are hard to carve; bold shapes print clearly.
+p: C || Compare relief printing and monoprinting. || Relief makes repeatable editions; monoprints are unique.
+p: C || How did printmaking help Inuit artists in Kinngait? || It let them make editions of their drawings to share and sell widely.
+p: C || A print has smudged edges. Suggest two fixes. || Clean the block edges, use a registration jig, avoid sliding the paper.
+p: C || Why might an artist choose printmaking for a political message? || Many copies can be made and shared quickly and cheaply.
+mis: Forgetting that prints are reversed | Thinking more ink makes a better print | Thinking prints in an edition are copies, not original artworks
+et: Explain why you carve text backward. | Write how you would label print 2 of 6.
+mc: B || In a relief print, the inked areas are || the raised, uncarved surface | the carved-away areas | the paper edges | the back of the block
+mc: B || A brayer is used to || roll ink evenly | carve the block | sign prints | frame prints
+mc: B || A monoprint is || one of a kind | an edition of ten | a sculpture | a digital file
+mc: B || When carving, you should || cut away from your body | cut toward your hand | hold the block in your lap | carve without a bench hook
+mc: I || Text on a relief block must be || carved backward | carved upside down | painted on | carved twice
+mc: I || The label 5/12 means || the fifth print of twelve | five prints sold | twelve colours | the fifth edition
+mc: I || Registration helps || line up each print in the same place | make the ink dry | sharpen tools | sign the edition
+mc: I || A U-gouge is best for || clearing large areas | fine lines only | inking | signing
+mc: I || A blotchy print usually means || uneven ink or too little pressure | the paper was too white | the block was too new | the edition was too large
+mc: C || Why are bold shapes better for relief designs? || Fine tones are hard to carve and print clearly | Bold shapes use less paper | Fine lines dry slower | Teachers prefer them
+mc: C || Printmaking let artists in Kinngait || share editions of their images widely | make sculptures | paint murals | avoid drawing
+mc: C || An artist wants many copies of a protest image. The best medium is || printmaking | a single oil painting | a carved marble statue | a monoprint
+sa: B || Define edition. || A set of identical prints from one plate.
+sa: B || What tool spreads the ink? || A brayer.
+sa: I || Explain why prints are reversed. || The paper is pressed face-down on the block, creating a mirror image.
+sa: I || Describe how to sign a print. || In pencil below the image: number/total, title, signature, year.
+sa: I || Give one safety rule for carving. || Cut away from your body using a bench hook.
+sa: I || What is the difference between positive and negative space in a relief print? || Positive is the raised inked area; negative is the carved area that stays paper-coloured.
+sa: C || Compare relief printing and monoprinting. || Relief is carved and repeatable; monoprint is painted and unique.
+sa: C || Explain why printmaking has been important for sharing art and ideas. || It makes many copies cheaply, so images and messages reach more people.
+
+=== ART20.C1 0
+hook: In 1874, a group of painters rejected by the official Paris Salon held their own show. A critic mocked one painting, Monet's "Impression, Sunrise," and called them "Impressionists." The insult became the name of one of the most loved art movements in history.
+sc: I can describe the key features of Impressionism and Post-Impressionism | I can explain how the movements responded to their time | I can compare works using evidence
+v: art movement :: A group of artists sharing ideas and styles during a period.
+v: Impressionism :: A movement that captured light, colour and fleeting moments with visible brushstrokes.
+v: Post-Impressionism :: Artists after Impressionism who used colour and form more expressively or structurally.
+v: en plein air :: Painting outdoors, directly from the scene.
+v: broken colour :: Placing strokes of pure colour side by side instead of blending.
+v: context :: The historical, social and technological setting of an artwork.
+ts: Capturing the Moment || Case study || How did Impressionism and Post-Impressionism respond to their times?
+tx: Context: In the mid-1800s, railways let artists reach the countryside, cities like Paris were modernizing, photography could record exact details, and portable tubes of paint (invented 1841) made outdoor painting easy. ¶ Impressionism (about 1870s–1880s): Claude Monet, Pierre-Auguste Renoir, Berthe Morisot, Camille Pissarro. Features: painting outdoors, capturing changing light and weather, visible quick brushstrokes, broken colour, everyday modern subjects (cafés, train stations, leisure). Monet painted haystacks and Rouen Cathedral many times to show light at different hours. ¶ Post-Impressionism (about 1886–1905): Vincent van Gogh (expressive swirling strokes and emotional colour), Paul Cézanne (structure, geometric forms, multiple viewpoints), Georges Seurat (pointillism, dots of colour based on colour science), Paul Gauguin (flat areas of symbolic colour). ¶ Task: Compare one Impressionist and one Post-Impressionist painting using the organizer. Then explain how one change in society influenced the movement.
+src: Case study written for this lesson; summarized from standard art history sources.
+st: Read the historical context | Identify features of Impressionism | Identify how Post-Impressionists changed direction | Compare two paintings | Link a movement to its time
+org: Feature | Impressionist work | Post-Impressionist work | Evidence I see
+an: How did photography push painters to do something photography couldn't? | Why were the Impressionists rejected at first? | How does van Gogh's use of colour differ from Monet's? | Which movement influenced later 20th-century art more? Why?
+pr: Create a small painting of a local scene in either an Impressionist or Post-Impressionist style, with a paragraph explaining which features you used and why.
+ex: Feature || Why do Impressionist paintings have visible brushstrokes? || Paint quickly | Capture changing light || To capture a fleeting moment before the light changed || How does this differ from academic painting?
+ex: Context || How did paint tubes affect Impressionism? || Portability || Artists could paint outdoors (en plein air) easily || What other invention helped them travel?
+ex: Compare || Compare Monet and van Gogh's brushwork. || Monet: light, broken strokes | Van Gogh: thick, swirling, emotional || Monet records light; van Gogh expresses feeling || Which is more about the artist's emotion?
+ex: Seurat || What was pointillism? || Small dots | Colour science || Painting with dots of pure colour that mix in the viewer's eye || Why would this take so long?
+p: B || What is an art movement? || A group of artists sharing ideas and style in a period.
+p: B || Name two Impressionist painters. || Monet, Renoir, Morisot or Pissarro.
+p: B || What does en plein air mean? || Painting outdoors.
+p: B || Who painted "Impression, Sunrise"? || Claude Monet.
+p: B || Name two Post-Impressionist painters. || Van Gogh, Cézanne, Seurat or Gauguin.
+p: I || What did Impressionists try to capture? || Changing light, colour and fleeting moments.
+p: I || What is broken colour? || Strokes of pure colour placed side by side rather than blended.
+p: I || Why did Monet paint the same haystacks many times? || To show how light changes at different times and seasons.
+p: I || What is pointillism? || Painting with dots of colour that blend optically.
+p: I || How did Cézanne influence later art? || His geometric structure led toward Cubism.
+p: I || What subjects did Impressionists paint? || Modern everyday life and landscapes.
+p: C || How did photography influence Impressionism? || Painters focused on light, colour and impression rather than exact detail.
+p: C || Why were the Impressionists controversial? || Their loose, unfinished-looking style broke academic rules.
+p: C || Compare Impressionism and Post-Impressionism in one sentence. || Impressionism captured light and moments; Post-Impressionism added emotion, structure or symbolism.
+p: C || How does a movement "respond to its time"? || It reflects new technology, ideas and social change in its subjects and methods.
+mis: Thinking Impressionist paintings are unfinished because of lack of skill | Thinking Post-Impressionism is one single style | Thinking art movements happen in isolation from society
+et: Name one feature of Impressionism. | Name one Post-Impressionist and their style.
+mc: B || "Impression, Sunrise" was painted by || Claude Monet | Vincent van Gogh | Pablo Picasso | Paul Cézanne
+mc: B || En plein air means || painting outdoors | painting at night | painting from photos | painting in a studio
+mc: B || Impressionists focused on || light and fleeting moments | perfect detail | religious subjects only | geometric shapes
+mc: B || Which artist is a Post-Impressionist? || Vincent van Gogh | Claude Monet | Berthe Morisot | Camille Pissarro
+mc: I || Pointillism is associated with || Georges Seurat | Pierre-Auguste Renoir | Claude Monet | Leonardo da Vinci
+mc: I || Broken colour means || placing pure colour strokes side by side | mixing all colours to brown | painting in black and white | cracking paint
+mc: I || Which invention made outdoor painting easier? || paint in tubes | the printing press | electricity | the computer
+mc: I || Monet painted the same subject many times to || show changing light | practise drawing | save money | copy photographs
+mc: I || Cézanne's work led toward || Cubism | Impressionism | Baroque art | Renaissance art
+mc: C || How did photography influence painters? || It pushed them to explore colour, light and expression instead of exact detail | It ended painting | It made painting identical to photos | It had no effect
+mc: C || Van Gogh's brushwork differs from Monet's because it is || more expressive and emotional | more photographic | invisible | geometric
+mc: C || Which statement best explains why the Impressionists were rejected? || Their loose style broke academic rules | They painted only in black | They refused to exhibit | They used digital tools
+sa: B || Define art movement. || A group of artists sharing ideas and style during a period.
+sa: B || Name two Impressionists. || For example Monet and Morisot.
+sa: I || Describe two features of Impressionism. || Visible brushstrokes, light effects, everyday subjects, outdoor painting.
+sa: I || What did Seurat contribute? || Pointillism based on colour science.
+sa: I || How did the railway help Impressionists? || It let them travel easily to the countryside and coast to paint.
+sa: I || Name one difference between Impressionism and Post-Impressionism. || Post-Impressionism added emotion, structure or symbolism.
+sa: C || Explain how Impressionism responded to modern life in the 1800s. || It painted modern subjects, used new technology like paint tubes and reacted to photography.
+sa: C || Compare a work by van Gogh and Monet using evidence. || Answers vary; compare brushwork, colour and purpose.
+
+=== ART20.D1 0
+hook: When Emily Carr painted the forests of British Columbia again and again, each painting stood alone, but together they told a bigger story. A series lets an artist explore one idea more deeply than any single work can.
+sc: I can choose a personal theme with depth | I can research the theme visually and through artists | I can plan a cohesive series of related works
+v: theme :: A big idea that connects a body of work.
+v: series :: A group of related artworks exploring one theme.
+v: visual research :: Collecting images, sketches and references about a theme.
+v: cohesion :: The quality that makes works in a series look and feel connected.
+v: iteration :: Repeating an idea with changes to explore it further.
+v: artist research :: Studying how other artists have approached similar themes.
+ts: Building a Body of Work || Studio task || How do artists explore one idea across a series?
+tx: Part 1, Theme brainstorm (10 minutes): List ten possible themes from your life and interests (for example home, change, identity, water, city at night, inherited objects, growth). Rate each: How much do I care? How many images can I imagine? ¶ Part 2, Narrow (5 minutes): Choose one theme. Write a question it raises, for example "What does home mean when you've moved countries?" ¶ Part 3, Research (20 minutes): Gather ten visual references (photos you take, sketches from life, found images) and research two artists who worked in series, for example Emily Carr (BC forests), Monet (haystacks), Kent Monkman or Cindy Sherman. Note how they kept the series connected. ¶ Part 4, Plan cohesion (10 minutes): Decide what will stay the same across works (medium, size, palette, viewpoint or subject) and what will change. ¶ Part 5, Series map (10 minutes): Sketch thumbnails for three to five works and arrange them in order.
+src: Original studio task written for this lesson.
+st: Brainstorm and rate ten themes | Narrow to one theme and a guiding question | Gather visual and artist research | Decide what stays the same and what changes | Sketch a series map
+org: Work | What stays the same | What changes | Question it explores
+an: What makes a theme rich enough for a series? | How did your artist research show ways to connect works? | Can a series be too similar? Too different? | How will your series change from first to last work?
+pr: Present a series proposal: theme and question, ten visual references, two artist research notes, cohesion plan and thumbnails for three to five works.
+ex: Weak vs strong theme || Which is stronger: "cats" or "what it means to belong"? || Depth | Personal meaning || "What it means to belong" offers more ways to explore || How could cats still connect to belonging?
+ex: Cohesion || How could five works on "home" stay connected? || Choose constants || Same size, same palette and a recurring window motif || What could change between works?
+ex: Iteration || How did Monet use iteration? || Same haystacks | Different light || He changed time of day and season while keeping the subject || What could you change instead of light?
+ex: Guiding question || Turn "water" into a question. || Ask why or how || "How does water connect my family across continents?" || How would this question shape your images?
+p: B || What is a theme? || A big idea connecting a body of work.
+p: B || What is a series? || A group of related works exploring one theme.
+p: B || What is cohesion? || The quality that makes works feel connected.
+p: B || What is iteration? || Repeating an idea with changes.
+p: B || Name an artist who worked in series. || Monet, Emily Carr or another valid example.
+p: I || Give two ways to keep a series cohesive. || Same medium, size, palette, viewpoint or subject.
+p: I || Why write a guiding question? || It focuses the series and gives it depth.
+p: I || What counts as visual research? || Photos, sketches from life, found images and artist studies.
+p: I || How do you choose a strong theme? || One you care about that can produce many images.
+p: I || What did Emily Carr explore in series? || The forests and Indigenous villages of British Columbia.
+p: I || Why research other artists? || To learn approaches to series and cohesion.
+p: C || Can a series be too repetitive? Explain. || Yes; without change, works add nothing new.
+p: C || How should a series develop from first to last work? || It should deepen or shift the idea, not just repeat it.
+p: C || Turn "family" into a theme with a question. || For example, "What do we inherit besides looks?"
+p: C || Why might an artist break their own cohesion rule in one work? || To create emphasis or a turning point in the series.
+mis: Thinking a series means making the same picture many times | Choosing a theme that is too narrow or too vague | Thinking research means copying
+et: Write your theme as a question. | Name one thing that will stay the same across your series.
+mc: B || A series is || a group of related works on one theme | one large artwork | a list of artists | an art movement
+mc: B || Cohesion means works || feel connected | are identical | are different sizes | are unfinished
+mc: B || Iteration is || repeating an idea with changes | copying another artist | framing work | signing work
+mc: B || Which artist is known for painting BC forests? || Emily Carr | Claude Monet | Andy Warhol | Frida Kahlo
+mc: I || Which is the strongest theme? || what home means after moving countries | blue things | my pencil | stuff
+mc: I || A guiding question helps the artist || focus and deepen the series | finish faster | avoid research | choose a frame
+mc: I || Which keeps a series cohesive? || using the same palette and size | changing medium every time | using random subjects | skipping planning
+mc: I || Visual research includes || photos you take and sketches from life | copying a finished painting | only reading | choosing a frame
+mc: I || Monet's haystacks show iteration through || changing light and season | changing subject every time | using only black | photography
+mc: C || A series where every work is nearly identical || adds little new meaning | is the strongest kind | has perfect cohesion and depth | is required
+mc: C || The best plan for a series of five works || keeps some constants and varies others to develop the idea | changes everything | repeats one image | uses five unrelated ideas
+mc: C || Why research artists who worked in series? || To learn how they kept works connected yet developing | To copy their images | To replace sketching | To choose a price
+sa: B || Define series. || A group of related artworks exploring one theme.
+sa: B || Define cohesion. || The quality that connects works in a series.
+sa: I || Give two ways to make a series cohesive. || Same palette, size, medium, viewpoint or subject.
+sa: I || Why turn a theme into a question? || It focuses the work and adds depth.
+sa: I || What is the difference between a theme and a subject? || A subject is what is shown; a theme is the bigger idea.
+sa: I || Name one artist who worked in series and what they explored. || Answers vary, for example Monet and light.
+sa: C || Explain how a series can develop an idea further than a single work. || Each work explores a new angle, building a fuller story.
+sa: C || Propose a theme, question and cohesion plan for a three-work series. || Answers vary.
+
+=== ART30.B1 0
+hook: When Rebecca Belmore set up a giant wooden megaphone in a meadow in 1991 and invited people to speak to the land, the "artwork" wasn't the megaphone. It was the idea, and the voices. Contemporary artists often start with a concept and choose whatever media best carries it.
+sc: I can develop a clear concept from an issue or question | I can choose media and form that strengthen the concept | I can document how my concept developed
+v: concept :: The central idea or message an artwork communicates.
+v: conceptual art :: Art in which the idea is more important than traditional skill or beauty.
+v: installation :: An artwork that transforms a space the viewer enters or moves through.
+v: site-specific :: Art made for one particular place.
+v: mixed media :: Art that combines different materials.
+v: artist statement :: A short text explaining the concept and choices in an artwork.
+ts: Idea First || Studio task || How do artists turn an idea into the right form?
+tx: Part 1, Starting points (10 minutes): Write three issues or questions that matter to you (for example waste, belonging, memory, screens, climate, language). ¶ Part 2, Concept statement (10 minutes): For one, write a one-sentence concept: "My work explores ___ by ___ so that viewers ___." ¶ Part 3, Form matching (15 minutes): Brainstorm five possible forms for the same concept: painting, sculpture, installation, video or digital work, performance, photo series, textile. For each, note what it adds or loses. ¶ Part 4, Artist research (10 minutes): Look at one contemporary artist whose form fits your idea: Rebecca Belmore (performance and installation), Brian Jungen (sculpture from Nike shoes reshaped as masks), Ai Weiwei (installation), or Shary Boyle (sculpture and projection). ¶ Part 5, Proposal (15 minutes): Sketch the chosen form with notes on materials, scale, site and how the viewer will experience it.
+src: Original studio task written for this lesson; artist examples summarized from public gallery sources.
+st: List issues that matter to you | Write a one-sentence concept | Match the concept to five possible forms | Research a contemporary artist | Sketch and annotate a proposal
+org: Possible form | What it adds | What it loses | Materials and scale
+an: Why might an installation communicate an idea better than a painting? | How does Brian Jungen's choice of material add meaning? | Can a concept be strong but the execution weak? | How will viewers know what your concept is?
+pr: Submit a concept proposal: concept sentence, form comparison, annotated sketch, materials list and a draft artist statement of 100 words.
+ex: Concept sentence || Write a concept sentence about waste. || Explores | By | So that || My work explores everyday waste by building a sculpture from one week of my family's packaging so that viewers see their own habits || What form fits this best?
+ex: Material meaning || Why did Brian Jungen use Nike sneakers? || Material as message || Reshaping mass-produced shoes into Northwest Coast-style masks comments on consumerism and cultural identity || How does the material change the meaning?
+ex: Site-specific || How could a site change a work about silence? || Place matters || Installing it in a busy hallway makes silence feel stronger by contrast || What site would you choose?
+ex: Form choice || Compare painting vs installation for a work on isolation. || Viewer experience || An installation could place the viewer alone in a small space, making them feel isolation || What does painting offer instead?
+p: B || What is a concept? || The central idea an artwork communicates.
+p: B || What is an installation? || An artwork that transforms a space the viewer enters.
+p: B || What is mixed media? || Art that combines different materials.
+p: B || What does site-specific mean? || Made for one particular place.
+p: B || What is an artist statement? || A short text explaining the concept and choices.
+p: I || Complete: My work explores ___ by ___ so that viewers ___. || Answers vary.
+p: I || Why compare several forms for one concept? || To find the form that best communicates the idea.
+p: I || How can material carry meaning? || What a material is and where it comes from adds associations.
+p: I || What is conceptual art? || Art where the idea is more important than traditional skill or beauty.
+p: I || Name a contemporary Canadian artist and their medium. || Rebecca Belmore, performance and installation (other valid answers).
+p: I || What should a proposal sketch include? || Materials, scale, site and viewer experience.
+p: C || Can conceptual art still require skill? Explain. || Yes; skill in planning, choosing and presenting form.
+p: C || How does viewer experience differ between a painting and an installation? || Viewers look at a painting; they enter and move through an installation.
+p: C || Why might an artist choose temporary art? || To make a point about time, change or place, or to avoid permanence.
+p: C || How can an artist make sure the concept is understood? || Clear form choices, titles and an artist statement.
+mis: Thinking conceptual art requires no effort | Choosing a medium before an idea | Thinking an artist statement can replace a weak artwork
+et: Write your concept sentence. | Name the form you chose and one reason.
+mc: B || A concept is || the central idea of an artwork | the frame | the paint brand | the size
+mc: B || An installation is || art that transforms a space | a small drawing | a print edition | a photo frame
+mc: B || Site-specific art is || made for one particular place | made in any studio | sold online | always painted
+mc: B || Mixed media means || combining different materials | using only paint | using only pencil | digital only
+mc: I || In conceptual art, the most important part is || the idea | realistic detail | expensive materials | framing
+mc: I || Why compare several forms for one concept? || To choose the form that best communicates it | To use all materials | To make it faster | To avoid sketching
+mc: I || Brian Jungen's sneaker masks comment on || consumerism and cultural identity | painting technique | landscape | colour theory
+mc: I || Which belongs in an artist statement? || the concept and key choices | the price | the teacher's name | a list of art supplies only
+mc: I || Rebecca Belmore is known mainly for || performance and installation | oil portraits | pottery | animation
+mc: C || A strong concept with weak execution || may fail to communicate the idea | is always successful | needs no statement | becomes conceptual art automatically
+mc: C || Why might an installation communicate isolation well? || The viewer physically experiences the space | It is cheaper | It lasts forever | It needs no planning
+mc: C || A material adds meaning when || its origin or use connects to the concept | it is the most expensive | it is new | it is colourful
+sa: B || Define conceptual art. || Art where the idea matters more than traditional skill or beauty.
+sa: B || What is site-specific art? || Art made for one particular place.
+sa: I || Write a concept sentence for an issue you care about. || Answers vary; follows explores/by/so that.
+sa: I || Explain how one material could add meaning to an artwork. || Answers vary.
+sa: I || What does an installation offer that a painting does not? || The viewer enters and experiences the space.
+sa: I || What should a concept proposal include? || Concept, form choice, sketch, materials and statement.
+sa: C || Explain how a contemporary artist chose form to fit their concept. || Answers vary; for example Jungen's sneakers.
+sa: C || Justify the form you chose for your concept. || Answers vary.
