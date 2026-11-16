@@ -3,7 +3,7 @@
 Planning and assessment app for Alberta senior high option courses: Art, Drama, General Music and Instrumental Music 10-20-30, Career and Technology Studies (CTS) at the introductory, intermediate and advanced levels, General Psychology 20, Experimental Psychology 30, Sociology 20, and French, Spanish and Chinese (Mandarin) Language and Culture 10-20-30 (nine-year programs). Built on the same platform as the other planbooks.
 
 - **Curriculum**: 108 outcomes across 27 courses, each with program components, guiding questions, lesson topics, essential questions, vocabulary, materials, a subject reference card, an assessment plan and proficiency descriptors. Outcomes are paraphrased from the Alberta programs of study.
-- **Lessons**: objective, vocabulary, an activity (studio task, scene, listening or playing task, shop or lab task, experiment, case study or dialogue), worked examples, 15 practice questions and a 20-question practice test. The first lesson of every course is built in; teachers write the rest with "Generate lesson".
+- **Lessons**: objective, vocabulary, an activity (studio task, scene, listening or playing task, shop or lab task, experiment, case study or dialogue), worked examples, 15 practice questions and a 20-question practice test. Every outcome has a built-in first lesson (108 in all, in `api/_lessons/`, sources in `source/src/`); teachers write the other lessons of each outcome with "Generate lesson".
 - **Markbook**, **analysis by subject**, **test builder** and the **student site** at `/student`.
 
 ## Stack

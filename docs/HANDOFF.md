@@ -11,7 +11,7 @@ High School Complementary Courses (Alberta senior high option courses) was built
 ## What's in it
 - 27 courses: Art, Drama, General Music, Instrumental Music, CTS (introductory, intermediate, advanced), French 10-20-30 (nine-year), Spanish and Chinese (Mandarin) Language and Culture 10-20-30 (nine-year), General Psychology 20, Experimental Psychology 30 and Sociology 20.
 - 108 outcomes (four units per course), paraphrased from the Alberta programs of study and tagged with program components. CTS outcomes are the shared CTS expectations (safety, design process, quality, careers); teachers pair them with the specific 1-credit CTS courses their school offers.
-- 27 built-in lessons: the first lesson of every course. Teachers write the rest with "Generate lesson".
+- 108 built-in lessons: the first lesson of every outcome (the A1 lessons from the original build plus B, C and D added on 16 Nov 2026 in `source/src/*_more*.txt`). Teachers write the other lessons with "Generate lesson". Rebuild the JSON from those sources with a parser like `source/parse.py`.
 - Not included: three-year language programs (for example Spanish 10-3Y for beginners), Personal Psychology 20, Sociology 30, Social and Cultural Anthropology, Religious Studies, Knowledge and Employability and locally developed courses. Any of these can be added the same way.
 
 ## Source
