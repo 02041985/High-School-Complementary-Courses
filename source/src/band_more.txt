@@ -1,0 +1,173 @@
+=== IM10.B1 0
+hook: Syncopation is what makes music groove: the accent lands where you don't expect it, between the beats. Funk, Latin, jazz and almost every pop song depend on it, and band music is full of it too.
+sc: I can count syncopated rhythms with subdivision | I can perform rhythms with ties and off-beat accents accurately | I can use a sight-reading routine before playing
+v: syncopation :: Stressing a weak beat or the off-beat instead of the strong beat.
+v: subdivision :: Dividing the beat into smaller parts, such as "1 & 2 &."
+v: tie :: A curved line joining two notes of the same pitch so they are held as one.
+v: off-beat :: The "&" between beats.
+v: sight-reading :: Playing music you have not seen before.
+v: road map :: The order of repeats, endings and jumps in a piece.
+ts: Between the Beats || Rhythm workshop || How do musicians read and feel syncopated rhythms?
+tx: Part 1, Subdivide (10 minutes): With a metronome at 80, count "1 & 2 & 3 & 4 &" aloud while tapping the beat with your foot. Clap only the "&s." ¶ Part 2, Pattern ladder (15 minutes): Clap and count each pattern in 4/4, then play it on one note: ¶ (a) quarter, quarter, quarter, quarter (no syncopation) ¶ (b) eighth, quarter, eighth, quarter, quarter (the "1 &(2)" figure: accent on "&" of 1, held through 2) ¶ (c) eighth, quarter, quarter, quarter, eighth (accents fall on "&s") ¶ (d) quarter tied to an eighth across beat 3 (the tie hides beat 3) ¶ Rule: Write the counts under each note before you play. Ties: count the second note but don't play it. ¶ Part 3, Sight-reading routine "STARS" (10 minutes): S: sharps and flats (key signature), T: time signature and tempo, A: accidentals, R: rhythms (circle the tricky ones and count them), S: signs (dynamics, articulations, repeats, road map). Spend 60 seconds on STARS, then play without stopping. ¶ Part 4, Band read (15 minutes): Sight-read a short exercise as a band using STARS. Keep going even if you make a mistake.
+src: Original rhythm workshop written for this lesson; the STARS routine is a common music education strategy.
+st: Count and feel subdivision | Clap and play syncopated patterns | Write counts under tied and off-beat notes | Use the STARS sight-reading routine | Sight-read as a band without stopping
+org: Pattern | Counts written | Clapped correctly? | Played correctly?
+an: Why does tapping the beat with your foot help with syncopation? | What happens to beat 3 when a note is tied across it? | Which STARS step saved you the most mistakes? | Why keep going when sight-reading instead of stopping?
+pr: Sight-read and perform a short syncopated exercise for the teacher after a 60-second STARS scan, and write the counts for four syncopated bars.
+ex: Counting || Count: eighth, quarter, eighth, quarter, quarter in 4/4. || Subdivide || 1 &(2) & 3 4, with the quarter starting on "&" of 1 || Where is the accent?
+ex: Tie || A half note is tied to a quarter. How long is it held? || 2 + 1 || Three beats || Do you re-articulate the tied note?
+ex: STARS || What does the first S in STARS stand for? || Key signature || Sharps and flats || Why check the key first?
+ex: Off-beat accent || Where does the accent fall in "1 & 2 & 3 & 4 &" if you play only the &s? || Between beats || On each "&" (off-beats) || What style uses this a lot?
+p: B || What is syncopation? || Stressing weak beats or off-beats.
+p: B || What is a tie? || A curve joining two notes of the same pitch so they're held as one.
+p: B || How do you count eighth notes in 4/4? || 1 & 2 & 3 & 4 &.
+p: B || What is sight-reading? || Playing music you haven't seen before.
+p: B || What is an off-beat? || The "&" between beats.
+p: I || What does STARS stand for? || Sharps and flats, time signature, accidentals, rhythms, signs.
+p: I || How long is a quarter tied to an eighth? || One and a half beats.
+p: I || Why write counts under notes? || To see exactly where each note starts and ends.
+p: I || What should you do if you make a mistake when sight-reading? || Keep going and find the next beat.
+p: I || What is a road map in music? || The order of repeats, endings and jumps.
+p: I || Why tap your foot on the beat? || To keep the pulse steady while rhythms move around it.
+p: C || Why do syncopated notes often feel early? || They start on the off-beat before the main beat.
+p: C || How does a tie across the middle of a bar create syncopation? || It hides a strong beat so the accent falls elsewhere.
+p: C || Why should you never stop when sight-reading in a band? || The band keeps going; stopping makes you lose your place.
+p: C || How would you practise a tricky syncopated bar? || Count aloud, clap, play slowly with a metronome, then speed up.
+mis: Rushing syncopated notes | Re-articulating a tied note | Stopping to fix mistakes during sight-reading
+et: Write the counts for an eighth-quarter-eighth pattern. | Name the five steps of STARS.
+mc: B || Syncopation stresses || weak beats or off-beats | only beat 1 | rests | the last note
+mc: B || A tie joins || two notes of the same pitch | two different pitches | two bars of rest | two instruments
+mc: B || In 4/4, eighth notes are counted || 1 & 2 & 3 & 4 & | 1 2 3 4 | 1 e & a | 1 2 3
+mc: B || Sight-reading is || playing music for the first time | memorizing music | tuning | improvising
+mc: I || A quarter note tied to an eighth note lasts || 1½ beats | 1 beat | 2 beats | ½ beat
+mc: I || In STARS, the T stands for || time signature and tempo | tone | tuning | ties
+mc: I || The off-beat is || the "&" between beats | beat 1 | a rest | the downbeat
+mc: I || When a note is tied, you || hold it without re-tonguing | play it twice | skip it | play it louder
+mc: I || A road map shows || repeats, endings and jumps | the composer's home | the key | the tempo only
+mc: C || Syncopated notes are often rushed because || they start before the main beat | they are always louder | they have no rhythm | they are rests
+mc: C || The best response to a mistake while sight-reading is || keep going and rejoin on the next beat | stop and restart | play louder | skip to the end
+mc: C || The most effective way to learn a hard syncopated bar is || count, clap, then play slowly with a metronome | play it fast repeatedly | skip it | guess
+sa: B || Define syncopation. || Stressing a weak beat or off-beat.
+sa: B || What does a tie do? || Joins two notes of the same pitch into one longer note.
+sa: I || List the five steps of STARS. || Sharps and flats, time signature, accidentals, rhythms, signs.
+sa: I || Write the counts for: eighth, quarter, eighth, quarter, quarter. || 1 &(2) & 3 4.
+sa: I || Why tap your foot on the beat during syncopation? || To keep the pulse steady.
+sa: I || What should you do when you make a mistake sight-reading? || Keep going.
+sa: C || Explain how a tie can create syncopation. || It holds through a strong beat so the accent shifts to a weak beat.
+sa: C || Describe your strategy for learning a difficult syncopated passage. || Answers vary.
+
+=== IM10.C1 0
+hook: A band of 40 players can sound like one giant instrument or like 40 people playing at the same time. The difference is balance and blend: listening more than you play.
+sc: I can balance my sound within the ensemble pyramid | I can blend with my section by matching tone, volume and pitch | I can play straight and swing eighths and hear the difference
+v: balance :: The right volume relationship between parts so all are heard as intended.
+v: blend :: When individual sounds merge so no single player sticks out.
+v: ensemble pyramid :: A model where low instruments play with the most sound and high instruments with less.
+v: intonation :: How in tune a player is with others.
+v: straight eighths :: Eighth notes played evenly.
+v: swing :: A feel where eighth notes are played long-short, like a triplet.
+ts: Building the Pyramid || Ensemble rehearsal || How does a band balance and blend into one sound?
+tx: The ensemble pyramid: Imagine a pyramid. The base is wide: tubas, baritones, bass clarinets, bari saxes. The middle: horns, trombones, tenor saxes, clarinets. The top is narrow: flutes, trumpets, alto saxes. Low instruments carry more sound; high instruments sit on top. If the top is louder than the base, the band sounds thin and shrill. ¶ Part 1, Build a chord (15 minutes): Play a B-flat concert chord. Basses start, then each section enters one at a time from the bottom up. Each section should be able to hear the section below it. ¶ Part 2, Section blend (10 minutes): Each section plays a long tone. Rule: if you can hear yourself above your neighbour, play softer. Match the tone and start and end together. ¶ Part 3, Intonation (10 minutes): Use a drone. Listen for "beats" (wobbles); adjust until they disappear. ¶ Part 4, Straight vs swing (15 minutes): Play a B-flat scale in eighths, straight. Then swing it: long-short, like "doo-ba doo-ba," with the long note two thirds and the short note one third of the beat. Accent the off-beats lightly. Play a short jazz chart excerpt with swing feel.
+src: Original rehearsal plan written for this lesson; the ensemble pyramid is a widely used band teaching model.
+st: Learn the ensemble pyramid | Build a chord from the bottom up | Blend with your section on long tones | Tune with a drone | Play straight and swing eighths
+org: Exercise | What I listened for | What I adjusted | Result
+an: Why do low instruments need more sound than high ones? | What did you change to blend with your section? | How do you hear when you're out of tune? | How does swing change the feel of the same notes?
+pr: In a recorded rehearsal, demonstrate balance by building a chord and blend in a section long tone, then write a reflection on two adjustments you made.
+ex: Pyramid || Flutes are louder than tubas in a chord. What happens? || Top-heavy || The band sounds thin and shrill || How do you fix it?
+ex: Blend || You can hear yourself clearly above the section. What should you do? || Listen || Play softer until you merge with your neighbours || What else might need matching?
+ex: Swing ratio || In swing, how is a beat divided? || Triplet feel || Long note two thirds, short note one third || Say "doo-ba" in swing.
+ex: Intonation || You hear a wobble playing with a drone. What does it mean? || Beats || You're out of tune; adjust until the wobble stops || How do you know whether to go up or down?
+p: B || What is balance? || The right volume relationship between parts.
+p: B || What is blend? || When sounds merge so no one sticks out.
+p: B || What is intonation? || How in tune a player is.
+p: B || What are straight eighths? || Evenly played eighth notes.
+p: B || What is swing feel? || Eighths played long-short with a triplet feel.
+p: I || Which instruments form the base of the ensemble pyramid? || Low brass and low woodwinds such as tubas and bari saxes.
+p: I || Why build a chord from the bottom up? || So each section hears and balances on the one below.
+p: I || What is the blend rule for section playing? || If you hear yourself above your neighbour, play softer.
+p: I || What do "beats" in a sound mean? || The notes are out of tune.
+p: I || How is the beat divided in swing? || Long two thirds, short one third.
+p: I || What should you match to blend? || Volume, tone, pitch, and note starts and ends.
+p: C || Why does a top-heavy band sound thin? || High instruments cover the warm low foundation.
+p: C || How do you decide whether to raise or lower your pitch? || Adjust slightly; if the beats slow down you're moving the right way.
+p: C || How does swing change the style of a piece? || It gives a relaxed, jazzy groove.
+p: C || Why is listening more important than playing loudly in ensembles? || The goal is one combined sound, not individual volume.
+mis: Thinking playing louder is always better | Thinking swing means playing faster | Thinking tuning happens only at the start of rehearsal
+et: Sketch the ensemble pyramid and label two instruments at each level. | Explain swing in one sentence.
+mc: B || Balance means || the right volume relationship between parts | everyone plays loudest | only soloists play | the tempo
+mc: B || Blend is achieved when || no single player sticks out | one player is loudest | everyone plays different notes | the band stops
+mc: B || Swing eighths are played || long-short | evenly | very short | very loud
+mc: B || Intonation refers to || playing in tune | playing loud | rhythm | posture
+mc: I || The base of the ensemble pyramid includes || tubas and baritones | flutes and piccolos | trumpets | alto saxes
+mc: I || When building a chord, sections enter || from the bottom up | from the top down | randomly | all at once
+mc: I || If you hear yourself above your section, you should || play softer | play louder | stop playing | change notes
+mc: I || A wobble when playing with a drone means || you are out of tune | you are perfectly in tune | the drone is broken | you are playing swing
+mc: I || In swing, the long note takes || two thirds of the beat | half the beat | the whole beat | one quarter of the beat
+mc: C || A top-heavy band sounds || thin and shrill | warm and full | perfectly balanced | silent
+mc: C || The best evidence that you are blending is || you hear the section, not yourself | you hear only yourself | the director stops | you are loudest
+mc: C || Swing differs from straight eighths in || rhythmic feel | key | tempo | dynamics only
+sa: B || Define blend. || When individual sounds merge so no one sticks out.
+sa: B || What is intonation? || How in tune a player is with others.
+sa: I || Describe the ensemble pyramid. || Low instruments provide the most sound at the base; high instruments play less on top.
+sa: I || Explain how to blend with your section. || Match volume, tone, pitch and articulation; play softer if you stick out.
+sa: I || Explain the difference between straight and swing eighths. || Straight are even; swing are long-short with a triplet feel.
+sa: I || How do you tune using a drone? || Listen for beats and adjust until they disappear.
+sa: C || Explain why low instruments carry more sound in a balanced band. || They create the warm foundation the higher parts sit on.
+sa: C || Describe two adjustments you made in rehearsal to improve balance or blend. || Answers vary.
+
+=== IM10.D1 0
+hook: Play a melody with every note at the same volume and it sounds like a ringtone. Shape it, growing toward the high point and relaxing at the end, and it sounds like someone speaking. That shaping is called phrasing.
+sc: I can identify phrases and their high points | I can shape phrases with dynamics and breathing | I can follow concert etiquette and show stage presence
+v: phrase :: A musical sentence, often four or eight bars long.
+v: dynamics :: Levels of loud and soft, such as p, mf and f.
+v: crescendo :: Gradually getting louder.
+v: breath mark :: A comma-like sign showing where to breathe.
+v: stage presence :: How a performer looks and behaves on stage.
+v: concert etiquette :: Expected behaviour for performers and audiences at a concert.
+ts: Musical Sentences || Performance task || How do musicians shape phrases and present a concert?
+tx: Part 1, Speak it (5 minutes): Read this sentence flat, then with natural expression: "I can't believe we actually won the championship." Where did your voice rise? Music works the same way. ¶ Part 2, Find the phrase (10 minutes): In your concert piece, mark phrases with a bracket over each four- or eight-bar section. Circle the high point (often the highest or longest note, or where harmony is most tense). ¶ Part 3, Shape it (15 minutes): Plan the dynamics: grow toward the high point and relax after it, even if the music only says "mf." Mark breath marks at phrase ends, never in the middle of a phrase. Play with a three-level plan: start, peak, end. ¶ Part 4, Concert etiquette (10 minutes): Performers: walk on and off confidently; instruments up together on the conductor's signal; no talking or fidgeting; stay still at the end until the conductor lowers the arms; bow together. Audience: enter and leave between pieces; applaud at the end of a piece, not between movements; phones off. ¶ Part 5, Run (10 minutes): Perform one piece as if it were the concert, from walk-on to bow.
+src: Original performance task written for this lesson.
+st: Compare speaking flat and with expression | Mark phrases and high points | Plan dynamics and breaths for each phrase | Learn concert etiquette | Run a full concert performance
+org: Phrase (bars) | High point | Dynamic plan | Breath mark
+an: How is a musical phrase like a spoken sentence? | Why grow toward the high point even if the score doesn't say crescendo? | Why breathe at phrase ends? | How does stage presence affect how an audience hears you?
+pr: Perform a concert piece with marked phrasing and dynamics, demonstrating concert etiquette from walk-on to bow, and submit your marked score.
+ex: High point || Where is the high point of a phrase usually? || Look for highest note or tension || Often near the middle to end of the phrase, on the highest or longest note || Find one in your music.
+ex: Breath || Where should you breathe in an 8-bar phrase? || Phrase ends || At the end of the phrase, not in the middle || What if you can't make it?
+ex: Etiquette || When should the audience clap during a symphony? || Movements || At the end of the whole work, not between movements || Why?
+ex: Stage presence || What should you do after the last note? || Stay still || Hold your position until the conductor lowers the arms, then relax || Why does stillness matter?
+p: B || What is a phrase? || A musical sentence, often four or eight bars.
+p: B || What does crescendo mean? || Gradually getting louder.
+p: B || What does mf mean? || Mezzo forte, medium loud.
+p: B || What is a breath mark? || A sign showing where to breathe.
+p: B || What is stage presence? || How a performer looks and behaves on stage.
+p: I || Why shape a phrase toward a high point? || To make the music expressive, like speech.
+p: I || Where should breath marks go? || At phrase ends.
+p: I || Name two rules of concert etiquette for performers. || No talking, stay still at the end, instruments up together, bow together.
+p: I || When should an audience applaud? || At the end of a complete piece.
+p: I || Order these from softest to loudest: f, p, mf, pp. || pp, p, mf, f.
+p: I || What does decrescendo mean? || Gradually getting softer.
+p: C || Why can a phrase have dynamics not written in the score? || Musicians shape phrases within the written level for expression.
+p: C || How can a performer show stage presence before playing? || Walk on confidently, sit or stand tall, focus on the conductor.
+p: C || What happens if players breathe in different places? || The phrase is broken and the sound becomes uneven.
+p: C || How does phrasing make music sound like speech? || Rising and relaxing volume mirror natural speech patterns.
+mis: Playing every note at the same volume | Breathing whenever you run out of air in the middle of a phrase | Thinking stage presence doesn't affect the music
+et: Mark the high point of one phrase in your music. | Name one concert etiquette rule.
+mc: B || A phrase is || a musical sentence | a single note | a key signature | a rest
+mc: B || Crescendo means || gradually louder | gradually softer | faster | slower
+mc: B || mf means || medium loud | very soft | very loud | medium soft
+mc: B || A breath mark shows || where to breathe | where to stop | the key | the tempo
+mc: I || The best place to breathe is || at the end of a phrase | in the middle of a phrase | on the high point | anywhere
+mc: I || From softest to loudest the order is || pp, p, mf, f | f, mf, p, pp | p, pp, f, mf | mf, p, f, pp
+mc: I || Audiences should applaud || at the end of a complete piece | between movements | during solos only | never
+mc: I || After the final note, performers should || stay still until the conductor relaxes | start packing up | talk to neighbours | stand up immediately
+mc: I || The high point of a phrase is often || the highest or longest note | the first note | a rest | the barline
+mc: C || Shaping a phrase toward its high point makes music sound || more like expressive speech | robotic | faster | out of tune
+mc: C || Breathing in different places across a section || breaks the phrase and unity | improves blend | is required | has no effect
+mc: C || Strong stage presence helps a performance by || showing confidence and focus to the audience | making the band louder | changing the key | replacing practice
+sa: B || Define phrase. || A musical sentence, often four or eight bars.
+sa: B || What is a breath mark? || A sign showing where to breathe.
+sa: I || Explain how to shape a phrase with dynamics. || Grow toward the high point and relax after it.
+sa: I || List three concert etiquette rules for performers. || No talking, instruments up together, stillness at the end, bow together.
+sa: I || Why breathe at phrase ends? || To keep musical sentences unbroken.
+sa: I || Order pp, ff, mp, f from softest to loudest. || pp, mp, f, ff.
+sa: C || Explain how phrasing is like speaking. || Both rise and fall naturally to express meaning.
+sa: C || Describe how stage presence affects an audience's experience. || Confident, focused performers draw the audience in and make the music more convincing.

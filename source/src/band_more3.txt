@@ -1,0 +1,173 @@
+=== IM30.B1 0
+hook: Professional session musicians are often handed music minutes before recording and play it nearly perfectly on the first take. They're not magic readers; they scan the page in a systematic way and recognize patterns instead of reading note by note.
+sc: I can scan a piece for key, metre, tempo and road map before playing | I can recognize rhythmic and melodic patterns | I can recover quickly from mistakes while sight-reading
+v: scan :: A quick, systematic look through music before playing.
+v: road map :: The order of sections, repeats, endings and jumps.
+v: D.S. al Coda :: Go back to the sign, then jump to the coda at the coda sign.
+v: pattern recognition :: Seeing groups of notes (scales, arpeggios, rhythms) as whole units.
+v: reading ahead :: Looking at the next notes while playing the current ones.
+v: recovery :: Getting back in after a mistake without stopping.
+ts: Read Like a Pro || Sight-reading workshop || How do advanced musicians sight-read complex music accurately?
+tx: Part 1, The 60-second scan (10 minutes): Use this order: (1) Key signature and any key changes; (2) Time signature and changes; (3) Tempo and style markings; (4) Road map: trace repeats, first and second endings, D.S. (dal segno, from the sign 𝄋), D.C. (da capo, from the beginning), al Coda (jump to the coda ⊕), Fine; (5) Hardest rhythms: count them silently; (6) Accidentals and range extremes; (7) Dynamics and articulations. ¶ Part 2, Patterns (10 minutes): Look at a page and circle scales, arpeggios and repeated rhythms. Name them ("B-flat arpeggio," "same rhythm as bar 3"). ¶ Part 3, Reading ahead (10 minutes): Play a simple exercise while the teacher covers the bar you are playing with a card, forcing your eyes forward. ¶ Part 4, Recovery (5 minutes): Play with a recording; when you make a mistake, don't stop. Find the next downbeat or the next phrase. ¶ Part 5, Test (15 minutes): Sight-read two new pieces: one band excerpt with a D.S. al Coda, and one solo excerpt with mixed metre. Self-rate rhythm, notes, road map and recovery.
+src: Original sight-reading workshop written for this lesson.
+st: Scan key, metre, tempo and road map in 60 seconds | Circle patterns in the music | Practise reading ahead | Practise recovering without stopping | Sight-read two new pieces and self-rate
+org: Scan step | What I found | Pattern or problem | Did I play it correctly?
+an: Which part of the scan caught a mistake before it happened? | How does pattern recognition speed up reading? | What does reading ahead feel like? | Why is recovery more important than perfection in sight-reading?
+pr: Sight-read an unseen piece with a complex road map after a 60-second scan, then submit your annotated scan and a self-rating.
+ex: Road map || Trace: A, B (with 𝄋 at start of B), C, "D.S. al Coda," coda sign at end of B, Coda. || Follow signs || A, B, C, back to B, jump at the coda sign to the Coda || Where would Fine end a D.C. al Fine?
+ex: Pattern || You see B♭, D, F, B♭ ascending. What is it? || Chord tones || A B-flat major arpeggio || Why read it as one unit?
+ex: Key change || Halfway through, the key signature changes to three flats. What do you do in the scan? || Mark it || Circle it and note the new key (E-flat major or C minor) || How do you check which?
+ex: Recovery || You miss a note in bar 14. What's your plan? || Don't stop || Keep counting, rejoin at bar 15 or the next phrase || Why not go back?
+p: B || What is a scan? || A quick look through music before playing.
+p: B || What does D.C. mean? || Da capo, go back to the beginning.
+p: B || What does D.S. mean? || Dal segno, go back to the sign.
+p: B || What is a coda? || A closing section you jump to.
+p: B || What does Fine mean? || The end.
+p: I || What should you check first in a scan? || Key signature.
+p: I || What is pattern recognition? || Seeing groups of notes as whole units.
+p: I || Why read ahead? || To prepare for the next notes before you reach them.
+p: I || What does D.S. al Coda tell you to do? || Go back to the sign, then jump to the coda at the coda sign.
+p: I || Why count the hardest rhythms before playing? || To avoid rhythm errors when you reach them.
+p: I || What is recovery in sight-reading? || Rejoining after a mistake without stopping.
+p: C || Why is recovery more important than perfection? || In ensembles the music keeps going; stopping causes more errors.
+p: C || How can pattern recognition help with fast passages? || You read groups like scales or arpeggios instead of each note.
+p: C || How should you handle a key change you missed in the scan? || Keep going, listen and adjust; mark it next time.
+p: C || What does an advanced sight-reader do with dynamics on a first read? || Plays them, because they are part of the music, not extras.
+mis: Reading one note at a time | Stopping to fix every error | Ignoring dynamics and articulations on a first read
+et: List the first four steps of the scan. | Explain D.S. al Coda.
+mc: B || D.C. means || go back to the beginning | go to the sign | the end | play softly
+mc: B || D.S. means || go back to the sign | go to the beginning | play faster | stop
+mc: B || A coda is || a closing section you jump to | the first section | a rest | a key change
+mc: B || Fine means || the end | fast | soft | repeat
+mc: I || The first step of a sight-reading scan is || key signature | dynamics | the title | articulations
+mc: I || Seeing B♭-D-F-B♭ as one arpeggio is || pattern recognition | recovery | a road map | transposition
+mc: I || D.S. al Coda tells you to || go to the sign, then jump to the coda | go to the beginning and end at Fine | repeat once | skip the coda
+mc: I || Reading ahead means || looking at upcoming notes while playing | reading the next piece | skipping bars | reading backward
+mc: I || Why count the hardest rhythms before playing? || To avoid errors when you reach them | To waste time | To memorize the piece | To change the tempo
+mc: C || When you make a mistake sight-reading in a band, you should || keep going and rejoin | stop and restart | play louder | leave
+mc: C || Pattern recognition helps most with || fast scalar and arpeggio passages | long rests | tuning | dynamics
+mc: C || On a first read, dynamics should be || played as part of the music | ignored | added later | replaced
+sa: B || What does D.C. al Fine mean? || Go back to the beginning and end at Fine.
+sa: B || What is a coda? || A closing section reached by a jump.
+sa: I || List the steps of a 60-second scan. || Key, metre, tempo/style, road map, hard rhythms, accidentals/range, dynamics/articulations.
+sa: I || Explain pattern recognition with an example. || Reading a scale or arpeggio as one unit.
+sa: I || Why is reading ahead important? || It prepares you for the next notes.
+sa: I || Trace a D.S. al Coda road map in your own words. || Go back to the sign, play to the coda sign, jump to the coda.
+sa: C || Explain why recovery is a key sight-reading skill. || The ensemble keeps going, so rejoining matters more than one wrong note.
+sa: C || Describe how you would improve your sight-reading over a month. || Answers vary; daily new reading, scanning, patterns.
+
+=== IM30.C1 0
+hook: A Bach chorale, a Sousa march and a Duke Ellington chart can all be played by the same band, but if you play them all the same way, you'll get all three wrong. Stylistic accuracy starts with knowing where a piece comes from.
+sc: I can research a work's composer, period and style | I can apply correct articulation, tone and feel for the style | I can write a programme note that informs an audience
+v: style :: The characteristic way music of a period, place or genre is played.
+v: articulation :: How notes are started and connected (legato, staccato, accent, marcato).
+v: programme note :: A short text in a concert program telling the audience about a piece.
+v: period :: A time in music history, such as Baroque or Romantic.
+v: march style :: Crisp, separated notes with steady tempo and strong accents.
+v: big band style :: Jazz style with swing feel, punchy accents and section unity.
+ts: Know the Piece || Research and performance task || How does research help an ensemble play in the right style?
+tx: Part 1, Research (20 minutes): For one piece in your concert folder, find: composer and dates; when and why it was written; the period or genre; key features of that style; one recording by a respected ensemble. ¶ Part 2, Style sheet (15 minutes): Make a style sheet. Examples: ¶ • March (Sousa, early 1900s): notes slightly separated, crisp accents, steady tempo, dynamics change at the trio (often softer first time), bold low brass. ¶ • Chorale (Bach or band chorale): legato, connected air, balance toward the bass, breathe together at phrase ends. ¶ • Big band swing (Ellington, Basie): swing eighths, short "dot" quarters, accents on off-beats, falls and doits, sections play as one. ¶ • Contemporary concert band (for example Eric Whitacre or Kelly-Marie Murphy): extended techniques, clusters, attention to colour and space. ¶ Part 3, Apply (15 minutes): Rehearse 16 bars using the style sheet. Record before and after. ¶ Part 4, Programme note (10 minutes): Write 100 to 150 words for the concert program: who, when, why, what to listen for. No spoilers that would bore the audience; give them something to notice.
+src: Original research and performance task written for this lesson.
+st: Research the composer, period and purpose | Listen to a respected recording | Build a style sheet | Rehearse with the style sheet and record | Write a programme note
+org: Style feature | What the research says | How we'll play it | Bars where it matters
+an: How did your research change how you played the piece? | Which articulation changed most between styles? | Why listen to professional recordings before rehearsing? | What makes a programme note interesting to a non-musician?
+pr: Submit a style sheet and a 150-word programme note for a concert piece, and a before-and-after recording showing stylistic changes.
+ex: March articulation || How are quarter notes played in a Sousa march? || Style || Slightly separated and crisp with steady tempo || How would they differ in a chorale?
+ex: Jazz quarter notes || How are quarter notes often played in big band swing? || Style || Short and punchy ("dot") unless marked long || What is a "doit"?
+ex: Programme note || Write a programme note opening for a march. || Who, when, what to hear || "John Philip Sousa, 'The March King,' wrote this march in 1896; listen for the quiet trio melody that returns in full brass" || What else might the audience want to know?
+ex: Chorale || What is the key to chorale style? || Legato, balance || Connected air, balance from the bass up and breathing together || Why breathe together?
+p: B || What is style in music? || The characteristic way music of a period or genre is played.
+p: B || What is articulation? || How notes are started and connected.
+p: B || What is a programme note? || A short text about a piece in a concert program.
+p: B || Who is called "The March King"? || John Philip Sousa.
+p: B || What does legato mean? || Smooth and connected.
+p: I || Name two features of march style. || Separated crisp notes, strong accents, steady tempo.
+p: I || Name two features of big band swing style. || Swing eighths, short quarters, off-beat accents, section unity.
+p: I || Why listen to a professional recording? || To hear accurate style and sound.
+p: I || What should a programme note include? || Composer, when and why it was written, what to listen for.
+p: I || How should a chorale be played? || Legato, balanced from the bass, breathing together.
+p: I || What is the trio in a march? || A contrasting section, often softer and in a new key.
+p: C || How can the same rhythm be played differently in two styles? || Articulation, length and accent change by style.
+p: C || Why is stylistic accuracy a form of respect? || It honours the composer's intentions and the music's culture.
+p: C || How can a programme note improve the audience's listening? || It gives them something specific to notice.
+p: C || How would you research a contemporary piece with few sources? || Composer's website, interviews, score notes and premiere recordings.
+mis: Playing every piece with the same articulation | Thinking style is only about tempo | Writing programme notes that only list facts
+et: Name two style features for a piece you're playing. | Write one sentence for a programme note.
+mc: B || Articulation describes || how notes are started and connected | the tempo | the key | the composer
+mc: B || A programme note is || a short text in a concert program | a single note | a tuning note | a rehearsal plan
+mc: B || "The March King" is || John Philip Sousa | Duke Ellington | J.S. Bach | Eric Whitacre
+mc: B || Legato means || smooth and connected | short and detached | loud | fast
+mc: I || In a Sousa march, notes are usually || slightly separated and crisp | very legato | swung | silent
+mc: I || In big band swing, quarter notes are often || short and punchy | long and smooth | silent | tied
+mc: I || A chorale is best played || legato with balanced, connected sound | staccato and loud | swung | very fast
+mc: I || A march trio is || a contrasting section, often softer | a group of three players | the final chord | a key signature
+mc: I || Listening to professional recordings helps by || showing accurate style | replacing practice | changing the key | shortening the piece
+mc: C || The same quarter-note rhythm sounds different in a march and a chorale because || articulation and length change with style | the notes change | the key changes | the composer changes
+mc: C || An effective programme note || gives the audience something to listen for | lists every bar | uses only technical terms | is very long
+mc: C || Stylistic accuracy matters because it || honours the composer's intentions and the music's culture | makes rehearsals shorter | is required by law | changes the melody
+sa: B || Define articulation. || How notes are started and connected.
+sa: B || What is a programme note? || A short text in a concert program about a piece.
+sa: I || Compare march and chorale style. || March: separated, crisp, steady; chorale: legato, connected, balanced.
+sa: I || Describe two features of big band swing style. || Swing eighths, short quarters, off-beat accents, falls, section unity.
+sa: I || What should a programme note include? || Composer, context, purpose and what to listen for.
+sa: I || Why research a piece before rehearsing? || To understand and play its style accurately.
+sa: C || Explain how research changed the way you played a piece. || Answers vary.
+sa: C || Write a short programme note for a piece you know. || Answers vary.
+
+=== IM30.D1 0
+hook: Two professional players can play the same solo with the same notes, and one makes the audience lean forward while the other doesn't. The difference is interpretation: the choices you make about what the music means and how to show it.
+sc: I can make and justify interpretive choices in a solo | I can prepare a solo and excerpts for an audition | I can use strategies to manage performance anxiety
+v: interpretation :: The performer's choices about how to express a piece.
+v: rubato :: Flexible tempo, stretching and pushing time for expression.
+v: excerpt :: A short passage from a larger work, often used in auditions.
+v: audition :: A performance to be selected for an ensemble, program or role.
+v: performance anxiety :: Nervousness before or during a performance.
+v: mock audition :: A practice audition that simulates the real experience.
+ts: Make It Yours || Performance preparation || How do musicians interpret a solo and prepare for an audition?
+tx: Part 1, Interpretive map (15 minutes): For your solo, mark: the overall character (for example "nostalgic," "playful"), each phrase's high point, places for rubato, colour changes (bright or dark tone), and the climax of the whole piece. Justify each choice with evidence from the score (harmony, range, markings) or the composer's style. ¶ Part 2, Compare (10 minutes): Listen to two professional recordings of the same piece. Note two differences in interpretation. Which choices do you agree with? ¶ Part 3, Audition prep (10 minutes): Typical audition: a prepared solo, scales, orchestral or band excerpts, and sight-reading. Make a two-week plan: daily scales, excerpt work slow to fast, solo run-throughs, weekly recording. ¶ Part 4, Managing anxiety (10 minutes): Strategies: slow breathing (in 4, hold 4, out 6), a pre-performance routine, focusing on musical intentions rather than mistakes, positive self-talk, practising under pressure. Remember: some nerves give energy. ¶ Part 5, Mock audition (15 minutes): Perform for a small panel of classmates who give one strength and one suggestion.
+src: Original performance preparation task written for this lesson; anxiety strategies summarized from music performance psychology sources.
+st: Map interpretive choices with evidence | Compare two professional interpretations | Plan audition preparation | Learn anxiety strategies | Perform a mock audition
+org: Section | Interpretive choice | Evidence | How I'll show it
+an: How did comparing recordings change your interpretation? | When does rubato help and when does it hurt? | Which anxiety strategy works best for you? | Why practise in front of people before an audition?
+pr: Perform your solo and one excerpt in a mock audition, and submit an interpretive map with justifications and a reflection on your anxiety strategy.
+ex: Interpretation || A phrase rises to a high, held note marked "espressivo." What choice might you make? || Use evidence || Slight rubato into the high note and warmer tone at the peak || How would you return to tempo?
+ex: Rubato || What is the danger of too much rubato? || Balance || The pulse is lost and the music sounds unsteady || How do you "steal" and "give back" time?
+ex: Breathing || Use the breathing strategy before an audition. || In 4, hold 4, out 6 || Slow breathing calms the heart rate || When should you do it?
+ex: Excerpt || How should you practise a fast excerpt? || Slow to fast || Start at 60% tempo with a metronome, increase gradually || Why record yourself?
+p: B || What is interpretation? || A performer's expressive choices.
+p: B || What is rubato? || Flexible tempo for expression.
+p: B || What is an excerpt? || A short passage from a larger work.
+p: B || What is an audition? || A performance to be selected for a group or program.
+p: B || What is a mock audition? || A practice audition.
+p: I || Name three things in a typical audition. || Solo, scales, excerpts, sight-reading.
+p: I || How can you justify an interpretive choice? || With evidence from the score or the composer's style.
+p: I || Describe the breathing strategy. || Breathe in 4, hold 4, out 6.
+p: I || Why compare professional recordings? || To hear different valid interpretations.
+p: I || What is a pre-performance routine? || A consistent set of actions before performing to feel ready.
+p: I || Why focus on musical intentions rather than mistakes? || It keeps attention on expression and reduces anxiety.
+p: C || When does rubato hurt a performance? || When the pulse is lost or it ignores the style.
+p: C || How can nerves be useful? || They give energy and focus.
+p: C || Why practise under pressure? || It prepares you for the real experience.
+p: C || How can two interpretations both be valid? || Both are supported by the score and style, but emphasize different things.
+mis: Thinking interpretation means ignoring the composer's markings | Thinking nerves mean you're unprepared | Thinking there's only one correct way to play a solo
+et: Name one interpretive choice in your solo and its evidence. | Name one strategy for managing anxiety.
+mc: B || Interpretation is || the performer's expressive choices | the composer's biography | the key signature | the time signature
+mc: B || Rubato means || flexible tempo | very loud | very short notes | a key change
+mc: B || An excerpt is || a short passage from a larger work | a full symphony | a scale | a warm-up
+mc: B || A mock audition is || a practice audition | a real audition | a concert | a rehearsal plan
+mc: I || A good interpretive choice is supported by || evidence in the score or style | random feeling | the audience | the tempo only
+mc: I || The breathing strategy is || in 4, hold 4, out 6 | in 1, out 1 | hold your breath | breathe quickly
+mc: I || A typical audition includes || a solo, scales, excerpts and sight-reading | only a solo | only scales | a written test only
+mc: I || Comparing professional recordings helps you || hear different valid interpretations | copy one exactly | avoid practice | choose a key
+mc: I || Fast excerpts should be practised || slow to fast with a metronome | only at full speed | without a metronome | once
+mc: C || Too much rubato can || lose the pulse | improve every phrase | fix intonation | replace dynamics
+mc: C || Some nervousness before performing || can give useful energy | means you will fail | should be ignored | means you are unprepared
+mc: C || Two different interpretations of a solo can both be valid if || both are supported by the score and style | both are fast | both ignore markings | the teacher chooses one
+sa: B || Define rubato. || Flexible tempo for expression.
+sa: B || What is an audition? || A performance to be selected for an ensemble, program or role.
+sa: I || Describe an interpretive choice and justify it. || Answers vary with evidence.
+sa: I || List two anxiety-management strategies. || Slow breathing, routine, positive self-talk, focus on intentions, practising under pressure.
+sa: I || Outline a two-week audition plan. || Answers vary; scales, excerpts slow to fast, solo, recordings.
+sa: I || Why practise excerpts slowly first? || To build accuracy before speed.
+sa: C || Compare two professional interpretations of a piece. || Answers vary.
+sa: C || Reflect on how your anxiety strategy worked in the mock audition. || Answers vary.

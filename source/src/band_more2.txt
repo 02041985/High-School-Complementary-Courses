@@ -1,0 +1,173 @@
+=== IM20.B1 0
+hook: Try counting "1-2-3, 4-5-6" while marching: it feels like galloping. That's compound metre. And if you've ever heard the "Mission: Impossible" theme, you've heard 5/4, a metre that feels like it's missing a step.
+sc: I can count and feel 6/8 and 9/8 in two or three big beats | I can tell simple metre from compound metre | I can perform music that changes metre
+v: simple metre :: A metre where each beat divides into two (2/4, 3/4, 4/4).
+v: compound metre :: A metre where each beat divides into three (6/8, 9/8, 12/8).
+v: dotted quarter beat :: In compound metre, the beat is a dotted quarter note (three eighths).
+v: mixed metre :: Music where the time signature changes during the piece.
+v: asymmetric metre :: A metre with uneven beat groupings, such as 5/4 or 7/8.
+v: conducting pattern :: The shape a conductor draws to show the beats in a bar.
+ts: Feeling in Threes || Rhythm workshop || How do musicians count and feel compound and mixed metres?
+tx: Part 1, Simple vs compound (10 minutes): 3/4 = three quarter-note beats, each dividing in two ("1 & 2 & 3 &"). 6/8 = six eighth notes grouped 3 + 3, felt as two dotted-quarter beats ("1-la-li 2-la-li"). Count both aloud while clapping. They have the same number of eighths but feel totally different. ¶ Part 2, 9/8 and 12/8 (10 minutes): 9/8 = three dotted-quarter beats (3 + 3 + 3); 12/8 = four (3 + 3 + 3 + 3), the shuffle feel in blues. ¶ Part 3, Asymmetric (10 minutes): 5/4 grouped 3 + 2 ("1 2 3 1 2"); 7/8 grouped 2 + 2 + 3 or 3 + 2 + 2. Clap the accents. ¶ Part 4, Conducting (5 minutes): Conduct 6/8 in two, 9/8 in three. ¶ Part 5, Mixed metre etude (15 minutes): Play a short exercise that changes 4/4, 6/8, 5/4, 4/4. Rule: in many band pieces the eighth note stays the same speed across changes; check the marking (for example eighth = eighth).
+src: Original rhythm workshop written for this lesson.
+st: Compare 3/4 and 6/8 by clapping | Count 9/8 and 12/8 in big beats | Clap asymmetric groupings | Conduct compound metres | Play a mixed-metre etude
+org: Time signature | Beats per bar | Grouping | How it feels
+an: Why do 3/4 and 6/8 feel different with the same number of eighths? | Why is 6/8 usually conducted in two? | How did you know where the accents go in 7/8? | What helps you stay together through a metre change?
+pr: Perform a mixed-metre etude accurately and write a counting guide for four bars that change between simple, compound and asymmetric metres.
+ex: 6/8 vs 3/4 || How many beats are felt in 6/8 at a moderate tempo? || Group eighths in threes || Two dotted-quarter beats || How many in 3/4?
+ex: 9/8 || How is 9/8 grouped? || Threes || 3 + 3 + 3, three dotted-quarter beats || What style often uses 9/8?
+ex: 7/8 || Count 7/8 grouped 2 + 2 + 3. || Group the eighths || "1 2 1 2 1 2 3" with accents on each 1 || How would 3 + 2 + 2 feel?
+ex: Mixed metre || A bar of 4/4 is followed by 6/8 with eighth = eighth. What stays constant? || Marking || The eighth-note speed stays the same; the beat length changes || How do you prepare?
+p: B || What is simple metre? || Each beat divides into two.
+p: B || What is compound metre? || Each beat divides into three.
+p: B || How many eighth notes are in a bar of 6/8? || Six.
+p: B || What note gets the beat in 6/8? || The dotted quarter.
+p: B || What is mixed metre? || Changing time signatures within a piece.
+p: I || How many dotted-quarter beats are in 9/8? || Three.
+p: I || How many dotted-quarter beats are in 12/8? || Four.
+p: I || How is 6/8 conducted at moderate tempo? || In two.
+p: I || Give a grouping for 5/4. || 3 + 2 or 2 + 3.
+p: I || What is asymmetric metre? || A metre with uneven beat groupings.
+p: I || What does "eighth = eighth" mean at a metre change? || The eighth-note speed stays the same.
+p: C || Why do 3/4 and 6/8 feel different? || 3/4 has three beats in twos; 6/8 has two beats in threes.
+p: C || Why might a composer use 7/8? || To create an off-balance, driving feel.
+p: C || How can you prepare for a metre change while playing? || Look ahead, count the new grouping in your head and watch the conductor.
+p: C || What metre gives the blues shuffle feel? || 12/8.
+mis: Counting 6/8 as six slow beats at every tempo | Thinking 3/4 and 6/8 are the same | Changing the eighth-note speed at a metre change when it should stay constant
+et: Write the grouping for 6/8 and 9/8. | Explain the difference between simple and compound metre.
+mc: B || In compound metre, each beat divides into || three | two | four | one
+mc: B || A bar of 6/8 has || six eighth notes | six quarter notes | three eighth notes | eight sixths
+mc: B || 4/4 is || simple metre | compound metre | asymmetric metre | mixed metre
+mc: B || Mixed metre means || the time signature changes | there is no metre | the tempo is mixed | two keys at once
+mc: I || 9/8 is usually felt in || three beats | nine beats | two beats | four beats
+mc: I || 12/8 has || four dotted-quarter beats | twelve quarter beats | three beats | six beats
+mc: I || 6/8 at a moderate tempo is conducted in || two | six | three | four
+mc: I || 5/4 is an example of || asymmetric metre | compound metre | simple duple | 12/8
+mc: I || "Eighth = eighth" at a metre change means || the eighth-note speed stays the same | the tempo doubles | the key changes | the music stops
+mc: C || 3/4 and 6/8 both have six eighths but differ because || their beats are grouped differently | 6/8 is faster always | 3/4 has no eighths | they are identical
+mc: C || A 7/8 bar grouped 2 + 2 + 3 has its longest group || at the end | at the start | in the middle | nowhere
+mc: C || The best way to stay together through metre changes is to || look ahead and watch the conductor | stop and wait | count only beat 1 | play louder
+sa: B || Define compound metre. || A metre where each beat divides into three.
+sa: B || How many eighths are in 9/8? || Nine.
+sa: I || Explain why 6/8 is usually felt in two. || Six eighths group into two sets of three, making two dotted-quarter beats.
+sa: I || Give two possible groupings for 7/8. || 2 + 2 + 3 and 3 + 2 + 2 (or 2 + 3 + 2).
+sa: I || What does the conducting pattern for 9/8 look like? || A three-beat pattern.
+sa: I || What is the difference between 3/4 and 6/8? || 3/4 is three beats dividing in two; 6/8 is two beats dividing in three.
+sa: C || Explain how you would count through a change from 4/4 to 6/8 with eighth = eighth. || Keep the eighth steady; switch from groups of two to groups of three.
+sa: C || Explain why composers use asymmetric metres. || To create uneven, energetic or surprising rhythmic feels.
+
+=== IM20.C1 0
+hook: Jazz started in New Orleans around 1900, mixing African rhythms, blues, ragtime and brass band music. Ever since, musicians have been saying the same thing: if it doesn't swing, it doesn't mean a thing.
+sc: I can play with correct feel in swing, Latin and rock styles | I can play the 12-bar blues form | I can improvise a short solo using the blues scale
+v: swing :: A jazz feel with long-short eighth notes and accented off-beats.
+v: Latin feel :: Straight eighths with rhythmic patterns from Latin American music, such as bossa nova or Afro-Cuban styles.
+v: rock feel :: Straight eighths with strong backbeats on 2 and 4.
+v: 12-bar blues :: A chord progression of 12 bars using I, IV and V chords.
+v: blues scale :: A six-note scale used for improvising (for example in C: C, E-flat, F, F-sharp, G, B-flat).
+v: improvisation :: Making up music in the moment.
+ts: Swing, Latin, Rock and the Blues || Ensemble workshop || How do jazz musicians play in different styles and improvise?
+tx: Part 1, Three feels (15 minutes): Play the same B-flat concert scale three ways: ¶ • Swing: long-short eighths, light accent on off-beats, "doo-BA" articulation. ¶ • Latin (bossa nova or Afro-Cuban): straight, even eighths, smooth and laid back for bossa; crisp and driving for Afro-Cuban. ¶ • Rock: straight eighths with heavy backbeat feel; play with energy on beats 2 and 4. ¶ Part 2, 12-bar blues (10 minutes): Concert B-flat blues: | B♭7 | E♭7 | B♭7 | B♭7 | E♭7 | E♭7 | B♭7 | B♭7 | F7 | E♭7 | B♭7 | F7 |. Rhythm section comps; winds play the root of each chord on beat 1. ¶ Part 3, Blues scale (10 minutes): Learn the concert B-flat blues scale: B♭, D♭, E♭, E, F, A♭. Play up and down in swing. ¶ Part 4, Call and response (10 minutes): The teacher plays a two-bar idea; everyone copies. Then individuals answer with their own two bars. ¶ Part 5, Solos (10 minutes): Each player improvises over four bars, using two or three notes of the scale and rhythmic ideas. Less is more: space and rhythm matter more than many notes.
+src: Original jazz workshop written for this lesson; the blues form and scale are standard jazz materials.
+st: Play the same scale in three feels | Learn the 12-bar blues form | Learn the blues scale | Trade call and response ideas | Improvise a short solo
+org: Style | Eighth-note feel | Accents | Example tune
+an: How did the same notes change across the three feels? | Why does the blues use only three chords? | What made your solo sound musical? | Why might "less is more" apply in improvisation?
+pr: Perform a 12-bar blues chorus with the band in swing feel and improvise a four- or eight-bar solo using the blues scale.
+ex: Feel || Which style uses long-short eighth notes? || Compare || Swing || Which styles use straight eighths?
+ex: 12-bar blues || What chord is in bar 9 of a B-flat blues? || The V chord || F7 || What chord is in bar 5?
+ex: Blues scale || Name the notes of the C blues scale. || 1, ♭3, 4, ♯4, 5, ♭7 || C, E♭, F, F♯, G, B♭ || Which note gives the "blue" sound?
+ex: Solo idea || How can you build a solo from two notes? || Rhythm and repetition || Repeat a rhythmic motif on two notes, then change it slightly || Why is repetition effective?
+p: B || Where did jazz begin? || New Orleans, around 1900.
+p: B || What is swing feel? || Long-short eighth notes with off-beat accents.
+p: B || What is improvisation? || Making up music in the moment.
+p: B || How many bars are in a blues chorus? || Twelve.
+p: B || What three chords does the blues use? || I, IV and V.
+p: I || Which feels use straight eighths? || Latin and rock.
+p: I || Name the notes of the concert B-flat blues scale. || B♭, D♭, E♭, E, F, A♭.
+p: I || Where is the backbeat in rock? || Beats 2 and 4.
+p: I || What chord is in bar 5 of a 12-bar blues? || The IV chord.
+p: I || What is call and response in jazz? || One player plays an idea and another answers.
+p: I || What does comping mean? || The rhythm section playing chords to accompany.
+p: C || Why should beginning improvisers use few notes? || Rhythm and space become the focus, making ideas clearer.
+p: C || How does swing articulation differ from classical? || Off-beats are accented and notes connected with "doo-ba" tonguing.
+p: C || Why is the 12-bar blues important in jazz and rock? || It is the foundation of many jazz, blues and rock songs.
+p: C || How can a soloist create shape? || Start simple, build intensity, then resolve.
+mis: Swinging Latin and rock charts | Thinking improvisation means playing random notes | Thinking more notes make a better solo
+et: Name one difference between swing and Latin feel. | Write the chords for the first four bars of a blues in B-flat.
+mc: B || Jazz began around 1900 in || New Orleans | Paris | Toronto | London
+mc: B || Swing eighths are || long-short | even | very short | silent
+mc: B || A blues chorus has || 12 bars | 8 bars | 16 bars | 4 bars
+mc: B || Improvisation means || making up music in the moment | reading every note | memorizing | tuning
+mc: I || Which style uses straight eighths? || rock | swing | shuffle | all jazz
+mc: I || Bar 9 of a 12-bar blues uses the || V chord | I chord | IV chord | vi chord
+mc: I || The C blues scale includes || C, E♭, F, F♯, G, B♭ | C, D, E, F, G, A | C, E, G | C, D♭, E, G
+mc: I || The rock backbeat is on || beats 2 and 4 | beats 1 and 3 | every beat | beat 1 only
+mc: I || Comping is || the rhythm section playing chords to accompany | a solo | a type of scale | a drum fill
+mc: C || A beginning improviser will sound most musical by || using few notes with clear rhythms | playing as many notes as possible | playing only scales | avoiding rests
+mc: C || Playing a bossa nova with swing eighths is || incorrect style | correct style | required | a blues technique
+mc: C || The 12-bar blues matters in popular music because || it underlies many jazz, blues and rock songs | it is used only in classical | it has no chords | it is new
+sa: B || What is improvisation? || Making up music in the moment.
+sa: B || Name the three chords used in the blues. || I, IV and V.
+sa: I || Describe the differences between swing, Latin and rock feels. || Swing is long-short; Latin and rock are straight; rock has a heavy backbeat.
+sa: I || Write the 12-bar blues in B-flat using chord names. || B♭7 E♭7 B♭7 B♭7 E♭7 E♭7 B♭7 B♭7 F7 E♭7 B♭7 F7.
+sa: I || Name the notes of the B-flat blues scale. || B♭, D♭, E♭, E, F, A♭.
+sa: I || What is call and response? || One musician plays an idea and another answers it.
+sa: C || Explain why "less is more" helps beginning improvisers. || Few notes let rhythm, space and ideas stand out clearly.
+sa: C || Describe how you built your solo. || Answers vary.
+
+=== IM20.D1 0
+hook: In a professional orchestra, the principal of each section leads without saying much: a nod, a breath, a lifted bell. In a high school band, section leaders run sectionals, fix problems and help the whole group get better faster.
+sc: I can plan and lead a short sectional rehearsal | I can identify and fix problems with clear, kind feedback | I can play independently in a small ensemble without a conductor
+v: section leader :: The player who leads and guides their section.
+v: sectional :: A rehearsal of one section without the full band.
+v: rehearsal plan :: A list of goals and steps for a rehearsal.
+v: chamber ensemble :: A small group with one player per part, often without a conductor.
+v: cue :: A visual signal (breath, nod, instrument movement) to start or change together.
+v: independence :: Playing your part confidently without relying on others.
+ts: Leading from the Chair || Leadership workshop || How do section leaders and chamber players rehearse without a conductor?
+tx: Part 1, Plan (10 minutes): Section leaders choose 16 bars from a band piece. Plan a 20-minute sectional: tune (2 minutes), identify the two hardest spots, fix them (slow, chunk, then in context), run the 16 bars, set one goal for home practice. ¶ Part 2, Lead (20 minutes): Leaders run the sectional. Feedback rules: name the bar, name the problem, give a fix ("Bar 23, the eighths are rushing; let's play it at 60 with the metronome"). Praise something specific. ¶ Part 3, Chamber skills (15 minutes): Form trios or quartets (one per part). Choose a leader who gives the cue: a big breath and a nod on the upbeat before the first note. Practise starting together, ending together (watch the leader's instrument lift and drop), and changing tempo. ¶ Part 4, Reflect (5 minutes): What did the leader do that helped? What will you do differently next time?
+src: Original leadership workshop written for this lesson.
+st: Plan a 20-minute sectional | Lead the sectional with specific feedback | Form a chamber group and choose a leader | Practise starting and ending with visual cues | Reflect on leadership
+org: Bar(s) | Problem | Fix used | Better?
+an: What makes feedback useful rather than discouraging? | Why fix hard spots slowly before playing in context? | How do chamber musicians stay together without a conductor? | What qualities make a good section leader?
+pr: Lead a recorded sectional using your rehearsal plan and perform a short chamber piece with visual cues, then write a reflection on your leadership.
+ex: Feedback || Rewrite "That was bad" as useful feedback. || Bar, problem, fix || "Bar 12, the entrance was late; let's count the rest aloud and try again" || What praise could you add?
+ex: Rehearsal order || Why tune before working on passages? || Foundation || Tuning first means you fix notes and rhythms on a good sound || What comes next?
+ex: Cue || How does a chamber group start together? || Visual signal || The leader breathes and nods on the upbeat || What if someone misses the cue?
+ex: Independence || Your part is different from everyone else in a quartet. How do you prepare? || Practise alone | Know the other parts || Learn your part securely and listen to recordings to know how it fits || Why know other parts?
+p: B || What is a sectional? || A rehearsal of one section only.
+p: B || What is a section leader? || The player who leads their section.
+p: B || What is a chamber ensemble? || A small group with one player per part.
+p: B || What is a cue? || A visual signal to start or change together.
+p: B || What is a rehearsal plan? || A list of goals and steps for a rehearsal.
+p: I || Name the three parts of useful feedback. || Bar, problem, fix.
+p: I || How should you fix a hard passage? || Slow it down, chunk it, then put it back in context.
+p: I || How does a chamber leader cue the start? || A breath and nod on the upbeat.
+p: I || Why set a home-practice goal at the end of a sectional? || So progress continues before the next rehearsal.
+p: I || Why give specific praise? || It shows what to keep doing and builds confidence.
+p: I || Why does each player need independence in chamber music? || There is only one person per part.
+p: C || How can a section leader handle a player who keeps making the same mistake? || Give a clear fix privately, practise slowly together, encourage.
+p: C || Why do chamber musicians make eye contact? || To communicate cues, tempo and expression without a conductor.
+p: C || What makes a sectional efficient? || A clear plan focused on the hardest spots.
+p: C || How does leadership in music build skills for other areas? || Planning, communication, feedback and teamwork transfer to school and work.
+mis: Thinking leading means telling people they are wrong | Running a piece over and over instead of fixing problem spots | Thinking chamber players don't need a leader
+et: Write one piece of feedback with bar, problem and fix. | Describe how to cue a chamber group.
+mc: B || A sectional is || a rehearsal of one section | a full concert | a type of scale | a solo
+mc: B || A cue is || a visual signal to start or change | a type of mute | a tuning note | a rest
+mc: B || A chamber ensemble has || one player per part | a full orchestra | only percussion | no music
+mc: B || A rehearsal plan lists || goals and steps | concert dates | ticket prices | uniforms
+mc: I || Useful feedback includes || the bar, the problem and a fix | only praise | a general comment | the player's name only
+mc: I || The best way to fix a hard passage is to || slow it down and chunk it | play it faster | skip it | play the whole piece again
+mc: I || A chamber leader usually cues the start with || a breath and nod on the upbeat | a whistle | a count to ten | a microphone
+mc: I || Why tune at the start of a sectional? || Fixes are made on a good sound | It wastes time | It is the only goal | It replaces practice
+mc: I || Ending a sectional with a home goal || keeps progress going | ends rehearsal early | replaces the next rehearsal | is not useful
+mc: C || Repeatedly running a whole piece without fixing problems || reinforces mistakes | is the most efficient rehearsal | builds independence | is required
+mc: C || Chamber musicians make eye contact mainly to || communicate cues and tempo | check uniforms | count the audience | rest
+mc: C || A section leader handling repeated mistakes should || give a clear fix and practise slowly with encouragement | embarrass the player | ignore it | tell the director immediately
+sa: B || Define sectional. || A rehearsal of one section without the full band.
+sa: B || What is a cue? || A visual signal to start or change together.
+sa: I || Write a 20-minute sectional plan. || Answers vary; tune, fix hard spots, run, set goal.
+sa: I || Give an example of useful feedback. || Answers vary; bar, problem, fix.
+sa: I || How do chamber groups stay together without a conductor? || Visual cues, eye contact, breathing and listening.
+sa: I || Why is independence important in chamber music? || Each part has only one player.
+sa: C || Describe the qualities of a good section leader. || Prepared, clear, specific, encouraging, listens.
+sa: C || Reflect on what you would change in your next sectional. || Answers vary.
