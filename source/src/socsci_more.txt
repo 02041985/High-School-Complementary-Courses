@@ -1,0 +1,176 @@
+=== PSY20.B1 0
+hook: Right now, about 86 billion neurons in your brain are firing electrical and chemical signals so you can read this sentence. Every thought, memory and movement you have is built from these tiny messages.
+sc: I can describe the parts of a neuron and how it sends a message | I can name major brain structures and their functions | I can explain how neurotransmitters work at the synapse
+v: neuron :: A nerve cell that sends electrical and chemical messages.
+v: dendrites :: Branches of a neuron that receive messages.
+v: axon :: The long fibre that carries a message away from the cell body.
+v: synapse :: The tiny gap between neurons where messages are passed chemically.
+v: neurotransmitter :: A chemical messenger released into the synapse.
+v: cerebral cortex :: The wrinkled outer layer of the brain responsible for thinking, planning and language.
+v: lobes :: The four main regions of the cortex: frontal, parietal, temporal and occipital.
+ts: Message in the Brain || Case study and model || How does the nervous system send messages, and what do brain structures do?
+tx: The neuron: Messages arrive at the dendrites, travel through the cell body, then down the axon as an electrical impulse (action potential). The myelin sheath insulates the axon and speeds the signal. At the axon terminals, neurotransmitters are released into the synapse and bind to receptors on the next neuron. ¶ Key neurotransmitters: dopamine (reward and movement), serotonin (mood, sleep), acetylcholine (muscle movement, memory), endorphins (pain relief). ¶ Brain structures: frontal lobe (planning, decisions, personality; still developing into the mid-20s), parietal lobe (touch, spatial awareness), temporal lobe (hearing, language comprehension, memory), occipital lobe (vision), cerebellum (balance and coordination), brainstem (breathing, heart rate), limbic system including the amygdala (fear, emotion) and hippocampus (forming memories). ¶ Case: Phineas Gage (1848), a railway worker, survived an iron rod passing through his frontal lobe. Friends said he was "no longer Gage": more impulsive and less reliable. His case showed the frontal lobe's role in personality. ¶ Activity: Human neuron chain. Students act as dendrites, cell body, axon and terminals; pass a "signal" (squeeze) down the chain. Then build a labelled brain map.
+src: Case study written for this lesson; summarized from introductory psychology sources.
+st: Learn the parts of a neuron | Model a message with a human neuron chain | Learn key neurotransmitters | Map brain structures and functions | Analyze the Phineas Gage case
+org: Structure | Location | Function | Example of damage
+an: Why does myelin matter for speed? | What did Phineas Gage's case show about the frontal lobe? | Why might teenagers take more risks if the frontal lobe is still developing? | How do drugs that affect neurotransmitters change behaviour?
+pr: Create a labelled diagram of a neuron and the brain with functions, and write a paragraph explaining how a message travels from one neuron to another.
+ex: Pathway || Put in order: axon, dendrites, terminals, cell body. || Message direction || Dendrites, cell body, axon, terminals || Where does the synapse come in?
+ex: Lobe function || Which lobe processes vision? || Back of brain || Occipital lobe || What happens if it's damaged?
+ex: Neurotransmitter || Which neurotransmitter is linked to reward? || Pleasure and motivation || Dopamine || Why does it matter in habits?
+ex: Phineas Gage || What did Gage's injury change? || Frontal lobe || His personality and impulse control || What does this show about the brain?
+p: B || What is a neuron? || A nerve cell that sends messages.
+p: B || What do dendrites do? || Receive messages.
+p: B || What is a synapse? || The gap between neurons.
+p: B || What is a neurotransmitter? || A chemical messenger.
+p: B || Which lobe processes vision? || Occipital.
+p: I || What does the myelin sheath do? || Insulates the axon and speeds signals.
+p: I || What is the function of the frontal lobe? || Planning, decisions, personality.
+p: I || What does the hippocampus do? || Helps form new memories.
+p: I || What does the amygdala do? || Processes fear and emotion.
+p: I || What does the cerebellum control? || Balance and coordination.
+p: I || What is serotonin linked to? || Mood and sleep.
+p: C || Why was Phineas Gage important to psychology? || His case linked the frontal lobe to personality and self-control.
+p: C || Why might teens take more risks? || The frontal lobe, which controls impulses, is still developing.
+p: C || How do some medications for depression work? || They affect levels of neurotransmitters like serotonin.
+p: C || Why is the brainstem essential for life? || It controls breathing and heart rate.
+mis: Believing we only use 10% of our brains | Thinking neurons touch each other directly | Thinking each brain area works completely alone
+et: Trace a message through a neuron in four steps. | Name one lobe and its function.
+mc: B || A neuron is || a nerve cell | a hormone | a bone | a muscle
+mc: B || Dendrites || receive messages | send messages to muscles | store memories | produce hormones
+mc: B || The synapse is || the gap between neurons | the brain's outer layer | a lobe | a bone
+mc: B || The occipital lobe processes || vision | hearing | balance | breathing
+mc: I || Myelin || speeds signals along the axon | receives signals | stores memories | makes hormones
+mc: I || The hippocampus helps || form new memories | control breathing | see colours | balance
+mc: I || Dopamine is linked to || reward and movement | vision | breathing | digestion
+mc: I || The cerebellum controls || balance and coordination | language | vision | planning
+mc: I || The order of a message through a neuron is || dendrites, cell body, axon, terminals | axon, dendrites, terminals, cell body | terminals, axon, cell body, dendrites | cell body, dendrites, terminals, axon
+mc: C || Phineas Gage's injury showed the frontal lobe affects || personality and impulse control | vision | hearing | balance only
+mc: C || Teens may take more risks because || the frontal lobe is still developing | the occipital lobe is too big | they lack neurons | the brainstem is weak
+mc: C || The claim that we use only 10% of our brains is || a myth | proven | partly true for teens | true while sleeping
+sa: B || Define neurotransmitter. || A chemical messenger released into the synapse.
+sa: B || What is the cerebral cortex? || The brain's wrinkled outer layer for thinking and language.
+sa: I || Describe how a message travels from one neuron to the next. || Electrical impulse down the axon, neurotransmitters cross the synapse, bind to receptors on the next neuron.
+sa: I || Name the four lobes and one function each. || Frontal planning, parietal touch, temporal hearing, occipital vision.
+sa: I || What do the amygdala and hippocampus do? || Amygdala: fear and emotion; hippocampus: forming memories.
+sa: I || Name two neurotransmitters and their roles. || Answers vary.
+sa: C || Explain what the Phineas Gage case taught psychologists. || The frontal lobe is involved in personality and self-control.
+sa: C || Explain how frontal lobe development relates to teen decision-making. || It is still maturing, so impulse control and planning are still developing.
+
+=== PSY20.C1 0
+hook: Every time your phone buzzes, you probably reach for it before thinking. You weren't born doing that. You learned it, through the same process a Russian scientist discovered while studying dogs that drooled at the sound of footsteps.
+sc: I can explain classical conditioning using its key terms | I can identify the parts of conditioning in real examples | I can explain extinction and generalization
+v: classical conditioning :: Learning in which a neutral stimulus becomes linked with a meaningful one and triggers a response.
+v: unconditioned stimulus (UCS) :: Something that naturally triggers a response.
+v: unconditioned response (UCR) :: The natural response to the UCS.
+v: conditioned stimulus (CS) :: A once-neutral stimulus that now triggers a response after learning.
+v: conditioned response (CR) :: The learned response to the CS.
+v: extinction :: When a conditioned response fades because the CS no longer predicts the UCS.
+v: generalization :: Responding to stimuli similar to the CS.
+ts: Pavlov's Discovery || Case study || How do we learn to connect events?
+tx: Ivan Pavlov (1890s–1900s) was studying digestion in dogs when he noticed they drooled before food arrived, at the sound of the assistant's footsteps. He tested it: ¶ • Before learning: food (UCS) → drooling (UCR); bell (neutral) → no drooling. ¶ • During learning: bell + food, many times. ¶ • After learning: bell (CS) → drooling (CR). ¶ Extinction: If the bell rings again and again with no food, drooling fades. Spontaneous recovery: After a rest, the bell may trigger drooling again briefly. Generalization: A similar sound triggers drooling. Discrimination: The dog learns to respond only to the exact bell. ¶ Watson and "Little Albert" (1920): John B. Watson conditioned a baby to fear a white rat by pairing it with a loud noise; the fear generalized to other furry things. The study is now considered deeply unethical: no consent from informed parents in the modern sense, distress to a child and no deconditioning. ¶ Everyday examples: phone notification sounds, the smell of a hospital, a song that reminds you of someone, ads pairing products with happy music. ¶ Task: Label UCS, UCR, CS and CR in six scenarios.
+src: Case study written for this lesson; summarized from introductory psychology sources.
+st: Learn Pavlov's experiment | Label UCS, UCR, CS and CR | Explain extinction, generalization and discrimination | Analyze the Little Albert study and its ethics | Apply conditioning to everyday examples
+org: Scenario | UCS | UCR | CS | CR
+an: What other conditioned responses do you have? | Why was the Little Albert study unethical? | How do advertisers use classical conditioning? | How could extinction help someone with a fear?
+pr: Identify classical conditioning in your own life or in an advertisement, label all four parts, and explain how extinction could change the response.
+ex: Labelling || A child gets a shot (pain, fear) at a clinic that smells of disinfectant. Later the smell causes fear. Label it. || Natural vs learned || UCS shot; UCR fear; CS smell; CR fear of the smell || Why does the smell work?
+ex: Extinction || A dog drools at a bell. The bell rings 20 times with no food. What happens? || No pairing || The drooling fades (extinction) || What might happen after a rest?
+ex: Generalization || Albert feared a white rat, then a rabbit. What is this? || Similar stimuli || Generalization || What would discrimination be?
+ex: Advertising || A soft drink ad pairs the drink with friends and fun music. Which part is the CS? || Neutral becomes meaningful || The drink (and its logo) || What is the CR?
+p: B || Who discovered classical conditioning? || Ivan Pavlov.
+p: B || What is a UCS? || A stimulus that naturally triggers a response.
+p: B || What is a CR? || A learned response to a conditioned stimulus.
+p: B || What is extinction? || When a conditioned response fades.
+p: B || In Pavlov's study, what was the UCS? || Food.
+p: I || In Pavlov's study, what was the CS? || The bell.
+p: I || What is generalization? || Responding to stimuli similar to the CS.
+p: I || What is discrimination in conditioning? || Responding only to the specific CS.
+p: I || What is spontaneous recovery? || A faded CR briefly returns after a rest.
+p: I || How did Watson condition Little Albert? || Paired a white rat with a loud noise.
+p: I || Why is the UCR and CR often the same behaviour? || The same response is triggered first naturally, then by the learned stimulus.
+p: C || Why was the Little Albert study unethical? || It caused distress to a child without proper consent or deconditioning.
+p: C || How might exposure therapy use extinction? || Repeated exposure to a feared stimulus without harm weakens the fear.
+p: C || How do advertisers use classical conditioning? || They pair products with pleasant images or music.
+p: C || Explain your phone-buzz reaction using conditioning. || The buzz (CS) was paired with messages (UCS), so it triggers checking and anticipation (CR).
+mis: Thinking conditioning only happens to animals | Confusing the UCS with the CS | Thinking extinction erases the learning completely
+et: Label the four parts in Pavlov's experiment. | Define extinction.
+mc: B || Classical conditioning was discovered by || Ivan Pavlov | Sigmund Freud | B.F. Skinner | Jean Piaget
+mc: B || In Pavlov's study, food was the || unconditioned stimulus | conditioned stimulus | conditioned response | neutral stimulus
+mc: B || A conditioned response is || learned | natural from birth | always fear | unrelated to stimuli
+mc: B || Extinction happens when || the CS no longer predicts the UCS | the UCS gets stronger | learning begins | the animal is hungry
+mc: I || In Pavlov's study, the bell became the || conditioned stimulus | unconditioned stimulus | unconditioned response | reward
+mc: I || Responding to a similar sound is || generalization | discrimination | extinction | reinforcement
+mc: I || Little Albert was conditioned to fear || a white rat | a dog | the dark | water
+mc: I || Spontaneous recovery is || a faded response briefly returning | permanent extinction | a new UCS | a reward
+mc: I || In an ad pairing a drink with happy music, the drink is the || conditioned stimulus | unconditioned stimulus | unconditioned response | neutral response forever
+mc: C || The Little Albert study is considered unethical because || it caused distress without proper consent or deconditioning | it used a rat | it was in the 1920s | it involved music
+mc: C || Exposure therapy uses || extinction to weaken fear | generalization to increase fear | punishment | reward only
+mc: C || A hospital smell causes anxiety after painful visits. The smell is the || conditioned stimulus | unconditioned stimulus | unconditioned response | reinforcer
+sa: B || Define classical conditioning. || Learning in which a neutral stimulus becomes linked to a meaningful one and triggers a response.
+sa: B || Who was Ivan Pavlov? || The scientist who discovered classical conditioning with dogs.
+sa: I || Label UCS, UCR, CS and CR in Pavlov's experiment. || Food, drooling, bell, drooling.
+sa: I || Explain generalization with an example. || Little Albert feared other furry things after fearing the rat.
+sa: I || What is extinction? || A CR fading when the CS no longer predicts the UCS.
+sa: I || Give an everyday example of classical conditioning. || Answers vary.
+sa: C || Explain why the Little Albert study would not be allowed today. || It harmed a child without informed consent and did not reverse the fear.
+sa: C || Explain how advertisers use classical conditioning. || They pair products with positive stimuli so the product triggers good feelings.
+
+=== PSY20.D1 0
+hook: Are you more outgoing or reserved? Organized or spontaneous? Psychologists have argued for over a century about what personality is, where it comes from and whether it can change.
+sc: I can describe the trait, psychodynamic, humanistic and social-cognitive approaches to personality | I can explain the Big Five traits | I can evaluate the strengths and limits of personality tests
+v: personality :: A person's consistent patterns of thinking, feeling and behaving.
+v: trait :: A stable characteristic, such as being organized or outgoing.
+v: Big Five :: The five broad traits: openness, conscientiousness, extraversion, agreeableness and neuroticism (OCEAN).
+v: psychodynamic :: Freud's approach focusing on unconscious drives and early experiences.
+v: humanistic :: An approach focusing on free will and personal growth, from Maslow and Rogers.
+v: reliability :: Whether a test gives consistent results.
+v: validity :: Whether a test measures what it claims to measure.
+ts: Who Are You? || Comparison task || How do different theories explain personality?
+tx: Four approaches: ¶ • Psychodynamic (Sigmund Freud): personality shaped by unconscious conflict between the id (desires), ego (reality) and superego (conscience), and by early childhood. Influential but hard to test scientifically. ¶ • Humanistic (Abraham Maslow, Carl Rogers): people are basically good and strive for self-actualization; personality grows with acceptance and a healthy self-concept. ¶ • Trait (Big Five, OCEAN): Openness (curious vs traditional), Conscientiousness (organized vs careless), Extraversion (outgoing vs reserved), Agreeableness (cooperative vs competitive), Neuroticism (anxious vs calm). Supported by much research across cultures; traits are partly heritable and fairly stable but can shift with age. ¶ • Social-cognitive (Albert Bandura): personality comes from interaction of thoughts, behaviour and environment; self-efficacy (belief in your ability) matters. ¶ Test check: Many online "personality quizzes" are not reliable or valid. Some, like popular four-letter type tests, have weaker scientific support than the Big Five. ¶ Task: Take a short Big Five inventory (teacher-provided). Then explain one behaviour of a fictional character using all four approaches.
+src: Activity written for this lesson; theories summarized from introductory psychology sources.
+st: Learn four approaches to personality | Learn the Big Five traits | Take a Big Five inventory | Explain a character using all four approaches | Evaluate personality tests
+org: Approach | Key thinker | Main idea | Strength | Limitation
+an: Which approach best explains your character's behaviour? | Why is Freud influential but criticized? | Can personality change? What does research suggest? | Why should you be sceptical of online personality quizzes?
+pr: Write a 400-word comparison of two personality theories applied to a fictional character, including one evaluation of a personality test's reliability or validity.
+ex: Big Five || A student keeps a detailed planner and finishes work early. Which trait is high? || OCEAN || Conscientiousness || What would low conscientiousness look like?
+ex: Freud || In Freud's theory, which part says "Eat the whole cake now"? || Id, ego, superego || The id || What would the superego say?
+ex: Humanistic || What did Maslow mean by self-actualization? || Top of hierarchy || Reaching your full potential || What needs come first?
+ex: Validity || A quiz says you're "a sunflower personality." Is it valid? || Measures what? || Unlikely; it isn't based on evidence and doesn't measure a defined trait || What would make a test valid?
+p: B || What is personality? || Consistent patterns of thinking, feeling and behaving.
+p: B || What is a trait? || A stable characteristic.
+p: B || What does OCEAN stand for? || Openness, conscientiousness, extraversion, agreeableness, neuroticism.
+p: B || Who developed psychodynamic theory? || Sigmund Freud.
+p: B || Name a humanistic psychologist. || Abraham Maslow or Carl Rogers.
+p: I || What are the id, ego and superego? || Desires, reality and conscience.
+p: I || What is self-actualization? || Reaching your full potential.
+p: I || What is self-efficacy? || Belief in your ability to succeed.
+p: I || What is reliability? || Whether a test gives consistent results.
+p: I || What is validity? || Whether a test measures what it claims.
+p: I || What does high extraversion look like? || Outgoing, energized by people.
+p: C || Why is Freud's theory hard to test? || Unconscious processes can't be directly observed or measured.
+p: C || Why is the Big Five well supported? || Research across cultures consistently finds these five factors.
+p: C || Can personality change? || Traits are fairly stable but can shift with age and experience.
+p: C || How does the social-cognitive approach differ from trait theory? || It emphasizes interaction with situations and beliefs, not fixed traits.
+mis: Thinking online quizzes accurately measure personality | Thinking personality never changes | Treating introversion as shyness
+et: Name the Big Five traits. | Explain one difference between reliability and validity.
+mc: B || OCEAN describes || the Big Five traits | Freud's stages | Maslow's hierarchy | brain lobes
+mc: B || Freud's approach is || psychodynamic | humanistic | trait | behavioural
+mc: B || A trait is || a stable characteristic | a mood | a single action | a dream
+mc: B || Maslow is associated with || self-actualization | the id | conditioning | the Big Five
+mc: I || The id represents || desires | conscience | reality | memory
+mc: I || A very organized, reliable person is high in || conscientiousness | neuroticism | openness only | extraversion only
+mc: I || Self-efficacy is || belief in your ability | a type of trait test | the superego | a neurotransmitter
+mc: I || Reliability means a test || gives consistent results | measures what it claims | is popular | is short
+mc: I || Validity means a test || measures what it claims | gives the same score always | is free | is online
+mc: C || Freud's theory is criticized because || unconscious processes are hard to test | it has no thinkers | it uses the Big Five | it is too recent
+mc: C || Research on personality change suggests traits || are fairly stable but can shift over time | never change | change daily | are random
+mc: C || A fun online quiz with no research behind it is most likely || low in validity | highly valid | the Big Five | scientific
+sa: B || Define personality. || Consistent patterns of thinking, feeling and behaving.
+sa: B || List the Big Five traits. || Openness, conscientiousness, extraversion, agreeableness, neuroticism.
+sa: I || Describe Freud's id, ego and superego. || Desires, reality balancing, conscience.
+sa: I || Explain the humanistic approach. || People strive for growth and self-actualization with acceptance.
+sa: I || Explain the difference between reliability and validity. || Reliability is consistency; validity is measuring what it claims.
+sa: I || What is self-efficacy? || Belief in your ability to succeed.
+sa: C || Compare trait and psychodynamic approaches. || Trait theory measures stable characteristics with research support; psychodynamic focuses on unconscious drives and is harder to test.
+sa: C || Evaluate an online personality quiz. || Answers vary; consider reliability and validity.

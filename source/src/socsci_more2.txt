@@ -1,0 +1,175 @@
+=== PSY30.B1 0
+hook: Does listening to music while studying help or hurt? Your friends might swear by it, but psychologists don't settle questions with opinions. They design experiments where only one thing changes at a time.
+sc: I can identify independent and dependent variables | I can write a testable hypothesis | I can describe controls, random assignment and operational definitions
+v: hypothesis :: A testable prediction about the relationship between variables.
+v: independent variable (IV) :: The variable the researcher changes.
+v: dependent variable (DV) :: The variable that is measured.
+v: control group :: The group that does not receive the treatment.
+v: random assignment :: Placing participants in groups by chance so groups are similar.
+v: operational definition :: A precise description of how a variable will be measured.
+v: confounding variable :: An uncontrolled factor that could explain the results.
+ts: Design an Experiment || Research design task || How do psychologists design fair experiments?
+tx: Research question: Does background music affect memory? ¶ Step 1, Variables: IV = music (lyrics, instrumental, silence). DV = number of words recalled from a list of 20 after 2 minutes. ¶ Step 2, Hypothesis (if-then-because): "If students study with music with lyrics, then they will recall fewer words than students studying in silence, because lyrics compete for language processing." ¶ Step 3, Operational definitions: "Music with lyrics" = a chosen pop song at 60 dB; "recall" = words correctly written in 2 minutes. ¶ Step 4, Controls: same word list, same room, same time of day, same instructions, same volume. ¶ Step 5, Random assignment: draw names from a hat for each condition. ¶ Step 6, Confounds: prior knowledge of the words, fatigue, whether students know the song. How will you reduce them? ¶ Step 7, Ethics: informed consent, right to withdraw, no harm, confidentiality, debriefing. ¶ Task: In groups, design an experiment for one question: Does sleep affect reaction time? Do colours affect mood? Does chewing gum improve concentration? Complete all seven steps.
+src: Original research design task written for this lesson.
+st: Identify the IV and DV | Write an if-then-because hypothesis | Write operational definitions | Plan controls and random assignment | Identify confounds and ethics
+org: Step | Our design | Why it's fair
+an: Why must only one variable change at a time? | How does random assignment protect the results? | What confounding variables did you find? | Why do psychologists need ethics rules?
+pr: Submit a complete experimental design for a research question, including hypothesis, variables, operational definitions, controls, random assignment, confounds and ethics.
+ex: IV and DV || "Does caffeine affect reaction time?" Name the IV and DV. || Changed vs measured || IV: caffeine; DV: reaction time || How would you measure reaction time?
+ex: Hypothesis || Write a hypothesis for sleep and test scores. || If-then-because || If students sleep 8 hours, then they will score higher than students who sleep 5 hours, because sleep helps memory || Is it testable?
+ex: Confound || Group A studies at 8 a.m. and Group B at 3 p.m. What's the problem? || Uncontrolled factor || Time of day is a confounding variable || How do you fix it?
+ex: Operational definition || Operationally define "mood." || Measurable || Score on a 1–10 self-rating scale after 5 minutes || What are its limits?
+p: B || What is a hypothesis? || A testable prediction.
+p: B || What is the independent variable? || The variable the researcher changes.
+p: B || What is the dependent variable? || The variable that is measured.
+p: B || What is a control group? || The group that does not receive the treatment.
+p: B || What is random assignment? || Placing participants in groups by chance.
+p: I || What is an operational definition? || A precise description of how a variable is measured.
+p: I || What is a confounding variable? || An uncontrolled factor that could explain results.
+p: I || Write the hypothesis format. || If..., then..., because...
+p: I || Name three controlled variables in the music study. || Word list, room, time, instructions, volume.
+p: I || Name four ethical guidelines. || Informed consent, right to withdraw, no harm, confidentiality, debriefing.
+p: I || In "Does exercise improve mood?", what is the DV? || Mood.
+p: C || Why does random assignment matter? || It spreads individual differences evenly, so groups are comparable.
+p: C || Why must only one variable change? || So any difference can be linked to the IV.
+p: C || Why is debriefing important? || It explains the study and addresses any concerns or deception.
+p: C || What is the difference between random sampling and random assignment? || Sampling chooses who is in the study; assignment places them into groups.
+mis: Confusing the IV and DV | Thinking a hypothesis is just a guess | Thinking a larger sample alone removes confounds
+et: Name the IV and DV for "Does colour affect mood?" | Write a hypothesis using if-then-because.
+mc: B || The independent variable is || what the researcher changes | what is measured | a confound | the sample
+mc: B || The dependent variable is || what is measured | what is changed | the control group | the hypothesis
+mc: B || A hypothesis is || a testable prediction | a final result | an opinion | a variable
+mc: B || A control group || does not receive the treatment | gets double treatment | is the researchers | is random words
+mc: I || Random assignment means || placing participants in groups by chance | choosing friends | testing everyone the same way | measuring the DV
+mc: I || "Recall = words correctly written in 2 minutes" is an || operational definition | hypothesis | confound | ethic
+mc: I || Testing Group A in the morning and Group B in the afternoon creates a || confounding variable | control | hypothesis | random sample
+mc: I || In "Does sleep affect reaction time?", the IV is || sleep | reaction time | the room | the participants
+mc: I || Informed consent means participants || agree after understanding the study | are paid | are tricked | must finish
+mc: C || Random assignment matters because it || makes groups comparable | increases the sample size | measures the DV | removes ethics
+mc: C || Changing two variables at once means || you can't tell which caused the result | the experiment is better | the DV is clearer | no controls are needed
+mc: C || Debriefing is || explaining the study after participation | assigning groups | measuring results | writing the hypothesis
+sa: B || Define independent variable. || The variable the researcher changes.
+sa: B || Define dependent variable. || The variable that is measured.
+sa: I || Write a hypothesis for "Does chewing gum improve concentration?" || Answers vary; if-then-because.
+sa: I || Explain why controls are needed. || To make sure only the IV changes.
+sa: I || Give an operational definition for "concentration." || Answers vary; measurable.
+sa: I || List four ethical guidelines. || Consent, withdrawal, no harm, confidentiality, debriefing.
+sa: C || Identify a confounding variable in a study design and fix it. || Answers vary.
+sa: C || Explain the difference between random sampling and random assignment. || Sampling selects participants; assignment places them into groups.
+
+=== PSY30.C1 0
+hook: Hide a toy under a blanket in front of a six-month-old baby and they act as if it no longer exists. Do the same with a one-year-old and they lift the blanket. Something huge changed in their thinking in just six months.
+sc: I can describe Piaget's four stages of cognitive development | I can explain key concepts such as object permanence and conservation | I can evaluate Piaget's theory
+v: cognitive development :: How thinking, reasoning and understanding change over a lifetime.
+v: schema :: A mental framework for understanding the world.
+v: assimilation :: Fitting new information into an existing schema.
+v: accommodation :: Changing a schema to fit new information.
+v: object permanence :: Understanding that objects exist when out of sight.
+v: conservation :: Understanding that quantity stays the same when shape changes.
+v: egocentrism :: Difficulty seeing the world from another's point of view.
+ts: How Children Think || Case study and demonstration || How does thinking change from infancy to adolescence?
+tx: Jean Piaget (Swiss, 1896–1980) observed his own and other children and proposed four stages: ¶ 1. Sensorimotor (birth–2 years): learning through senses and movement; object permanence develops around 8 months. ¶ 2. Preoperational (2–7): language and pretend play grow; egocentrism (the "three mountains" task: children describe what they see, not what a doll across the table sees); lacks conservation. ¶ 3. Concrete operational (7–11): logical thinking about concrete things; conservation; can sort and classify. ¶ 4. Formal operational (12+): abstract and hypothetical reasoning ("What if...?"), scientific thinking. ¶ Schemas grow through assimilation (a toddler calls a cow a "doggy") and accommodation (learning cows are different). ¶ Demonstration: The conservation of liquid task. Pour equal water into two identical glasses; then pour one into a tall, thin glass. A preoperational child says the tall glass has more. ¶ Evaluation: Strengths: shaped education and showed children think differently, not just less. Limits: children can show abilities earlier than Piaget thought; stages may be less fixed; culture affects development (Vygotsky stressed social learning).
+src: Case study written for this lesson; summarized from introductory psychology sources.
+st: Learn Piaget's four stages | Explain schemas, assimilation and accommodation | Analyze the conservation and three mountains tasks | Classify behaviours by stage | Evaluate the theory
+org: Stage | Age range | Key abilities | Limitations
+an: Why might a preschooler insist the tall glass has more? | How have you accommodated a schema recently? | Do you think adolescents always reason abstractly? | How might culture affect cognitive development?
+pr: Create a stage chart with examples of each stage, and write a paragraph evaluating Piaget's theory using one strength and one criticism.
+ex: Stage || A 4-year-old says the moon follows her. Which stage? || Egocentric thinking || Preoperational || What concept does this show?
+ex: Conservation || A child says a flattened ball of clay has more clay. Which concept is missing? || Quantity vs shape || Conservation || At what stage does it appear?
+ex: Assimilation || A toddler calls every man "Daddy." Assimilation or accommodation? || Fits existing schema || Assimilation || What would accommodation look like?
+ex: Formal operational || Which question needs formal operational thinking? || Abstract || "What would society be like if no one needed sleep?" || Why can't a 7-year-old easily answer it?
+p: B || Who proposed the four stages of cognitive development? || Jean Piaget.
+p: B || What is a schema? || A mental framework for understanding.
+p: B || What is object permanence? || Knowing objects exist when out of sight.
+p: B || What is conservation? || Knowing quantity stays the same when shape changes.
+p: B || Name the four stages. || Sensorimotor, preoperational, concrete operational, formal operational.
+p: I || What is assimilation? || Fitting new information into an existing schema.
+p: I || What is accommodation? || Changing a schema to fit new information.
+p: I || What is egocentrism in Piaget's theory? || Difficulty seeing another's point of view.
+p: I || At what stage does object permanence develop? || Sensorimotor.
+p: I || What can a concrete operational child do? || Think logically about concrete objects and conserve.
+p: I || What did the three mountains task test? || Egocentrism.
+p: C || Give one criticism of Piaget's theory. || Children show abilities earlier; stages less fixed; culture underestimated.
+p: C || How did Vygotsky's view differ? || He stressed social interaction and culture in learning.
+p: C || Why did Piaget's work change education? || It showed children learn actively and think differently at different ages.
+p: C || Do all adults use formal operational thinking? || Not always; it depends on experience and task.
+mis: Thinking children are just "mini adults" who know less | Thinking stages start at exactly the same age for everyone | Thinking egocentrism means selfishness
+et: Name Piaget's four stages in order. | Define conservation with an example.
+mc: B || Piaget studied || cognitive development | classical conditioning | personality traits | brain lobes
+mc: B || Object permanence means || objects exist when out of sight | objects never change | quantity stays the same | seeing others' views
+mc: B || The first stage is || sensorimotor | formal operational | preoperational | concrete operational
+mc: B || A schema is || a mental framework | a brain structure | a neurotransmitter | a stage
+mc: I || A child who thinks a tall glass holds more water lacks || conservation | object permanence | assimilation | language
+mc: I || Calling a cow a "doggy" is || assimilation | accommodation | conservation | egocentrism
+mc: I || Logical thinking about concrete things begins in the || concrete operational stage | sensorimotor stage | preoperational stage | formal operational stage
+mc: I || The three mountains task tested || egocentrism | conservation | object permanence | memory
+mc: I || Abstract hypothetical reasoning appears in the || formal operational stage | preoperational stage | sensorimotor stage | concrete operational stage
+mc: C || A common criticism of Piaget is that || children show some abilities earlier than he said | he studied only adults | he ignored stages | he used brain scans
+mc: C || Vygotsky emphasized || social interaction and culture | conditioning | the id | traits
+mc: C || Egocentrism in Piaget's theory means || difficulty taking another's perspective | selfishness | high self-esteem | loneliness
+sa: B || List Piaget's four stages. || Sensorimotor, preoperational, concrete operational, formal operational.
+sa: B || Define object permanence. || Understanding that objects exist when out of sight.
+sa: I || Explain assimilation and accommodation with examples. || Answers vary.
+sa: I || Describe the conservation of liquid task. || Equal water poured into a tall glass; preoperational children think it has more.
+sa: I || What abilities appear in the formal operational stage? || Abstract and hypothetical reasoning.
+sa: I || What is egocentrism? || Difficulty seeing from another's point of view.
+sa: C || Evaluate Piaget's theory with a strength and a criticism. || Answers vary.
+sa: C || Compare Piaget's and Vygotsky's views. || Piaget focused on individual stages; Vygotsky on social and cultural learning.
+
+=== PSY30.D1 0
+hook: In a famous 1950s experiment, people agreed that a short line was longer than it obviously was, just because everyone else in the room said so. How much of what we do is really our own choice?
+sc: I can explain conformity and the factors that increase it | I can describe Milgram's obedience research and its ethics | I can apply social influence to real situations
+v: social influence :: How other people affect our thoughts, feelings and behaviour.
+v: conformity :: Changing behaviour or beliefs to match a group.
+v: obedience :: Following orders from an authority figure.
+v: bystander effect :: The tendency to be less likely to help when others are present.
+v: diffusion of responsibility :: Feeling less responsible when others could act.
+v: groupthink :: When a group's desire for agreement leads to poor decisions.
+ts: The Power of the Group || Case study || How do other people influence what we do?
+tx: Study 1, Asch's conformity experiment (1951): Participants judged which of three lines matched a target line. Confederates (actors) gave obviously wrong answers. About 75% of participants conformed at least once; overall about one third of answers conformed. Conformity dropped sharply when even one other person gave the right answer. ¶ Study 2, Milgram's obedience experiment (1963): Participants were told to give increasing "electric shocks" to a learner (an actor; no real shocks) for wrong answers. About 65% continued to the maximum 450 volts when the experimenter said "Please continue." Obedience dropped when the authority was absent or a peer refused. Ethics: participants experienced serious stress and were deceived; today's ethics rules would not allow it in this form. ¶ Study 3, Bystander effect (Darley and Latané, 1968): Participants who believed others could hear a person having a seizure were less likely and slower to help. Diffusion of responsibility explains it. ¶ Factors that increase conformity and obedience: group size (up to about 4–5), unanimity, authority's status and closeness, uncertainty, culture. ¶ Task: Apply these ideas to three scenarios: a group chat pressuring someone, a supervisor ordering an unsafe shortcut, and a crowd watching someone fall.
+src: Case study written for this lesson; summarized from introductory social psychology sources.
+st: Read Asch's conformity study | Read Milgram's obedience study and its ethics | Read the bystander effect research | Identify factors that increase influence | Apply findings to real scenarios
+org: Study | What happened | Key finding | Factor that reduced the effect
+an: Why did one ally reduce conformity so much? | Was Milgram's study worth the harm? Why or why not? | How can you counter the bystander effect if you see someone in trouble? | When is conforming helpful rather than harmful?
+pr: Write a 400-word analysis applying conformity, obedience and the bystander effect to a real or realistic situation, with one strategy to resist harmful influence.
+ex: Asch || What reduced conformity in Asch's study? || Unanimity broken || One person giving the correct answer || Why would that help?
+ex: Milgram || What percentage went to 450 volts? || Recall || About 65% || What reduced obedience?
+ex: Bystander || Why might no one help someone who falls in a busy mall? || Diffusion of responsibility || Each person assumes someone else will help || What should you do?
+ex: Strategy || How can you overcome the bystander effect? || Take responsibility || Point to a specific person and give a direct task: "You in the red jacket, call 911" || Why does this work?
+p: B || What is conformity? || Changing behaviour to match a group.
+p: B || What is obedience? || Following orders from authority.
+p: B || What is the bystander effect? || Being less likely to help when others are present.
+p: B || Who studied conformity with lines? || Solomon Asch.
+p: B || Who studied obedience with fake shocks? || Stanley Milgram.
+p: I || About what percentage of Asch's participants conformed at least once? || About 75%.
+p: I || What reduced conformity in Asch's study? || One other person giving the correct answer.
+p: I || Name two factors that reduced obedience in Milgram's study. || Authority absent, peer refusing, low prestige setting.
+p: I || What is diffusion of responsibility? || Feeling less responsible when others could act.
+p: I || What is groupthink? || Poor decisions from a desire for agreement.
+p: I || Name two factors that increase conformity. || Group size, unanimity, uncertainty, culture.
+p: C || Why is Milgram's study considered ethically questionable? || Deception and serious stress for participants.
+p: C || How can you resist harmful conformity? || Find an ally, think independently, speak up early.
+p: C || When is conformity helpful? || Following safety norms or social rules that protect people.
+p: C || How could the bystander effect apply online? || People see cyberbullying but assume others will report it.
+mis: Thinking only weak people conform | Thinking Milgram's participants were cruel people | Thinking more bystanders means more help
+et: Define the bystander effect. | Name one way to reduce conformity.
+mc: B || Conformity is || changing to match a group | following orders | helping strangers | thinking alone
+mc: B || Milgram studied || obedience | conformity with lines | memory | personality
+mc: B || The bystander effect means people are || less likely to help when others are present | more likely to help in groups | always helpful | never helpful
+mc: B || Asch's study used || judgments of line length | electric shocks | a seizure recording | colours
+mc: I || In Asch's study, conformity dropped when || one person gave the correct answer | the group got bigger | the lines were longer | participants were paid
+mc: I || About what percentage went to 450 volts in Milgram's main study? || 65% | 10% | 100% | 30%
+mc: I || Diffusion of responsibility explains || the bystander effect | object permanence | conservation | conditioning
+mc: I || Obedience dropped in Milgram's study when || the authority was absent | the learner was quiet | the voltage rose | there were more shocks
+mc: I || Groupthink is || poor decisions from wanting agreement | thinking in groups always helps | a memory test | a personality trait
+mc: C || Milgram's study is ethically questioned because of || deception and serious stress | its use of lines | paying participants | its short length
+mc: C || The best way to get help in an emergency crowd is to || point to a specific person and give a task | shout "Someone help!" | wait | film it
+mc: C || Conformity can be helpful when it || supports safety norms | hides wrongdoing | silences dissent | spreads rumours
+sa: B || Define obedience. || Following orders from an authority figure.
+sa: B || What is conformity? || Changing behaviour or beliefs to match a group.
+sa: I || Summarize Asch's study and its finding. || People often conformed to obviously wrong group answers.
+sa: I || Summarize Milgram's study and its finding. || Most participants obeyed orders to give what they thought were strong shocks.
+sa: I || Explain the bystander effect and its cause. || People help less in groups because of diffusion of responsibility.
+sa: I || Name two factors that increase obedience. || Close, high-status authority; legitimate setting; no peers refusing.
+sa: C || Evaluate the ethics of Milgram's study. || Answers vary; deception and stress versus important findings.
+sa: C || Apply conformity or the bystander effect to a real situation and suggest a strategy. || Answers vary.

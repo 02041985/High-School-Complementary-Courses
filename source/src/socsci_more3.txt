@@ -1,0 +1,175 @@
+=== SOC20.B1 0
+hook: In some cultures, it's polite to finish everything on your plate; in others, it suggests the host didn't serve enough. Nobody is born knowing these rules. We learn them, and sociologists call that process socialization.
+sc: I can define culture, norms and values | I can distinguish folkways, mores and laws | I can explain how agents of socialization teach culture
+v: culture :: The shared beliefs, values, behaviours and material objects of a group.
+v: norm :: A shared rule or expectation for behaviour.
+v: value :: A shared idea about what is good, right or important.
+v: folkway :: An informal norm about everyday behaviour (for example, facing forward in an elevator).
+v: more :: A serious norm based on moral views (pronounced "mor-ay").
+v: socialization :: The lifelong process of learning a culture.
+v: agent of socialization :: A person or group that teaches us culture, such as family, peers, school or media.
+ts: The Rules Nobody Wrote Down || Investigation || How do we learn the culture we live in?
+tx: Part 1, Culture inventory (10 minutes): List examples of material culture (objects: smartphones, hockey sticks, bannock, hijabs) and non-material culture (beliefs, language, values, norms) in Canada and in the UAE or another culture you know. ¶ Part 2, Norms ladder (10 minutes): Sort into folkways, mores and laws: saying "thank you"; not cheating on a partner; not stealing; holding a door; not wearing pyjamas to a job interview; not lying to friends. Laws are formal norms enforced by the state. ¶ Part 3, Norm breaking (optional, safe, harmless only, with teacher approval) (10 minutes): Discuss what would happen if you faced the back of an elevator or stood very close to a stranger in line. How do people react? These reactions are informal sanctions. ¶ Part 4, Agents of socialization (15 minutes): For each agent (family, peers, school, media, religion, workplace), write one norm or value it taught you and how. ¶ Part 5, Values compare (5 minutes): Discuss Canadian values (for example multiculturalism, equality, politeness) and values in another culture. Avoid judging one as better: practise cultural relativism.
+src: Original investigation written for this lesson.
+st: List material and non-material culture | Sort norms into folkways, mores and laws | Discuss reactions to norm breaking | Identify agents of socialization in your life | Compare values across cultures
+org: Agent | Norm or value it taught | How it taught it | Still important to me?
+an: Which agent of socialization has influenced you most? | Why do people react strongly to broken mores but mildly to broken folkways? | How does social media act as an agent of socialization? | What is the difference between ethnocentrism and cultural relativism?
+pr: Write a 300-word "socialization autobiography" explaining how three agents of socialization shaped one of your values or norms.
+ex: Norm type || Classify: "Don't talk loudly in a library." || Seriousness || Folkway || What sanction might you get?
+ex: More || Classify: "Don't abandon your child." || Moral seriousness || More (and also a law) || Why are many mores also laws?
+ex: Agent || Which agent teaches "raise your hand to speak"? || Setting || School || What other norms does school teach?
+ex: Values || Name a Canadian value shown by official bilingualism. || Policy reflects values || Respect for linguistic diversity and equality of English and French || What other policy shows a value?
+p: B || What is culture? || Shared beliefs, values, behaviours and objects of a group.
+p: B || What is a norm? || A shared rule for behaviour.
+p: B || What is a value? || A shared idea about what is good or important.
+p: B || What is socialization? || The lifelong process of learning a culture.
+p: B || Name two agents of socialization. || Family, peers, school, media, religion, workplace.
+p: I || What is a folkway? || An informal everyday norm.
+p: I || What is a more? || A serious norm based on morality.
+p: I || What is the difference between material and non-material culture? || Objects vs beliefs, values and language.
+p: I || What is a sanction? || A reward or punishment for following or breaking a norm.
+p: I || Give an example of a law that is also a more. || Not stealing or not harming others.
+p: I || How do peers socialize teenagers? || Through acceptance, teasing and shared styles and behaviours.
+p: C || What is ethnocentrism? || Judging other cultures by your own culture's standards.
+p: C || What is cultural relativism? || Understanding a culture on its own terms.
+p: C || How does social media act as an agent of socialization? || It models norms, values and lifestyles and rewards some behaviours with likes.
+p: C || Why do people react strongly to broken mores? || They threaten important moral values.
+mis: Thinking culture means only art, food and festivals | Thinking norms are the same everywhere | Thinking socialization stops in childhood
+et: Give one example each of a folkway and a more. | Name the agent of socialization that has influenced you most.
+mc: B || Culture includes || beliefs, values, behaviours and objects | only food | only art | only language
+mc: B || A norm is || a shared rule for behaviour | a personal opinion | a law only | a type of food
+mc: B || Socialization is || learning a culture | making friends only | a school subject | travelling
+mc: B || Which is an agent of socialization? || family | the weather | a mountain | a planet
+mc: I || Facing forward in an elevator is a || folkway | more | law | value
+mc: I || A serious moral norm is a || more | folkway | material object | trend
+mc: I || A smartphone is an example of || material culture | non-material culture | a value | a more
+mc: I || A sanction is || a reward or punishment for norm behaviour | a type of law only | a value | a culture
+mc: I || Laws differ from other norms because they are || formally enforced by the state | always polite | unwritten | optional
+mc: C || Judging another culture by your own standards is || ethnocentrism | cultural relativism | socialization | a folkway
+mc: C || Social media acts as an agent of socialization by || modelling and rewarding behaviours | replacing all other agents | having no effect | teaching only facts
+mc: C || People react strongly to broken mores because they || threaten important moral values | are silly | are never written | involve clothing
+sa: B || Define culture. || Shared beliefs, values, behaviours and objects of a group.
+sa: B || What is socialization? || The lifelong process of learning a culture.
+sa: I || Explain the difference between folkways, mores and laws. || Folkways are informal, mores are moral, laws are formal and enforced.
+sa: I || Name three agents of socialization and what each teaches. || Answers vary.
+sa: I || Give an example of material and non-material culture. || Answers vary.
+sa: I || What is a sanction? Give an example. || A reward or punishment; for example a fine or a frown.
+sa: C || Explain ethnocentrism and cultural relativism. || Ethnocentrism judges others by one's own culture; relativism understands a culture on its own terms.
+sa: C || Explain how one agent of socialization shaped a value you hold. || Answers vary.
+
+=== SOC20.C1 0
+hook: You belong to dozens of groups: your family, your friend group, your class, your team, maybe a group chat with 200 people you've never met. Some shape who you are; others you'd barely notice leaving. Sociologists explain why.
+sc: I can distinguish primary and secondary groups | I can describe roles, status and in-groups and out-groups | I can explain how groups influence individuals
+v: social group :: Two or more people who interact and share a sense of belonging.
+v: primary group :: A small, close, long-lasting group, such as family or close friends.
+v: secondary group :: A larger, goal-oriented, less personal group, such as a class or workplace.
+v: status :: A social position a person holds.
+v: role :: The behaviour expected of someone with a status.
+v: in-group :: A group you belong to and feel loyal to.
+v: out-group :: A group you don't belong to and may feel competitive toward.
+ts: Map My Groups || Investigation || How do groups shape who we are?
+tx: Part 1, Group map (15 minutes): Draw yourself in the centre. Draw circles for every group you belong to; place the closest ones nearest you. Label each as primary or secondary. ¶ Charles Horton Cooley (1909) called primary groups the "nursery of human nature": we get identity and emotional support from them. Secondary groups exist for a purpose: earning money, learning, playing a sport. A secondary group can become primary (teammates who become close friends). ¶ Part 2, Status and roles (10 minutes): List your statuses (student, sibling, team captain, employee). Ascribed status: given at birth (age, family). Achieved status: earned (captain, honour student). For two statuses, list expected roles. Role conflict: when two roles clash (a big game the same night as a family event). ¶ Part 3, In-groups and out-groups (10 minutes): Discuss school rivalries. How does belonging to an in-group affect how you see out-groups? Robbers Cave study (Sherif, 1954): two groups of boys at camp quickly became hostile through competition and became friendlier after cooperating on shared goals. ¶ Part 4, Group size (10 minutes): Dyads (two people) are intimate but fragile; triads (three) are more stable but can form two-against-one coalitions.
+src: Original investigation written for this lesson; concepts summarized from introductory sociology sources.
+st: Map your groups as primary or secondary | List statuses and roles | Identify role conflict | Analyze in-groups and out-groups | Discuss how group size changes interaction
+org: Group | Primary or secondary | My status | My role
+an: Which group shapes your identity most? Why? | Describe a time you experienced role conflict. | How did the Robbers Cave study reduce hostility? | How do online groups compare to face-to-face ones?
+pr: Create a labelled group map and write a 300-word analysis of how one primary and one secondary group influence your behaviour, including a role conflict.
+ex: Classify || A school math class. Primary or secondary? || Purpose and closeness || Secondary (goal-oriented, less personal) || Could it become primary?
+ex: Status type || Being someone's daughter is what kind of status? || Born or earned || Ascribed || Give an achieved status.
+ex: Role conflict || A student is captain and also has a part-time shift during a playoff game. What is this? || Two roles clash || Role conflict between captain and employee || How could it be resolved?
+ex: Robbers Cave || What reduced hostility between the groups? || Shared goals || Cooperating on goals that needed both groups (superordinate goals) || How could schools use this?
+p: B || What is a social group? || Two or more people who interact and share belonging.
+p: B || What is a primary group? || A small, close, long-lasting group.
+p: B || What is a secondary group? || A larger, goal-oriented, less personal group.
+p: B || What is status? || A social position.
+p: B || What is a role? || Behaviour expected of a status.
+p: I || What is ascribed status? || Status given at birth.
+p: I || What is achieved status? || Status earned through effort.
+p: I || What is role conflict? || When two roles clash.
+p: I || What is an in-group? || A group you belong to and feel loyal to.
+p: I || Who called primary groups the "nursery of human nature"? || Charles Horton Cooley.
+p: I || What is a triad? || A group of three people.
+p: C || How did the Robbers Cave study reduce conflict? || Through cooperation on shared (superordinate) goals.
+p: C || How can in-group loyalty lead to prejudice? || Favouring your group can lead to negative views of out-groups.
+p: C || How can a secondary group become primary? || Through close, lasting relationships forming over time.
+p: C || Are online groups primary or secondary? || They can be either, depending on closeness and purpose.
+mis: Thinking all groups affect us equally | Thinking status means popularity | Thinking in-group loyalty is always harmless
+et: Give one primary and one secondary group you belong to. | Define role conflict.
+mc: B || A primary group is || small, close and long-lasting | large and goal-oriented | temporary | a crowd
+mc: B || A secondary group is || goal-oriented and less personal | always family | very small | permanent
+mc: B || A role is || behaviour expected of a status | a social position | a group | a norm
+mc: B || Status is || a social position | a feeling | a group size | a rule
+mc: I || Being someone's son is || ascribed status | achieved status | a role conflict | an out-group
+mc: I || Becoming team captain is || achieved status | ascribed status | a primary group | a more
+mc: I || A game and a family event on the same night create || role conflict | an in-group | ascribed status | a dyad
+mc: I || "Nursery of human nature" refers to || primary groups | secondary groups | out-groups | crowds
+mc: I || A group of three people is a || triad | dyad | crowd | network
+mc: C || The Robbers Cave study reduced hostility through || cooperation on shared goals | more competition | separation | punishment
+mc: C || In-group loyalty can lead to || prejudice against out-groups | no effects | better grades always | role conflict only
+mc: C || An online friend group you talk to daily for years is most likely || primary | secondary | an out-group | a dyad only
+sa: B || Define primary group. || A small, close, long-lasting group.
+sa: B || What is a role? || The behaviour expected of someone with a status.
+sa: I || Explain ascribed vs achieved status with examples. || Ascribed is given at birth; achieved is earned. Answers vary.
+sa: I || Describe a role conflict. || Answers vary.
+sa: I || What are in-groups and out-groups? || Groups you belong to vs groups you don't.
+sa: I || How can a secondary group become primary? || Close lasting relationships develop over time.
+sa: C || Explain what the Robbers Cave study shows about group conflict. || Competition creates hostility; shared goals reduce it.
+sa: C || Analyze how one group shapes your behaviour. || Answers vary.
+
+=== SOC20.D1 0
+hook: In some times and places, women wearing pants was considered deviant. So was a man with long hair, or a teenager with a tattoo. Deviance isn't about the act itself. It's about how a society reacts to it, and that changes.
+sc: I can define deviance as relative to time, place and group | I can describe formal and informal social control | I can explain theories of deviance such as labelling and strain theory
+v: deviance :: Behaviour that breaks a group's norms.
+v: social control :: The ways a society encourages conformity to norms.
+v: formal sanction :: An official reward or punishment, such as a fine or a diploma.
+v: informal sanction :: An unofficial reaction, such as a compliment or an eye-roll.
+v: labelling theory :: The idea that being labelled deviant can lead people to see themselves that way and act on it.
+v: strain theory :: Robert Merton's idea that deviance happens when people can't reach accepted goals by accepted means.
+ts: Who Decides What's Deviant? || Investigation || How do societies define and control deviance?
+tx: Part 1, Relative deviance (10 minutes): Rate these from 1 (not deviant) to 5 (very deviant): dyeing your hair blue, talking during a movie, cheating on a test, going barefoot in a mall, eating with your hands, refusing to stand for the national anthem. Compare ratings. Then ask: would the ratings change in another country, another decade or another group? ¶ Part 2, Social control (10 minutes): Sort sanctions into formal and informal, positive and negative: a speeding ticket, a high-five, being grounded, a scholarship, a dirty look, a medal, being fired. ¶ Part 3, Theories (15 minutes): ¶ • Functionalism (Durkheim): deviance clarifies norms and can lead to change. ¶ • Strain theory (Merton): society values success (goal) but not everyone has access to education or jobs (means). Responses: conformity, innovation (new illegal means), ritualism, retreatism, rebellion. ¶ • Labelling theory (Becker): once labelled "troublemaker," a person may be treated differently and accept the label. ¶ Part 4, Case (10 minutes): A student is labelled a "bad kid" in Grade 6 after a fight. Use labelling theory to explain how this label could shape later years. What could interrupt it?
+src: Original investigation written for this lesson; theories summarized from introductory sociology sources.
+st: Rate behaviours and compare | Discuss how deviance changes across time and place | Sort sanctions | Learn three theories of deviance | Apply labelling theory to a case
+org: Theory | Key thinker | Main idea | Example
+an: Why did ratings differ in the class? | Can deviance be positive? Give an example. | How does strain theory explain some crime? | How could teachers and schools avoid harmful labelling?
+pr: Write a 400-word analysis of one behaviour that was once deviant and is now accepted (or the reverse), using one theory of deviance and the idea of social control.
+ex: Relative || Is tattooing deviant? || Depends on time, place, group || It was widely seen as deviant in Canada decades ago; today it is common || What changed?
+ex: Sanction || A scholarship is which type of sanction? || Formal or informal, positive or negative || Formal positive || Give a formal negative sanction.
+ex: Strain || A person wants wealth but has no job access and sells stolen goods. Which Merton response? || Accepts goal, rejects means || Innovation || What is rebellion?
+ex: Labelling || How might the "bad kid" label become self-fulfilling? || Treatment and identity || Teachers watch him more, peers avoid him, he believes the label and acts on it || How could it be interrupted?
+p: B || What is deviance? || Behaviour that breaks a group's norms.
+p: B || What is social control? || Ways society encourages conformity.
+p: B || What is a formal sanction? || An official reward or punishment.
+p: B || What is an informal sanction? || An unofficial reaction like a compliment or frown.
+p: B || Who developed strain theory? || Robert Merton.
+p: I || Why is deviance relative? || It depends on time, place and group.
+p: I || What is labelling theory? || Being labelled deviant can lead people to accept and act on it.
+p: I || Name Merton's five responses to strain. || Conformity, innovation, ritualism, retreatism, rebellion.
+p: I || According to Durkheim, how can deviance be useful? || It clarifies norms and can lead to social change.
+p: I || Give an example of a formal negative sanction. || A fine, suspension or jail.
+p: I || Give an example of an informal positive sanction. || A compliment or high-five.
+p: C || How can deviance lead to positive change? || Breaking unjust norms, like in civil rights movements, can change society.
+p: C || How could a school reduce harmful labelling? || Focus on behaviour, not identity; give fresh starts.
+p: C || Why do some groups reward behaviour others see as deviant? || Subcultures have different norms.
+p: C || How does strain theory link deviance to inequality? || Unequal access to legitimate means creates pressure toward deviance.
+mis: Thinking deviance always means crime | Thinking deviance is the same everywhere | Thinking deviance is always harmful
+et: Give one example of a behaviour that is deviant in one place but not another. | Define labelling theory.
+mc: B || Deviance is || breaking a group's norms | always a crime | always harmful | following rules
+mc: B || Social control encourages || conformity | deviance | crime | rebellion
+mc: B || A speeding ticket is a || formal negative sanction | informal positive sanction | formal positive sanction | informal negative sanction
+mc: B || Strain theory was developed by || Robert Merton | Émile Durkheim | Howard Becker | Charles Cooley
+mc: I || Deviance is relative because it || depends on time, place and group | never changes | is always crime | is set by nature
+mc: I || A dirty look is a || informal negative sanction | formal negative sanction | formal positive sanction | law
+mc: I || Labelling theory suggests || labels can shape identity and behaviour | labels have no effect | only adults are labelled | labels prevent crime
+mc: I || Accepting the goal of wealth but using illegal means is || innovation | ritualism | retreatism | conformity
+mc: I || Durkheim argued deviance can || clarify norms and lead to change | never be useful | only cause harm | be eliminated
+mc: C || Civil rights protesters breaking segregation laws show that deviance can || lead to positive social change | always be harmful | never matter | be the same everywhere
+mc: C || A school can reduce harmful labelling by || focusing on behaviour and giving fresh starts | publicly naming troublemakers | permanent records of every mistake | ignoring all behaviour
+mc: C || Strain theory links deviance to || unequal access to legitimate means | personality traits only | genetics | the weather
+sa: B || Define deviance. || Behaviour that breaks a group's norms.
+sa: B || What is social control? || The ways society encourages conformity to norms.
+sa: I || Explain why deviance is relative, with an example. || It depends on time, place and group. Answers vary.
+sa: I || Describe labelling theory. || Being labelled deviant can lead people to accept and act on the label.
+sa: I || Name and describe two of Merton's responses to strain. || Answers vary.
+sa: I || Give one example each of formal and informal sanctions. || Answers vary.
+sa: C || Explain how deviance can lead to positive social change. || Answers vary; e.g. civil rights movements.
+sa: C || Apply a theory of deviance to a real behaviour. || Answers vary.
