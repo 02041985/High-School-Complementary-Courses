@@ -1,0 +1,176 @@
+=== SPA10.B1 0
+hook: In Spanish you don't just "wake up," you "wake yourself up": me despierto. Daily routines are full of reflexive verbs, and once you know the pattern, you can describe your whole day.
+sc: I can conjugate reflexive verbs in the present | I can describe my daily routine and free time | I can say how often I do things using frequency expressions
+v: levantarse :: To get up (me levanto).
+v: despertarse :: To wake up (me despierto).
+v: ducharse :: To shower (me ducho).
+v: vestirse :: To get dressed (me visto).
+v: el tiempo libre :: Free time.
+v: a menudo / a veces / nunca :: Often / sometimes / never.
+v: el horario :: The schedule.
+ts: Mi rutina diaria || Grammar and dialogue || How do I describe my daily routine in Spanish?
+tx: Reflexive pronouns go before the conjugated verb: ¶ levantarse: me levanto, te levantas, se levanta, nos levantamos, os levantáis, se levantan. ¶ Stem-changing reflexives: despertarse (e → ie): me despierto; acostarse (o → ue): me acuesto; vestirse (e → i): me visto. ¶ With an infinitive, the pronoun can attach: Voy a ducharme. ¶ Frequency: siempre (always), todos los días (every day), a menudo (often), a veces (sometimes), casi nunca (hardly ever), nunca (never). Nunca can go before the verb: Nunca me acuesto temprano. ¶ Time: a las siete (at seven), por la mañana / tarde / noche. ¶ Diálogo: ¶ Sofía: ¿A qué hora te levantas los días de escuela? ¶ Diego: Me despierto a las seis y media, pero me levanto a las siete. Me ducho y me visto rápido. ¶ Sofía: ¿Y qué haces en tu tiempo libre? ¶ Diego: A menudo juego al fútbol con mis amigos. A veces toco la guitarra. Nunca veo la tele por la mañana. ¶ Sofía: Yo me acuesto tarde, a las once, porque leo mucho. ¶ Task: Write your schedule for a school day and a Saturday, then interview a partner.
+src: Original dialogue written for this lesson.
+st: Learn reflexive pronouns | Conjugate regular and stem-changing reflexive verbs | Learn frequency expressions | Read the dialogue | Describe and compare routines with a partner
+org: Hora | Actividad (verbo reflexivo) | ¿Con qué frecuencia?
+an: Why are these verbs called reflexive? | What stem changes appear in despertarse and acostarse? | What does Diego do often and sometimes? | How is your routine different on weekends?
+pr: Write a 100-word description of your school-day routine and free time using at least six reflexive verbs and four frequency expressions, then present it.
+ex: Conjugation || Conjugate levantarse with nosotros. || nos + levantamos || Nos levantamos. || With ellos?
+ex: Stem change || Say "I go to bed at ten." || acostarse o → ue || Me acuesto a las diez. || Say it with tú.
+ex: Frequency || Say "I never get up early." || Nunca before verb || Nunca me levanto temprano. || Say "sometimes."
+ex: Infinitive || Say "I'm going to shower." || Pronoun attaches || Voy a ducharme. || Another way to say it?
+p: B || What does "levantarse" mean? || To get up.
+p: B || What does "ducharse" mean? || To shower.
+p: B || What does "nunca" mean? || Never.
+p: B || What does "a veces" mean? || Sometimes.
+p: B || What is the reflexive pronoun for yo? || Me.
+p: I || Conjugate despertarse with yo. || Me despierto.
+p: I || Conjugate vestirse with ella. || Se viste.
+p: I || What time does Diego get up? || At seven.
+p: I || What does Diego do often in his free time? || Plays soccer with friends.
+p: I || Why does Sofía go to bed late? || She reads a lot.
+p: I || Translate: We get dressed at seven thirty. || Nos vestimos a las siete y media.
+p: C || Write two ways to say "I'm going to get up." || Voy a levantarme / Me voy a levantar.
+p: C || Explain the stem change in acostarse. || The o changes to ue in all forms except nosotros and vosotros.
+p: C || Correct the error: Yo levanto a las seis. || Yo me levanto a las seis.
+p: C || Compare your routine with Diego's in a sentence. || Answers vary.
+mis: Forgetting the reflexive pronoun | Forgetting stem changes (me desperto) | Putting nunca in the wrong place with no
+et: Conjugate ducharse for yo, tú and ellos. | Write a sentence with a frequency expression.
+mc: B || "Me levanto" means || I get up | I wake up | I shower | I go to bed
+mc: B || "Nunca" means || never | always | often | sometimes
+mc: B || The reflexive pronoun for nosotros is || nos | me | se | te
+mc: B || "El tiempo libre" means || free time | the weather | the schedule | homework
+mc: I || "I wake up" is || me despierto | me desperto | despierto | me despertamos
+mc: I || "Se acuestan" means || they go to bed | they get up | they shower | they get dressed
+mc: I || What time does Diego wake up? || 6:30 | 7:00 | 11:00 | 6:00
+mc: I || Diego sometimes || plays guitar | watches TV in the morning | goes to bed at eleven | reads a lot
+mc: I || "Voy a ducharme" means || I'm going to shower | I showered | I shower every day | I don't shower
+mc: C || Which is correct? || Nunca me acuesto temprano. | No me nunca acuesto temprano. | Me nunca acuesto temprano. | Nunca acuesto me temprano.
+mc: C || The stem of vestirse changes || e → i | e → ie | o → ue | no change
+mc: C || "Me visto" comes from || vestirse | verse | venir | vivir
+sa: B || Translate "me ducho." || I shower.
+sa: B || Name three frequency expressions. || Siempre, a menudo, a veces, nunca (others).
+sa: I || Conjugate acostarse for yo and nosotros. || Me acuesto, nos acostamos.
+sa: I || Describe Diego's morning. || He wakes at 6:30, gets up at 7, showers and dresses quickly.
+sa: I || Translate: She never gets up early. || Ella nunca se levanta temprano.
+sa: I || What does Sofía do at night? || She reads and goes to bed at eleven.
+sa: C || Explain where reflexive pronouns go. || Before the conjugated verb or attached to an infinitive.
+sa: C || Write three sentences about your routine using reflexive verbs. || Answers vary.
+
+=== SPA10.C1 0
+hook: Ayer, el fin de semana pasado, el verano pasado: once you can use the preterite, you can tell stories, share news and talk about trips. It's the Spanish tense for completed actions in the past.
+sc: I can form regular preterite verbs | I can use the irregular verbs ir, ser and hacer in the preterite | I can narrate past events in order
+v: el pretérito :: The preterite, a past tense for completed actions.
+v: ayer :: Yesterday.
+v: el fin de semana pasado :: Last weekend.
+v: anoche :: Last night.
+v: fui :: I went / I was (ir and ser).
+v: hice :: I did / I made (hacer).
+v: luego / después / finalmente :: Then / after / finally.
+ts: ¿Qué hiciste? || Grammar and reading || How do I tell what happened in the past in Spanish?
+tx: Regular preterite endings: ¶ -ar (hablar): hablé, hablaste, habló, hablamos, hablasteis, hablaron. ¶ -er / -ir (comer, vivir): comí, comiste, comió, comimos, comisteis, comieron. ¶ Spelling changes in the yo form: -car → qué (toqué), -gar → gué (jugué), -zar → cé (empecé). ¶ Irregulars: ir and ser share forms: fui, fuiste, fue, fuimos, fuisteis, fueron. hacer: hice, hiciste, hizo, hicimos, hicisteis, hicieron. ¶ Texto: ¶ El fin de semana pasado fue increíble. El sábado por la mañana, mi familia y yo fuimos a las montañas Rocosas. Primero, caminamos tres horas. Luego, comimos sándwiches al lado de un lago. Mi hermano tomó muchas fotos. Por la tarde, jugué a las cartas con mi primo. El domingo, hice mi tarea y llamé a mi abuela. Finalmente, me acosté temprano porque estaba muy cansada. – Valentina ¶ Task: Find all preterite verbs in the text and write the infinitive of each. Then write about your last weekend.
+src: Original text written for this lesson.
+st: Learn the regular preterite endings | Learn spelling changes in the yo form | Learn ir, ser and hacer | Read Valentina's text and find preterite verbs | Narrate your own weekend
+org: Verbo (pretérito) | Infinitivo | Sujeto | En inglés
+an: How can you tell whether "fue" means "went" or "was"? | Why does jugar become jugué? | Which sequence words make the story easy to follow? | What's the difference between "hablo" and "habló"?
+pr: Write a 100-word paragraph about a past weekend or trip using at least eight preterite verbs (including ir, ser and hacer) and four sequence words.
+ex: Regular -ar || Say "I talked with my friend." || hablar → hablé || Hablé con mi amigo. || Say it with ellos.
+ex: Regular -er || Say "We ate pizza." || comer → comimos || Comimos pizza. || What is "you (tú) ate"?
+ex: Ir vs ser || What does "Fue divertido" mean? || Context || It was fun (ser) || What does "Fue al parque" mean?
+ex: Spelling change || Say "I played soccer." || jugar → jugué || Jugué al fútbol. || Why the u?
+p: B || What does "ayer" mean? || Yesterday.
+p: B || What does "anoche" mean? || Last night.
+p: B || What is the yo form of hablar in the preterite? || Hablé.
+p: B || What is the yo form of comer in the preterite? || Comí.
+p: B || What does "fui" mean? || I went or I was.
+p: I || Conjugate vivir with ellos in the preterite. || Vivieron.
+p: I || What is the yo preterite of hacer? || Hice.
+p: I || What is the yo preterite of tocar? || Toqué.
+p: I || Where did Valentina's family go on Saturday? || To the Rocky Mountains.
+p: I || What did her brother do? || Took many photos.
+p: I || Translate: We went to the beach. || Fuimos a la playa.
+p: C || How do you know if "fueron" means "went" or "were"? || From context: a place after it usually means went.
+p: C || Why does "habló" need an accent? || To show stress and distinguish it from hablo (I speak).
+p: C || What is the él form of hacer in the preterite? || Hizo.
+p: C || Write a sentence with two preterite verbs and luego. || Answers vary.
+mis: Forgetting accents (hable vs hablé) | Confusing ir and ser forms | Using regular endings for hacer (hací)
+et: Conjugate jugar and comer in the yo preterite. | Write one sentence with fui.
+mc: B || "Ayer" means || yesterday | tomorrow | today | last year
+mc: B || The yo preterite of hablar is || hablé | hablo | hablaba | hablaré
+mc: B || "Comimos" means || we ate | we eat | they ate | I ate
+mc: B || "Anoche" means || last night | tonight | tomorrow night | every night
+mc: I || The preterite forms of ir and ser are || the same | completely different | regular | only for yo
+mc: I || "Hice" means || I did / I made | I went | I was | I had
+mc: I || The yo preterite of jugar is || jugué | jugé | jugo | jugaba
+mc: I || Valentina's family ate || sandwiches by a lake | pizza at home | in a restaurant | nothing
+mc: I || On Sunday, Valentina || did her homework and called her grandmother | went hiking | played cards | took photos
+mc: C || In "Fue un día increíble," fue comes from || ser | ir | hacer | ver
+mc: C || The él preterite of hacer is || hizo | hació | hizó | hice
+mc: C || Which sentence is correct? || Ellos vivieron en México. | Ellos vivió en México. | Ellos vivimos en México. | Ellos viven ayer en México.
+sa: B || Translate "el fin de semana pasado." || Last weekend.
+sa: B || Give the yo preterite of hablar, comer and vivir. || Hablé, comí, viví.
+sa: I || Conjugate ir in the preterite for all persons. || Fui, fuiste, fue, fuimos, fuisteis, fueron.
+sa: I || Conjugate hacer for yo and ellos. || Hice, hicieron.
+sa: I || Name three things Valentina did last weekend. || Hiked, ate by a lake, played cards, did homework, called her grandmother.
+sa: I || Translate: I played the guitar yesterday. || Ayer toqué la guitarra.
+sa: C || Explain the spelling changes in the yo preterite of -car, -gar and -zar verbs. || -qué, -gué, -cé to keep the sound.
+sa: C || Write a short narrative of a past event using five preterite verbs. || Answers vary.
+
+=== SPA10.D1 0
+hook: Spanish is the official language of 20 countries and spoken by over 480 million native speakers, from Madrid to Mexico City, from Bogotá to Buenos Aires. Each region has its own foods, music, accents and traditions.
+sc: I can locate Spanish-speaking countries and regions | I can describe cultural features of a region | I can compare a Spanish-speaking culture with my own respectfully
+v: hispanohablante :: Spanish-speaking.
+v: el país :: The country.
+v: la región :: The region.
+v: la costumbre :: The custom.
+v: indígena :: Indigenous.
+v: la diversidad :: Diversity.
+v: más ... que / menos ... que / tan ... como :: More ... than / less ... than / as ... as.
+ts: El mundo hispanohablante || Investigation || Where is Spanish spoken, and how do cultures differ?
+tx: Regions and countries: ¶ • Europe: España (Spain). ¶ • North and Central America: México, Guatemala, Honduras, El Salvador, Nicaragua, Costa Rica, Panamá. ¶ • Caribbean: Cuba, República Dominicana, Puerto Rico (US territory). ¶ • South America: Colombia, Venezuela, Ecuador, Perú, Bolivia, Chile, Argentina, Uruguay, Paraguay. ¶ • Africa: Guinea Ecuatorial. ¶ Diversity: Many Indigenous languages are spoken alongside Spanish: Quechua (Peru, Bolivia), Guaraní (Paraguay, official alongside Spanish), Maya languages (Guatemala, Mexico), Náhuatl (Mexico). ¶ Cultural features (examples): Mexico: Día de Muertos (November 1–2), mariachi, tacos. Spain: flamenco, tapas, late dinners around 9 or 10 p.m. Argentina: tango, mate, asado. Peru: Machu Picchu, ceviche. Colombia: cumbia, vallenato, arepas. ¶ Texto: ¶ Me llamo Mateo y vivo en Cusco, Perú. Hablo español y quechua. Cusco está en los Andes, a 3,400 metros de altura. Aquí hace más frío que en Lima. Mi comida favorita es el ceviche, pero en Cusco comemos mucha sopa porque es una ciudad fría. ¶ Task: Label 21 countries on a map. Research one country and compare it with Canada using three comparisons.
+src: Original text written for this lesson.
+st: Locate Spanish-speaking countries by region | Learn about Indigenous languages | Explore cultural features of several countries | Read Mateo's text | Research a country and compare it with Canada
+org: País | Capital | Costumbre o comida | Comparación con Canadá
+an: Why is Spanish spoken in so many countries? | Why does Mateo speak two languages? | Which custom surprised you most? | How can we compare cultures without judging them?
+pr: Create a Spanish-language profile of one Spanish-speaking country (location, capital, languages, two customs, one food, one artist) with three comparisons to Canada, and present it.
+ex: Location || Name three Spanish-speaking countries in South America. || Recall || Colombia, Perú, Argentina (other valid answers) || Which is farthest south?
+ex: Indigenous language || What Indigenous language is official in Paraguay with Spanish? || Diversity || Guaraní || What language does Mateo speak?
+ex: Comparison || Say "Cusco is colder than Lima." || más + adjective + que || Cusco es más frío que Lima. || Compare Canada and Mexico.
+ex: Custom || When is Día de Muertos celebrated? || Mexico || November 1 and 2 || What do families do?
+p: B || What does "hispanohablante" mean? || Spanish-speaking.
+p: B || How many countries have Spanish as an official language? || About 20 (21 including Puerto Rico).
+p: B || What is the capital of Mexico? || Ciudad de México.
+p: B || What does "la costumbre" mean? || The custom.
+p: B || Where does Mateo live? || Cusco, Peru.
+p: I || Which African country speaks Spanish? || Guinea Ecuatorial (Equatorial Guinea).
+p: I || Name two Indigenous languages spoken in Latin America. || Quechua, Guaraní, Náhuatl, Maya languages.
+p: I || What dance is associated with Argentina? || Tango.
+p: I || Why does Mateo's family eat a lot of soup? || Cusco is cold.
+p: I || Translate: Mexico is as big as... (use tan ... como). || México es tan grande como...
+p: I || Name a food from Spain. || Tapas, paella or tortilla española.
+p: C || Why is Spanish spoken in the Americas? || Because of Spanish colonization beginning in the 1500s.
+p: C || Why is it important to recognize Indigenous languages? || They are living cultures with long histories that continue alongside Spanish.
+p: C || Write a comparison between Canada and a Spanish-speaking country. || Answers vary.
+p: C || How can you compare cultures respectfully? || Describe differences without calling them strange or wrong.
+mis: Thinking all Spanish speakers share the same culture | Thinking Spanish is spoken only in Spain and Mexico | Thinking Indigenous languages have disappeared
+et: Name five Spanish-speaking countries in different regions. | Write one comparison sentence.
+mc: B || "Hispanohablante" means || Spanish-speaking | Hispanic food | a Spanish city | a language class
+mc: B || The capital of Spain is || Madrid | Barcelona | Lima | Bogotá
+mc: B || Mateo lives in || Cusco, Peru | Madrid | Mexico City | Buenos Aires
+mc: B || Tango is from || Argentina | Spain | Cuba | Chile
+mc: I || Guaraní is an official language in || Paraguay | Spain | Mexico | Chile
+mc: I || Which African country speaks Spanish? || Equatorial Guinea | Morocco | Egypt | Kenya
+mc: I || Día de Muertos is celebrated in || Mexico | Spain | Argentina | Peru only
+mc: I || "Cusco es más frío que Lima" means || Cusco is colder than Lima | Lima is colder | Both are cold | Cusco is warm
+mc: I || Mateo speaks || Spanish and Quechua | only Spanish | Spanish and English | Guaraní
+mc: C || Spanish is spoken in the Americas mainly because of || Spanish colonization | tourism | trade with Asia | the internet
+mc: C || A respectful cultural comparison || describes differences without judging | calls customs strange | ranks cultures | ignores differences
+mc: C || "Tan ... como" expresses || equality | more than | less than | the most
+sa: B || Name four Spanish-speaking countries. || Answers vary.
+sa: B || What is the capital of Peru? || Lima.
+sa: I || Name two Indigenous languages and where they are spoken. || Quechua in Peru and Bolivia; Guaraní in Paraguay (others).
+sa: I || Describe one custom of a Spanish-speaking country. || Answers vary.
+sa: I || Translate: Spain is smaller than Canada. || España es más pequeña que Canadá.
+sa: I || Why is Cusco cold? || It is high in the Andes.
+sa: C || Explain why Spanish-speaking cultures are diverse. || Different histories, Indigenous cultures, geography and influences.
+sa: C || Compare one Spanish-speaking country with Canada in three sentences. || Answers vary.

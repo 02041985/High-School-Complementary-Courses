@@ -1,0 +1,176 @@
+=== SPA30.B1 0
+hook: In a Spanish job interview, the first word that matters is "usted." Using the formal "you" shows respect, and it changes every verb you say. Getting it right is your first chance to make a good impression.
+sc: I can describe careers, studies and skills in Spanish | I can use usted forms correctly in a formal conversation | I can answer and ask common job interview questions
+v: el trabajo :: The job / work.
+v: la entrevista :: The interview.
+v: usted :: Formal "you."
+v: la experiencia :: Experience.
+v: las habilidades :: Skills.
+v: el currículum :: The résumé / CV.
+v: me gustaría :: I would like.
+ts: La entrevista de trabajo || Dialogue and role-play || How do I talk about careers and do a job interview in Spanish?
+tx: Careers: médico/a, enfermero/a, ingeniero/a, abogado/a, programador/a, profesor/a, cocinero/a, electricista, diseñador/a, contador/a. ¶ Talking about studies and plans: Me gustaría ser... / Quiero estudiar... / Tengo experiencia en... / Sé hablar tres idiomas. / Soy responsable, puntual y trabajador/a. ¶ Usted forms use the él/ella verb form: ¿Cómo se llama usted? ¿Tiene usted experiencia? ¿Por qué quiere trabajar aquí? ¶ Diálogo: ¶ Sra. Ruiz: Buenos días. Siéntese, por favor. ¿Cómo se llama usted? ¶ Daniel: Buenos días. Me llamo Daniel Ortega. Mucho gusto. ¶ Sra. Ruiz: ¿Por qué quiere trabajar en nuestro restaurante? ¶ Daniel: Porque me encanta la cocina y me gustaría ser chef algún día. Tengo experiencia: trabajé seis meses en una cafetería. ¶ Sra. Ruiz: ¿Cuáles son sus habilidades? ¶ Daniel: Soy responsable y trabajo bien en equipo. También hablo español, inglés y un poco de francés. ¶ Sra. Ruiz: ¿Tiene usted preguntas? ¶ Daniel: Sí. ¿Cuál sería el horario de trabajo? ¶ Sra. Ruiz: Los fines de semana, de diez a cuatro. Gracias, Daniel. Le llamaremos pronto. ¶ Task: Prepare answers to five interview questions, then role-play an interview with a partner.
+src: Original dialogue written for this lesson.
+st: Learn career vocabulary | Learn to describe skills and experience | Practise usted forms | Read the interview dialogue | Role-play a job interview
+org: Pregunta | Mi respuesta | Habilidad o experiencia que muestro
+an: How does Sra. Ruiz show formality? | What experience does Daniel mention? | Why is it good to ask a question at the end of an interview? | Which skills would you highlight?
+pr: Write a short Spanish CV (personal details, education, experience, skills, languages) and perform a three-minute job interview role-play using usted.
+ex: Usted || Ask formally "Do you have experience?" || usted + él form || ¿Tiene usted experiencia? || Ask "Where do you work?"
+ex: Me gustaría || Say "I would like to be an engineer." || me gustaría + infinitive || Me gustaría ser ingeniero/a. || Why use me gustaría?
+ex: Skills || Say "I am punctual and I work well in a team." || Adjectives + verbs || Soy puntual y trabajo bien en equipo. || Add a language skill.
+ex: Experience || Say "I worked three months in a store." || Preterite || Trabajé tres meses en una tienda. || Why preterite?
+p: B || What does "la entrevista" mean? || The interview.
+p: B || What does "las habilidades" mean? || Skills.
+p: B || What is "usted"? || Formal you.
+p: B || What does "me gustaría" mean? || I would like.
+p: B || Translate "el currículum." || The résumé.
+p: I || Ask formally: What is your name? || ¿Cómo se llama usted?
+p: I || Where did Daniel work before? || In a cafeteria, for six months.
+p: I || What languages does Daniel speak? || Spanish, English and a little French.
+p: I || What would Daniel like to be someday? || A chef.
+p: I || What are the work hours? || Weekends, ten to four.
+p: I || Say "I am responsible." (female) || Soy responsable.
+p: C || Why use usted in an interview? || To show respect and professionalism.
+p: C || Why should you ask a question at the end? || It shows interest and preparation.
+p: C || Translate: Why do you want to work here? (formal) || ¿Por qué quiere trabajar aquí?
+p: C || Describe your ideal job in two sentences. || Answers vary.
+mis: Using tú in a formal interview | Using the tú verb form with usted | Saying "Yo gusto" instead of "Me gusta"
+et: Ask two formal interview questions. | Describe one skill and one experience.
+mc: B || "La entrevista" means || the interview | the entrance | the job | the résumé
+mc: B || "Usted" is || formal you | informal you | we | they
+mc: B || "Me gustaría" means || I would like | I like | I liked | I will like
+mc: B || "El currículum" means || résumé | curriculum at school only | course | calendar
+mc: I || The formal question "Do you have experience?" is || ¿Tiene usted experiencia? | ¿Tienes experiencia? | ¿Tengo experiencia? | ¿Tienen experiencia?
+mc: I || Daniel worked before in || a cafeteria | a hospital | a school | an office
+mc: I || Daniel would like to be || a chef | a doctor | a teacher | an engineer
+mc: I || The work schedule is || weekends from ten to four | weekdays all day | nights | Mondays only
+mc: I || "Trabajo bien en equipo" means || I work well in a team | I work alone | I don't work | I work in a store
+mc: C || Usted uses the same verb form as || él / ella | tú | yo | nosotros
+mc: C || Asking a question at the end of an interview shows || interest and preparation | confusion | rudeness | that you want to leave
+mc: C || The formal "Why do you want to work here?" is || ¿Por qué quiere trabajar aquí? | ¿Por qué quieres trabajar aquí? | ¿Por qué quiero trabajar aquí? | ¿Por qué quieren trabajo?
+sa: B || Translate "Tengo experiencia en ventas." || I have experience in sales.
+sa: B || Name four careers in Spanish. || Answers vary.
+sa: I || Ask three formal interview questions. || Answers vary.
+sa: I || Describe your skills in two sentences. || Answers vary.
+sa: I || What experience and skills does Daniel describe? || Six months in a cafeteria; responsible, teamwork, three languages.
+sa: I || Translate: I would like to study medicine. || Me gustaría estudiar medicina.
+sa: C || Explain why usted is important in professional settings. || It shows respect and is expected in formal situations.
+sa: C || Write answers to two interview questions. || Answers vary.
+
+=== SPA30.C1 0
+hook: Pablo Neruda, a Chilean poet, won the Nobel Prize in Literature in 1971. He wrote love poems and also odes to ordinary things: a tomato, socks, an onion. Spanish-language literature and art often find the extraordinary in the everyday.
+sc: I can read and understand a short literary text or artwork in Spanish | I can identify theme, imagery and the author's message | I can write a personal interpretation in Spanish
+v: el cuento :: The short story.
+v: el poema :: The poem.
+v: el autor / la autora :: The author.
+v: el pintor / la pintora :: The painter.
+v: el tema :: The theme.
+v: la imagen :: The image (in a poem or painting).
+v: la interpretación :: Interpretation.
+ts: Arte y palabras || Literary and art analysis || How do I interpret Spanish-language literature and art?
+tx: Option 1, Poetry: Pablo Neruda (Chile, 1904–1973) wrote "Odas elementales" (1954), odes to simple things. Read a short excerpt chosen by the teacher from "Oda al tomate" or "Oda a los calcetines." Identify images (comparisons with sun, fire, jewels) and the theme: ordinary things are beautiful and worth celebrating. ¶ Option 2, Art: Frida Kahlo (Mexico, 1907–1954) painted many self-portraits that show her identity, Mexican culture and physical pain after a bus accident. Look at "Las dos Fridas" (1939): two Fridas sit side by side, one in a European dress and one in a Tehuana dress, their hearts connected. ¶ Analysis vocabulary: El tema es... / El autor usa la imagen de... para mostrar... / Los colores representan... / Creo que el mensaje es... / Me hace sentir... ¶ Modelo de análisis: En "Las dos Fridas", la pintora muestra dos partes de su identidad: la europea y la mexicana. Las dos mujeres se toman de la mano, y sus corazones están conectados. Creo que el mensaje es que su identidad tiene dos raíces. El cielo oscuro me hace sentir tristeza. ¶ Task: Choose a poem or painting. Answer comprehension questions, then write an interpretation using the analysis phrases.
+src: Analysis written for this lesson; works are by Pablo Neruda (1954) and Frida Kahlo (1939); teachers provide approved excerpts and images.
+st: Learn about Neruda and Kahlo | Learn analysis vocabulary | Read a poem excerpt or view a painting | Identify images, theme and message | Write a personal interpretation
+org: Elemento | Lo que veo o leo | Lo que significa
+an: ¿Por qué Neruda escribe sobre cosas simples? | ¿Qué representan las dos Fridas? | ¿Qué colores o imágenes son importantes? | ¿Cómo te hace sentir la obra?
+pr: Write a 150-word interpretation in Spanish of a poem or painting: describe it, explain two images or symbols, state the theme and give your personal response.
+ex: Theme || What is the theme of Neruda's odes? || Simple things || Ordinary things are beautiful and worth celebrating || Write it in Spanish.
+ex: Image || In "Las dos Fridas," what do the connected hearts show? || Symbol || The two sides of her identity are linked || What do the dresses represent?
+ex: Phrase || Say "The author uses the image of the sun to show joy." || Analysis phrase || El autor usa la imagen del sol para mostrar alegría. || Use it for another image.
+ex: Response || Say "The painting makes me feel sad." || Me hace sentir... || El cuadro me hace sentir triste (tristeza). || Give a reason with porque.
+p: B || What does "el poema" mean? || The poem.
+p: B || What does "el tema" mean? || The theme.
+p: B || Where was Pablo Neruda from? || Chile.
+p: B || Where was Frida Kahlo from? || Mexico.
+p: B || What does "la pintora" mean? || The female painter.
+p: I || What prize did Neruda win? || The Nobel Prize in Literature (1971).
+p: I || What are the "Odas elementales" about? || Ordinary, simple things.
+p: I || What do the two dresses in "Las dos Fridas" represent? || Her European and Mexican identities.
+p: I || Translate: I think the message is... || Creo que el mensaje es...
+p: I || What does "me hace sentir" mean? || It makes me feel.
+p: I || What event affected Kahlo's health? || A bus accident.
+p: C || Why might Neruda write odes to socks and tomatoes? || To show beauty in everyday life.
+p: C || How does Kahlo use self-portraits to explore identity? || By showing different parts of herself, her culture and her pain.
+p: C || Write a sentence interpreting a colour in a painting. || Answers vary.
+p: C || Why is personal response part of interpretation? || Art and poetry create meaning through the reader's or viewer's experience too.
+mis: Summarizing instead of interpreting | Translating poetry word by word | Thinking there is only one correct interpretation
+et: Name one image in the work and its meaning. | Write one sentence with "me hace sentir."
+mc: B || Pablo Neruda was from || Chile | Mexico | Spain | Argentina
+mc: B || Frida Kahlo was a || painter | poet | singer | architect
+mc: B || "El tema" means || the theme | the team | the time | the topic list
+mc: B || "El cuento" means || the short story | the poem | the count | the painting
+mc: I || Neruda's "Odas elementales" celebrate || ordinary things | wars | kings | the ocean only
+mc: I || In "Las dos Fridas," the two women || hold hands with connected hearts | dance | argue | sleep
+mc: I || The two dresses represent || European and Mexican identity | summer and winter | two sisters | two cities
+mc: I || "Me hace sentir triste" means || it makes me feel sad | I am happy | it made me sad yesterday | I feel nothing
+mc: I || Neruda won the Nobel Prize in || 1971 | 1904 | 1954 | 2000
+mc: C || Which is an interpretation rather than a description? || Creo que el mensaje es que su identidad tiene dos raíces. | Hay dos mujeres. | El cuadro es grande. | Una mujer lleva un vestido.
+mc: C || Writing odes to simple objects suggests the poet values || beauty in everyday life | expensive things | only nature | silence
+mc: C || A strong literary interpretation includes || evidence from the work and a personal response | only a summary | only the author's birthdate | a translation
+sa: B || Translate "la autora." || The female author.
+sa: B || Who painted "Las dos Fridas"? || Frida Kahlo.
+sa: I || Describe "Las dos Fridas" in two Spanish sentences. || Answers vary.
+sa: I || What is the theme of Neruda's odes? || Ordinary things are beautiful and worth celebrating.
+sa: I || Write a sentence using "El autor usa la imagen de..." || Answers vary.
+sa: I || Explain one symbol in the work you studied. || Answers vary.
+sa: C || Write a short interpretation of a poem or painting in Spanish. || Answers vary.
+sa: C || Explain how a work reflects the artist's identity or culture. || Answers vary.
+
+=== SPA30.D1 0
+hook: Ojalá que llueva café. Espero que tengas un buen día. Me alegra que estés aquí. Spanish speakers use the subjunctive constantly to express hopes, wishes and feelings about others, and it makes your Spanish sound natural and mature.
+sc: I can express emotions, hopes and doubts with the subjunctive | I can use ojalá, espero que, me alegra que and dudo que | I can deliver a formal presentation in Spanish
+v: ojalá :: I hope / hopefully (always with the subjunctive).
+v: espero que :: I hope that.
+v: me alegra que :: It makes me happy that.
+v: me preocupa que :: It worries me that.
+v: dudo que :: I doubt that.
+v: el subjuntivo :: The subjunctive.
+v: la presentación :: The presentation.
+ts: Esperanzas y emociones || Grammar and presentation || How do I express hopes, emotions and doubts and present formally in Spanish?
+tx: Subjunctive review: yo form, drop -o, opposite endings (-ar → -e, -er/-ir → -a). Irregulars: ser (sea), estar (esté), ir (vaya), dar (dé), saber (sepa), haber (haya). ¶ Triggers: ¶ • Hope and wish: ojalá (que), espero que, quiero que, deseo que ¶ • Emotion: me alegra que, me preocupa que, me molesta que, siento que (I'm sorry that), tengo miedo de que ¶ • Doubt: dudo que, no creo que, no es cierto que ¶ Important: if the subject doesn't change, use the infinitive: Espero viajar. vs Espero que tú viajes. ¶ Texto (carta de una graduada): ¶ Queridos compañeros: Me alegra que estemos juntos hoy. Espero que todos encuentren un trabajo que les guste. Me preocupa que el mundo tenga tantos problemas, pero dudo que nuestra generación se rinda. Ojalá que sigamos en contacto y que nunca olvidemos estos años. – Camila ¶ Presentation structure: Buenos días a todos. Hoy voy a hablar de... Primero... Segundo... Para concluir... Muchas gracias. ¿Hay preguntas? ¶ Task: Find every subjunctive in Camila's letter. Then prepare a two-minute formal speech for your graduating class.
+src: Original text written for this lesson.
+st: Review forming the subjunctive | Learn triggers for hope, emotion and doubt | Contrast subjunctive and infinitive | Find subjunctives in Camila's letter | Prepare and deliver a formal speech
+org: Trigger | Category (esperanza, emoción, duda) | Sentence
+an: Why does ojalá always take the subjunctive? | When do you use an infinitive instead? | Which of Camila's hopes do you share? | How does a formal presentation differ from a conversation?
+pr: Write and deliver a two-minute graduation speech in Spanish with at least eight subjunctive verbs using six different triggers and a clear formal structure.
+ex: Ojalá || Say "I hope it doesn't rain." || ojalá + subjunctive || Ojalá que no llueva. || Say "I hope we win."
+ex: Emotion || Say "It makes me happy that you are here." || me alegra que + estar || Me alegra que estés aquí. || Say it to a group.
+ex: Infinitive vs subjunctive || "I hope to travel" vs "I hope you travel." || Same subject or not || Espero viajar. / Espero que viajes. || Why the difference?
+ex: Doubt || Say "I doubt that it is easy." || dudo que + ser || Dudo que sea fácil. || What about "I think it's easy"?
+p: B || What does "ojalá" mean? || I hope / hopefully.
+p: B || What does "espero que" mean? || I hope that.
+p: B || What does "me alegra que" mean? || It makes me happy that.
+p: B || What does "dudo que" mean? || I doubt that.
+p: B || What mood follows ojalá? || The subjunctive.
+p: I || What is the subjunctive of estar with tú? || Estés.
+p: I || What is the subjunctive of ir with nosotros? || Vayamos.
+p: I || Translate: It worries me that there is pollution. || Me preocupa que haya contaminación.
+p: I || When do you use an infinitive after espero? || When the subject doesn't change.
+p: I || What does Camila hope for her classmates? || That they find a job they like.
+p: I || What does Camila doubt? || That their generation will give up.
+p: C || Correct: Espero que yo viajo. || Espero viajar.
+p: C || Write a sentence with "siento que." || Answers vary, for example Siento que estés enfermo.
+p: C || Why does Camila use "estemos" not "estamos"? || Me alegra que triggers the subjunctive.
+p: C || Write a formal presentation conclusion. || Para concluir... Muchas gracias. ¿Hay preguntas?
+mis: Using the indicative after ojalá | Using the subjunctive when the subject doesn't change | Forgetting irregular subjunctives (que esta)
+et: Write one sentence each with ojalá, me alegra que and dudo que. | Explain when to use the infinitive instead.
+mc: B || "Ojalá" is followed by || the subjunctive | the indicative | the infinitive only | the future
+mc: B || "Espero que" means || I hope that | I wait that | I doubt that | I know that
+mc: B || "Me alegra que" expresses || emotion | doubt | fact | the past
+mc: B || "Dudo que" expresses || doubt | happiness | certainty | a command
+mc: I || The subjunctive of estar with tú is || estés | estás | estes | estuviste
+mc: I || "I hope to travel" is || Espero viajar. | Espero que viajo. | Espero que viaje yo. | Ojalá viajo.
+mc: I || "Ojalá que no llueva" means || I hope it doesn't rain | It isn't raining | It rained | It will rain
+mc: I || Camila hopes classmates || find a job they like | move away | stop studying | forget school
+mc: I || The subjunctive of haber is || haya | hay | había | habrá
+mc: C || Which sentence is correct? || Me alegra que estés aquí. | Me alegra que estás aquí. | Me alegra que estar aquí. | Me alegro que estás aquí.
+mc: C || Use the infinitive after espero when || the subject doesn't change | there is emotion | there is doubt | after ojalá
+mc: C || A formal presentation in Spanish ends with || Para concluir... Muchas gracias. | ¡Chao! | Bueno, ya. | Nada más, adiós.
+sa: B || Translate "Ojalá que ganemos." || I hope we win.
+sa: B || Name three subjunctive triggers. || Ojalá, espero que, me alegra que, dudo que (others).
+sa: I || Form the subjunctive of ser and ir for yo. || Sea, vaya.
+sa: I || Write a sentence expressing worry with the subjunctive. || Answers vary.
+sa: I || Find two subjunctive verbs in Camila's letter. || Estemos, encuentren, guste, tenga, rinda, sigamos, olvidemos.
+sa: I || Translate: I doubt that it's true. || Dudo que sea verdad.
+sa: C || Explain when to use the subjunctive versus the infinitive after expressions like espero. || Subjunctive when the subject changes; infinitive when it stays the same.
+sa: C || Write the opening and closing of a formal Spanish presentation. || Answers vary.

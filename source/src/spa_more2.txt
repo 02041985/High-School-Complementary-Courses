@@ -1,0 +1,176 @@
+=== SPA20.B1 0
+hook: ¡Come frutas! ¡Duerme ocho horas! ¡No tomes tanta cafeína! Doctors, coaches and parents all give advice with commands. In Spanish, commands change depending on whether you say "do" or "don't."
+sc: I can describe health habits and symptoms | I can give affirmative and negative tú commands | I can give advice with deberías and es importante + infinitive
+v: la salud :: Health.
+v: el bienestar :: Well-being.
+v: el mandato :: Command.
+v: deberías :: You should.
+v: me duele(n) :: My ... hurts (me duele la cabeza).
+v: tener sueño / tener estrés :: To be sleepy / to be stressed.
+v: el ejercicio :: Exercise.
+ts: Consejos para la salud || Grammar and dialogue || How do I talk about health and give advice in Spanish?
+tx: Health vocabulary: comer bien, beber agua, dormir, hacer ejercicio, descansar, la comida rápida (fast food), el azúcar. Symptoms: Me duele la cabeza / el estómago. Me duelen los pies. Tengo sueño. Tengo estrés. ¶ Affirmative tú commands: use the él form of the present: come, bebe, duerme, descansa. Irregular: haz (hacer), ve (ir), ten (tener), sal (salir), pon (poner), di (decir), ven (venir), sé (ser). ¶ Negative tú commands: no + yo form, drop -o, add opposite ending: -ar → -es (no tomes), -er/-ir → -as (no comas, no duermas). Irregular: no vayas (ir), no hagas (hacer), no tengas (tener). ¶ Other advice: Deberías + infinitive (Deberías dormir más). Es importante + infinitive (Es importante beber agua). ¶ Diálogo: ¶ Lucía: Estoy muy cansada y me duele la cabeza. ¶ Andrés: ¿Cuántas horas duermes? ¶ Lucía: Cinco. Estudio hasta muy tarde y tomo mucho café. ¶ Andrés: ¡No tomes tanto café! Y duerme por lo menos ocho horas. Deberías hacer un horario para estudiar más temprano. ¶ Lucía: Buena idea. ¿Algo más? ¶ Andrés: Sí, bebe agua y haz ejercicio. Sal a caminar después de clase.
+src: Original dialogue written for this lesson.
+st: Learn health and symptom vocabulary | Form affirmative tú commands | Form negative tú commands | Learn deberías and es importante | Role-play giving health advice
+org: Problema | Mandato afirmativo | Mandato negativo | Consejo con deberías
+an: Why is Lucía tired? | How are affirmative and negative commands formed differently? | Which irregular commands appear in the dialogue? | What advice would you add?
+pr: Write a health advice column in Spanish: three short problems from teens, each answered with two affirmative commands, one negative command and one sentence with deberías.
+ex: Affirmative || Tell a friend "Drink water!" || él form of beber || ¡Bebe agua! || Say "Eat fruit!"
+ex: Negative || Tell a friend "Don't eat fast food!" || como → com- + as || ¡No comas comida rápida! || Say "Don't drink soda."
+ex: Irregular || Tell a friend "Do exercise!" || hacer → haz || ¡Haz ejercicio! || Make it negative.
+ex: Deberías || Say "You should rest." || deberías + infinitive || Deberías descansar. || Say "You should sleep more."
+p: B || What does "la salud" mean? || Health.
+p: B || What does "deberías" mean? || You should.
+p: B || Translate "me duele la cabeza." || My head hurts.
+p: B || What does "tengo sueño" mean? || I'm sleepy.
+p: B || What is the tú command of comer? || Come.
+p: I || What is the negative tú command of tomar? || No tomes.
+p: I || What is the tú command of hacer? || Haz.
+p: I || What is the negative tú command of ir? || No vayas.
+p: I || How many hours does Lucía sleep? || Five.
+p: I || Name two pieces of advice Andrés gives. || Don't drink so much coffee, sleep eight hours, make a schedule, drink water, exercise, go for a walk.
+p: I || Translate: You should eat breakfast. || Deberías desayunar.
+p: C || Explain how to form negative tú commands. || Yo form, drop -o, add -es for -ar or -as for -er/-ir verbs.
+p: C || Why is it "me duelen los pies" not "me duele"? || The subject (los pies) is plural.
+p: C || Give an affirmative and negative command about phones. || Apaga el teléfono. No uses el teléfono en la cama.
+p: C || What is the tú command of salir? || Sal.
+mis: Using the affirmative form with no (no come) | Forgetting irregular commands (hace instead of haz) | Saying "mi cabeza duele" instead of "me duele la cabeza"
+et: Give one affirmative and one negative health command. | Translate "My stomach hurts."
+mc: B || "La salud" means || health | salad | salt | hello
+mc: B || "Deberías dormir más" means || you should sleep more | you slept more | you sleep more | sleep more!
+mc: B || "Me duele la cabeza" means || my head hurts | I have a cold | I'm hungry | I'm sleepy
+mc: B || The tú command of beber is || bebe | bebes | beba | bebo
+mc: I || "No tomes" is || a negative tú command | an affirmative command | the preterite | the future
+mc: I || The tú command of hacer is || haz | hace | haga | hazte
+mc: I || The negative tú command of comer is || no comas | no come | no comes | no comer
+mc: I || Lucía sleeps || five hours | eight hours | ten hours | three hours
+mc: I || Andrés tells Lucía to go for a walk using || sal | sale | salga | salir
+mc: C || "Me duelen los pies" uses duelen because || los pies is plural | it is past tense | it is formal | it is a command
+mc: C || The negative tú command of ir is || no vayas | no ve | no vas | no ir
+mc: C || Which is correct advice? || Es importante beber agua. | Es importante bebes agua. | Es importante bebe agua. | Importante beber es agua.
+sa: B || Translate "hacer ejercicio." || To exercise.
+sa: B || Give the tú command of dormir. || Duerme.
+sa: I || Write two affirmative tú commands about health. || Answers vary.
+sa: I || Write two negative tú commands about health. || Answers vary.
+sa: I || Why is Lucía tired? || She sleeps five hours and studies late with lots of coffee.
+sa: I || Translate: Don't eat so much sugar. || No comas tanto azúcar.
+sa: C || Explain the difference between forming affirmative and negative tú commands. || Affirmative uses the él form; negative uses the yo stem with opposite endings.
+sa: C || Give a friend three pieces of advice for stress. || Answers vary.
+
+=== SPA20.C1 0
+hook: Creo que las redes sociales son útiles. No creo que sean siempre fiables. Notice how "son" changed to "sean"? When Spanish speakers express doubt, they switch to the subjunctive, and media discussions are full of opinions and doubts.
+sc: I can talk about media habits | I can express opinions with creo que and pienso que | I can express doubt with no creo que + subjunctive
+v: los medios (de comunicación) :: The media.
+v: las redes sociales :: Social media.
+v: las noticias :: The news.
+v: la publicidad :: Advertising.
+v: fiable :: Reliable.
+v: creo que / no creo que :: I think that / I don't think that.
+v: la noticia falsa :: Fake news.
+ts: Los medios y yo || Grammar and discussion || How do I discuss media and express opinions and doubts in Spanish?
+tx: Media habits: ver series, escuchar podcasts, leer las noticias, usar las redes sociales, mirar videos, ver anuncios (ads). Frequency: todos los días, dos horas al día, a veces. ¶ Opinions (indicative): Creo que..., Pienso que..., Me parece que..., En mi opinión... ¶ Creo que las noticias son importantes. ¶ Doubt (subjunctive): No creo que..., Dudo que..., No pienso que... ¶ No creo que la publicidad diga siempre la verdad. ¶ Present subjunctive: yo form, drop -o, add opposite endings: -ar → -e (hablar → hable), -er/-ir → -a (comer → coma). Irregular: ser → sea, ir → vaya, haber → haya, tener → tenga, decir → diga. ¶ Diálogo: ¶ Carmen: ¿Cuántas horas usas las redes sociales? ¶ Javier: Unas tres horas al día. Creo que son útiles para aprender cosas nuevas. ¶ Carmen: Sí, pero no creo que todo sea verdad. Hay muchas noticias falsas. ¶ Javier: Es verdad. Por eso siempre busco la información en otra fuente. ¶ Carmen: Y la publicidad... ¡dudo que sea buena para nosotros! ¶ Task: Survey your class about media habits, then write opinions and doubts about two types of media.
+src: Original dialogue written for this lesson.
+st: Learn media vocabulary | Express opinions with creo que | Express doubt with no creo que + subjunctive | Read the dialogue | Survey classmates and share opinions
+org: Medio | Uso (horas) | Creo que... | No creo que...
+an: Why does "creo que" take the indicative but "no creo que" the subjunctive? | How does Javier check information? | Is advertising good for teens? | How can you spot fake news?
+pr: Write a 120-word opinion piece in Spanish about social media, with three opinions using creo que or pienso que and three doubts using no creo que or dudo que.
+ex: Opinion || Say "I think the news is important." || creo que + indicative || Creo que las noticias son importantes. || Make it a doubt.
+ex: Doubt || Say "I don't think social media is always reliable." || no creo que + subjunctive || No creo que las redes sociales sean siempre fiables. || Why sean?
+ex: Subjunctive || Form the subjunctive of tener with yo. || tengo → teng- + a || tenga || Form it with ellos.
+ex: Dudo que || Say "I doubt that the ad tells the truth." || dudo que + subjunctive || Dudo que el anuncio diga la verdad. || What is the infinitive of diga?
+p: B || What does "las redes sociales" mean? || Social media.
+p: B || What does "la publicidad" mean? || Advertising.
+p: B || What does "fiable" mean? || Reliable.
+p: B || What does "creo que" mean? || I think that.
+p: B || Translate "la noticia falsa." || Fake news.
+p: I || Which mood follows "no creo que"? || The subjunctive.
+p: I || What is the subjunctive of ser with ella? || Sea.
+p: I || How many hours a day does Javier use social media? || About three.
+p: I || How does Javier avoid fake news? || He checks information in another source.
+p: I || Form the subjunctive of hablar with nosotros. || Hablemos.
+p: I || Translate: I think podcasts are interesting. || Creo que los podcasts son interesantes.
+p: C || Why does "creo que" take the indicative? || It expresses belief or certainty.
+p: C || Write a doubt about advertising. || Answers vary, using no creo que or dudo que + subjunctive.
+p: C || What is the subjunctive of ir with yo? || Vaya.
+p: C || Correct: No creo que la noticia es verdad. || No creo que la noticia sea verdad.
+mis: Using the subjunctive after creo que | Using the indicative after no creo que | Forming the subjunctive from the infinitive instead of the yo form
+et: Write one opinion and one doubt about media. | Give the subjunctive of ser and tener for yo.
+mc: B || "Las noticias" means || the news | the notes | the nights | the novels
+mc: B || "Fiable" means || reliable | fake | fun | free
+mc: B || "Creo que" means || I think that | I doubt that | I don't think | I create
+mc: B || "La publicidad" means || advertising | publicity stunt only | the public | the pub
+mc: I || "No creo que" is followed by || the subjunctive | the indicative | the infinitive | the future
+mc: I || The subjunctive of ser for él is || sea | es | fue | sería
+mc: I || Javier uses social media || about three hours a day | ten hours a day | never | one hour a week
+mc: I || Carmen worries that || not everything is true | social media is boring | ads are too short | the news is slow
+mc: I || "Dudo que" means || I doubt that | I think that | I know that | I say that
+mc: C || Which sentence is correct? || No creo que sea verdad. | No creo que es verdad. | Creo que sea verdad. | No creo que ser verdad.
+mc: C || "Creo que" takes the indicative because it expresses || belief or certainty | doubt | a command | the past
+mc: C || The subjunctive of decir with yo is || diga | dice | dijo | decía
+sa: B || Translate "Creo que la radio es útil." || I think the radio is useful.
+sa: B || What does "dudo que" mean? || I doubt that.
+sa: I || Form the subjunctive of comer and vivir for yo. || Coma, viva.
+sa: I || Write a sentence with no creo que about the news. || Answers vary.
+sa: I || What does Javier do to check information? || Looks for it in another source.
+sa: I || Name three media habits in Spanish. || Ver series, leer noticias, usar redes sociales (others).
+sa: C || Explain when to use the subjunctive in opinions. || After expressions of doubt or disbelief such as no creo que and dudo que.
+sa: C || Write two opinions and two doubts about advertising. || Answers vary.
+
+=== SPA20.D1 0
+hook: ¿Qué harás después de la escuela? ¿Dónde vivirás en diez años? The future tense in Spanish is one of the easiest: add the endings straight to the infinitive. Then you can make plans, predictions and dreams.
+sc: I can form the future tense of regular verbs | I can use common irregular future stems | I can talk about plans and predictions
+v: el futuro :: The future tense.
+v: seré :: I will be.
+v: tendré :: I will have.
+v: el año que viene :: Next year.
+v: algún día :: Someday.
+v: el plan :: The plan.
+v: ir a + infinitive :: To be going to (near future).
+ts: Mi futuro || Grammar and reading || How do I talk about future plans and predictions in Spanish?
+tx: Future tense: infinitive + -é, -ás, -á, -emos, -éis, -án. ¶ hablar: hablaré, hablarás, hablará, hablaremos, hablaréis, hablarán. Same endings for -er and -ir verbs. ¶ Irregular stems (same endings): tener → tendr-, salir → saldr-, poner → pondr-, venir → vendr-, poder → podr-, saber → sabr-, hacer → har-, decir → dir-, querer → querr-, haber → habr- (habrá = there will be). ¶ Near future: voy a estudiar (I'm going to study) for plans that are certain or soon. ¶ Time expressions: mañana, la semana que viene, el año que viene, en cinco años, algún día, cuando sea mayor. ¶ Texto: ¶ Me llamo Isabel. El año que viene, terminaré la secundaria. Después, estudiaré enfermería en la universidad porque quiero ayudar a la gente. En cinco años, trabajaré en un hospital. Algún día, viajaré a Costa Rica y haré trabajo voluntario. Tendré un perro y viviré cerca de las montañas. ¿Y tú? ¿Qué harás? ¶ Task: Find all future verbs in Isabel's text. Then write your own plans for next year, five years and someday.
+src: Original text written for this lesson.
+st: Learn future tense endings | Learn irregular future stems | Compare future tense with ir a + infinitive | Read Isabel's text | Write your own future plans
+org: Cuándo | Plan o predicción | Verbo en futuro
+an: How is the future tense different from ir a + infinitive? | Which irregular stems appear in Isabel's text? | What does Isabel want to study and why? | Which of your plans are certain and which are dreams?
+pr: Write and present "Mi futuro": 120 words with at least eight future-tense verbs (four irregular) covering next year, five years and someday.
+ex: Regular || Say "We will travel to Spain." || viajar + emos || Viajaremos a España. || Say it with yo.
+ex: Irregular || Say "I will have a dog." || tener → tendr- || Tendré un perro. || Say "they will have."
+ex: Hacer || Say "What will you do?" || hacer → har- || ¿Qué harás? || Answer the question.
+ex: Near future || Say "Tomorrow I'm going to study." || ir a + infinitive || Mañana voy a estudiar. || When do you use this instead?
+p: B || What does "el año que viene" mean? || Next year.
+p: B || What does "algún día" mean? || Someday.
+p: B || Give the future endings. || -é, -ás, -á, -emos, -éis, -án.
+p: B || What does "seré" mean? || I will be.
+p: B || Conjugate hablar with yo in the future. || Hablaré.
+p: I || What is the future stem of tener? || Tendr-.
+p: I || What is the future stem of hacer? || Har-.
+p: I || What is the future stem of decir? || Dir-.
+p: I || What will Isabel study? || Nursing.
+p: I || Where will Isabel travel someday? || Costa Rica.
+p: I || Translate: There will be many jobs. || Habrá muchos trabajos.
+p: C || Explain the difference between "estudiaré" and "voy a estudiar." || Both are future; ir a is more immediate or certain, the future tense more formal or distant.
+p: C || Why does Isabel want to study nursing? || She wants to help people.
+p: C || Write a prediction about technology in 2040. || Answers vary.
+p: C || Conjugate poder with nosotros in the future. || Podremos.
+mis: Forgetting accents on future endings | Using the regular stem for irregular verbs (teneré) | Confusing future endings with present endings
+et: Conjugate vivir and tener with yo in the future. | Write one plan for next year.
+mc: B || "El año que viene" means || next year | last year | this year | every year
+mc: B || The future of hablar with yo is || hablaré | hablé | hablo | hablaría
+mc: B || "Algún día" means || someday | every day | yesterday | today
+mc: B || The future tense endings attach to || the infinitive | the yo stem | the past participle | the subjunctive
+mc: I || The future stem of tener is || tendr- | tener- | teng- | tien-
+mc: I || "Harás" means || you will do | you did | you do | you would do
+mc: I || Isabel will study || nursing | engineering | music | law
+mc: I || "Habrá" means || there will be | there was | there is | there would be
+mc: I || In five years, Isabel will || work in a hospital | live in Costa Rica | finish high school | buy a car
+mc: C || Which is correct? || Tendremos una fiesta. | Teneremos una fiesta. | Tenemos una fiesta mañana será. | Tendrémos una fiesta.
+mc: C || "Voy a estudiar" differs from "estudiaré" because it || often expresses a nearer or more certain plan | is past tense | is a command | is the subjunctive
+mc: C || The future stem of decir is || dir- | decir- | dic- | dij-
+sa: B || Translate "Algún día viajaré a México." || Someday I will travel to Mexico.
+sa: B || List the future endings. || -é, -ás, -á, -emos, -éis, -án.
+sa: I || Give the future stems of tener, hacer and salir. || Tendr-, har-, saldr-.
+sa: I || Write two sentences about your plans for next year. || Answers vary.
+sa: I || Name three of Isabel's future plans. || Finish school, study nursing, work in a hospital, travel to Costa Rica, have a dog, live near mountains.
+sa: I || Translate: We will be able to help. || Podremos ayudar.
+sa: C || Explain the difference between the future tense and ir a + infinitive. || Both express future; ir a is more immediate, future tense for predictions or more distant plans.
+sa: C || Write a short paragraph about your life in ten years. || Answers vary.
