@@ -1,0 +1,177 @@
+=== MU10.B1 0
+hook: Hum "Happy Birthday" slowly in a low voice, then fast and high. Same song, completely different feeling. Musicians describe these differences with a shared vocabulary: the elements of music.
+sc: I can name and define the elements of music | I can describe a piece using musical vocabulary | I can identify elements by ear
+v: melody :: A sequence of pitches heard as a tune.
+v: harmony :: Two or more pitches sounding together, such as chords.
+v: rhythm :: The pattern of long and short sounds and silences in time.
+v: tempo :: The speed of the beat.
+v: dynamics :: How loud or soft the music is.
+v: timbre :: The unique tone colour of a voice or instrument.
+v: texture :: How many layers of sound there are and how they relate.
+v: form :: The structure of a piece, such as verse-chorus or ABA.
+ts: Listening Like a Musician || Listening task || How can we describe any piece of music precisely?
+tx: Elements checklist: melody (stepwise or leaping, high or low), harmony (major or minor, simple or complex), rhythm (steady, syncopated), tempo (largo slow, andante walking, allegro fast), dynamics (pp, p, mp, mf, f, ff; crescendo, decrescendo), timbre (which instruments or voices), texture (monophonic one line, homophonic melody plus chords, polyphonic several independent lines), form (AB, ABA, verse-chorus). ¶ Listening 1 (5 minutes): A solo voice singing a folk song unaccompanied. What is the texture? (Monophonic.) ¶ Listening 2 (5 minutes): A pop song with verse and chorus. Map the form as you listen. ¶ Listening 3 (5 minutes): A Bach fugue. Count the independent lines. (Polyphonic.) ¶ Listening 4 (5 minutes): Excerpt from a film score. Describe dynamics and tempo changes and the mood they create. ¶ Task (20 minutes): Choose a song you love. Write a "listening profile" using at least six elements and precise vocabulary instead of "it sounds good."
+src: Original listening task written for this lesson; teachers choose recordings.
+st: Learn the eight elements | Identify texture in three examples | Map the form of a pop song | Describe dynamics and tempo in a film score | Write a listening profile of a favourite song
+org: Element | What I hear | Vocabulary word | Effect on mood
+an: Which element most affects the mood of a film score? | How can two songs with the same chords sound totally different? | Which element was hardest to hear? | How does vocabulary change the way you listen?
+pr: Write and present a listening profile of a song from any genre using at least six elements and a timestamped form map.
+ex: Texture || A choir sings one melody together in unison. What is the texture? || One line || Monophonic || What changes if a guitar plays chords underneath?
+ex: Dynamics || The music grows gradually louder. What is the term? || Gradual change || Crescendo || What is the opposite?
+ex: Timbre || Why does a flute and a trumpet sound different on the same note? || Tone colour || Different timbre from how each instrument makes sound || How would you describe each timbre?
+ex: Form || A song goes verse, chorus, verse, chorus, bridge, chorus. Name the form. || Pattern of sections || Verse-chorus form with a bridge || What job does the bridge do?
+p: B || What is melody? || A sequence of pitches heard as a tune.
+p: B || What is tempo? || The speed of the beat.
+p: B || What are dynamics? || How loud or soft music is.
+p: B || What is timbre? || The tone colour of a voice or instrument.
+p: B || What does ff mean? || Fortissimo, very loud.
+p: I || What is homophonic texture? || A melody with chordal accompaniment.
+p: I || What is polyphonic texture? || Several independent melodic lines at once.
+p: I || What does allegro mean? || Fast.
+p: I || What is the difference between rhythm and tempo? || Rhythm is the pattern of durations; tempo is the speed of the beat.
+p: I || What form is ABA? || A section, contrasting B section, return of A.
+p: I || How does minor harmony usually sound compared to major? || Darker or sadder.
+p: C || How can dynamics build tension in a film score? || A long crescendo raises intensity before a climax.
+p: C || Why might a songwriter use a bridge? || To add contrast before the final chorus.
+p: C || Describe the texture change when a band enters after a solo singer. || It moves from monophonic to homophonic or thicker.
+p: C || Why use precise vocabulary instead of "it sounds good"? || It explains exactly what creates the effect.
+mis: Confusing rhythm with tempo | Thinking loud always means exciting and soft means sad | Thinking texture is about how the music feels to touch
+et: Define timbre. | Name the texture of a melody with chords.
+mc: B || Tempo is || the speed of the beat | the volume | the tone colour | the number of layers
+mc: B || Dynamics describe || loudness and softness | speed | pitch | form
+mc: B || Timbre is || the tone colour of a sound | the speed | the key | the rhythm
+mc: B || A melody is || a sequence of pitches heard as a tune | a drum pattern | the volume | a chord only
+mc: I || A melody with chords underneath is || homophonic | monophonic | polyphonic | atonal
+mc: I || A gradual increase in volume is a || crescendo | decrescendo | fermata | tempo
+mc: I || Allegro means || fast | slow | very soft | walking pace
+mc: I || ABA form has || a return of the first section | three different sections | no repeats | only one section
+mc: I || A Bach fugue with several independent lines is || polyphonic | monophonic | homophonic | unison
+mc: C || Two songs use the same chords but sound different mainly because of || different melody, rhythm, timbre and tempo | identical harmony | the same lyrics | the same instruments
+mc: C || A film composer builds tension before a climax most likely with || a long crescendo and faster rhythm | silence only | decreasing volume | slower tempo and softer dynamics only
+mc: C || Rhythm differs from tempo because rhythm is || the pattern of durations | the speed of the beat | the volume | the tone colour
+sa: B || Name four elements of music. || Melody, harmony, rhythm, tempo, dynamics, timbre, texture, form.
+sa: B || What does p mean in dynamics? || Piano, soft.
+sa: I || Explain the three types of texture. || Monophonic one line; homophonic melody plus chords; polyphonic several independent lines.
+sa: I || Describe the form of a typical pop song. || Verse, chorus, verse, chorus, bridge, chorus.
+sa: I || Explain the difference between rhythm and tempo. || Rhythm is the pattern of long and short sounds; tempo is speed.
+sa: I || Describe the timbre of an instrument you know. || Answers vary.
+sa: C || Write a listening description of a song using four elements. || Answers vary.
+sa: C || Explain how two elements work together to create mood in a piece. || Answers vary.
+
+=== MU10.C1 0
+hook: Thousands of hit songs use the same four chords: I, V, vi and IV. In C major that's C, G, Am and F. Learn those four shapes on guitar or keyboard and you can play along with a surprising amount of music on the radio.
+sc: I can play C, G, Am and F on guitar or keyboard | I can change chords in time with a steady beat | I can play a strum or comping pattern with a group
+v: chord :: Three or more notes played together.
+v: triad :: A three-note chord built from a root, third and fifth.
+v: major chord :: A chord with a bright sound (root, major third, perfect fifth).
+v: minor chord :: A chord with a darker sound (root, minor third, perfect fifth).
+v: progression :: A series of chords.
+v: strum pattern :: A repeated rhythm for strumming chords.
+v: chord chart :: A diagram showing where to place fingers for a chord.
+ts: Four Chords || Performance task || How do musicians use a few chords to play many songs?
+tx: Guitar chord shapes (fret numbers, strings low E to high e; x = don't play, 0 = open): C x32010, G 320003, Am x02210, F (easy) xx3211. ¶ Keyboard triads (root position): C = C E G, G = G B D, Am = A C E, F = F A C. Use inversions to move smoothly: G as B D G, F as A C F. ¶ Part 1, Shapes (15 minutes): Learn each chord. Check every string or key rings clearly. ¶ Part 2, Changes (10 minutes): One-minute changes: switch between two chords as many times as you can in one minute. Record your count, then try again. ¶ Part 3, Rhythm (10 minutes): Strum pattern: Down, Down-Up, Up-Down-Up (counted 1, 2 &, & 4 &). Keyboard: play chord on beat 1 and 3, or a broken chord. ¶ Part 4, Ensemble (15 minutes): In groups, play C-G-Am-F, four beats each, with a drum or metronome at 80 bpm. One person counts in "1, 2, 3, 4." Try to stay together and end together.
+src: Original performance task written for this lesson.
+st: Learn four chord shapes | Practise one-minute changes | Add a strum or comping pattern | Play the progression with a metronome | Perform together in a small ensemble
+org: Chord | Notes or shape | Clean? (yes or no) | One-minute changes count
+an: Which change was hardest and why? | How does a metronome help an ensemble? | Why do so many songs use I–V–vi–IV? | How does the Am chord change the mood of the progression?
+pr: Perform the four-chord progression in a small ensemble for 16 bars with a steady strum or comping pattern, then play along with a song that uses it.
+ex: Triad || What notes are in a C major triad? || Root, third, fifth || C, E, G || What notes are in G major?
+ex: Roman numerals || In C major, what chord is vi? || Count up the scale || A minor || Why is it minor?
+ex: Smooth changes || How can a keyboard player move from C to F smoothly? || Use an inversion || Play C (C E G) then F as C F A, keeping C || Which note stays the same?
+ex: Ensemble || How does a group start together? || Count-in || One player counts "1, 2, 3, 4" at the tempo || Who should count in?
+p: B || What is a chord? || Three or more notes played together.
+p: B || What is a triad? || A three-note chord of root, third and fifth.
+p: B || Name the notes of an F major triad. || F, A, C.
+p: B || What is a progression? || A series of chords.
+p: B || Which of C, G, Am and F is minor? || Am.
+p: I || Name the notes of A minor. || A, C, E.
+p: I || What Roman numerals describe C-G-Am-F in C major? || I, V, vi, IV.
+p: I || What is an inversion? || A chord with a note other than the root on the bottom.
+p: I || Why practise one-minute changes? || To build speed and accuracy switching chords.
+p: I || What does x mean in a guitar chord chart? || Don't play that string.
+p: I || What tempo marking means 80 beats per minute? || 80 bpm on the metronome.
+p: C || Why do I–V–vi–IV songs sound similar? || They share the same harmonic movement.
+p: C || How does starting the progression on vi change its mood? || It sounds darker or more emotional.
+p: C || How can you keep strumming even when the chord change is late? || Keep the strumming hand moving and use open strings during the change.
+p: C || What is the difference between a major and minor triad? || The third: major third is bright, minor third is darker.
+mis: Stopping the rhythm while changing chords | Thinking a chord is any group of random notes | Rushing the tempo in an ensemble
+et: Play or name the notes of C and G chords. | Write the Roman numerals of the four-chord progression.
+mc: B || A chord has || three or more notes played together | one note | only drums | no pitch
+mc: B || A triad contains || root, third and fifth | root only | four notes always | two notes
+mc: B || The notes of C major are || C, E, G | C, D, E | C, F, A | C, E, A
+mc: B || Which chord is minor? || Am | C | G | F
+mc: I || In C major, the V chord is || G | F | Am | D
+mc: I || A minor contains || A, C, E | A, C#, E | A, B, C | A, D, F
+mc: I || A count-in helps a group || start together at the same tempo | tune instruments | end the song | choose chords
+mc: I || An inversion places || a note other than the root on the bottom | the chord upside down on the page | only the root | two chords together
+mc: I || The vi chord in C major is || A minor | E minor | D minor | G major
+mc: C || Why does keeping the strum moving help during chord changes? || It keeps the rhythm steady for the ensemble | It makes chords louder | It tunes the guitar | It skips chords
+mc: C || The difference between major and minor triads is the || third | root | fifth | octave
+mc: C || Many pop songs share I–V–vi–IV because || the progression feels satisfying and flexible | it is required by law | it uses one chord | it has no melody
+sa: B || Define chord. || Three or more notes played together.
+sa: B || Name the notes of a G major triad. || G, B, D.
+sa: I || Write the Roman numerals for C-G-Am-F. || I–V–vi–IV.
+sa: I || Explain why ensembles use a count-in. || To start together at the right tempo.
+sa: I || What is the difference between a major and minor chord? || The third: major is bright, minor is darker.
+sa: I || Describe a strategy for faster chord changes. || One-minute changes, anchor fingers, keep rhythm going.
+sa: C || Explain why so many songs use the same progression. || It sounds satisfying and supports many melodies.
+sa: C || Describe how you kept your ensemble together. || Answers vary; count-in, metronome, listening.
+
+=== MU10.D1 0
+hook: Billie Eilish and her brother Finneas recorded her first album in a small bedroom with a laptop. Today, a digital audio workstation (DAW) is a recording studio, a band and a mixing desk in one app.
+sc: I can name the main parts of a DAW | I can arrange loops into sections on a timeline | I can export a short finished track
+v: DAW :: Digital audio workstation; software for recording, arranging and mixing music.
+v: track :: One lane in a DAW holding one instrument or sound.
+v: loop :: A short musical pattern that repeats seamlessly.
+v: timeline :: The area showing the music from left to right over time.
+v: tempo (bpm) :: The speed of the music in beats per minute.
+v: arrangement :: How sections are ordered and built up over a song.
+v: export :: To save the finished project as an audio file.
+ts: Loop Lab || Production task || How do producers build a track from loops?
+tx: Tools: a free DAW such as BandLab, GarageBand or Soundtrap, plus headphones. ¶ Part 1, Tour (10 minutes): Find the transport controls (play, stop, record), the timeline, track list, loop browser, tempo and key settings, mixer (volume and pan), and export. ¶ Part 2, Set up (5 minutes): New project at 90 to 120 bpm, in one key. ¶ Part 3, Build (25 minutes): Choose four loops: drums, bass, chords and a melody or vocal chop. Arrange a 32-bar track: ¶ Intro (8 bars): chords only ¶ Section A (8 bars): add drums and bass ¶ Section B (8 bars): add melody; change one loop for contrast ¶ Outro (8 bars): remove parts one by one ¶ Part 4, Balance (5 minutes): Adjust volumes so drums and melody are clear; pan one part slightly left and one slightly right. ¶ Part 5, Export (5 minutes): Export as MP3 and name it "Name_Track1." ¶ Copyright note: Built-in loops in these DAWs are royalty-free; samples from commercial songs are not.
+src: Original production task written for this lesson.
+st: Tour the DAW interface | Set tempo and key | Arrange four loops into sections | Balance volume and panning | Export the track
+org: Section | Bars | Tracks playing | What changes
+an: How did adding and removing layers create shape? | Why must loops share the same key and tempo? | What made your B section feel different from A? | Why can't you freely use a sample from a famous song?
+pr: Produce and export a 32-bar loop-based track with intro, two contrasting sections and an outro, and write two sentences on your arrangement choices.
+ex: Track vs loop || What's the difference between a track and a loop? || Lane vs pattern || A track is a lane for one instrument; a loop is a repeating pattern placed on it || Can one track hold several loops?
+ex: Bars and time || At 120 bpm in 4/4, how long are 8 bars? || 8 × 4 = 32 beats | 32 beats ÷ 2 per second || 16 seconds || How long is a 32-bar track?
+ex: Arrangement || How can you build energy in an arrangement? || Layers || Add parts gradually and bring in drums at a section change || How would you create a drop?
+ex: Panning || Why pan parts left and right? || Space || It separates sounds so each is clearer || What should usually stay in the centre?
+p: B || What does DAW stand for? || Digital audio workstation.
+p: B || What is a loop? || A short pattern that repeats.
+p: B || What is a track in a DAW? || One lane for one instrument or sound.
+p: B || What does bpm mean? || Beats per minute.
+p: B || What does export do? || Saves the project as an audio file.
+p: I || Why should loops share key and tempo? || So they fit together in harmony and time.
+p: I || Name four parts of a DAW interface. || Transport, timeline, track list, loop browser, mixer, export.
+p: I || What is panning? || Placing a sound left or right in the stereo field.
+p: I || How long are 4 bars of 4/4 at 60 bpm? || 16 seconds.
+p: I || What is an arrangement? || How sections are ordered and built over time.
+p: I || How can you make a B section contrast with A? || Add or change loops, change melody or remove a part.
+p: C || Why are built-in DAW loops safe to use? || They are licensed royalty-free.
+p: C || Why do producers often remove parts at the end? || To create an outro that winds down.
+p: C || What usually stays panned centre? || Kick drum, bass and lead vocal.
+p: C || How do layers create a song's shape? || Adding and removing parts changes energy over time.
+mis: Thinking more loops at once always sounds better | Thinking any sample online is free to use | Thinking a DAW only records audio
+et: Name three parts of a DAW. | Explain why loops need the same tempo.
+mc: B || DAW stands for || digital audio workstation | direct audio wave | digital art window | drum and wave
+mc: B || A loop is || a short repeating musical pattern | a full song | a microphone | a cable
+mc: B || bpm measures || tempo | volume | pitch | key
+mc: B || Exporting saves the project as || an audio file | a picture | a text file | a video only
+mc: I || Loops should share the same || key and tempo | colour | file name | length always
+mc: I || Panning places a sound || left or right in the stereo field | higher in pitch | later in time | louder only
+mc: I || At 120 bpm, 8 bars of 4/4 last || 16 seconds | 8 seconds | 32 seconds | 60 seconds
+mc: I || An intro with chords only, then drums and bass added, shows || building layers in an arrangement | a mistake | panning | exporting
+mc: I || A track in a DAW is || a lane for one instrument | a finished song | an export | a loop library
+mc: C || Which is usually panned centre? || bass | shaker | backing guitar | reverb
+mc: C || Using a sample from a commercial hit without permission || can break copyright | is always allowed | is required | improves quality
+mc: C || The best way to make a B section contrast is to || change or add loops | keep everything identical | lower the tempo by half | delete the track
+sa: B || What does DAW stand for? || Digital audio workstation.
+sa: B || Define loop. || A short musical pattern that repeats seamlessly.
+sa: I || Explain why loops must share key and tempo. || So they fit together harmonically and rhythmically.
+sa: I || Describe the structure of your 32-bar track. || Answers vary; intro, A, B, outro.
+sa: I || What is panning and why use it? || Placing sounds left or right to create space and clarity.
+sa: I || How long is a 16-bar section at 120 bpm in 4/4? || 32 seconds.
+sa: C || Explain how adding and removing layers creates shape in a track. || Changing the number of parts raises or lowers energy across sections.
+sa: C || Explain why built-in loops are safe but song samples may not be. || Built-in loops are licensed royalty-free; commercial samples are copyrighted.

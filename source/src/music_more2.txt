@@ -1,0 +1,175 @@
+=== MU20.B1 0
+hook: The bass line from Pachelbel's Canon (about 1700) shows up in dozens of pop songs, from Green Day to Maroon 5. Music from 300 years ago is still hiding in your playlist.
+sc: I can describe features of Baroque and Classical music | I can identify key composers of each period | I can hear and explain differences between the two styles
+v: style period :: An era of music history with shared features.
+v: Baroque :: About 1600–1750; ornate, energetic music with continuous rhythm and counterpoint.
+v: Classical :: About 1750–1820; balanced, clear music with elegant melodies.
+v: counterpoint :: Combining independent melodic lines.
+v: basso continuo :: A Baroque bass line played by harpsichord or organ and a low instrument.
+v: terraced dynamics :: Sudden shifts between loud and soft, common in Baroque music.
+v: sonata form :: A Classical structure with exposition, development and recapitulation.
+ts: Ornate vs Elegant || Listening and case study || How did music change from the Baroque to the Classical era?
+tx: Baroque (about 1600–1750): Composers Johann Sebastian Bach, George Frideric Handel, Antonio Vivaldi. Features: continuous driving rhythm, polyphonic counterpoint, basso continuo, terraced dynamics, ornamented melodies, harpsichord. Forms: fugue, concerto grosso, oratorio. Music often served church and royal courts. Listen: Vivaldi "Spring" from "The Four Seasons," Bach "Brandenburg Concerto No. 3." ¶ Classical (about 1750–1820): Composers Wolfgang Amadeus Mozart, Joseph Haydn, early Ludwig van Beethoven. Features: clear homophonic melody with accompaniment, balanced question-and-answer phrases, gradual dynamics (crescendo), piano replaces harpsichord, the symphony orchestra grows. Forms: symphony, sonata, string quartet. Public concerts grew alongside court music. Listen: Mozart "Eine kleine Nachtmusik," Haydn "Surprise" Symphony. ¶ Task: Listen to one Baroque and one Classical excerpt. Complete the comparison organizer, then identify a mystery excerpt as Baroque or Classical with three pieces of evidence. ¶ Connection: Pachelbel's Canon bass line, and Bach samples in hip-hop and film.
+src: Case study written for this lesson; summarized from standard music history sources.
+st: Learn the Baroque features and composers | Learn the Classical features and composers | Compare two excerpts by ear | Identify a mystery excerpt with evidence | Connect older styles to modern music
+org: Feature | Baroque | Classical | Evidence I heard
+an: Why might Baroque music sound "busier" than Classical? | How did the change from harpsichord to piano affect dynamics? | Why did public concerts change music? | Where do you hear Baroque or Classical influence today?
+pr: Create a two-minute podcast segment or poster comparing one Baroque and one Classical piece with listening evidence and one modern connection.
+ex: Texture || Baroque or Classical: several independent lines weaving together? || Counterpoint || Baroque (polyphonic) || What is the Classical texture?
+ex: Dynamics || A piece switches suddenly from loud to soft with no crescendo. Which period? || Terraced dynamics || Baroque || Why couldn't the harpsichord crescendo easily?
+ex: Phrases || Mozart's melodies often sound like question and answer. Why? || Balanced phrases || Classical style used balanced, symmetrical phrases || Sing a question phrase and answer.
+ex: Composer match || Match "The Four Seasons" to its composer and period. || Recall || Antonio Vivaldi, Baroque || What season do you hear in the excerpt?
+p: B || What years roughly cover the Baroque period? || About 1600–1750.
+p: B || What years roughly cover the Classical period? || About 1750–1820.
+p: B || Name two Baroque composers. || Bach, Handel or Vivaldi.
+p: B || Name two Classical composers. || Mozart, Haydn or early Beethoven.
+p: B || What keyboard instrument was common in Baroque music? || The harpsichord.
+p: I || What is counterpoint? || Combining independent melodic lines.
+p: I || What are terraced dynamics? || Sudden shifts between loud and soft.
+p: I || What is basso continuo? || A continuous bass part played by keyboard and a low instrument.
+p: I || What is the main texture of Classical music? || Homophonic: melody with accompaniment.
+p: I || Name a Classical form. || Symphony, sonata or string quartet.
+p: I || What are the three parts of sonata form? || Exposition, development, recapitulation.
+p: C || Why did Classical music use more crescendos? || The piano and growing orchestra could change volume gradually.
+p: C || How did public concerts influence music? || Composers wrote for wider audiences and the symphony grew in importance.
+p: C || Give three pieces of evidence that an excerpt is Baroque. || Driving rhythm, counterpoint, harpsichord continuo, terraced dynamics.
+p: C || Name a modern connection to Baroque music. || Pachelbel's Canon bass in pop songs or Bach samples.
+mis: Calling all old music "classical" | Thinking Baroque music has no expression | Thinking style periods began and ended on exact dates
+et: Name one feature of Baroque music. | Name one feature of Classical music.
+mc: B || The Baroque period was about || 1600–1750 | 1750–1820 | 1820–1900 | 1900–2000
+mc: B || "The Four Seasons" was composed by || Vivaldi | Mozart | Beethoven | Haydn
+mc: B || The harpsichord is most associated with || the Baroque period | the Romantic period | rock music | the 20th century
+mc: B || Mozart belongs to the || Classical period | Baroque period | Romantic period | Renaissance
+mc: I || Counterpoint means || combining independent melodic lines | one melody only | silence | loud dynamics
+mc: I || Terraced dynamics are || sudden shifts between loud and soft | gradual crescendos | the same volume throughout | a type of rhythm
+mc: I || The main texture of Classical music is || homophonic | monophonic | polyphonic only | atonal
+mc: I || Sonata form includes || exposition, development, recapitulation | verse, chorus, bridge | intro and outro only | fugue and canon
+mc: I || Basso continuo is || a continuous bass part with keyboard | a type of singer | a dance | a crescendo
+mc: C || Classical composers used more gradual dynamics partly because || the piano could change volume by touch | harpsichords were banned | audiences demanded silence | orchestras were smaller
+mc: C || Which evidence suggests an excerpt is Baroque? || harpsichord and interweaving lines | balanced question-answer phrases with piano | electric guitar | gradual crescendo throughout
+mc: C || The growth of public concerts in the Classical era led to || more symphonies for wider audiences | the end of orchestras | music only for churches | silent concerts
+sa: B || Name the approximate dates of the Baroque period. || About 1600–1750.
+sa: B || Name a Classical composer. || Mozart, Haydn or early Beethoven.
+sa: I || Describe two features of Baroque music. || Counterpoint, driving rhythm, basso continuo, terraced dynamics, ornamentation.
+sa: I || Describe two features of Classical music. || Balanced phrases, homophonic texture, gradual dynamics, piano, symphony.
+sa: I || What is sonata form? || A structure of exposition, development and recapitulation.
+sa: I || Explain terraced dynamics. || Sudden changes between loud and soft levels.
+sa: C || Compare a Baroque and a Classical piece using three elements. || Answers vary.
+sa: C || Explain how a Baroque idea appears in modern music. || For example Pachelbel's Canon progression in pop songs.
+
+=== MU20.C1 0
+hook: When a song moves from a full studio band to a high school ensemble of three guitars, a ukulele and a cajón, someone has to decide who plays what. That person is the arranger, and good arrangements make small groups sound full.
+sc: I can identify the layers of a song | I can assign melody, harmony, bass and rhythm to available instruments | I can write a simple lead sheet or part chart
+v: arrangement :: A version of a piece adapted for particular instruments or voices.
+v: melody line :: The main tune.
+v: countermelody :: A secondary melody that complements the main one.
+v: accompaniment :: Parts that support the melody, such as chords and rhythm.
+v: bass line :: The lowest part, outlining the harmony.
+v: range :: The span of notes an instrument or voice can play or sing comfortably.
+v: lead sheet :: A score showing the melody, lyrics and chord symbols.
+ts: Who Plays What? || Arranging task || How do arrangers adapt a song for the musicians they have?
+tx: Step 1, Listen for layers (10 minutes): Listen to a simple song (teacher's choice, for example a folk song or a pop ballad). List every layer: melody (voice), countermelody, chords (pads or guitar), bass, drums or percussion, effects. ¶ Step 2, Inventory (5 minutes): List the instruments and voices in your group and their ranges and strengths. ¶ Step 3, Assign (15 minutes): Every arrangement needs four jobs: melody (clear and on top), harmony (chords), bass (low root notes) and rhythm (pulse). Assign each job. If you have extra players, add a countermelody or double the melody at the octave. Check ranges: is the melody too high for the singer? Transpose if needed. ¶ Step 4, Part chart (15 minutes): Make a chart with each section of the song (intro, verse, chorus, bridge, outro) across the top and each player down the side. Write what each plays: "chords, strum pattern 1," "bass on roots, half notes," "rest." Plan contrast: thin in verses, full in choruses. ¶ Step 5, Rehearse (10 minutes): Run the arrangement once and adjust.
+src: Original arranging task written for this lesson.
+st: Listen for the layers in a song | List your group's instruments and ranges | Assign melody, harmony, bass and rhythm | Write a part chart with contrast | Rehearse and adjust
+org: Section | Melody | Harmony | Bass | Rhythm
+an: Which job is most often missing in small groups? | How did you create contrast between verse and chorus? | Why check ranges before rehearsing? | What makes an arrangement sound full with few players?
+pr: Write a part chart and lead sheet for a song arranged for your group and perform it with clear contrast between sections.
+ex: Four jobs || A group has voice, guitar, keyboard and cajón. Assign the four jobs. || Melody | Harmony | Bass | Rhythm || Voice melody, guitar chords, keyboard left-hand bass, cajón rhythm || What could the keyboard right hand add?
+ex: Range || The melody goes too high for the singer. What can you do? || Transpose || Move the song down to a lower key || How do chord symbols change?
+ex: Contrast || How can a chorus feel bigger than a verse? || Add layers || Bring in drums and countermelody; strum full chords || What could drop out in the bridge?
+ex: Bass line || Write a bass line for C-G-Am-F. || Root notes || C, G, A, F in half or whole notes || How could passing notes connect them?
+p: B || What is an arrangement? || A version of a piece adapted for particular instruments.
+p: B || What is a melody line? || The main tune.
+p: B || What is a bass line? || The lowest part, outlining the harmony.
+p: B || What is a lead sheet? || A score with melody, lyrics and chord symbols.
+p: B || What is range? || The span of notes an instrument or voice can play or sing comfortably.
+p: I || Name the four jobs in an arrangement. || Melody, harmony, bass and rhythm.
+p: I || What is a countermelody? || A secondary melody that complements the main one.
+p: I || Why transpose a song? || To fit the range of a singer or instrument.
+p: I || How can you create contrast between sections? || Change the number of layers, dynamics or rhythm patterns.
+p: I || What is a part chart? || A chart showing what each player does in each section.
+p: I || What should the bass usually play on each chord? || The root note.
+p: C || Why might a small group sound thin? || One of the four jobs is missing.
+p: C || How can doubling the melody at the octave help? || It strengthens the tune and fills out the sound.
+p: C || Why plan rests in an arrangement? || Silence creates contrast and space for other parts.
+p: C || How would you arrange a song with no bass instrument? || Give the bass to a keyboard left hand, low guitar notes or bass voice.
+mis: Thinking everyone should play all the time | Giving every player the melody | Ignoring instrument and vocal ranges
+et: Name the four jobs in an arrangement. | Explain one way to make a chorus bigger.
+mc: B || An arrangement is || a version adapted for specific instruments | a new song | a recording | a concert hall
+mc: B || The bass line is || the lowest part | the highest part | the lyrics | the drum pattern
+mc: B || A lead sheet shows || melody, lyrics and chord symbols | only drums | only dynamics | the concert program
+mc: B || Range means || the span of comfortable notes | the volume | the tempo | the key
+mc: I || The four jobs in an arrangement are || melody, harmony, bass, rhythm | verse, chorus, bridge, outro | loud, soft, fast, slow | intro, middle, end, encore
+mc: I || If the melody is too high for a singer, you can || transpose to a lower key | play faster | add drums | remove the chords
+mc: I || A countermelody || complements the main melody | replaces the melody | is the bass line | is a drum pattern
+mc: I || A chorus can sound bigger than the verse by || adding layers and dynamics | removing all parts | slowing down | changing the lyrics only
+mc: I || The bass usually plays the || root of each chord | melody | lyrics | countermelody
+mc: C || A small group sounds thin. The most likely cause is || a missing job such as bass or rhythm | too many rests overall | the key | the tempo
+mc: C || Planned rests in an arrangement || create contrast and space | are mistakes | make it longer | remove the melody
+mc: C || With no bass instrument, a good solution is || the keyboard left hand plays roots | skip the bass entirely | everyone plays melody | play louder
+sa: B || Define arrangement. || A version of a piece adapted for particular instruments or voices.
+sa: B || What is a lead sheet? || A score with melody, lyrics and chord symbols.
+sa: I || Name the four jobs in an arrangement and give an instrument for each. || Answers vary.
+sa: I || Explain why ranges matter when arranging. || Parts must be playable or singable comfortably.
+sa: I || Describe how to create contrast between verse and chorus. || Add or remove layers, change dynamics or rhythm.
+sa: I || Write a bass line for G-Em-C-D. || G, E, C, D roots.
+sa: C || Explain how to make an arrangement sound full with few players. || Cover all four jobs, use doubling and contrast.
+sa: C || Describe your group's arrangement choices and why. || Answers vary.
+
+=== MU20.D1 0
+hook: A MIDI file doesn't contain any sound at all. It's a list of instructions: which note, how hard, how long. That's why the same MIDI part can become a grand piano, a string section or a synth with one click.
+sc: I can record MIDI parts with a keyboard or step input | I can edit notes, quantize and adjust velocity | I can assign virtual instruments and balance a short arrangement
+v: MIDI :: Musical Instrument Digital Interface; data that tells instruments which notes to play.
+v: virtual instrument :: Software that turns MIDI data into sound.
+v: piano roll :: An editor showing MIDI notes as bars on a grid of pitch and time.
+v: quantize :: To move notes to the nearest beat or grid line.
+v: velocity :: How hard a MIDI note is played, which affects volume and tone.
+v: mix :: Balancing the levels, panning and effects of all tracks.
+ts: Notes Without Sound || Production task || How do producers use MIDI to build arrangements?
+tx: Tools: a DAW (GarageBand, BandLab, Soundtrap or similar) and a MIDI keyboard or the on-screen keyboard. ¶ Part 1, What MIDI is (5 minutes): MIDI stores note number (pitch), velocity (1–127), start time and length. No audio. ¶ Part 2, Record (15 minutes): Set a metronome at 90 bpm and a one-bar count-in. Record a four-bar chord part (C-G-Am-F) on a piano instrument. Then record a bass line on a new track. ¶ Part 3, Edit (15 minutes): Open the piano roll. Fix wrong notes by dragging. Quantize to 1/8 notes (try 75% strength to keep some feel). Raise velocity on beat 1 of each bar for accent. ¶ Part 4, Swap sounds (5 minutes): Change the chord track from piano to strings, then to a synth pad. Notice the same notes sound completely different. ¶ Part 5, Drums and mix (10 minutes): Program a drum pattern in step input (kick on 1 and 3, snare on 2 and 4, hi-hats on eighths). Balance levels: drums and bass firm, chords lower, melody clear. Pan hi-hats slightly.
+src: Original production task written for this lesson.
+st: Learn what MIDI data contains | Record chord and bass parts | Edit, quantize and set velocity in the piano roll | Swap virtual instruments | Program drums and mix
+org: Track | Instrument | Edits made | Level and pan
+an: Why can MIDI change instruments but audio can't? | When can quantizing make music sound robotic? | How did velocity changes affect the feel? | Which instrument swap changed the mood most?
+pr: Produce an eight-bar MIDI arrangement with chords, bass, drums and a melody, edited and mixed, and export it.
+ex: MIDI vs audio || Why can you change a MIDI piano to strings but not a recorded voice? || MIDI is instructions | Audio is sound || MIDI stores note data played by any instrument; audio is a fixed recording || What can you edit in audio instead?
+ex: Quantize || A note is slightly late. What does quantize do? || Snap to grid || Moves it to the nearest beat or grid line || Why use less than 100% strength?
+ex: Velocity || How can you make the first beat of each bar stronger? || Accent || Raise its velocity || What range of values does velocity use?
+ex: Drum pattern || Program a basic rock beat. || Kick, snare, hats || Kick on 1 and 3, snare on 2 and 4, hi-hats on every eighth note || How could you vary it in the chorus?
+p: B || What does MIDI stand for? || Musical Instrument Digital Interface.
+p: B || Does MIDI contain sound? || No, only note instructions.
+p: B || What is a virtual instrument? || Software that turns MIDI into sound.
+p: B || What is a piano roll? || An editor showing MIDI notes on a grid.
+p: B || What does quantize do? || Moves notes to the nearest grid line.
+p: I || What information does a MIDI note contain? || Pitch, velocity, start time and length.
+p: I || What range of values does velocity use? || 1 to 127.
+p: I || Why use a count-in when recording? || To start in time with the metronome.
+p: I || In a basic rock beat, where does the snare go? || Beats 2 and 4.
+p: I || Why might you quantize at 75% strength? || To tighten timing but keep some human feel.
+p: I || What is step input? || Entering notes one at a time without playing live.
+p: C || Why might fully quantized drums sound robotic? || Every hit is perfectly on the grid with the same velocity.
+p: C || How does changing an instrument change the mood? || Different timbres create different feelings from the same notes.
+p: C || What should be loudest in most mixes? || The melody or lead, with firm drums and bass.
+p: C || Why vary velocity in a hi-hat pattern? || It sounds more human and creates groove.
+mis: Thinking MIDI files contain recorded sound | Quantizing everything to 100% and losing feel | Turning every track up instead of balancing
+et: Name two things a MIDI note stores. | Explain what quantize does.
+mc: B || MIDI is || note data, not sound | a recorded audio file | a type of microphone | a speaker
+mc: B || A virtual instrument || turns MIDI into sound | records voice | is a cable | prints music
+mc: B || A piano roll shows || MIDI notes on a pitch and time grid | lyrics | the audience | a guitar tab
+mc: B || Quantize || moves notes to the grid | makes notes louder | changes the key | deletes notes
+mc: I || Velocity in MIDI controls || how hard a note is played | the tempo | the key | the instrument
+mc: I || MIDI velocity values range from || 1 to 127 | 1 to 10 | 0 to 1000 | A to G
+mc: I || In a basic rock beat, the kick plays on || beats 1 and 3 | beats 2 and 4 | every sixteenth | only beat 4
+mc: I || You can change a MIDI piano part to strings because || MIDI stores notes, not sound | strings are louder | audio can be changed easily | it is a recording
+mc: I || Step input means || entering notes one at a time | recording live audio | exporting | panning
+mc: C || Quantizing at 75% strength || tightens timing while keeping feel | deletes notes | makes everything robotic | changes the key
+mc: C || Varying hi-hat velocity makes a beat || sound more human | quieter overall only | faster | out of time
+mc: C || In a balanced mix, chords are usually || lower than melody and drums | the loudest track | muted | panned hard left only
+sa: B || What does MIDI stand for? || Musical Instrument Digital Interface.
+sa: B || Define virtual instrument. || Software that turns MIDI data into sound.
+sa: I || Name four pieces of information in a MIDI note. || Pitch, velocity, start time, length.
+sa: I || Explain quantizing and one risk. || Snapping notes to the grid; can sound robotic.
+sa: I || Describe a basic rock drum pattern. || Kick 1 and 3, snare 2 and 4, hi-hats on eighths.
+sa: I || Why can MIDI change instruments easily? || It stores instructions, not sound.
+sa: C || Explain how velocity and quantize affect the feel of a part. || Velocity creates accents and dynamics; quantize controls timing tightness.
+sa: C || Describe how you balanced your mix. || Answers vary.

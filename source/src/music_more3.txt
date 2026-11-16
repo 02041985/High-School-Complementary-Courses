@@ -1,0 +1,173 @@
+=== MU30.B1 0
+hook: In 1963, 250,000 people at the March on Washington heard Mahalia Jackson and Bob Dylan sing. In 1969, John Lennon and Yoko Ono recorded "Give Peace a Chance" in a hotel bed in Montreal. Music has been the soundtrack of nearly every movement for change.
+sc: I can explain how music has supported social movements | I can analyze lyrics and musical choices in a protest song | I can describe how music still connects to activism today
+v: protest song :: A song written to support a cause or criticize injustice.
+v: social movement :: A group effort by many people to bring about social change.
+v: anthem :: A song adopted by a group to express shared identity or purpose.
+v: call and response :: A pattern where a leader sings and a group answers.
+v: lyrics :: The words of a song.
+v: Canadian content (CanCon) :: CRTC rules requiring Canadian radio to play a share of Canadian music.
+ts: Songs That Changed Things || Case study || How has music helped people push for social change?
+tx: Examples (teachers choose recordings and check lyrics for classroom use): ¶ • "We Shall Overcome": an adapted gospel hymn that became the anthem of the US civil rights movement in the 1960s. Simple, repetitive, easy for crowds to sing together. ¶ • "Give Peace a Chance" (1969): recorded by John Lennon and Yoko Ono in Montreal, sung at anti-Vietnam War rallies. ¶ • Buffy Sainte-Marie (Cree), "Universal Soldier" (1964): an anti-war song questioning individual responsibility. ¶ • "Biko" by Peter Gabriel (1980): about South African anti-apartheid activist Steve Biko. ¶ • A Tribe Called Red (now The Halluci Nation): combines powwow drums and electronic music to celebrate Indigenous identity. ¶ Musical tools of protest: singable melodies and repetition, call and response, borrowing familiar tunes, powerful lyrics, crowd participation. ¶ Task: In groups, analyze one song: context, message, lyric techniques (repetition, imagery, direct address), musical choices and impact. Present a three-minute analysis.
+src: Case study written for this lesson; summarized from music history sources.
+st: Learn how music connects to movements | Choose one protest song | Analyze its context and message | Analyze lyric and musical techniques | Present its impact
+org: Song | Movement and context | Lyric techniques | Musical techniques | Impact
+an: Why do protest songs often have simple, repetitive melodies? | Can a song actually change laws or opinions? | How does Buffy Sainte-Marie's work connect to Indigenous rights? | What songs connect to movements today?
+pr: Present an analysis of a protest song (context, lyrics, music, impact) or write and perform an original verse and chorus for a cause you care about.
+ex: Singability || Why does "We Shall Overcome" work for marches? || Melody | Repetition || Slow tempo, simple stepwise melody and repeated lines let crowds sing together || What would make a song hard to march with?
+ex: Lyric technique || What does repetition do in a protest chorus? || Memory | Unity || It makes the message memorable and lets everyone join in || Find another technique.
+ex: Borrowing || Why adapt existing hymns or folk tunes? || Familiarity || People already know the tune, so they can sing new words immediately || Give an example.
+ex: CanCon || What is CanCon? || CRTC rule || A requirement that Canadian radio play a percentage of Canadian music || How does it help Canadian artists?
+p: B || What is a protest song? || A song supporting a cause or criticizing injustice.
+p: B || What is a social movement? || A group effort to bring about social change.
+p: B || What song became an anthem of the civil rights movement? || "We Shall Overcome."
+p: B || Where did Lennon and Ono record "Give Peace a Chance"? || Montreal.
+p: B || What is call and response? || A leader sings and a group answers.
+p: I || Why do protest songs use simple melodies? || So crowds can learn and sing them quickly.
+p: I || Who wrote "Universal Soldier"? || Buffy Sainte-Marie.
+p: I || What is the message of "Universal Soldier"? || Everyone shares responsibility for war.
+p: I || Name two lyric techniques in protest songs. || Repetition, imagery, direct address, questions.
+p: I || What is CanCon? || CRTC rules requiring Canadian content on radio.
+p: I || How does The Halluci Nation blend styles? || Powwow drums with electronic music.
+p: C || Can music change society? Give a reason. || Yes, it builds unity, spreads messages and inspires action, though usually alongside other efforts.
+p: C || Why might governments ban certain songs? || They fear the songs will spread opposition.
+p: C || How does streaming change how protest music spreads? || Songs and videos can spread globally within hours.
+p: C || Why is context needed to understand a protest song? || The meaning depends on the events and people it responds to.
+mis: Thinking protest music is only one genre, like folk | Thinking a song alone causes social change | Ignoring the historical context of a song
+et: Name one protest song and its movement. | Name one musical feature that helps crowds sing together.
+mc: B || A protest song || supports a cause or criticizes injustice | is always instrumental | is a lullaby | is a commercial jingle
+mc: B || "We Shall Overcome" is linked to || the US civil rights movement | the French Revolution | the gold rush | the moon landing
+mc: B || Call and response means || a leader sings and a group answers | everyone sings different songs | silence | a solo only
+mc: B || Buffy Sainte-Marie wrote || "Universal Soldier" | "Give Peace a Chance" | "Biko" | "We Shall Overcome"
+mc: I || Protest songs often use simple melodies so || crowds can join in quickly | they are cheaper | radio plays them | they are shorter
+mc: I || CanCon rules require || Canadian radio to play a share of Canadian music | only French songs | no protest songs | streaming only
+mc: I || "Biko" by Peter Gabriel addresses || apartheid in South Africa | climate change | the civil rights movement | Canadian elections
+mc: I || Repetition in a protest chorus mainly || makes the message memorable | confuses listeners | shortens the song | removes the melody
+mc: I || The Halluci Nation combines || powwow drums and electronic music | opera and jazz | Baroque and rock | country and polka
+mc: C || The strongest claim about music and social change is that music || builds unity and spreads messages alongside other actions | alone changes laws | has no effect | only entertains
+mc: C || Borrowing a familiar tune for new protest lyrics works because || people can sing it right away | it avoids copyright | it is always louder | it changes the tempo
+mc: C || Understanding a protest song requires || knowing its historical context | only reading the title | hearing it once | knowing the chords
+sa: B || Define protest song. || A song written to support a cause or criticize injustice.
+sa: B || What is call and response? || A leader sings and a group answers.
+sa: I || Explain why protest songs often use repetition. || It makes the message memorable and easy to join.
+sa: I || Name a protest song and its movement. || Answers vary.
+sa: I || What is CanCon and why does it exist? || Rules requiring Canadian music on radio to support Canadian artists.
+sa: I || Describe one musical choice that helps a song unite a crowd. || Simple melody, repetition, call and response, familiar tune.
+sa: C || Analyze how one protest song uses lyrics and music to deliver its message. || Answers vary.
+sa: C || Explain whether music can change society, with an example. || Answers vary with reasoning.
+
+=== MU30.C1 0
+hook: Great performers don't just learn the notes. They choose music that shows their strengths, plan their practice like an athlete plans training, and decide what story the piece will tell. Preparation is where performances are won.
+sc: I can choose repertoire that suits my skills and the occasion | I can make a structured practice plan with goals | I can mark interpretive choices in my music
+v: repertoire :: The pieces a musician prepares and performs.
+v: interpretation :: The performer's choices about how to express a piece.
+v: practice plan :: A schedule of focused practice tasks with goals.
+v: deliberate practice :: Focused practice on specific weaknesses, with feedback.
+v: chunking :: Practising a piece in small sections.
+v: self-assessment :: Evaluating your own playing against criteria.
+ts: Choose It, Plan It, Own It || Performance preparation || How do musicians choose and prepare repertoire for performance?
+tx: Part 1, Choosing (10 minutes): Use these criteria to shortlist two or three pieces: ¶ • Fit: suits my range and current technique, with one or two stretch goals ¶ • Contrast: if performing more than one piece, contrast in tempo, mood or style ¶ • Occasion: length and style suit the audience and event ¶ • Connection: something I want to say with it ¶ Part 2, Map the piece (10 minutes): Mark sections and the hardest passages (circle them). Note the form. ¶ Part 3, Practice plan (15 minutes): Plan four weeks. Each day: warm-up (5 minutes), technical work on circled passages using chunking and slow practice with a metronome, then raise the tempo by 4 bpm when clean three times in a row (15 minutes), then play through for musicality (10 minutes). Record yourself once a week. ¶ Part 4, Interpretation (10 minutes): Mark choices in the music: breaths, dynamics beyond the written ones, tempo flexibility, articulation, and the mood or story of each section. ¶ Part 5, Self-assessment (5 minutes): Rate accuracy, tone, rhythm, expression and stage presence from 1 to 4.
+src: Original performance preparation task written for this lesson.
+st: Shortlist repertoire with criteria | Map sections and hard passages | Write a four-week practice plan | Mark interpretive choices | Self-assess using criteria
+org: Criterion | Piece 1 | Piece 2 | Decision
+an: Why choose a piece slightly below your maximum difficulty for a performance? | How does slow practice save time? | What story or mood will your piece tell? | How does recording yourself change your practice?
+pr: Submit a repertoire choice with justification, a four-week practice plan and a marked-up score, then perform a work-in-progress for peer feedback.
+ex: Fit || A piece is far above your level, with three weeks to perform. Choose it? || Fit and time || Probably not; choose something you can perform securely with one stretch goal || When would a hard piece make sense?
+ex: Chunking || How do you practise a hard four-bar passage? || Small sections || Slow it down, play it in one-bar chunks, then link them, using a metronome || When do you raise the tempo?
+ex: Tempo goal || Your target is 120 bpm; you're clean at 96. Using the plan, how many steps to reach it? || +4 bpm per step || (120 − 96) ÷ 4 = 6 steps || Why go up gradually?
+ex: Interpretation || Mark an interpretive choice for a lyrical melody. || Dynamics and shape || Add a crescendo to the phrase peak and a slight ritardando at the end || How does this change the story?
+p: B || What is repertoire? || The pieces a musician prepares and performs.
+p: B || What is interpretation? || A performer's expressive choices.
+p: B || What is chunking? || Practising a piece in small sections.
+p: B || What is a practice plan? || A schedule of focused tasks with goals.
+p: B || What is self-assessment? || Evaluating your own playing against criteria.
+p: I || Name three criteria for choosing repertoire. || Fit, contrast, occasion and connection.
+p: I || What is deliberate practice? || Focused work on weaknesses with feedback.
+p: I || When should you raise the metronome tempo? || After playing the passage cleanly three times in a row.
+p: I || Why circle hard passages? || To focus practice where it's most needed.
+p: I || Why record yourself? || To hear your playing objectively.
+p: I || What should a daily practice session include? || Warm-up, technical work and musical play-through.
+p: C || Why is playing through a piece repeatedly not efficient practice? || It repeats mistakes instead of fixing hard spots.
+p: C || How does contrast help a recital program? || It keeps the audience engaged and shows range.
+p: C || How can interpretive choices go beyond the score? || Shaping phrases, tempo flexibility and colour within the style.
+p: C || Why choose a piece you can perform securely? || Nerves reduce accuracy, so security leaves room for expression.
+mis: Thinking practice means playing the whole piece over and over | Choosing the hardest piece to impress | Thinking interpretation means ignoring the score
+et: Name two criteria for choosing repertoire. | Describe one step of deliberate practice.
+mc: B || Repertoire is || the pieces a musician performs | a practice room | a music stand | a type of scale
+mc: B || Chunking means || practising in small sections | playing the whole piece fast | skipping hard parts | memorizing lyrics
+mc: B || Interpretation is || the performer's expressive choices | the composer's name | the tempo marking only | a translation
+mc: B || Self-assessment means || evaluating your own playing | the teacher's mark | the audience's applause | a recording studio
+mc: I || When should you raise the metronome tempo? || after three clean repetitions | when you feel bored | every minute | never
+mc: I || Deliberate practice focuses on || specific weaknesses with feedback | playing favourite parts | full run-throughs only | speed only
+mc: I || A good recital program usually has || contrast between pieces | all pieces in the same mood | only the hardest piece | no slow pieces
+mc: I || Recording yourself helps you || hear your playing objectively | avoid practice | play louder | change keys
+mc: I || From 96 to 120 bpm in steps of 4, the number of steps is || 6 | 4 | 24 | 8
+mc: C || Repeated full run-throughs without fixing mistakes || reinforce errors | always improve accuracy | are deliberate practice | replace chunking
+mc: C || Choosing a piece slightly below your maximum level for a performance helps because || nerves reduce accuracy, so security allows expression | it is easier to sell tickets | judges prefer easy music | it requires no practice
+mc: C || Which is an interpretive choice? || a slight ritardando at the end of a phrase | changing the time signature | adding new notes randomly | skipping a section
+sa: B || Define repertoire. || The pieces a musician prepares and performs.
+sa: B || What is chunking? || Practising a piece in small sections.
+sa: I || List the parts of an effective practice session. || Warm-up, focused technical work, musical play-through.
+sa: I || Explain how to use a metronome to build tempo. || Start slow, raise a few bpm after clean repetitions.
+sa: I || Give two criteria for choosing repertoire. || Fit, contrast, occasion, connection.
+sa: I || Why is recording yourself useful? || You hear mistakes and expression objectively.
+sa: C || Justify a repertoire choice for a performance. || Answers vary.
+sa: C || Describe three interpretive choices you would make in a piece. || Answers vary.
+
+=== MU30.D1 0
+hook: Most hit songs are built around a hook, a short catchy idea you can't get out of your head, often in the first 30 seconds. Writing a song starts with finding that hook and building everything else to support it.
+sc: I can write lyrics with a clear theme, imagery and rhyme | I can write a melody that fits the lyrics and chords | I can structure a song with verse, chorus and hook
+v: hook :: A short, catchy musical or lyrical idea that grabs attention.
+v: verse :: A section that tells the story; lyrics usually change each time.
+v: chorus :: The repeated section that carries the main message and hook.
+v: prosody :: How well the melody and rhythm fit the natural stress of the words.
+v: rhyme scheme :: The pattern of rhymes, labelled with letters (AABB, ABAB).
+v: imagery :: Words that create pictures and senses in the listener's mind.
+ts: Hook First || Songwriting workshop || How do songwriters turn an idea into lyrics and melody?
+tx: Part 1, Title and theme (10 minutes): Brainstorm 10 possible song titles from your life (a place, a phrase someone says, a feeling). Pick one that could be the hook. ¶ Part 2, Chorus lyrics (10 minutes): Write four lines that state the main idea. Put the title in the first or last line. Keep it simple and singable. Choose a rhyme scheme (AABB or ABAB). ¶ Part 3, Verse lyrics (10 minutes): Write verse 1 with concrete imagery: show, don't tell. Instead of "I was sad," try "Your jacket's still on the hook by the door." ¶ Part 4, Melody (15 minutes): Over a four-chord loop (for example C-G-Am-F), speak the chorus lyrics in rhythm, then sing them on pitches from the chords. Check prosody: stressed syllables should land on strong beats and higher or longer notes. Make the chorus melody higher or more energetic than the verse. ¶ Part 5, Structure (5 minutes): Map the song: verse 1, chorus, verse 2, chorus, bridge, chorus. Record a voice memo of the draft.
+src: Original songwriting workshop written for this lesson.
+st: Brainstorm titles and choose a hook | Write a chorus with the title | Write a verse with concrete imagery | Set lyrics to a melody with good prosody | Map the song structure and record a draft
+org: Section | Lyrics | Rhyme scheme | Melody idea (range and rhythm)
+an: Why put the title in the chorus? | How does concrete imagery make a verse stronger? | Where did prosody feel awkward and how did you fix it? | How is your chorus melody different from your verse?
+pr: Write and record a demo of an original song with at least one verse, a chorus with a hook and a clear structure map, then share it for feedback.
+ex: Imagery || Rewrite "I miss home" with imagery. || Show, don't tell || "Snow on the porch light, Mom's tea going cold" || What senses does it use?
+ex: Rhyme scheme || Label: day / way / night / light. || Letters for rhymes || AABB || What would ABAB look like?
+ex: Prosody || The word "to-MOR-row" is sung with "to" on beat 1. What's wrong? || Stress || The unstressed syllable "to" falls on the strong beat; put "MOR" on the beat || How do you test prosody?
+ex: Chorus lift || How can a chorus melody stand out? || Contrast || Use a higher range, longer notes or more rhythmic energy than the verse || What could the verse do instead?
+p: B || What is a hook? || A short, catchy idea that grabs attention.
+p: B || What is a chorus? || The repeated section carrying the main message.
+p: B || What is a verse? || A section that tells the story with changing lyrics.
+p: B || What is a rhyme scheme? || The pattern of rhymes.
+p: B || What is imagery? || Words that create pictures in the mind.
+p: I || What is prosody? || How well melody fits the natural stress of words.
+p: I || Label the rhyme scheme: rain / gone / again / on. || ABAB.
+p: I || Why put the title in the chorus? || It is repeated and becomes memorable.
+p: I || Give a typical song structure. || Verse, chorus, verse, chorus, bridge, chorus.
+p: I || What does "show, don't tell" mean in lyrics? || Use concrete details instead of stating feelings.
+p: I || How can you find a melody for lyrics? || Speak them in rhythm, then sing on chord tones.
+p: C || Why should the chorus melody differ from the verse? || Contrast makes the chorus lift and stand out.
+p: C || What job does a bridge do? || Adds contrast or a new perspective before the final chorus.
+p: C || How can you fix bad prosody? || Change the rhythm or the words so stresses land on strong beats.
+p: C || Why record a rough demo early? || To hear and revise ideas before they're forgotten.
+mis: Thinking songs must rhyme perfectly every line | Writing vague lyrics with no concrete details | Thinking melody and lyrics are written separately and never adjusted
+et: Write one line of lyrics using imagery. | Label the rhyme scheme of four lines you wrote.
+mc: B || A hook is || a short, catchy idea | the last verse | a type of guitar | the song's key
+mc: B || The chorus usually || repeats and carries the main message | changes every time | has no melody | is instrumental only
+mc: B || Imagery in lyrics || creates pictures in the listener's mind | is a music video | is the chord chart | is the tempo
+mc: B || AABB is a || rhyme scheme | chord progression | tempo | form for symphonies
+mc: I || Prosody is || the fit between melody and word stress | the volume | the key | the song title
+mc: I || Which line uses concrete imagery? || Your coffee mug still waits by the sink | I feel really sad | Things are bad | I miss you a lot
+mc: I || Placing the title in the chorus || makes it memorable | is forbidden | hides the message | shortens the song
+mc: I || A common song structure is || verse, chorus, verse, chorus, bridge, chorus | intro only | fugue | sonata form
+mc: I || The rhyme scheme of "night / sky / light / fly" is || ABAB | AABB | ABBA | AAAA
+mc: C || A chorus melody often stands out by || using a higher range or more energy | being identical to the verse | having no rhythm | being spoken only
+mc: C || Bad prosody happens when || unstressed syllables land on strong beats | the song has a chorus | lyrics rhyme | the key is major
+mc: C || A bridge mainly provides || contrast before the final chorus | the song title | the intro | the first verse
+sa: B || Define hook. || A short, catchy musical or lyrical idea.
+sa: B || What is a rhyme scheme? || The pattern of rhymes in lines.
+sa: I || Rewrite "I'm nervous" using imagery. || Answers vary.
+sa: I || Explain prosody with an example. || Answers vary; stresses on strong beats.
+sa: I || Describe how verse and chorus differ. || Verses tell the story and change; the chorus repeats the main message and hook.
+sa: I || Map a typical song structure. || Verse, chorus, verse, chorus, bridge, chorus.
+sa: C || Explain how you would make a chorus memorable. || Title in the chorus, repetition, a strong hook and melodic lift.
+sa: C || Describe your songwriting process from title to melody. || Answers vary.
