@@ -1,0 +1,173 @@
+=== CTS20.B1 0
+hook: A client says, "I want a website, and I want it to be amazing." That's not a plan. Designers turn vague wishes into a design brief: who it's for, what it must do, the budget, the deadline and the limits. Then the real work can start.
+sc: I can write a design brief with purpose, user, criteria and constraints | I can plan a timeline and budget | I can sketch and choose a design solution
+v: design brief :: A short document stating the problem, user, requirements and constraints for a project.
+v: constraint :: A limit on a project, such as budget, time, materials or size.
+v: budget :: The planned amount of money for a project.
+v: timeline :: A schedule of tasks and deadlines.
+v: prototype :: An early model used to test an idea.
+v: iteration :: Repeating a cycle of designing, testing and improving.
+ts: Write the Brief || Design task || How do designers plan a project before building it?
+tx: Choose a project in your CTS area: a menu item for a café, a small piece of furniture, a garment, a brand logo, a mobile app screen, an electrical circuit project. ¶ Part 1, Design brief (15 minutes): Write the brief with these headings: ¶ • Problem or need: What needs solving? ¶ • User: Who will use it? ¶ • Requirements (criteria): What must it do? (3 to 5 measurable points) ¶ • Constraints: budget, time, materials, size, safety rules ¶ Part 2, Budget (10 minutes): List materials with quantity and unit cost; total them; add 10% contingency for mistakes. ¶ Part 3, Timeline (10 minutes): List tasks in order, estimate hours for each and map them across class periods. Mark one checkpoint for a prototype. ¶ Part 4, Ideation (15 minutes): Sketch three solutions. Score each against the requirements. Choose one and justify it. ¶ Example budget line: pine board, 1 × 6 × 4 ft, 2 at $8.50 = $17.00.
+src: Original design task written for this lesson.
+st: Choose a project and identify the need | Write a design brief | Build a budget with contingency | Plan a timeline with a prototype checkpoint | Sketch, score and choose a solution
+org: Requirement | Idea 1 | Idea 2 | Idea 3
+an: Which constraint shaped your design most? | Why add a contingency to the budget? | How did scoring ideas against requirements help you choose? | When would you build a prototype?
+pr: Submit a complete design plan: brief, itemized budget with contingency, timeline and three scored sketches with a justified final choice.
+ex: Requirement || Turn "the shelf should be strong" into a measurable requirement. || Measurable || The shelf holds 10 kg without bending more than 2 mm || How would you test it?
+ex: Budget || Materials cost $42.00. Add a 10% contingency. || 42 × 0.10 = 4.20 || $46.20 total || Why plan for mistakes?
+ex: Timeline || Tasks: cut (2 h), assemble (3 h), finish (2 h). Classes are 1.5 h. How many classes? || 7 h ÷ 1.5 h || About 5 classes (4.7 rounded up) || Where does the prototype checkpoint go?
+ex: Constraint || A café requires a menu item costing under $3 to make. What kind of constraint? || Limit || A budget constraint || Name another constraint for food.
+p: B || What is a design brief? || A document stating the problem, user, requirements and constraints.
+p: B || What is a constraint? || A limit on a project.
+p: B || What is a budget? || The planned money for a project.
+p: B || What is a timeline? || A schedule of tasks and deadlines.
+p: B || What is a prototype? || An early model to test an idea.
+p: I || Name the four headings of a design brief. || Problem, user, requirements, constraints.
+p: I || Why should requirements be measurable? || So you can test whether the design meets them.
+p: I || What is a contingency? || Extra budget for mistakes or surprises.
+p: I || Calculate a 10% contingency on $80. || $8, total $88.
+p: I || Why sketch three solutions? || To compare options before choosing.
+p: I || What is iteration? || Repeating design, test and improve cycles.
+p: C || Why identify the user before designing? || The design must meet their needs.
+p: C || How can constraints improve creativity? || They focus ideas and push creative problem-solving.
+p: C || What happens if a timeline has no checkpoint? || Problems may be found too late to fix.
+p: C || Why justify your chosen solution? || To show it best meets the requirements within constraints.
+mis: Thinking constraints only limit good design | Skipping the brief and starting to build | Writing vague requirements that can't be tested
+et: Write one measurable requirement for your project. | Name two constraints.
+mc: B || A design brief states || the problem, user, requirements and constraints | only the final design | the teacher's mark | the price of tools
+mc: B || A constraint is || a limit on a project | a tool | a finished product | a requirement to be creative
+mc: B || A prototype is || an early test model | the final product | a budget | a timeline
+mc: B || A timeline is || a schedule of tasks | a list of materials | a sketch | a cost
+mc: I || Which requirement is measurable? || The bag holds 5 kg without tearing | The bag is cool | The bag is nice | The bag is good
+mc: I || A 10% contingency on $50 is || $5 | $50 | $0.50 | $10
+mc: I || Why sketch several ideas? || To compare solutions before choosing | To waste time | To avoid a brief | To skip prototyping
+mc: I || Iteration means || repeating design, test and improve | finishing in one try | buying more materials | writing a brief
+mc: I || A café menu item must cost under $3. This is a || budget constraint | user | prototype | timeline
+mc: C || Identifying the user first matters because || the design must meet their needs | users pay for materials | it shortens the timeline | it's optional
+mc: C || A prototype checkpoint in a timeline helps || find problems early | finish faster without testing | avoid budgets | replace the brief
+mc: C || The best justification for a final design is that it || best meets the requirements within constraints | looks the coolest | was drawn first | is the cheapest
+sa: B || Define design brief. || A short document stating the problem, user, requirements and constraints.
+sa: B || What is a constraint? || A limit such as budget, time or materials.
+sa: I || Write a design brief for a simple project. || Answers vary.
+sa: I || Calculate the total budget for $64 of materials plus 10% contingency. || $70.40.
+sa: I || Why should requirements be measurable? || So you can test if the design meets them.
+sa: I || Explain why designers build prototypes. || To test ideas cheaply before final production.
+sa: C || Explain how constraints can lead to better design. || They focus ideas and drive creative solutions.
+sa: C || Justify your chosen design against the requirements. || Answers vary.
+
+=== CTS20.C1 0
+hook: Restaurant inspectors, building inspectors and quality control technicians all do the same thing: compare work to a standard. In intermediate CTS, you start working to standards like a professional and helping peers do the same.
+sc: I can compare my work to a written standard or specification | I can conduct a structured peer review | I can find defects, identify causes and revise
+v: standard :: An agreed level of quality that work must meet.
+v: specification :: Exact, measurable details a product must match.
+v: inspection :: Checking work carefully against a standard.
+v: defect :: A flaw that causes work to fail a standard.
+v: root cause :: The underlying reason a defect happened.
+v: peer review :: A structured check of work by a classmate.
+ts: Inspect and Improve || Quality task || How do professionals check work against standards and improve it?
+tx: Part 1, Read the spec (10 minutes): Use the specification for your project. Examples: ¶ • Foods: Food safety standard: internal temperature of chicken at least 74 °C; plating within 5 minutes; portion 150 g ± 10 g. ¶ • Construction: Joints flush within 0.5 mm; diagonals within 2 mm (proves square); no visible glue. ¶ • Fashion: Seam allowance 1.5 cm; stitches 2.5 mm; no puckering; finished size ± 1 cm. ¶ • Computing: Page loads under 3 seconds; works on phone and desktop; all links work; alt text on images. ¶ Part 2, Inspection checklist (10 minutes): Turn the spec into a yes or no checklist with a measurement column. ¶ Part 3, Peer inspection (15 minutes): Swap projects. Inspect with the checklist. Record measurements, not opinions. ¶ Part 4, Root cause (10 minutes): For each defect, ask "Why?" up to five times to find the root cause (the "5 Whys"). ¶ Part 5, Revise (15 minutes): Fix what can be fixed. For what can't, write a process change for next time.
+src: Original quality task written for this lesson; the 5 Whys is a common quality improvement method.
+st: Read the specification | Build an inspection checklist | Inspect a peer's work with measurements | Find root causes with the 5 Whys | Revise and change the process
+org: Spec item | Measurement | Pass or fail | Root cause | Fix
+an: Why record measurements instead of opinions? | Which defect was the most common in the class? | How did the 5 Whys change your fix? | What's the difference between fixing a defect and preventing it?
+pr: Submit your inspection checklist, a peer's inspection of your work, a 5 Whys analysis of one defect and evidence of revision.
+ex: Specification || Diagonals of a box measure 402 mm and 405 mm. Spec: within 2 mm. Pass? || 405 − 402 = 3 mm || Fail; the box is not square || How do you fix it?
+ex: Food standard || Chicken reads 68 °C. Spec: at least 74 °C. What do you do? || Below standard || Fail; continue cooking and recheck || Why is this a safety issue?
+ex: 5 Whys || Seam puckered. Why? Tension too tight. Why? Machine settings changed. Why? Not checked. Root cause? || Keep asking || Root cause: no setup check before sewing || What process change prevents it?
+ex: Peer review || Turn "the website looks broken" into an inspection note. || Spec + measurement || Link 3 returns a 404 error; spec requires all links to work || How would you test all links?
+p: B || What is a standard? || An agreed level of quality.
+p: B || What is a specification? || Exact, measurable details a product must match.
+p: B || What is a defect? || A flaw that fails a standard.
+p: B || What is inspection? || Checking work against a standard.
+p: B || What is peer review? || A structured check of work by a classmate.
+p: I || What is a root cause? || The underlying reason a defect happened.
+p: I || Explain the 5 Whys. || Asking "why" repeatedly to find the root cause.
+p: I || Portion spec 150 g ± 10 g. Is 162 g acceptable? || No, the range is 140 to 160 g.
+p: I || Why measure diagonals of a box? || Equal diagonals prove it is square.
+p: I || Why record measurements in peer review? || They are objective and show exactly what to fix.
+p: I || What is the minimum safe internal temperature for chicken? || 74 °C.
+p: C || What's the difference between fixing and preventing a defect? || Fixing repairs one product; preventing changes the process so it doesn't happen again.
+p: C || Why do industries use written standards? || To ensure consistent, safe quality.
+p: C || How should a reviewer give feedback on a failed spec? || State the spec, the measurement and the result, respectfully.
+p: C || Why might a product meet the spec but still disappoint a user? || The spec may not include everything the user needs.
+mis: Thinking peer review means saying whether you like it | Fixing the symptom without finding the cause | Thinking "close enough" meets a standard
+et: Give one spec item for your project and how to measure it. | Write a 5 Whys chain for one defect.
+mc: B || A specification gives || exact measurable details | general opinions | the price | the designer's name
+mc: B || A defect is || a flaw that fails a standard | a feature | a tool | a type of review
+mc: B || Inspection means || checking work against a standard | buying materials | designing | cleaning
+mc: B || Peer review is || a structured check by a classmate | a teacher's final mark | a design brief | a timeline
+mc: I || The 5 Whys finds || the root cause | the price | the user | the deadline
+mc: I || Spec 150 g ± 10 g. Which portion passes? || 145 g | 162 g | 138 g | 170 g
+mc: I || Equal diagonals in a box show it is || square | strong | finished | painted
+mc: I || Chicken must reach at least || 74 °C | 54 °C | 60 °C | 100 °C
+mc: I || A good inspection note includes || the spec, measurement and result | an opinion only | a smiley face | the reviewer's mood
+mc: C || Preventing a defect means || changing the process so it doesn't recur | fixing one product | ignoring it | lowering the standard
+mc: C || A product meets spec but users dislike it. Most likely || the spec missed a user need | the inspection was wrong | users are always wrong | the standard is perfect
+mc: C || Industries use written standards mainly to || ensure consistent, safe quality | slow production | raise prices | replace workers
+sa: B || Define specification. || Exact, measurable details a product must match.
+sa: B || What is a defect? || A flaw that causes work to fail a standard.
+sa: I || Explain the 5 Whys with an example. || Answers vary.
+sa: I || Diagonals are 600 mm and 601 mm with a spec of ±2 mm. Pass or fail? || Pass.
+sa: I || Why use measurements in peer review? || They are objective and specific.
+sa: I || Write an inspection checklist item for your project. || Answers vary.
+sa: C || Explain the difference between fixing and preventing defects. || Fixing repairs one product; preventing changes the process.
+sa: C || Describe how you revised your work after inspection. || Answers vary.
+
+=== CTS20.D1 0
+hook: In Alberta, you can start an apprenticeship while still in high school, earn a wage, and get credit for both school and your trade. The Registered Apprenticeship Program (RAP) is one of the best-kept secrets in high school.
+sc: I can identify employability skills employers want | I can describe RAP, work experience and other workplace learning options | I can write a résumé that shows my skills
+v: employability skills :: Skills needed in any job, such as communication, teamwork and reliability.
+v: Registered Apprenticeship Program (RAP) :: An Alberta program where high school students start a trade apprenticeship while earning credits.
+v: work experience :: A course where students earn credit for supervised work in a workplace.
+v: journeyperson :: A certified tradesperson who has completed an apprenticeship.
+v: résumé :: A document summarizing your skills, education and experience.
+v: reference :: A person who can describe your skills and character to an employer.
+ts: Ready for Work || Career task || What skills and programs help high school students get into the workplace?
+tx: Part 1, Employability skills (10 minutes): Sort these into three groups: fundamental (communicate, manage information, think and solve problems), personal management (be positive, responsible, adaptable, learn continuously, work safely) and teamwork (work with others, participate in projects). These come from the Conference Board of Canada's Employability Skills. ¶ Part 2, Workplace learning options in Alberta (15 minutes): ¶ • Registered Apprenticeship Program (RAP): start a trade apprenticeship as a high school student; hours count toward your apprenticeship and earn high school credits; you are paid. ¶ • Work Experience 15, 25, 35: supervised, unpaid or paid work placements for credit. ¶ • Green Certificate: agricultural apprenticeship-style training for credit. ¶ • Dual credit: courses that count for both high school and post-secondary. ¶ Part 3, Skills evidence (10 minutes): For five employability skills, write evidence from school, sports, volunteering or CTS ("Teamwork: led my group's café service for 40 customers"). ¶ Part 4, Résumé (20 minutes): Draft a one-page résumé: contact, profile (two lines), skills with evidence, education, experience and volunteering, references available on request.
+src: Original career task written for this lesson; program details summarized from Alberta Education and Conference Board of Canada sources.
+st: Sort employability skills | Learn RAP, work experience and other options | Write evidence for five skills | Draft a one-page résumé | Review with a partner
+org: Skill | Evidence from my life | Where I could use it at work
+an: Which employability skills are you strongest in? Weakest? | Why do employers care about reliability as much as technical skill? | Who could benefit most from RAP? | What makes a résumé stand out?
+pr: Submit a one-page résumé and a short plan describing which workplace learning option (RAP, work experience, Green Certificate or dual credit) fits you and why.
+ex: Evidence || Turn "I'm a hard worker" into résumé evidence. || Specific action and result || "Worked 12 hours a week at a grocery store for a year without missing a shift" || Which skill does this show?
+ex: RAP || What does a RAP student gain? || Three benefits || Apprenticeship hours, high school credits and a paycheque || Which trades could you do?
+ex: Journeyperson || How does someone become a journeyperson? || Training path || Complete an apprenticeship (on-the-job hours plus technical training) and pass certification exams || How long does it usually take?
+ex: Reference || Who makes a good reference? || Knows your work || A coach, teacher or supervisor who has seen your skills || Why not a family member?
+p: B || What are employability skills? || Skills needed in any job, like communication and teamwork.
+p: B || What is RAP? || The Registered Apprenticeship Program for high school students.
+p: B || What is a journeyperson? || A certified tradesperson.
+p: B || What is a résumé? || A summary of skills, education and experience.
+p: B || What is a reference? || A person who can describe your skills to an employer.
+p: I || Name the three groups of employability skills. || Fundamental, personal management, teamwork.
+p: I || How does RAP benefit a student? || Earn pay, apprenticeship hours and high school credits.
+p: I || What is Work Experience 15? || A course giving credit for supervised workplace experience.
+p: I || What is dual credit? || A course counting for both high school and post-secondary credit.
+p: I || What should a résumé profile include? || Two lines summarizing who you are and your strengths.
+p: I || Why give evidence for skills? || It proves the skill to an employer.
+p: C || Why do employers value reliability? || They need people who show up and can be trusted.
+p: C || How can volunteering help a résumé? || It shows skills and experience even without paid work.
+p: C || Why choose a supervisor over a friend as a reference? || They can speak to your work objectively.
+p: C || Who might benefit most from RAP? || Students interested in a trade who want a head start.
+mis: Thinking only paid jobs count as experience | Thinking employers care only about technical skills | Thinking apprenticeships start only after high school
+et: Name three employability skills. | Describe one benefit of RAP.
+mc: B || RAP stands for || Registered Apprenticeship Program | Regional Arts Project | Required Academic Plan | Rapid Apprentice Pay
+mc: B || A journeyperson is || a certified tradesperson | a travel agent | a new apprentice | a teacher
+mc: B || A résumé summarizes || skills, education and experience | your hobbies only | your grades only | your family
+mc: B || Teamwork is an example of || an employability skill | a credential | a tool | a prerequisite
+mc: I || A RAP student earns || pay, apprenticeship hours and credits | only credits | nothing | only pay
+mc: I || Dual credit courses count for || high school and post-secondary | only high school | only university | no credit
+mc: I || The best résumé evidence is || a specific action and result | "I'm hard-working" | a list of hobbies | your age
+mc: I || A good reference is || a coach or supervisor who knows your work | a family member | a friend your age | anyone
+mc: I || Work Experience 15, 25 and 35 give || credit for supervised workplace learning | a driver's licence | a diploma | a trade certificate
+mc: C || Employers value reliability because || they need people they can trust to show up and follow through | it is easy to teach | it replaces skills | it is a legal requirement
+mc: C || Volunteering helps a résumé because it || shows skills and experience | is paid | replaces education | is required
+mc: C || A student who wants a head start in a trade should consider || RAP | skipping CTS | only academic courses | waiting until after university
+sa: B || Define employability skills. || Skills needed in any job, such as communication, teamwork and reliability.
+sa: B || What is a journeyperson? || A certified tradesperson who has completed an apprenticeship.
+sa: I || Describe the Registered Apprenticeship Program. || High school students start a trade apprenticeship, earning pay, hours and credits.
+sa: I || Write résumé evidence for one skill. || Answers vary.
+sa: I || Name two workplace learning options in Alberta. || RAP, work experience, Green Certificate, dual credit.
+sa: I || Why are references important? || They confirm your skills and character to employers.
+sa: C || Explain which workplace learning option suits you and why. || Answers vary.
+sa: C || Explain why employers value employability skills as much as technical skills. || Technical skills can be taught; reliability, communication and teamwork are essential in every job.

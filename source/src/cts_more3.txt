@@ -1,0 +1,173 @@
+=== CTS30.B1 0
+hook: In the workplace, you don't build what you want; you build what the client needs, on their timeline and budget. The most important design skill at the advanced level isn't technical. It's listening.
+sc: I can interview a client to find their needs | I can write clear, measurable requirements and a proposal | I can plan deliverables and deadlines
+v: client :: The person or organization a project is created for.
+v: requirements :: Specific, agreed needs a project must meet.
+v: proposal :: A document describing the plan, cost and timeline for a client to approve.
+v: deliverable :: A product or result promised to the client.
+v: deadline :: The date a deliverable is due.
+v: scope :: The agreed boundaries of what a project includes.
+ts: Working for a Client || Client project || How do professionals turn a client's needs into a project plan?
+tx: Client options: a teacher or school department (posters for an event, a catered lunch, shelving for a classroom, a website for a club), a local business or community group, or a simulated client card from the teacher. ¶ Part 1, Prepare (10 minutes): Write eight open questions. Examples: What problem are you trying to solve? Who will use it? What does success look like? What's your budget? When do you need it? What must it not be? Can you show examples you like? ¶ Part 2, Interview (15 minutes): Listen more than you talk. Take notes. Repeat back key points to confirm ("So you need 40 lunches, nut-free, by noon Friday?"). ¶ Part 3, Requirements (10 minutes): Turn notes into 5 to 8 measurable requirements and note what is out of scope. ¶ Part 4, Proposal (20 minutes): Write a one-page proposal: project summary, requirements, deliverables with deadlines, cost estimate, two design options with sketches, and a sign-off line. ¶ Scope creep: when clients add requests after agreement, record the change and its effect on cost and time before agreeing.
+src: Original client project task written for this lesson.
+st: Choose or receive a client | Prepare open interview questions | Interview and confirm needs | Write measurable requirements and scope | Write a proposal for approval
+org: Client need | Requirement (measurable) | Deliverable | Deadline
+an: What did you learn from the interview that you wouldn't have guessed? | Why confirm by repeating back? | How do you handle a client who wants more than the budget allows? | What is scope creep and why is it risky?
+pr: Conduct a client interview and submit interview notes, a requirements list with scope, and a signed (or teacher-approved) one-page proposal.
+ex: Open question || Rewrite "Do you want it blue?" as an open question. || Avoid yes/no || "What colours or feelings should the design have?" || Why are open questions better?
+ex: Requirement || Client: "Lunch for the staff meeting." Make it measurable. || Quantity, time, constraints || 40 nut-free lunches delivered by 11:45 a.m. Friday, under $8 each || What else should you ask?
+ex: Scope creep || The client now wants dessert too. What do you do? || Record change || Note the added cost and time, get approval before agreeing || Why not just say yes?
+ex: Deliverables || List deliverables for a club website. || Products promised || Home page, events page, contact form, admin guide || When is each due?
+p: B || What is a client? || The person or organization a project is created for.
+p: B || What are requirements? || Specific, agreed needs a project must meet.
+p: B || What is a proposal? || A document describing a plan, cost and timeline for approval.
+p: B || What is a deliverable? || A product or result promised to the client.
+p: B || What is scope? || The agreed boundaries of a project.
+p: I || Why use open questions in a client interview? || They draw out detailed needs.
+p: I || Why repeat back what the client says? || To confirm understanding.
+p: I || Name four parts of a proposal. || Summary, requirements, deliverables, cost, options, sign-off.
+p: I || What is scope creep? || Clients adding requests after the agreement.
+p: I || Why include two design options? || To give the client a choice and show alternatives.
+p: I || Why get a sign-off? || To confirm the client agrees before work starts.
+p: C || How should you handle scope creep? || Record the change, its cost and time, and get approval.
+p: C || Why should requirements be measurable? || So both sides can agree when the project is complete.
+p: C || What if a client's budget can't meet their wishes? || Explain trade-offs and offer options within budget.
+p: C || How does client work differ from personal projects? || Decisions serve the client's needs, not your preferences.
+mis: Assuming you know what the client wants without asking | Agreeing to every new request without discussing cost and time | Thinking the proposal is just paperwork
+et: Write two open interview questions. | Explain scope creep in one sentence.
+mc: B || A client is || who a project is made for | a type of tool | the teacher's assistant | a deliverable
+mc: B || A proposal describes || plan, cost and timeline for approval | only the final product | a résumé | a safety rule
+mc: B || A deliverable is || a result promised to the client | a delivery truck | a budget | a question
+mc: B || Scope means || the agreed boundaries of a project | a telescope | the deadline | the price
+mc: I || Which is an open question? || What does success look like for you? | Do you like blue? | Is Friday okay? | Do you want it big?
+mc: I || Repeating back key points helps || confirm understanding | waste time | annoy the client | replace notes
+mc: I || Scope creep is || new requests added after agreement | a safety hazard | a budget surplus | a design tool
+mc: I || A sign-off line shows || the client approves the proposal | the project is finished | the budget is spent | the teacher graded it
+mc: I || Which is a measurable requirement? || 40 lunches delivered by 11:45 a.m. | nice food | good service | enough lunches
+mc: C || When a client adds a request, you should || record it, explain cost and time, and get approval | refuse to talk | say yes immediately | ignore it
+mc: C || If the budget can't meet the client's wishes, you should || explain trade-offs and offer options | secretly use cheaper materials | stop the project | charge more without telling
+mc: C || Measurable requirements help because || both sides can agree when the work is complete | they are shorter | clients prefer numbers | they replace interviews
+sa: B || Define proposal. || A document describing the plan, cost and timeline for a client to approve.
+sa: B || What is a deliverable? || A product or result promised to the client.
+sa: I || Write three open questions for a client interview. || Answers vary.
+sa: I || Turn a vague client wish into a measurable requirement. || Answers vary.
+sa: I || What is scope creep? || New requests added after the agreement.
+sa: I || List the parts of a proposal. || Summary, requirements, deliverables and deadlines, cost, options, sign-off.
+sa: C || Explain how to handle a client who keeps adding requests. || Record changes, explain cost and time impacts, get approval.
+sa: C || Explain why listening is the most important client skill. || Projects succeed only if they meet the client's real needs.
+
+=== CTS30.C1 0
+hook: When you apply to a culinary program, a design school or an apprenticeship, they want proof you can do the work to industry standards. A portfolio of documented projects is that proof.
+sc: I can compare my work to industry standards and benchmarks | I can document projects with photos, process and reflection | I can assemble a professional portfolio
+v: industry standard :: The level of quality expected by professionals in a field.
+v: benchmark :: An example of excellent work used for comparison.
+v: quality assurance :: Systems that make sure work meets standards consistently.
+v: documentation :: Photos, notes and records showing how work was done.
+v: portfolio :: A curated collection of your best work as evidence of skill.
+v: reflection :: Thinking critically about what worked and what you'd change.
+ts: Prove It || Portfolio task || How do professionals show their work meets industry standards?
+tx: Part 1, Benchmarks (15 minutes): Find two professional examples in your CTS area (a published recipe photo, a cabinetmaker's joint, a fashion house's finishing, a professional website). List what makes them industry quality: precision, consistency, finish, function, presentation. ¶ Part 2, Compare (10 minutes): Place your best project beside a benchmark. Rate each quality on a 1–4 scale and identify the biggest gap. ¶ Part 3, Document (20 minutes): For two projects, create a portfolio entry: ¶ • Title and date ¶ • The brief or client ¶ • Three process photos (planning, making, finishing) plus one final photo on a clean background with good light ¶ • Skills and tools used ¶ • Standard met (for example "Joints flush within 0.5 mm") ¶ • Reflection: what worked, what you'd improve, what you learned ¶ Part 4, Assemble (10 minutes): Choose a format (digital slides, website, binder) and order: strongest project first. Add a cover page with your name, area and a two-line profile.
+src: Original portfolio task written for this lesson.
+st: Find two industry benchmarks | Compare your work and find the biggest gap | Document two projects with process and reflection | Photograph work professionally | Assemble the portfolio
+org: Quality | Benchmark | My work | Gap and action
+an: How close is your work to industry standard? | Why include process photos, not just final photos? | What does quality assurance look like in your CTS area? | Who might look at your portfolio, and what will they want to see?
+pr: Assemble a portfolio with at least three documented projects, each with process photos, standards met and a reflection, plus a benchmark comparison for one project.
+ex: Benchmark || What makes a professional cake photo "industry standard"? || Look closely || Even crumb, clean slices, consistent layers, good light, uncluttered plating || How does yours compare?
+ex: Gap || Your joints have 1 mm gaps; the benchmark has none. Action? || Specific step || Use a sharper saw and dry-fit before gluing || How will you measure improvement?
+ex: Documentation || Why include a planning photo? || Shows process || It proves you designed it and shows your thinking || What else could show process?
+ex: Reflection || Write a reflection sentence. || Worked, improve, learned || "The finish was smooth, but I'd plan more drying time; I learned patience matters as much as skill" || Why do reviewers value reflection?
+p: B || What is an industry standard? || The quality level expected by professionals.
+p: B || What is a benchmark? || An example of excellent work for comparison.
+p: B || What is a portfolio? || A curated collection of best work as evidence of skill.
+p: B || What is documentation? || Photos and records showing how work was done.
+p: B || What is reflection? || Thinking about what worked and what to change.
+p: I || What is quality assurance? || Systems ensuring work meets standards consistently.
+p: I || Name four qualities of industry-standard work. || Precision, consistency, finish, function, presentation.
+p: I || What should a portfolio entry include? || Title, brief, process photos, skills, standard met, reflection.
+p: I || How should final photos be taken? || Clean background, good light, clear focus.
+p: I || Why put your strongest project first? || First impressions matter.
+p: I || Why compare to a benchmark? || To see the gap between your work and professional quality.
+p: C || Why do post-secondary programs value process documentation? || It shows planning, problem-solving and learning, not just a result.
+p: C || How does quality assurance differ from inspection? || QA builds quality into the process; inspection checks results.
+p: C || How can a portfolio help in an apprenticeship interview? || It shows real skills and work habits.
+p: C || What makes a reflection honest and useful? || It names specific strengths, weaknesses and next steps.
+mis: Including only final photos | Comparing only to classmates, not industry | Writing reflections that only praise your work
+et: Name one industry benchmark in your CTS area. | List three things in a portfolio entry.
+mc: B || A benchmark is || an excellent example for comparison | a seat in a workshop | a tool | a budget
+mc: B || A portfolio is || a curated collection of best work | every project ever made | a résumé only | a binder of notes
+mc: B || Documentation includes || photos and records of how work was done | only the final product | the teacher's marks | a timetable
+mc: B || Reflection means || thinking about what worked and what to change | taking photos | measuring | cleaning
+mc: I || Quality assurance means || systems that keep work consistently at standard | checking only once | lowering standards | marketing
+mc: I || Process photos show || planning, making and finishing | only the final product | other people's work | tools for sale
+mc: I || The strongest project in a portfolio should go || first | last | in the middle | nowhere
+mc: I || A good final photo has || a clean background and good light | a messy bench | flash glare | blurry focus
+mc: I || Comparing to a benchmark reveals || the gap to professional quality | your grade | the price | your classmates' work
+mc: C || Programs value process documentation because it shows || planning and problem-solving | only results | expensive tools | speed
+mc: C || QA differs from inspection because QA || builds quality into the process | checks finished products only | is optional | replaces standards
+mc: C || A useful reflection || names strengths, weaknesses and next steps | only praises | only criticizes | lists tools
+sa: B || Define industry standard. || The quality level expected by professionals in a field.
+sa: B || What is a portfolio? || A curated collection of best work showing skill.
+sa: I || Compare your work to a benchmark and name the biggest gap. || Answers vary.
+sa: I || List the parts of a portfolio entry. || Title, brief, process photos, skills, standard met, reflection.
+sa: I || Explain how to photograph a project for a portfolio. || Clean background, even light, clear focus.
+sa: I || What is quality assurance? || Systems ensuring work meets standards consistently.
+sa: C || Explain why process documentation matters to reviewers. || It shows thinking, planning and learning.
+sa: C || Write a reflection for one of your projects. || Answers vary.
+
+=== CTS30.D1 0
+hook: An electrician, a Red Seal chef, a certified dental assistant and a network engineer all have something in common: a credential that tells employers they meet a recognized standard. Knowing which credential your career needs is the first step to getting it.
+sc: I can distinguish certificates, diplomas, degrees and trade certification | I can research credentials and post-secondary programs for a career | I can build a career action plan
+v: credential :: A qualification that shows you meet a recognized standard.
+v: certification :: Official recognition, often by exam, that you meet professional standards.
+v: Red Seal :: An interprovincial standard for skilled trades in Canada, letting tradespeople work across provinces.
+v: diploma :: A credential usually from a college or polytechnic, typically two years.
+v: degree :: A credential from a university, typically four years for a bachelor's.
+v: career action plan :: A step-by-step plan to reach a career goal.
+ts: Credential Quest || Career research || What credentials and programs lead to the career I want?
+tx: Types of credentials: ¶ • Certificate: short program (months to one year), for example a food safety certificate or a college certificate. ¶ • Industry certification: for example Food Safe, WHMIS, CompTIA A+, Adobe Certified Professional, First Aid. ¶ • Trade certification: apprenticeship + exams leads to journeyperson certification; many trades also offer the Red Seal endorsement. ¶ • Diploma: two-year programs at polytechnics and colleges (for example NAIT and SAIT in Alberta). ¶ • Degree: university bachelor's (usually four years), then master's or professional degrees. ¶ Part 1, Choose (5 minutes): Pick one career connected to your CTS area. ¶ Part 2, Research (25 minutes): Using alis.alberta.ca and post-secondary websites, find: credential required, at least two programs that offer it (name, length, admission requirements, cost), certifications that would help, and whether Red Seal applies. ¶ Part 3, Compare (10 minutes): Compare two pathways to the same career (for example apprenticeship vs diploma). ¶ Part 4, Action plan (10 minutes): Write steps from now to employment: high school courses, certifications to get now, applications, dates.
+src: Original career research task written for this lesson; credential information summarized from alis.alberta.ca and Red Seal Program sources.
+st: Learn credential types | Choose a career | Research required credentials and programs | Compare two pathways | Write a career action plan
+org: Pathway | Credential | Length and cost | Admission requirements | Pros and cons
+an: Which pathway fits your learning style and finances? | Why does Red Seal matter for tradespeople? | Which certifications could you earn while still in high school? | How might your plan change if you don't get into your first choice?
+pr: Submit a credential research report and a career action plan with dated steps from Grade 12 to your first job in the field.
+ex: Credential type || Which is longer, a diploma or a bachelor's degree? || Typical length || A bachelor's degree (about four years vs two) || Which suits hands-on learners?
+ex: Red Seal || Why get a Red Seal endorsement? || Mobility || It lets a tradesperson work in other provinces without re-certifying || Name a Red Seal trade.
+ex: Certification now || Name a certification a CTS Foods student could earn in high school. || Industry certification || A food safety certificate (for example Alberta's food handler training) || How does it help get a job?
+ex: Action plan step || Write one dated step for a future electrician. || Specific and dated || "By March: apply to RAP with a licensed electrical contractor" || What comes next?
+p: B || What is a credential? || A qualification showing you meet a standard.
+p: B || What is certification? || Official recognition you meet professional standards.
+p: B || What is a diploma? || A credential from a college or polytechnic, usually two years.
+p: B || What is a degree? || A university credential, usually four years for a bachelor's.
+p: B || What is Red Seal? || An interprovincial standard for skilled trades in Canada.
+p: I || Name two Alberta polytechnics. || NAIT and SAIT.
+p: I || Name two industry certifications. || Food Safe, WHMIS, First Aid, CompTIA A+ or others.
+p: I || How does someone get trade certification? || Apprenticeship hours, technical training and exams.
+p: I || What is a career action plan? || A step-by-step plan to reach a career goal.
+p: I || What information should you research about a program? || Name, length, admission requirements, cost.
+p: I || Where can you research Alberta occupations? || alis.alberta.ca.
+p: C || Compare an apprenticeship and a diploma pathway. || Apprenticeship is paid on-the-job learning; diploma is classroom-based study before work.
+p: C || Why have a backup plan? || Admission or circumstances can change.
+p: C || Why might a certification help even if not required? || It shows initiative and skills to employers.
+p: C || How can high school CTS courses shorten a pathway? || Through RAP hours, dual credit or certifications earned early.
+mis: Thinking university is the only route to a good career | Thinking all credentials take years | Thinking trade certification is only valid in one province
+et: Name the credential needed for your chosen career. | Write one dated step from your action plan.
+mc: B || A credential shows || you meet a recognized standard | your age | your address | your hobbies
+mc: B || A diploma is usually from || a college or polytechnic | a high school only | an employer | a sports team
+mc: B || Red Seal applies to || skilled trades | university degrees | high school courses | sports coaching
+mc: B || A bachelor's degree typically takes || about four years | two weeks | six months | ten years
+mc: I || NAIT and SAIT are || Alberta polytechnics | universities in Ontario | trade unions | apprenticeship exams
+mc: I || Trade certification is earned through || apprenticeship hours, training and exams | a single online quiz | a high school diploma only | volunteering
+mc: I || Which is an industry certification? || WHMIS | a bachelor's degree | a high school credit | a résumé
+mc: I || A career action plan includes || dated steps to a career goal | only your dream job | your marks | your hobbies
+mc: I || The Red Seal endorsement lets tradespeople || work across provinces | skip apprenticeship | avoid exams | work only in Alberta
+mc: C || An apprenticeship differs from a diploma because it is || mainly paid on-the-job learning | only classroom study | always longer | not a credential
+mc: C || A backup plan is important because || admission and circumstances can change | it guarantees success | it replaces research | employers require it
+mc: C || CTS courses can shorten a pathway through || RAP hours, dual credit and certifications | skipping high school | avoiding exams | lower standards
+sa: B || Define credential. || A qualification showing you meet a recognized standard.
+sa: B || What is Red Seal? || An interprovincial standard for skilled trades.
+sa: I || Compare a certificate, a diploma and a degree. || Certificate is short; diploma about two years at college; degree about four years at university.
+sa: I || Name two certifications you could earn in high school. || Answers vary.
+sa: I || Describe the steps to becoming a journeyperson. || Apprenticeship hours, technical training, exams.
+sa: I || Name two programs that lead to your chosen career. || Answers vary.
+sa: C || Compare two pathways to the same career. || Answers vary.
+sa: C || Write three dated steps of your career action plan. || Answers vary.

@@ -1,0 +1,173 @@
+=== CTS10.B1 0
+hook: A carpenter's saying goes: "Measure twice, cut once." In every CTS area, from foods to construction to fashion, the plan is what turns materials into a finished product without wasting time or money.
+sc: I can read a project plan and materials list | I can measure accurately and follow steps in order | I can track my progress and solve problems as I work
+v: project plan :: A document listing the steps, materials and tools needed to complete a project.
+v: materials list :: A list of every material and quantity needed.
+v: procedure :: Step-by-step instructions in order.
+v: measurement :: Finding size, amount or quantity using tools such as rulers or measuring cups.
+v: tolerance :: The allowable difference from an exact measurement.
+v: finish :: The final surface treatment or presentation of a product.
+ts: Follow the Plan || Lab or shop task || How do I follow a plan to complete a quality project?
+tx: Choose a starter project for your CTS area (teacher provides the plan): ¶ • Foods: a batch of muffins (recipe = plan) ¶ • Construction: a small wooden box or bookend ¶ • Fashion: a drawstring bag ¶ • Design or communications: a printed event poster from a template ¶ • Computing: a simple webpage from a wireframe ¶ Part 1, Read the whole plan (10 minutes): Before touching anything, read every step. Highlight safety notes, circle unfamiliar words and look them up. ¶ Part 2, Gather (10 minutes): Check off each item on the materials and tools list. Mise en place (everything in place) is used by chefs and works in every shop. ¶ Part 3, Measure (10 minutes): Practise with the right tools: dry vs liquid measuring cups, tape measure to 1 mm, seam allowance gauge. Know the tolerance: a box joint may allow ±1 mm, a muffin recipe ±5 g of flour. ¶ Part 4, Build (40 minutes or across classes): Follow steps in order. Tick each step on a progress log with the time and any problems. ¶ Part 5, Finish and clean (10 minutes): Apply the finish, clean the work area and return tools.
+src: Original lab task written for this lesson.
+st: Read the whole plan first | Gather materials and tools | Measure accurately within tolerance | Follow steps and log progress | Finish the product and clean up
+org: Step | Done (✓) | Time | Problem and solution
+an: Why read the whole plan before starting? | What happened when a measurement was off? | How did the progress log help you? | Why is clean-up part of the project?
+pr: Complete your starter project following the plan, and submit the progress log with at least two problems you solved.
+ex: Read first || Why read every step before starting a recipe? || Surprises || Some steps need preparation, like preheating the oven or soaking materials || What could go wrong if you don't?
+ex: Measuring || How do you measure flour accurately? || Spoon and level || Spoon flour into a dry measuring cup and level it with a straight edge || Why not scoop?
+ex: Tolerance || A plan says 150 mm ± 1 mm. Is 151.5 mm acceptable? || 149 to 151 mm || No, it's outside the tolerance || How would you fix it?
+ex: Problem log || A seam is crooked. Log it. || Problem, cause, fix || Step 6: seam crooked; didn't use guide; unpicked and re-sewed with the seam guide || What did you learn?
+p: B || What is a project plan? || A document listing steps, materials and tools.
+p: B || What is a materials list? || A list of every material and quantity needed.
+p: B || What is a procedure? || Step-by-step instructions in order.
+p: B || What does "measure twice, cut once" mean? || Check measurements before cutting to avoid waste.
+p: B || What does mise en place mean? || Everything in place before you start.
+p: I || What is tolerance? || The allowable difference from an exact measurement.
+p: I || Why use a progress log? || To track steps, time and problems.
+p: I || How do you measure liquids accurately? || In a liquid measuring cup at eye level.
+p: I || Name two reasons to read the whole plan first. || Spot safety notes, prepare materials, avoid surprises.
+p: I || A plan says 25 cm ± 0.5 cm. Give the acceptable range. || 24.5 cm to 25.5 cm.
+p: I || What is a finish? || The final surface treatment or presentation.
+p: C || Why might a professional plan have tighter tolerances? || Parts must fit precisely or meet safety standards.
+p: C || What should you do if a step doesn't work as written? || Stop, check the plan, ask, and log the problem and solution.
+p: C || How does cleaning up connect to workplace skills? || Workplaces expect safe, organized spaces.
+p: C || Why might following steps out of order ruin a project? || Some steps depend on earlier ones being complete.
+mis: Skipping straight to building without reading the plan | Thinking small measurement errors don't matter | Thinking clean-up isn't part of the job
+et: Name two things to do before starting a project. | Give the acceptable range for 100 mm ± 2 mm.
+mc: B || A project plan includes || steps, materials and tools | only the final picture | the price only | the teacher's name
+mc: B || "Measure twice, cut once" helps || avoid wasting materials | work faster without checking | skip planning | cut more
+mc: B || A procedure is || step-by-step instructions | a list of tools only | a final product | a safety sign
+mc: B || Mise en place means || everything in place before starting | clean up after | a French recipe | a kind of tool
+mc: I || Tolerance is || the allowable difference from a measurement | the time a project takes | a safety rule | a material
+mc: I || For 150 mm ± 1 mm, which is acceptable? || 150.5 mm | 152 mm | 148 mm | 155 mm
+mc: I || Flour should be measured by || spooning and levelling in a dry cup | packing it down | using a liquid cup | guessing
+mc: I || A progress log records || steps, time and problems | only the final mark | the materials price | classmates' names
+mc: I || Reading the whole plan first helps you || spot safety notes and preparation steps | finish without measuring | skip steps | avoid cleaning
+mc: C || If a step doesn't work as written, you should || stop, check the plan, ask and log the fix | guess and continue | skip the step | start over without asking
+mc: C || Professional plans often have tighter tolerances because || parts must fit precisely or be safe | they are older | materials are cheaper | workers prefer it
+mc: C || Following steps out of order can cause problems because || later steps often depend on earlier ones | it is faster | it saves materials | plans are optional
+sa: B || Define project plan. || A document listing steps, materials and tools.
+sa: B || What is mise en place? || Having everything ready and in place before starting.
+sa: I || Give the acceptable range for 50 mm ± 0.5 mm. || 49.5 mm to 50.5 mm.
+sa: I || Explain how to measure flour accurately. || Spoon into a dry cup and level off.
+sa: I || Why keep a progress log? || To track steps and record problems and solutions.
+sa: I || Name two things to check before starting. || Safety notes, materials, tools, unfamiliar words.
+sa: C || Describe a problem you solved during your project. || Answers vary.
+sa: C || Explain why following a plan is a workplace skill. || Employers need work done accurately, safely and efficiently.
+
+=== CTS10.C1 0
+hook: Before a product reaches a store shelf, someone checks it against a list of requirements. In a CTS lab, that someone is you. Evaluating your own work honestly is what makes the next project better.
+sc: I can use criteria and a rubric to evaluate a product | I can give and use specific feedback | I can plan realistic improvements
+v: criteria :: Standards used to judge quality.
+v: rubric :: A scoring guide that describes levels of quality for each criterion.
+v: self-evaluation :: Judging your own work against criteria.
+v: feedback :: Information about strengths and areas to improve.
+v: quality :: How well a product meets its standards.
+v: improvement plan :: Specific steps to make the next product better.
+ts: Is It Good Enough? || Evaluation task || How do I judge my work fairly and make it better?
+tx: Part 1, Criteria (10 minutes): As a class, list criteria for your project type. Example for a wooden box: accurate dimensions (±1 mm), square corners, tight joints, smooth finish with no tear-out, safe (no splinters or sharp edges). Example for muffins: even size, golden colour, domed tops, moist crumb, cooked through, clean presentation. ¶ Part 2, Rubric (10 minutes): Build a four-level rubric for each criterion: 4 Exceeds, 3 Meets, 2 Approaching, 1 Beginning. Describe what each level looks like. ¶ Part 3, Self-evaluate (10 minutes): Score your own project with evidence ("Corners measured 89° and 90°, so Meets"). ¶ Part 4, Peer feedback (15 minutes): In pairs, use "Glow and Grow": one specific strength and one specific suggestion, linked to criteria. ¶ Part 5, Improvement plan (10 minutes): Choose the two lowest criteria and write one action for each ("Use a try square before gluing to check 90°").
+src: Original evaluation task written for this lesson.
+st: Build criteria for the product | Write a four-level rubric | Self-evaluate with evidence | Give and receive Glow and Grow feedback | Write an improvement plan
+org: Criterion | My score (1–4) | Evidence | Improvement action
+an: Was your self-score higher or lower than your peer's? Why? | Why is evidence important in evaluation? | What makes feedback useful? | Which improvement will have the biggest impact?
+pr: Submit a completed rubric with self- and peer scores, evidence for each criterion, and a two-step improvement plan.
+ex: Criterion || Turn "looks good" into a criterion for a T-shirt print. || Specific and measurable || Print is centred within 5 mm and has no smudges or gaps || How would you measure it?
+ex: Evidence || Support a score of 2 for "even muffin size." || Measure || Muffins ranged from 55 g to 80 g, so sizes were uneven || What would cause this?
+ex: Glow and Grow || Write feedback on a poster. || Strength + suggestion || Glow: title is clear from 3 m away. Grow: the date is hard to find; make it larger || Why link to criteria?
+ex: Improvement || The finish was rough. Write an action. || Specific step || Sand with 120 then 220 grit along the grain before finishing || How will you know it worked?
+p: B || What are criteria? || Standards used to judge quality.
+p: B || What is a rubric? || A scoring guide describing levels of quality.
+p: B || What is self-evaluation? || Judging your own work against criteria.
+p: B || What is feedback? || Information about strengths and areas to improve.
+p: B || What does "Glow and Grow" mean? || A strength and a suggestion.
+p: I || Why must criteria be specific? || So quality can be judged fairly and consistently.
+p: I || What makes feedback useful? || It is specific, linked to criteria and actionable.
+p: I || Why give evidence with a score? || It justifies the score and shows what to fix.
+p: I || What is an improvement plan? || Specific steps to make the next product better.
+p: I || Name two criteria for a sewn bag. || Even seams, secure stitching, correct size, neat finish.
+p: I || How can you measure "square corners"? || With a try square or by checking 90°.
+p: C || Why might self-scores differ from peer scores? || People see their own work differently; evidence helps resolve it.
+p: C || Why focus improvement on the two lowest criteria? || They have the biggest effect on overall quality.
+p: C || How do industries use criteria like a rubric? || Quality control checks products against specifications.
+p: C || Rewrite "It's bad" into useful feedback. || For example: the joints have gaps over 1 mm; clamp longer while gluing.
+mis: Thinking evaluation means only finding faults | Giving vague feedback like "nice job" | Scoring based on effort instead of evidence
+et: Write one specific criterion for your project. | Give one Glow and one Grow for a classmate.
+mc: B || Criteria are || standards used to judge quality | the materials list | the tools | the deadline
+mc: B || A rubric || describes levels of quality | lists tools | is a safety sign | is a type of joint
+mc: B || Self-evaluation means || judging your own work | getting a teacher's mark | copying a classmate | skipping review
+mc: B || "Glow and Grow" gives || a strength and a suggestion | two strengths | two criticisms | a score only
+mc: I || Which is the most specific criterion? || Corners measure 90° ± 1° | Looks nice | Good job | Well made
+mc: I || Useful feedback is || specific and linked to criteria | general praise | personal | very long
+mc: I || A score should be supported by || evidence | effort | friendship | time spent
+mc: I || An improvement action for a rough finish is || sand with finer grit along the grain | paint over it | ignore it | start a new project
+mc: I || Which tool checks a square corner? || try square | measuring cup | brayer | sewing gauge
+mc: C || Self-scores and peer scores differ. The best response is || compare evidence against criteria | average them | ignore the peer | choose the higher one
+mc: C || Focusing on the two lowest criteria helps because || they limit overall quality most | they are easiest | they are hidden | they don't matter
+mc: C || In industry, a rubric-like checklist is called || quality control | marketing | budgeting | branding
+sa: B || Define rubric. || A scoring guide describing levels of quality for each criterion.
+sa: B || What are criteria? || Standards used to judge quality.
+sa: I || Write a specific criterion for a product in your CTS area. || Answers vary.
+sa: I || Give an example of Glow and Grow feedback. || Answers vary.
+sa: I || Why should scores include evidence? || To justify them and show what to improve.
+sa: I || Write an improvement action for a problem in your project. || Answers vary.
+sa: C || Explain how evaluation connects to quality control in industry. || Products are checked against standards before release.
+sa: C || Explain why effort alone shouldn't decide quality. || Quality depends on meeting criteria, not time spent.
+
+=== CTS10.D1 0
+hook: The job you'll have in 15 years might not exist yet. But the skills you build now, in kitchens, shops, studios and labs, connect to whole families of careers. Alberta organizes them into five CTS clusters.
+sc: I can name the five CTS clusters and courses in each | I can connect my interests to occupations | I can map a CTS pathway toward a career
+v: cluster :: A group of related CTS occupational areas.
+v: pathway :: A planned sequence of courses leading toward a goal.
+v: credit :: A unit earned for completing a high school course; CTS courses are usually 1 credit each.
+v: occupation :: A type of job or work.
+v: prerequisite :: A course that must be completed before another.
+v: interest inventory :: A survey that matches your interests to career areas.
+ts: Map My Path || Career exploration || How can CTS courses connect my interests to careers?
+tx: The five CTS clusters in Alberta: ¶ • Business, Administration, Finance and Information Technology (BIT): computing science, financial management, enterprise and innovation, information processing, networking ¶ • Health, Recreation and Human Services (HRH): foods, cosmetology, health care, human and social services, recreation leadership, child development ¶ • Media, Design and Communication Arts (MDC): communication technology, design studies, fashion studies ¶ • Natural Resources (NAT): agriculture, environmental stewardship, forestry, primary resources, wildlife ¶ • Trades, Manufacturing and Transportation (TMT): construction technologies, electro-technologies, fabrication, mechanics, logistics ¶ Courses are 1 credit each at introductory (1000), intermediate (2000) and advanced (3000) levels; some have prerequisites. ¶ Part 1, Interest inventory (10 minutes): Rate 20 activities (fixing things, helping people, designing, working outdoors, organizing data). ¶ Part 2, Cluster match (10 minutes): Find your top two clusters. ¶ Part 3, Occupation research (20 minutes): Use alis.alberta.ca (Alberta Learning Information Service) to research two occupations: duties, education needed, wages, outlook. ¶ Part 4, Pathway (10 minutes): Map CTS courses from introductory to advanced that lead toward one occupation.
+src: Original activity written for this lesson; cluster information summarized from Alberta Education CTS program materials and alis.alberta.ca.
+st: Learn the five CTS clusters | Complete an interest inventory | Match interests to clusters | Research two occupations on ALIS | Map a CTS pathway
+org: Occupation | Cluster | Education needed | CTS courses that connect
+an: Were your top clusters what you expected? | What surprised you about the occupations you researched? | Why do some CTS courses have prerequisites? | How can one CTS course connect to several careers?
+pr: Create a one-page career pathway map: interest summary, two occupations with ALIS research, and a sequence of CTS courses from introductory to advanced.
+ex: Cluster match || A student loves cooking and helping people. Which cluster? || Match interests || Health, Recreation and Human Services (foods) || Name an occupation.
+ex: Credits || A student completes four 1-credit CTS courses. How many credits? || 4 × 1 || 4 credits || How many credits are needed to graduate in Alberta?
+ex: Prerequisite || Why might Fabrication 2000-level courses require 1000-level ones? || Skills build || Intermediate courses assume safety and basic skills learned earlier || What could happen without them?
+ex: Occupation research || Where can you find Alberta wages and job outlooks? || Official source || alis.alberta.ca (occupational profiles) || What else does a profile show?
+p: B || How many CTS clusters are there? || Five.
+p: B || What is a pathway? || A planned sequence of courses toward a goal.
+p: B || How many credits is a typical CTS course? || One.
+p: B || What is a prerequisite? || A course you must complete first.
+p: B || What does ALIS stand for? || Alberta Learning Information Service.
+p: I || Name the five CTS clusters. || BIT, HRH, MDC, NAT, TMT.
+p: I || Which cluster includes construction and mechanics? || Trades, Manufacturing and Transportation.
+p: I || Which cluster includes fashion and design? || Media, Design and Communication Arts.
+p: I || What do 1000, 2000 and 3000 levels mean? || Introductory, intermediate and advanced.
+p: I || Name two things an ALIS occupational profile shows. || Duties, education, wages, outlook.
+p: I || Which cluster includes agriculture and forestry? || Natural Resources.
+p: C || Why might a student take courses in two clusters? || Many careers combine skills, like business and design.
+p: C || How can a CTS course connect to university as well as trades? || Skills like computing or health connect to degree programs too.
+p: C || Why use an interest inventory? || It suggests career areas you might not have considered.
+p: C || Why check the job outlook before choosing a career? || To know whether jobs will be available.
+mis: Thinking CTS courses only lead to trades | Thinking you must choose one career now | Thinking interests never change
+et: Name your top two clusters. | Name one occupation and one CTS course connected to it.
+mc: B || How many CTS clusters are there in Alberta? || five | three | ten | seven
+mc: B || A prerequisite is || a course needed before another | a final exam | a type of credit | a job
+mc: B || Most CTS courses are worth || 1 credit | 5 credits | 10 credits | no credits
+mc: B || A pathway is || a planned sequence of courses | a hallway | a single course | a test
+mc: I || Foods and cosmetology belong to || Health, Recreation and Human Services | Natural Resources | Trades, Manufacturing and Transportation | Business and IT
+mc: I || Construction and fabrication belong to || Trades, Manufacturing and Transportation | Media, Design and Communication Arts | Health and Human Services | Natural Resources
+mc: I || Computing science belongs to || Business, Administration, Finance and IT | Natural Resources | Health and Human Services | Trades
+mc: I || A 3000-level CTS course is || advanced | introductory | intermediate | not for credit
+mc: I || ALIS provides || occupational profiles with wages and outlook | CTS textbooks | school timetables | student marks
+mc: C || Taking courses in two clusters can help because || many careers combine skills from different areas | it is required | it avoids prerequisites | it gives no credits
+mc: C || CTS courses can lead to || trades, college and university pathways | only trades | only university | nothing after high school
+mc: C || Checking job outlook helps a student || see if jobs will be available | choose a timetable | earn credits | skip prerequisites
+sa: B || Name the five CTS clusters. || BIT, HRH, MDC, NAT, TMT (full names accepted).
+sa: B || What is a credit? || A unit earned for completing a high school course.
+sa: I || Match an interest to a cluster and occupation. || Answers vary.
+sa: I || Explain introductory, intermediate and advanced CTS levels. || 1000, 2000 and 3000 levels building skills in sequence.
+sa: I || Name two things to research about an occupation. || Duties, education, wages, outlook.
+sa: I || Why do some courses have prerequisites? || Advanced courses build on earlier skills and safety training.
+sa: C || Map a CTS pathway toward a career you're interested in. || Answers vary.
+sa: C || Explain how CTS courses connect to more than one type of post-secondary path. || Skills apply to apprenticeships, college and university programs.
