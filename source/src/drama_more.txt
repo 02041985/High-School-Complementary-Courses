@@ -1,0 +1,175 @@
+=== DR10.B1 0
+hook: The golden rule of improv comes from comedy theatres like The Second City in Toronto and Chicago: "Yes, and." Say no to your partner's idea and the scene dies. Say "yes, and" and the scene can go anywhere.
+sc: I can accept my partner's offers | I can build on offers by adding new information | I can commit to a character with a clear objective
+v: improvisation :: Acting without a script, creating the scene in the moment.
+v: offer :: Anything a performer says or does that gives the scene information.
+v: accept :: To treat a partner's offer as true in the scene.
+v: block :: To reject or ignore an offer, which stops the scene.
+v: objective :: What a character wants in a scene.
+v: commitment :: Fully believing in and playing your choices.
+ts: Yes, And || Scene work || How do improvisers build a scene together without a script?
+tx: Warm-up, Word at a time story (5 minutes): In a circle, tell a story one word per person. Keep it moving. ¶ Game 1, "No, but" vs "Yes, and" (10 minutes): In pairs, Partner A suggests a plan for a trip. Round 1: B answers every line with "No, but..." Round 2: B answers every line with "Yes, and..." Compare how each round felt. ¶ Game 2, Gift giving (10 minutes): A mimes handing B a box. B opens it and names what's inside ("A live penguin!"). A accepts and adds ("I knew you'd love him, he needs feeding every hour"). ¶ Game 3, Objective scenes (20 minutes): Pairs draw a location card (bus stop, hospital waiting room, campsite) and each secretly draws an objective (get the other person to leave, borrow money, confess a secret). Improvise for two minutes using "Yes, and," pursuing your objective without blocking. ¶ Debrief: Which offers moved the scene forward? Where did someone block?
+src: Original activities written for this lesson; "yes, and" is a widely used improvisation principle.
+st: Warm up with a word-at-a-time story | Compare "No, but" and "Yes, and" | Accept and build gift offers | Improvise scenes with secret objectives | Debrief offers and blocks
+org: Scene | Offers made | Accepted or blocked | Objective and tactics
+an: How did "No, but" change the energy of the scene? | Which offer in your scene was the most useful? Why? | How can you pursue your objective without blocking your partner? | What makes an audience believe an improvised scene?
+pr: Perform a three-minute improvised scene with a partner from audience suggestions, then write a short reflection identifying two offers you accepted and how you built on them.
+ex: Accepting || A says, "Captain, the ship is sinking!" What is an accepting response? || Treat it as true | Add information || "Then grab the treasure map, I'm not leaving without it!" || What would a block sound like?
+ex: Blocking || Identify the block: A: "Your dragon looks hungry." B: "I don't have a dragon." || B denies the offer || B blocked; the scene stalls || How could B have accepted?
+ex: Objective || Your objective is to borrow money. Give a tactic. || Choose a verb || Flatter: "You're the most generous person I know..." || What tactic could you switch to if this fails?
+ex: Commitment || Why should you commit to a silly offer? || Belief makes it work || Full commitment makes the audience believe and enjoy the scene || What happens if you laugh and break character?
+p: B || What is improvisation? || Acting without a script.
+p: B || What is an offer? || Anything said or done that gives the scene information.
+p: B || What does "Yes, and" mean? || Accept the offer and add to it.
+p: B || What is blocking an offer? || Rejecting or ignoring it.
+p: B || What is an objective? || What a character wants.
+p: I || Why does blocking stop a scene? || It removes information and leaves nowhere to go.
+p: I || Give an example of building on the offer "It's freezing in here." || "Because you left the igloo door open again!"
+p: I || What is a tactic? || The way a character tries to get what they want.
+p: I || How can objectives create conflict without blocking? || Characters want different things but accept each other's reality.
+p: I || What is commitment in improv? || Fully believing in and playing your choices.
+p: I || Why listen more than you talk in improv? || Your partner's offers give you material.
+p: C || How is disagreeing in character different from blocking? || A character can disagree while still accepting the facts of the scene.
+p: C || Why does improv help scripted actors? || It builds listening, spontaneity and truthful reactions.
+p: C || What should you do if your partner makes an offer you didn't expect? || Accept it and find a way to build on it.
+p: C || How can status change during an improvised scene? || One character gains or loses power through actions and words.
+mis: Thinking improv means being funny | Thinking a character can't disagree without blocking | Planning a whole scene in advance instead of listening
+et: Respond with "Yes, and" to: "This is the strangest restaurant I've ever seen." | Name one objective and one tactic.
+mc: B || Improvisation is || acting without a script | memorizing lines | directing a play | building sets
+mc: B || An offer is || information given to the scene | a payment | a prop only | a costume
+mc: B || "Yes, and" means || accept and add | refuse politely | stop the scene | repeat the offer
+mc: B || An objective is || what a character wants | the stage area | a costume | a lighting cue
+mc: I || Which line blocks the offer "Let's climb the mountain"? || "There's no mountain." | "Yes, and I brought ropes." | "Only if we reach the top by sunset." | "My boots are ready."
+mc: I || A tactic is || how a character tries to get what they want | a type of stage | a prop | a line of dialogue only
+mc: I || Commitment in improv means || fully believing in your choices | memorizing a script | avoiding risks | laughing at mistakes
+mc: I || Why does blocking hurt a scene? || It removes information and stalls the action | It adds too much detail | It makes the scene longer | It is required
+mc: I || The best way to find your next line in improv is to || listen to your partner's offer | plan it before the scene | look at the audience | wait for the director
+mc: C || A character can disagree without blocking by || accepting the facts but wanting something different | denying the location | ignoring the partner | leaving the stage
+mc: C || Improv helps scripted actors mainly by building || listening and truthful reactions | memory for lines | stage lighting skills | costume design
+mc: C || If your partner makes an unexpected offer, you should || accept it and build on it | correct them | restart the scene | ignore it
+sa: B || Define offer. || Information given to the scene by a performer.
+sa: B || What does blocking mean in improv? || Rejecting or ignoring an offer.
+sa: I || Build on the offer: "Doctor, my nose is glowing." || Answers vary; accepts and adds.
+sa: I || Explain the difference between an objective and a tactic. || The objective is what you want; a tactic is how you try to get it.
+sa: I || Why is commitment important in improv? || It makes the scene believable and engaging.
+sa: I || Give one reason "No, but" scenes struggle. || Ideas keep getting rejected so the scene can't build.
+sa: C || Explain how a character can disagree without blocking. || Accept the reality of the scene but pursue a different objective.
+sa: C || Describe how improv skills help in scripted scenes. || Listening, reacting truthfully and recovering from mistakes.
+
+=== DR10.C1 0
+hook: Imagine a scene where the most important moment happens with the actor's back to the audience. Nobody sees it. Blocking, the planned movement of actors on stage, makes sure the audience sees what matters.
+sc: I can name the nine stage areas | I can follow and write blocking using stage directions | I can move on stage so the audience can see and hear me
+v: blocking :: The planned movement and positions of actors on stage.
+v: upstage :: The part of the stage farthest from the audience.
+v: downstage :: The part of the stage closest to the audience.
+v: stage left :: The actor's left when facing the audience.
+v: cheat out :: To turn the body partly toward the audience while still relating to other actors.
+v: sightline :: The audience's line of view to the stage.
+v: proscenium :: A stage framed by an arch, with the audience on one side.
+ts: Map the Stage || Scene work || How do actors use stage areas and blocking so the audience can follow the story?
+tx: Stage map (proscenium stage): The stage is divided into nine areas, named from the actor's point of view facing the audience: ¶ Upstage Right (UR) | Upstage Centre (UC) | Upstage Left (UL) ¶ Centre Right (CR) | Centre (C) | Centre Left (CL) ¶ Downstage Right (DR) | Downstage Centre (DC) | Downstage Left (DL) ¶ Why "upstage"? Old stages were raked (sloped up away from the audience), so walking away meant walking up. ¶ Activity 1, Stage director says (10 minutes): The teacher calls areas; everyone moves there. Speed up. ¶ Activity 2, Blocking notation (10 minutes): Learn shorthand: X = cross, DSL = downstage left, Ent. = enter, Ex. = exit. Example: "X DL to window" means cross to downstage left to the window. ¶ Activity 3, Block a scene (25 minutes): In pairs, take a short two-person scene. Write blocking in the margin for each line. Rules: strongest moments downstage or centre; cheat out; don't stand in a straight line with your partner; motivate every move. Run it for another pair who checks sightlines.
+src: Original activities written for this lesson; stage terminology from standard theatre practice.
+st: Learn the nine stage areas | Play stage director says | Learn blocking shorthand | Block a short scene in the script margin | Run it and check sightlines
+org: Line | Blocking notation | Motivation for the move | Sightline check
+an: Why are stage directions given from the actor's view, not the audience's? | Where on stage do moments feel strongest? Why? | What makes a move feel motivated rather than random? | How did cheating out change what the audience could see?
+pr: Perform a blocked two-person scene of about two minutes and submit the script with blocking notation and motivations in the margin.
+ex: Stage left || You face the audience and step to your left. Which way did you go? || Actor's view || Stage left || Which side is that for the audience?
+ex: Upstage || Why is the back of the stage called upstage? || Raked stages || Old stages sloped upward away from the audience || What does it mean to "upstage" another actor?
+ex: Notation || Translate "Ent. UR, X DC." || Enter | Cross || Enter from upstage right and cross to downstage centre || Why cross to DC?
+ex: Cheat out || Two actors talk face to face in profile. How do you improve the sightline? || Open body || Both cheat out, turning partly to the audience || How far can you turn and still seem to talk to each other?
+p: B || What is blocking? || The planned movement of actors on stage.
+p: B || Which area is closest to the audience? || Downstage.
+p: B || Which area is farthest from the audience? || Upstage.
+p: B || Stage left is whose left? || The actor's, facing the audience.
+p: B || What does X mean in blocking notation? || Cross.
+p: I || Name the nine stage areas. || UR, UC, UL, CR, C, CL, DR, DC, DL.
+p: I || What does "cheat out" mean? || Turn partly toward the audience while relating to other actors.
+p: I || What is a sightline? || The audience's line of view to the stage.
+p: I || Write notation for "cross to upstage left." || X UL.
+p: I || Why should every move be motivated? || A reason makes it believable and purposeful.
+p: I || Why avoid standing in a straight line with your partner? || It looks flat and can block sightlines.
+p: C || Why are strong moments often placed downstage centre? || It is closest and most visible to the audience.
+p: C || What does it mean to "upstage" someone? || To move upstage so they must turn their back to the audience to face you.
+p: C || How would blocking change on a thrust stage? || Audience on three sides, so actors move more to share sightlines.
+p: C || Give a motivation for crossing DL during a scene about bad news. || For example, turning away to hide tears.
+mis: Thinking stage left is the audience's left | Moving around without a reason | Turning your back to the audience during important lines
+et: Draw the nine-area stage map. | Write blocking notation for entering stage right and crossing to centre.
+mc: B || Blocking is || the planned movement of actors | the stage lights | a set piece | the script
+mc: B || Downstage is || closest to the audience | farthest from the audience | backstage | above the stage
+mc: B || Stage directions are given from || the actor's view facing the audience | the audience's view | the director's chair | the lighting booth
+mc: B || In blocking notation, X means || cross | exit | sit | stop
+mc: I || "Ent. DL" means || enter downstage left | exit downstage left | enter upstage left | exit down
+mc: I || To cheat out is to || turn partly toward the audience | leave the stage | forget a line | stand upstage
+mc: I || A sightline is || the audience's line of view | a painted line on stage | a lighting cue | a stage direction
+mc: I || Why do actors avoid standing in a straight line? || It looks flat and blocks views | It is too loud | It is a safety rule | It confuses lighting
+mc: I || Upstage is called "up" because || old stages sloped upward | it is above the audience | it has lights | it is upstairs
+mc: C || The strongest place on a proscenium stage is usually || downstage centre | upstage left | offstage | in the wings
+mc: C || To "upstage" another actor means to || move upstage so they turn away from the audience | help them with lines | give them the spotlight | move downstage
+mc: C || A motivated move || has a reason connected to the character's thoughts | is random | is done to fill time | is always toward the audience
+sa: B || Define blocking. || The planned movement and positions of actors on stage.
+sa: B || Which side is stage right? || The actor's right when facing the audience.
+sa: I || List the three downstage areas. || Downstage right, downstage centre, downstage left.
+sa: I || Translate "X UC, Ex. R." || Cross to upstage centre, exit right.
+sa: I || What is cheating out and why do actors do it? || Turning partly to the audience so they can be seen and heard.
+sa: I || Why should blocking be motivated? || So movement is believable and supports the story.
+sa: C || Explain where you would place the most important moment of a scene and why. || Downstage centre or a strong position so the audience sees it clearly.
+sa: C || Describe how blocking supports storytelling. || It focuses attention, shows relationships and reveals character.
+
+=== DR10.D1 0
+hook: For every actor you see on stage, there may be ten people you never see: designers, builders, operators and the stage manager calling every cue. A show can survive a forgotten line. It can't survive a missed blackout or a set that falls over.
+sc: I can describe the main production roles | I can explain what cues are and how they are called | I can operate basic lighting or sound safely
+v: stage manager :: The person who runs rehearsals and calls all cues during performances.
+v: cue :: A signal for a lighting, sound or scene change.
+v: lighting designer :: The person who designs how the stage is lit.
+v: sound designer :: The person who plans music and sound effects.
+v: crew :: People who move sets and props and run the show backstage.
+v: technical rehearsal :: A rehearsal focused on running lights, sound and scene changes.
+v: prompt book :: The stage manager's script with all blocking and cues.
+ts: Behind the Scenes || Production task || What do technical theatre roles do, and how do they work together?
+tx: Production roles: Director (overall vision), stage manager (runs rehearsals, keeps the prompt book, calls cues), lighting designer and operator, sound designer and operator, set designer and builders, costume designer, props master, house manager (audience and front of house). ¶ Part 1, Role jigsaw (10 minutes): Each group researches one role and teaches the class: main job, key skills, when they work (rehearsal or performance). ¶ Part 2, Cue sheet (15 minutes): Read a short scene and write a cue sheet. Each cue has a number, a trigger (a line or action), and what happens. Example: LX 1 (lighting), trigger "Lights up," state: warm general wash. SQ 1 (sound), trigger "She opens the window," effect: birdsong. ¶ Part 3, Calling cues (15 minutes): The stage manager says "Stand by LX 2," the operator answers "Standing by," then "LX 2, go." Practise with the lighting board or a simple app and a speaker. ¶ Safety: never look directly into lights, never touch hot lamps, keep cables taped down, wear closed-toe shoes backstage.
+src: Original activity written for this lesson; roles and cueing conventions from standard theatre practice.
+st: Learn the production roles | Teach your role to the class | Write a cue sheet for a scene | Practise calling and running cues | Review backstage safety
+org: Role | Main job | Works during rehearsal or performance | Key skills
+an: Why does the stage manager call cues instead of operators choosing when to press go? | Which role would you most like to try? Why? | What could go wrong in a technical rehearsal? | How do designers support the director's vision?
+pr: Run the cues for a classmate's scene: write a cue sheet with at least four lighting and three sound cues, then call or operate them in a performance.
+ex: Stage manager || Who calls cues during a performance? || Responsible for running the show || The stage manager || Why does one person call all cues?
+ex: Cue sheet || Write a sound cue for a doorbell when a character says "Who could that be?" || Number | Trigger | Effect || SQ 3, trigger "Who could that be?", effect: doorbell || Why is the trigger important?
+ex: Standby || What does "Stand by LX 4" mean? || Get ready || The operator prepares lighting cue 4 and replies "Standing by" || Why have a standby?
+ex: Safety || A cable crosses a walkway backstage. What should you do? || Tripping hazard || Tape it down or reroute it || What other backstage hazards are there?
+p: B || What does a stage manager do? || Runs rehearsals and calls cues.
+p: B || What is a cue? || A signal for a lighting, sound or scene change.
+p: B || What does the crew do? || Moves sets and props and runs backstage.
+p: B || What is a technical rehearsal? || A rehearsal focused on lights, sound and scene changes.
+p: B || What is a prompt book? || The stage manager's script with blocking and cues.
+p: I || What do LX and SQ stand for in a cue sheet? || Lighting cue and sound cue.
+p: I || What are the three parts of a cue? || Number, trigger and what happens.
+p: I || What is the reply to "Stand by sound 2"? || "Standing by."
+p: I || What does the house manager do? || Looks after the audience and front of house.
+p: I || Name two safety rules backstage. || Tape cables, don't touch hot lights, wear closed-toe shoes.
+p: I || What does a lighting designer decide? || How the stage is lit, including colour, angle and intensity.
+p: C || Why are cues given numbers? || So everyone knows exactly which cue is next.
+p: C || How does lighting affect mood? || Colour, brightness and angle make scenes feel warm, cold, tense or calm.
+p: C || Why does a technical rehearsal sometimes take hours? || Every cue must be set, timed and tested.
+p: C || How do designers support the director's vision? || They create lighting, sound, sets and costumes that match the director's concept.
+mis: Thinking the director runs the show during performances | Thinking technical theatre is less important than acting | Thinking operators should take cues on their own timing
+et: Name three production roles and what they do. | Write one lighting cue with a number, trigger and effect.
+mc: B || Who calls cues during a performance? || the stage manager | the lead actor | the director | the audience
+mc: B || A cue is || a signal for a technical change | a prop | a costume | a line of dialogue only
+mc: B || The crew || moves sets and props backstage | writes the play | sells tickets | directs actors
+mc: B || A technical rehearsal focuses on || lights, sound and scene changes | memorizing lines | selling tickets | warm-ups
+mc: I || In a cue sheet, SQ means || sound cue | stage queue | set quote | scene quiet
+mc: I || The reply to "Stand by LX 5" is || "Standing by." | "Go." | "Done." | "Ready set."
+mc: I || A cue's trigger is || the line or action that signals it | the light colour | the operator's name | the volume
+mc: I || The house manager is responsible for || the audience and front of house | lighting | costumes | sound effects
+mc: I || The prompt book contains || the script with blocking and cues | ticket sales | costume sizes | the director's diary
+mc: C || Why does one person call all cues? || To keep timing coordinated and consistent | To save electricity | Because operators can't hear | To give actors breaks
+mc: C || A loose cable across a walkway should be || taped down or rerouted | left for later | covered with a costume | unplugged during the show
+mc: C || A lighting designer can create tension by || using harsh angles, shadows or cold colours | turning on all lights | removing all cues | using only house lights
+sa: B || What does a stage manager do? || Runs rehearsals and calls all cues in performance.
+sa: B || Define cue. || A signal for a lighting, sound or scene change.
+sa: I || Write a sound cue for thunder when a character says "Here comes the storm." || SQ number, trigger line, effect thunder.
+sa: I || Explain the standby and go system. || The stage manager warns "Stand by," the operator replies, then the SM says "Go" at the trigger.
+sa: I || Name two backstage safety rules. || Tape cables, don't touch hot lights, closed-toe shoes, never look into lights.
+sa: I || Describe the job of a sound designer. || Plans music and sound effects that support the play.
+sa: C || Explain how technical roles support the story. || Lights, sound, sets and costumes create mood, time, place and focus.
+sa: C || Describe what could go wrong without a technical rehearsal. || Missed or mistimed cues, unsafe scene changes, wrong levels.

@@ -1,0 +1,173 @@
+=== DR30.B1 0
+hook: Picture two plays. In one, a family argues around a real kitchen table and you feel like you're spying on them. In the other, an actor turns to you and says, "Don't get comfortable, this is a play, and you should be asking why this is happening." Both are powerful. They just want different things from you.
+sc: I can describe the features of realism and non-realism | I can compare Stanislavski and Brecht's goals | I can perform a short text in two contrasting styles
+v: realism :: A style that shows life as it is, aiming for the audience to believe in the characters.
+v: non-realism :: Any style that breaks from showing everyday life, using symbols, exaggeration or direct address.
+v: fourth wall :: The imaginary wall between the stage and audience.
+v: Brechtian theatre :: Epic theatre developed by Bertolt Brecht to make audiences think critically, not just feel.
+v: alienation effect :: Brecht's techniques that remind the audience they are watching a play.
+v: absurdism :: A style showing life as meaningless or illogical, as in Beckett's "Waiting for Godot."
+ts: One Text, Two Worlds || Scene work || How do realistic and non-realistic styles change how an audience experiences a story?
+tx: Realism (late 1800s on): Henrik Ibsen ("A Doll's House"), Anton Chekhov. Real-looking sets, everyday speech, psychological truth, a closed fourth wall. Stanislavski's system was built for this style. ¶ Brechtian (epic) theatre (1920s on): Bertolt Brecht wanted audiences to think about social problems, not get lost in emotion. Techniques: breaking the fourth wall, placards and projected titles, narration, actors playing several roles, showing the stage machinery, songs that interrupt the action. ¶ Absurdism (1950s on): Samuel Beckett, Eugène Ionesco. Repetitive dialogue, circular plots, strange situations, dark humour. ¶ Activity (40 minutes): In pairs, take this short original text about a worker being laid off: ¶ BOSS: We're making some changes. ¶ WORKER: How many changes? ¶ BOSS: One. You. ¶ WORKER: Twelve years. ¶ BOSS: And we're grateful for every one. ¶ Version 1, Realism: Play it truthfully with objectives and subtext. Version 2, Brechtian: Add a placard ("Scene 4: Efficiency"), narrate a stage direction aloud, step out to ask the audience a question. Perform both and discuss the difference.
+src: Original scene and activity written for this lesson; styles summarized from standard theatre history sources.
+st: Learn features of realism | Learn Brecht's techniques | Learn features of absurdism | Perform one text in two styles | Compare the audience's experience
+org: Feature | Realism | Brechtian | Effect on audience
+an: Which version made you feel more? Which made you think more? | Why did Brecht want to interrupt emotion? | When might a director choose non-realism? | Can a production mix both styles?
+pr: Perform the same short scene in realistic and Brechtian styles and write a 300-word comparison of the techniques and their effects.
+ex: Fourth wall || Which style keeps the fourth wall closed? || Audience as observers || Realism || What breaks it?
+ex: Alienation effect || Give two Brechtian techniques. || Remind audience it's a play || Placards and direct address || Why use them?
+ex: Purpose || Compare the goals of Stanislavski and Brecht. || Feel vs think || Stanislavski wanted belief and empathy; Brecht wanted critical thinking about society || Which suits a play about injustice?
+ex: Absurdism || What is a feature of "Waiting for Godot"? || Plot and dialogue || Two men wait for someone who never comes; dialogue repeats || What might the waiting mean?
+p: B || What is realism? || A style showing life as it really is.
+p: B || What is the fourth wall? || The imaginary wall between stage and audience.
+p: B || Who developed epic theatre? || Bertolt Brecht.
+p: B || Name a realist playwright. || Henrik Ibsen or Anton Chekhov.
+p: B || Name an absurdist playwright. || Samuel Beckett or Eugène Ionesco.
+p: I || What is the alienation effect? || Techniques reminding the audience they are watching a play.
+p: I || Name three Brechtian techniques. || Placards, direct address, narration, multiple roles, visible stage machinery, songs.
+p: I || Why did Brecht want audiences to think instead of feel? || So they would question social problems and want change.
+p: I || What are features of absurdist theatre? || Repetition, circular plots, illogical situations, dark humour.
+p: I || What acting system fits realism? || Stanislavski's system.
+p: I || What does breaking the fourth wall mean? || Speaking directly to or acknowledging the audience.
+p: C || When might a director choose non-realism? || To highlight ideas, symbols or social issues, or when the story is not literal.
+p: C || How could one production mix realism and non-realism? || Realistic scenes with narration or projected titles between them.
+p: C || How does the laid-off worker scene change when performed in Brechtian style? || The audience thinks about the economic system rather than feeling only for the worker.
+p: C || Why might absurdism appeal after World War II? || It reflected a feeling that life had lost meaning.
+mis: Thinking realism is the only "good" acting | Thinking Brechtian theatre has no emotion | Thinking non-realism means random or careless
+et: Name one difference between realism and Brechtian theatre. | Name one Brechtian technique.
+mc: B || Realism aims to || show life as it is | remind the audience it's a play | use masks | have no plot
+mc: B || The fourth wall is || the imaginary wall between stage and audience | a backstage wall | the theatre's front door | a set piece
+mc: B || Epic theatre was developed by || Bertolt Brecht | Konstantin Stanislavski | Sophocles | Shakespeare
+mc: B || "Waiting for Godot" is an example of || absurdism | realism | Greek tragedy | musical theatre
+mc: I || The alienation effect is meant to || keep the audience thinking critically | make the audience cry | hide the actors | save money
+mc: I || Which is a Brechtian technique? || holding up a placard announcing the scene | a fully realistic kitchen set | never acknowledging the audience | hidden stage lights only
+mc: I || Henrik Ibsen is associated with || realism | absurdism | epic theatre | commedia dell'arte
+mc: I || Absurdist dialogue is often || repetitive and illogical | realistic and everyday | sung | in verse only
+mc: I || Stanislavski's system best suits || realism | Brechtian theatre | puppet theatre | absurdism only
+mc: C || A director wants the audience to question unfair labour laws. The best style is || Brechtian | strict realism | pantomime | absurdism
+mc: C || Breaking the fourth wall in a realistic play would || interrupt the audience's belief | strengthen realism | be invisible | have no effect
+mc: C || Which statement is accurate? || Brechtian theatre can include emotion but interrupts it to provoke thought | Brechtian theatre has no emotion | Realism always breaks the fourth wall | Absurdism has a clear message always
+sa: B || Define realism. || A style showing everyday life truthfully, with a closed fourth wall.
+sa: B || Who was Bertolt Brecht? || A German playwright and director who developed epic theatre.
+sa: I || Describe two Brechtian techniques and their purpose. || For example placards and direct address, which make the audience think critically.
+sa: I || What is the fourth wall? || The imaginary wall between the stage and the audience.
+sa: I || Name two features of absurdism. || Repetition, illogical situations, circular plots, dark humour.
+sa: I || Compare Stanislavski's and Brecht's goals. || Stanislavski wanted belief and empathy; Brecht wanted critical thinking.
+sa: C || Explain how the same scene changes when performed in two styles. || Answers vary.
+sa: C || Argue which style best suits a play about a social issue. || Answers vary with reasons.
+
+=== DR30.C1 0
+hook: Every play you've ever seen started as a blank page and one question: "What if...?" What if a girl buried her brother against the king's law? What if two men waited for someone who never came? Playwrights start small, with a character who wants something badly.
+sc: I can generate a play idea from a character, a want and an obstacle | I can outline a one-act with a clear dramatic structure | I can write an opening scene with conflict
+v: playwright :: A person who writes plays.
+v: premise :: The basic idea of a play in one or two sentences.
+v: conflict :: The struggle between opposing forces that drives the story.
+v: inciting incident :: The event that starts the main conflict.
+v: climax :: The moment of highest tension, where the conflict is decided.
+v: one-act :: A short play performed without an intermission, usually 10 to 40 minutes.
+ts: What If? || Writing workshop || How do playwrights turn a small idea into a dramatic structure?
+tx: Part 1, Idea generators (10 minutes): Try three: (a) a headline from local news; (b) a photo of a stranger: who are they, what do they want today?; (c) a "What if...?" question ("What if a teenager found out their grandfather was famous?"). ¶ Part 2, Premise (10 minutes): Choose one. Write: "[Character] wants [goal] but [obstacle], so [what they do]." ¶ Part 3, Structure (15 minutes): Map your one-act using Freytag's pyramid: exposition (world and characters), inciting incident, rising action (three escalating complications), climax, falling action, resolution. Keep it to two or three characters and one location; one-acts work best tight. ¶ Part 4, Opening page (15 minutes): Write the first page. Rules: start late (in the middle of something happening), show conflict within the first page, let dialogue reveal character, keep stage directions brief. ¶ Script format: CHARACTER NAMES in capitals, dialogue below, (stage directions in parentheses and italics).
+src: Original writing workshop for this lesson; structure based on Freytag's pyramid.
+st: Generate ideas from three starting points | Write a one-sentence premise | Map the play on Freytag's pyramid | Write the first page in script format | Share a reading and get feedback
+org: Structure stage | What happens | Conflict level (1–10) | Character's choice
+an: Which idea generator gave you the most surprising idea? | Why should a one-act have few characters and one location? | What does "start late" mean and why does it help? | Where in your outline does tension peak?
+pr: Submit a premise, a structure map and the first three pages of an original one-act play, then hold a table read with classmates.
+ex: Premise || Write a premise about a missed flight. || Character | Want | Obstacle || A nervous student wants to reach her sister's wedding but misses the flight, so she must convince a grumpy stranger to drive her || What conflict comes next?
+ex: Inciting incident || What is the inciting incident in "Antigone"? || Event that starts conflict || Creon forbids the burial of Polynices || What does Antigone choose?
+ex: Start late || Improve an opening where two characters say hello and chat about weather. || Begin mid-conflict || Start with one character already packing to leave and the other blocking the door || Why does this grab attention?
+ex: Script format || Format a line where Sam whispers "Don't." || Name, direction, dialogue || SAM: (whispering) Don't. || Why keep directions short?
+p: B || What is a playwright? || A person who writes plays.
+p: B || What is a premise? || The basic idea of a play in one or two sentences.
+p: B || What is conflict? || The struggle between opposing forces.
+p: B || What is a climax? || The moment of highest tension.
+p: B || What is a one-act play? || A short play without an intermission.
+p: I || Write the premise formula. || Character wants goal but obstacle, so action.
+p: I || What is the inciting incident? || The event that starts the main conflict.
+p: I || Name the stages of Freytag's pyramid. || Exposition, inciting incident, rising action, climax, falling action, resolution.
+p: I || Why limit characters in a one-act? || It keeps the story focused and manageable.
+p: I || How are stage directions written in a script? || In parentheses, often in italics, brief.
+p: I || What does "start late" mean? || Begin in the middle of action rather than with set-up.
+p: C || Why must conflict escalate in rising action? || Increasing stakes keep the audience engaged.
+p: C || How does dialogue reveal character? || Word choice, rhythm and what characters avoid saying.
+p: C || Why should a playwright hear a table read? || To hear what works aloud and find unclear or slow moments.
+p: C || What's the difference between a situation and a conflict? || A situation is a setting; conflict needs a character wanting something against an obstacle.
+mis: Thinking a play needs many characters and locations | Starting with lots of polite small talk | Writing long stage directions instead of letting dialogue work
+et: Write your premise using the formula. | Name the inciting incident in your play.
+mc: B || A playwright || writes plays | directs plays | designs lights | sells tickets
+mc: B || A premise is || the basic idea of a play | the final scene | the cast list | the theatre building
+mc: B || The climax is || the moment of highest tension | the first scene | the cast party | the title
+mc: B || A one-act play || has no intermission and is short | always has five acts | is always a musical | has no dialogue
+mc: I || The inciting incident || starts the main conflict | ends the play | introduces the setting only | is the curtain call
+mc: I || Which premise has the clearest conflict? || A boy wants to win back his dog but his neighbour claims it, so he plots a rescue | A boy has a dog | A park on a sunny day | Two friends eat lunch
+mc: I || Starting late means || beginning in the middle of action | writing at night | starting after intermission | finishing late
+mc: I || In script format, stage directions are || brief and in parentheses | in capital letters | as long as possible | spoken aloud
+mc: I || Rising action should || escalate the conflict | resolve everything | introduce new settings only | repeat the opening
+mc: C || Why should a one-act have one location? || It keeps the play focused and practical to stage | It is a law | Audiences dislike sets | It needs no conflict
+mc: C || Dialogue reveals character best through || word choice and what is avoided | long descriptions | stage directions | the cast list
+mc: C || A table read helps a playwright || hear what works and what doesn't | sell the play | design costumes | memorize lines
+sa: B || Define conflict. || The struggle between opposing forces that drives a story.
+sa: B || What is a premise? || The basic idea of a play in one or two sentences.
+sa: I || List the stages of Freytag's pyramid. || Exposition, inciting incident, rising action, climax, falling action, resolution.
+sa: I || Write a premise using the formula. || Answers vary.
+sa: I || Explain why one-acts often have few characters. || To keep the story tight and focused.
+sa: I || What does "start late" mean in playwriting? || Begin in the middle of action.
+sa: C || Outline a one-act play from inciting incident to resolution. || Answers vary.
+sa: C || Explain how conflict and character are connected. || Conflict comes from what a character wants and what stands in the way.
+
+=== DR30.D1 0
+hook: The set of a production of "Romeo and Juliet" could be an Italian piazza, a modern city with graffiti walls, or a bare stage with two ladders. Same play, completely different meaning. Designers don't decorate a play; they interpret it.
+sc: I can develop a design concept from a script | I can communicate design choices through a mood board and rendering | I can explain how design supports the director's vision
+v: design concept :: The central idea that guides all design choices for a production.
+v: mood board :: A collage of images, colours and textures that captures a design's feeling.
+v: rendering :: A drawing or digital image showing what a design will look like.
+v: colour palette :: The set of colours chosen for a design.
+v: production values :: The overall quality of a production's design and technical elements.
+v: theatre criticism :: Writing that describes, analyzes and evaluates a performance.
+ts: Designing Meaning || Design task || How do designers turn a script into a visual concept?
+tx: Script: choose a play the class knows (for example "Antigone," "A Doll's House" or a student one-act). ¶ Step 1, Find the core (10 minutes): Write three words that capture the play's world and feeling (for example "suffocating, polished, trapped" for "A Doll's House"). ¶ Step 2, Concept statement (10 minutes): One sentence: "This production is set in ___ to show ___." Example: "This production of 'Antigone' is set in a modern surveillance state of grey concrete and cameras to show the power of one voice against control." ¶ Step 3, Mood board (20 minutes): Collect 10 to 15 images, colours, textures and fabric samples that match the concept. ¶ Step 4, Rendering (20 minutes): Choose one area: set, costume or lighting. Make a rendering (sketch or digital) with labels for colours, materials and key choices. ¶ Step 5, Pitch (5 minutes per group): Present your concept and explain how each choice connects to the play's themes. ¶ Critic's corner: After watching a live or recorded production, write a short review: describe, analyze how design supported meaning, evaluate with evidence.
+src: Original design task written for this lesson.
+st: Choose three core words for the play | Write a concept statement | Build a mood board | Render one design area | Pitch the concept and explain choices
+org: Design element | Choice | Connection to theme | Effect on audience
+an: How did your three words guide your choices? | Why might a director update a classic play's setting? | Can a design overpower the actors? | What makes a review fair and useful?
+pr: Present a design package (concept statement, mood board, labelled rendering) and write a 300-word review of a production focused on design.
+ex: Concept statement || Write a concept for "Romeo and Juliet." || Setting | Purpose || "Set in a divided modern city where gang colours mark territory, to show how inherited hatred traps young people" || What colour palette follows?
+ex: Colour palette || Choose a palette for a play about grief. || Mood || Muted greys and blues with one warm accent for memory || What would the accent represent?
+ex: Costume as character || How could Nora's costume change in "A Doll's House"? || Arc || Decorative, restrictive dress early; plain practical clothes at the end as she leaves || What does the change show?
+ex: Review || Write a review sentence analyzing lighting. || Describe, analyze, evaluate || "Cold side lighting isolated Creon, showing his loneliness, and was one of the production's strongest choices" || What evidence supports it?
+p: B || What is a design concept? || The central idea guiding all design choices.
+p: B || What is a mood board? || A collage capturing a design's feeling.
+p: B || What is a rendering? || A drawing or image showing what a design will look like.
+p: B || What is a colour palette? || The set of colours chosen for a design.
+p: B || What is theatre criticism? || Writing that describes, analyzes and evaluates a performance.
+p: I || Complete: This production is set in ___ to show ___. || Answers vary.
+p: I || Why start with three core words? || They capture the play's world and keep choices consistent.
+p: I || Name three design areas. || Set, costume, lighting, sound, props.
+p: I || How can costume show a character's arc? || Changes in colour, fit or style show inner change.
+p: I || What should a rendering include? || Colours, materials and labelled key choices.
+p: I || What three things should a review do? || Describe, analyze and evaluate.
+p: C || Why might a director update a classic's setting? || To make themes feel urgent and connected to today.
+p: C || How can design overpower the actors? || Busy sets, loud sound or flashy effects can distract from the story.
+p: C || What makes a review fair? || Evidence-based judgments about what the production aimed to do.
+p: C || How do all designers keep a production unified? || By following the same concept and palette.
+mis: Thinking design is just decoration | Thinking a period play must always be set in its original time | Writing reviews as only opinion with no evidence
+et: Write a one-sentence design concept for a play you know. | Name one design choice and the meaning it carries.
+mc: B || A design concept is || the central idea guiding design choices | the ticket price | the cast list | the rehearsal schedule
+mc: B || A mood board is || a collage capturing a design's feeling | a lighting cue | a stage area | a script
+mc: B || A rendering shows || what a design will look like | the audience size | the play's length | the director's notes
+mc: B || Theatre criticism || describes, analyzes and evaluates a performance | sells tickets | designs sets | writes plays
+mc: I || A colour palette is || the set of colours for a design | a painter's board only | the lighting board | a prop
+mc: I || Why do designers start with a concept? || To make all choices consistent and meaningful | To save paint | To avoid the director | To finish quickly
+mc: I || Nora's plainer costume at the end of "A Doll's House" can show || her independence | that the budget ran out | a mistake | a new character
+mc: I || A good review supports judgments with || evidence from the production | personal dislike only | ticket prices | the length of the show
+mc: I || Which is a design area? || lighting | acting | ticket sales | rehearsal
+mc: C || Setting "Romeo and Juliet" in a modern divided city mainly || makes its theme of inherited hatred feel current | changes the plot completely | removes the conflict | avoids Shakespeare's words
+mc: C || A design overpowers a production when it || distracts from the story and actors | supports the concept | uses a palette | has renderings
+mc: C || The best evidence for a review sentence about lighting is || a specific moment and its effect | the theatre's address | the reviewer's mood | the cost of lights
+sa: B || Define design concept. || The central idea guiding all design choices.
+sa: B || What is a mood board? || A collage of images, colours and textures capturing a design's feeling.
+sa: I || Write a design concept for a play you know. || Answers vary.
+sa: I || Explain how costume can show character change. || Changes in colour, fit or style mirror the character's arc.
+sa: I || What are the three parts of a review? || Describe, analyze, evaluate.
+sa: I || Name a colour palette for a tense thriller and explain it. || Answers vary.
+sa: C || Explain how design can interpret, not just decorate, a play. || Choices of setting, colour and style shape the play's meaning and themes.
+sa: C || Write a review paragraph analyzing one design element. || Answers vary.

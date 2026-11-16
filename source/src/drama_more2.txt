@@ -1,0 +1,174 @@
+=== DR20.B1 0
+hook: In the 1890s, Russian director Konstantin Stanislavski grew tired of actors who declaimed lines and struck poses. He asked a simple question: what if actors behaved as real people would in those exact circumstances? That question still shapes almost every film and TV performance you watch.
+sc: I can find a character's given circumstances in a script | I can use the "magic if" to make choices | I can identify objectives and beats in a scene
+v: Stanislavski's system :: An approach to acting that seeks truthful behaviour in imaginary circumstances.
+v: given circumstances :: The facts of a scene: who, where, when, what happened before and what is happening now.
+v: magic if :: Asking "What would I do if I were in this situation?"
+v: objective :: What a character wants in a scene.
+v: beat :: A section of a scene where one objective or tactic is played; a new beat starts when it changes.
+v: subtext :: The thoughts and feelings beneath the words.
+ts: The Detective's Script || Script analysis || How do actors use the script to find truthful choices?
+tx: Scene (original, for this lesson): ¶ A kitchen, 11 p.m. MAYA (17) is at the table with a university acceptance letter. Her FATHER enters in his work uniform. ¶ FATHER: You're still up. ¶ MAYA: Couldn't sleep. ¶ FATHER: Your mother said there was mail. ¶ MAYA: Just flyers. (She slides the letter under a placemat.) ¶ FATHER: The shop called again. They want me on Saturdays too. ¶ MAYA: That's good, right? More hours. ¶ FATHER: More hours. (Pause.) You should sleep. ¶ MAYA: Dad? (He turns.) Nothing. Goodnight. ¶ Part 1, Given circumstances (15 minutes): Answer the five W's for each character using only evidence in the script, then add inferences (marked "I think"). ¶ Part 2, Objectives and beats (15 minutes): Mark where each beat changes. Write an objective as an active verb for each beat ("to protect him," "to get her to talk"). ¶ Part 3, Magic if (5 minutes): Write what you would do if you were Maya in this exact situation. ¶ Part 4, Rehearse (15 minutes): Play the scene twice: once on the lines only, once playing objectives and subtext. Compare.
+src: Original scene written for this lesson; Stanislavski's concepts summarized from standard acting texts.
+st: Read the scene for facts | List given circumstances with evidence | Mark beats and write active objectives | Apply the magic if | Rehearse with objectives and subtext
+org: Given circumstance | Evidence in the script | Inference | How it affects my acting
+an: Why does Maya hide the letter? What's the subtext? | What does "More hours" mean to the father? | How did playing objectives change the second run? | Why must objectives be active verbs, not feelings?
+pr: Perform the scene (or another short two-person scene) with a partner and submit a character analysis: given circumstances, beats, objectives and three lines of subtext.
+ex: Given circumstances || What time is it and why does it matter? || Script says 11 p.m. || Late at night: tired, private, tension of something unsaid || How would the scene change at noon?
+ex: Subtext || What is the subtext of "Just flyers"? || Compare words and action || "I'm not ready to tell you; I don't want to add to your worries" || How would you show this?
+ex: Beat change || Where does a new beat begin? || Look for a change in tactic or topic || When the father mentions Saturday shifts; Maya shifts from hiding to supporting || What is the new objective?
+ex: Active objective || Turn "Maya feels guilty" into an objective. || Use a playable verb || "To protect her father from more stress" || Why is this easier to act?
+p: B || Who developed the system of acting this lesson is based on? || Konstantin Stanislavski.
+p: B || What are given circumstances? || The facts of a scene: who, where, when, what before, what now.
+p: B || What is the magic if? || Asking what I would do if I were in this situation.
+p: B || What is subtext? || Thoughts and feelings beneath the words.
+p: B || What is a beat? || A section of a scene where one objective or tactic is played.
+p: I || Why write objectives as active verbs? || Actions can be played; feelings cannot be played directly.
+p: I || What clue in the scene shows money is tight? || The father's extra shifts and repeating "more hours."
+p: I || How do you find a beat change? || Look for a shift in topic, tactic or objective.
+p: I || Turn "angry" into a playable objective. || For example, "to make him apologize."
+p: I || What's the difference between evidence and inference? || Evidence is in the script; inference is what you conclude from it.
+p: I || Why did Stanislavski want truthful acting? || He wanted believable behaviour instead of artificial declaiming.
+p: C || How does subtext make a scene more interesting? || The audience senses tension between what is said and meant.
+p: C || What might the father's "You should sleep" mean? || He may sense something is wrong but avoids the conversation.
+p: C || How does the magic if help an actor? || It connects the character's situation to the actor's own imagination and truth.
+p: C || How could an actor show subtext without changing the words? || Through pauses, eye contact, tone and actions.
+mis: Thinking acting truthfully means playing yourself | Playing emotions instead of objectives | Ignoring what the script says about circumstances
+et: Write one given circumstance and its evidence. | Write an active objective for a character.
+mc: B || Stanislavski developed || a system for truthful acting | the Greek chorus | blocking notation | improv games
+mc: B || Given circumstances include || who, where, when and what happened before | only the costume | only the lighting | the audience size
+mc: B || The magic if asks || What would I do if I were in this situation? | What will the audience think? | Where is the light? | How long is the scene?
+mc: B || Subtext is || the meaning beneath the words | the title | the stage directions | a footnote
+mc: I || A new beat begins when || the objective or tactic changes | an actor sneezes | the lights change only | the scene ends
+mc: I || Which is a playable objective? || to make him confess | to feel sad | to be nervous | to look happy
+mc: I || An inference is || a conclusion drawn from evidence | a line in the script | a stage direction | a prop
+mc: I || In the scene, Maya hides the letter to || avoid adding to her father's worries | throw it away | surprise her mother | hide a bill
+mc: I || Stanislavski reacted against || artificial, declamatory acting | realistic acting | film acting | improvisation
+mc: C || Why do actors play actions instead of emotions? || Actions are playable and emotions follow naturally | Emotions are not allowed | Actions are shorter | Directors prefer them
+mc: C || Subtext can be shown without changing words through || pauses, tone and actions | adding new lines | cutting lines | louder volume only
+mc: C || "More hours" spoken by the father most likely suggests || mixed feelings about money and time | excitement only | a joke | that he is retiring
+sa: B || Define given circumstances. || The facts of a scene: who, where, when, what before, what now.
+sa: B || What is a beat? || A section of a scene where one objective or tactic is played.
+sa: I || Write the subtext for Maya's final line "Nothing. Goodnight." || Answers vary, for example "I want to tell you but I can't."
+sa: I || Explain the magic if. || Asking what I would do if I were in the character's situation.
+sa: I || Why should objectives be active verbs? || They give the actor something to do on stage.
+sa: I || Identify one given circumstance from the scene and its evidence. || For example, late night: "11 p.m."
+sa: C || Explain how Stanislavski's system leads to truthful acting. || Actors study circumstances, pursue objectives and imagine themselves in the situation, so behaviour is believable.
+sa: C || Compare playing the scene with and without objectives. || With objectives, actors have purpose, tension and subtext; without, it is flat.
+
+=== DR20.C1 0
+hook: Actors look at a scene and ask "What does my character want?" A director looks at the same scene and asks "What is this whole scene about, and how will the audience feel it?" Directing means seeing the big picture.
+sc: I can find the meaning and turning point of a scene | I can make blocking and pacing choices that support meaning | I can give clear, respectful notes to actors
+v: director :: The person responsible for the overall vision and staging of a production.
+v: vision :: The director's overall interpretation of the play.
+v: turning point :: The moment in a scene where things change.
+v: composition :: How actors are arranged on stage to create a picture.
+v: pace :: The speed and rhythm of a scene.
+v: note :: Feedback a director gives an actor after a rehearsal.
+ts: Seeing Like a Director || Script analysis || How does a director shape a scene's meaning for the audience?
+tx: Use a short two-person scene (for example the kitchen scene from the previous lesson or a teacher-chosen scene). ¶ Step 1, The spine (10 minutes): In one sentence, what is the scene about underneath? ("A daughter protects her father from news that could change the family.") ¶ Step 2, Turning point (5 minutes): Mark the moment where the relationship or situation shifts. ¶ Step 3, Stage pictures (15 minutes): Plan three tableaux: opening, turning point and final image. Use levels (sitting, standing), distance (close or far) and focus (where the audience looks) to show the relationship. ¶ Step 4, Pace map (5 minutes): Mark where the scene should speed up, slow down or hold a silence. ¶ Step 5, Direct (20 minutes): Rehearse with two actors. Give notes using the sandwich method only if helpful, but always be specific and actionable: "On 'More hours,' take a beat and look at the letter's hiding place before you speak." ¶ Note-giving rules: speak to the character's action, not the actor's personality; one or two notes at a time; ask questions ("What does Maya want here?").
+src: Original directing activity written for this lesson.
+st: Write the scene's spine | Find the turning point | Plan three stage pictures | Map the pace | Rehearse and give specific notes
+org: Moment | Stage picture (levels, distance, focus) | Pace | Note for actors
+an: How did distance between actors show their relationship? | Where did a silence work better than a line? | What made a note useful or unhelpful? | How might two directors stage the same scene differently?
+pr: Direct a peer scene: submit the spine, three sketched stage pictures, a pace map and your rehearsal notes, then present the scene with a one-minute director's introduction.
+ex: Spine || Write a spine for a breakup scene. || What is it about underneath? || "Two people realize they've been holding on out of fear of being alone" || How would this change the blocking?
+ex: Distance || How can blocking show two characters growing apart? || Space as relationship || Start close, then increase distance each beat || What about levels?
+ex: Pace || Where should pace slow down? || Important moments || At the turning point, to let the audience feel it || What happens if everything is slow?
+ex: Note || Improve the note "Be sadder." || Specific and playable || "On your last line, try to stop him from leaving with your voice, not your body" || Why is this better?
+p: B || What does a director do? || Shapes the overall vision and staging of a production.
+p: B || What is a turning point? || The moment in a scene where things change.
+p: B || What is pace? || The speed and rhythm of a scene.
+p: B || What is a note? || Feedback given to an actor after rehearsal.
+p: B || What is composition on stage? || How actors are arranged to make a picture.
+p: I || What is a scene's spine? || A one-sentence summary of what it is about underneath.
+p: I || Name three tools for stage pictures. || Levels, distance and focus.
+p: I || How can levels show power? || The character higher up often seems more powerful.
+p: I || Why give one or two notes at a time? || Actors can absorb and apply a few clear changes.
+p: I || What makes a note actionable? || It tells the actor something specific to do.
+p: I || Why plan the final image of a scene? || It is the last thing the audience remembers.
+p: C || How can silence be a directing choice? || A held pause can create tension or let a moment land.
+p: C || Why direct notes toward the character's action, not the actor? || It keeps feedback respectful and playable.
+p: C || How can two directors stage the same scene differently? || Different spines lead to different blocking, pace and focus.
+p: C || How should a director handle an actor who disagrees with a note? || Listen, ask questions and find a choice that serves the scene.
+mis: Thinking directing means telling actors exactly how to say lines | Giving vague notes like "more energy" | Thinking every scene should move quickly
+et: Write a spine for a scene you know. | Rewrite "Be angrier" as a playable note.
+mc: B || The director is responsible for || the overall vision and staging | selling tickets | building costumes | writing reviews
+mc: B || A turning point is || where the scene changes | the end of the play | a stage area | a light cue
+mc: B || Pace refers to || the speed and rhythm of a scene | stage size | costume colour | ticket price
+mc: B || A note is || feedback for an actor | a song | a prop | a cue
+mc: I || A scene's spine is || what it is about underneath, in one sentence | the backbone of the set | the script binding | the first line
+mc: I || Which shows a relationship growing apart? || increasing distance between actors | standing closer | holding hands | sitting together
+mc: I || Which is an actionable note? || On that line, try to stop her from leaving. | Be better. | More energy. | Act sadder.
+mc: I || The character on a higher level often appears || more powerful | less important | invisible | offstage
+mc: I || Why plan a final stage picture? || It is the last image the audience remembers | It saves time | It is required by law | It replaces the script
+mc: C || A director slows the pace at the turning point to || let the moment land with the audience | make the play longer | confuse the audience | save energy
+mc: C || Notes should focus on || the character's action | the actor's personality | the actor's looks | the director's mood
+mc: C || Two directors staging one scene differently is || normal because interpretations differ | a mistake | not allowed | always wrong
+sa: B || Define director. || The person responsible for the overall vision and staging.
+sa: B || What is pace? || The speed and rhythm of a scene.
+sa: I || Write a spine for a scene you have studied. || Answers vary.
+sa: I || Explain how distance can show a relationship. || Closeness suggests intimacy or conflict; distance suggests separation.
+sa: I || Give one rule for giving notes. || Be specific, speak to the action, one or two at a time.
+sa: I || Why plan three stage pictures? || They show the opening, turning point and final image clearly.
+sa: C || Explain how a director's vision shapes blocking and pace. || The spine decides where actors move, when pace changes and what the audience focuses on.
+sa: C || Rewrite a vague note into a specific, playable one. || Answers vary.
+
+=== DR20.D1 0
+hook: Twenty-five centuries ago, up to 15,000 Athenians sat on a hillside to watch plays about gods, kings and terrible choices. They invented the words we still use: theatre, drama, chorus, tragedy and comedy.
+sc: I can describe the features of Greek theatre | I can explain the role of the chorus and masks | I can connect Greek conventions to theatre today
+v: amphitheatre :: A large open-air theatre with curved seating built into a hillside.
+v: chorus :: A group of performers who speak, sing or move together and comment on the action.
+v: tragedy :: A drama in which the main character suffers a downfall, often through a flaw.
+v: comedy :: A drama that ends happily and often mocks people or society.
+v: hubris :: Excessive pride that leads to a tragic hero's downfall.
+v: catharsis :: The release of emotion the audience feels at the end of a tragedy.
+v: convention :: An accepted practice in theatre that the audience understands.
+ts: Gods, Masks and the Chorus || Case study and scene work || What did Greek theatre look like, and how does it still shape theatre?
+tx: Context: Greek theatre grew from festivals for the god Dionysus in Athens in the 5th century BCE. Playwrights competed for prizes. Famous playwrights: Aeschylus, Sophocles ("Oedipus Rex," "Antigone"), Euripides (tragedy) and Aristophanes (comedy). ¶ The theatre: Open-air amphitheatre with excellent acoustics; the orchestra (circular dancing space) for the chorus; the skene (building behind) for entrances and as a backdrop. ¶ Conventions: Only men performed; actors wore large masks showing character and emotion and helping the voice carry; violence happened offstage and was reported; the chorus (12 to 15 people) commented, questioned and spoke for the community. ¶ Activity 1 (10 minutes): Read the summary of "Antigone": she buries her brother against King Creon's law. Identify the tragic hero, the flaw and the catharsis. ¶ Activity 2, Chorus work (25 minutes): In groups of six, create a choral ode responding to Antigone's arrest. Speak in unison, split lines, use echo and canon, and move as one. Wear neutral half-masks or make simple paper masks.
+src: Original activity written for this lesson; history summarized from standard theatre history sources.
+st: Read the context of Greek theatre | Learn the theatre space and conventions | Analyze "Antigone" as a tragedy | Create and perform a choral ode | Connect conventions to modern theatre
+org: Convention | What it was | Why they used it | Modern example
+an: Why might masks have been necessary in a huge open-air theatre? | What does the chorus give the audience that the characters can't? | Is Creon or Antigone the tragic hero? | Where do you see chorus-like devices today (musicals, film narrators)?
+pr: Perform a one-minute choral ode for a modern issue in the style of a Greek chorus, then write a paragraph connecting two Greek conventions to modern theatre or film.
+ex: Hubris || Where is Creon's hubris? || Pride | Refuses advice || He refuses to change his law even when warned, leading to tragedy || How is this a flaw?
+ex: Chorus role || What does the chorus do in "Antigone"? || Comment | Represent the city || Comments on the action and voices the community's views || How is this like a narrator?
+ex: Masks || Why did Greek actors wear masks? || Size of theatre | Few actors || To show character clearly to a huge audience and let few actors play many roles || What do masks take away from acting?
+ex: Offstage violence || Why was violence reported, not shown? || Convention || It was a theatre convention; messengers described it, letting the audience imagine || How does film differ today?
+p: B || Where did Greek theatre begin? || In Athens, at festivals for Dionysus.
+p: B || What is a chorus? || A group that speaks or moves together and comments on the action.
+p: B || What is a tragedy? || A drama in which the hero suffers a downfall.
+p: B || What is hubris? || Excessive pride.
+p: B || Name a Greek playwright. || Sophocles, Aeschylus, Euripides or Aristophanes.
+p: I || What is catharsis? || The emotional release the audience feels at the end of a tragedy.
+p: I || What was the orchestra in a Greek theatre? || The circular space where the chorus performed.
+p: I || Who performed in Greek theatre? || Only men.
+p: I || How was violence shown? || It happened offstage and was reported by a messenger.
+p: I || What law does Antigone break? || King Creon's law against burying her brother.
+p: I || Name two choral techniques. || Unison, split lines, echo, canon or unified movement.
+p: C || Why were masks useful in a large amphitheatre? || They showed character clearly and helped voices carry; few actors could play many roles.
+p: C || Who is the tragic hero of "Antigone"? Justify. || Either can be argued; Creon's hubris causes the downfall of his family.
+p: C || Name a modern device similar to the Greek chorus. || Narrators, ensembles in musicals or voice-overs.
+p: C || How does Greek tragedy still influence stories today? || Flawed heroes, moral dilemmas and downfall plots appear in film and TV.
+mis: Thinking Greek theatre was performed indoors like today | Thinking the chorus just sang background songs | Thinking tragedy means any sad story
+et: Name two conventions of Greek theatre. | Define hubris with an example.
+mc: B || Greek theatre began at festivals for || Dionysus | Zeus | Apollo | Athena
+mc: B || A chorus || comments on the action as a group | is the lead actor | builds sets | sells tickets
+mc: B || Hubris means || excessive pride | great kindness | a mask | a song
+mc: B || Greek plays were performed || outdoors in amphitheatres | indoors with electric lights | in cinemas | in homes
+mc: I || Catharsis is || emotional release at the end of a tragedy | a type of mask | a stage area | a playwright
+mc: I || Who wrote "Antigone"? || Sophocles | Aristophanes | Shakespeare | Stanislavski
+mc: I || In Greek theatre, violence usually || happened offstage and was reported | was shown in detail | was banned from stories | was performed by the chorus
+mc: I || Greek actors wore masks to || show character clearly to a large audience | hide their identity from police | keep warm | avoid memorizing lines
+mc: I || Aristophanes is known for || comedy | tragedy | realism | opera
+mc: C || Creon's downfall comes mainly from || refusing to change his decision | Antigone's lies | the chorus | bad weather
+mc: C || A modern equivalent of the Greek chorus is || an ensemble or narrator commenting on action | a lighting designer | a set piece | a curtain
+mc: C || Which is the best definition of tragedy? || A drama where the hero falls through a flaw, producing catharsis | Any sad story | A story with no ending | A play with music
+sa: B || What is a chorus? || A group that speaks or moves together and comments on the action.
+sa: B || Define tragedy. || A drama in which the main character suffers a downfall.
+sa: I || Describe two conventions of Greek theatre. || Masks, chorus, all-male casts, offstage violence, open-air amphitheatre.
+sa: I || What is catharsis? || The release of emotion felt by the audience at the end of a tragedy.
+sa: I || Describe the plot of "Antigone" in one sentence. || Antigone buries her brother against Creon's law and both face tragic consequences.
+sa: I || Why did Greek actors use masks? || To show character to large audiences and play multiple roles.
+sa: C || Connect two Greek conventions to modern theatre or film. || Answers vary, for example chorus and narrators.
+sa: C || Argue who the tragic hero of "Antigone" is. || Answers vary with evidence.
