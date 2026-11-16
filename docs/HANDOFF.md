@@ -20,3 +20,8 @@ High School Complementary Courses (Alberta senior high option courses) was built
 ## Still to do by the owner
 - Vercel → highschool-complementary → Environment Variables: add ANTHROPIC_API_KEY. GRADER_SECRET is already set.
 - Supabase → Authentication → URL Configuration: add https://highcomplementary.millardmiddleschoolmaths.live/** to Redirect URLs.
+
+## Lessons 2 and 3 of each outcome (in progress, started 16 Nov 2026)
+- Sources: `source/src/<course>_l2*.txt` (same format as the other source files; mc lines list the correct option first).
+- Build: `python3 source/build_lessons.py . source/src/*_l2*.txt` merges lessons into `api/_lessons/<code>.json` and regenerates `all.js`. It prints `lessons N/324`.
+- Done: Art 10 (all 12 lessons). Next: Art 20, Art 30, Drama, Music, Band, CTS, Psychology, Sociology, French, Spanish, Mandarin.

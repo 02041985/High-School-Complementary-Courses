@@ -1,0 +1,231 @@
+=== ART10.A1 1
+hook: Draw a friend's face and the eyes often end up near the top of the head. In reality, eyes sit about halfway down. Artists don't guess proportions; they measure them by sight with a pencil held at arm's length.
+sc: I can use sighting to compare sizes and angles | I can find proportions using a unit of measure | I can correct a drawing by checking proportions
+v: proportion :: The size of one part compared to another part or the whole.
+v: sighting :: Measuring by holding a pencil at arm's length to compare sizes and angles.
+v: unit of measure :: One part of the subject used to measure all the others, such as the height of a head.
+v: foreshortening :: When an object pointing toward the viewer looks shorter than it really is.
+v: plumb line :: An imaginary vertical line used to check alignment.
+v: negative space :: The space around and between objects.
+ts: Measure with Your Eye || Studio task || How do artists measure proportion by sight?
+tx: Sighting method: Stand in the same spot, arm fully straight, one eye closed. Hold the pencil vertically or horizontally. Line the tip up with one edge of an object and slide your thumb to the other edge. That length is your unit. ¶ Part 1, Practice (10 minutes): Sight a classroom door. How many door widths fit in its height? (Often about two and a half.) Check with a tape measure afterwards. ¶ Part 2, Still life (25 minutes): Set up a bottle, a mug and a box. Choose the mug's height as the unit. Sight: How many mugs tall is the bottle? How wide is the box in mug units? Mark these on your paper lightly before drawing. Use the pencil to check angles of tilted edges, and use plumb lines to see what lines up vertically. ¶ Part 3, Figure proportions (10 minutes): An adult standing figure is about seven and a half heads tall. The eyes are halfway down the head. The elbows line up with the waist; the fingertips reach mid-thigh. Sketch a classmate posing for two minutes using head units. ¶ Part 4, Check (5 minutes): Turn your drawing upside down or look in a mirror. Errors jump out. Correct one.
+src: Original studio task written for this lesson; figure proportions summarized from standard drawing instruction.
+st: Learn the sighting method | Practise measuring a door | Draw a still life using a unit of measure | Sketch a figure using head units | Check and correct proportions
+org: Object | Measured in units | What I first drew | Correction
+an: Why must your arm stay straight when sighting? | What surprised you about the bottle's height? | Why does negative space help with proportion? | Why do errors show when a drawing is turned upside down?
+pr: Complete a still life drawing of three objects with sighting marks visible, plus a two-minute figure sketch labelled with head units.
+ex: Unit || The mug is your unit. The bottle measures three mugs. How tall do you draw the bottle if the mug is 4 cm? || 3 × 4 cm || 12 cm || What if you draw the mug 5 cm?
+ex: Face || Where do the eyes sit on a head? || Halfway down || About halfway between the top of the head and the chin || Where do beginners usually put them?
+ex: Figure || An adult figure is drawn 30 cm tall. About how tall is the head? || 30 ÷ 7.5 || 4 cm || How tall would a child's head be relative to the body?
+ex: Angle || A table edge tilts away. How do you check the angle? || Pencil as a guide || Hold the pencil along the edge at arm's length, then copy that tilt to the paper || Why keep the pencil flat to your view?
+p: B || What is proportion? || The size of one part compared to another.
+p: B || What is sighting? || Measuring with a pencil held at arm's length.
+p: B || Why close one eye when sighting? || To flatten what you see and measure accurately.
+p: B || What is a unit of measure? || One part used to measure all others.
+p: B || Where are the eyes on a head? || About halfway down.
+p: I || How many heads tall is an adult figure, roughly? || About seven and a half.
+p: I || What is a plumb line? || An imaginary vertical line to check alignment.
+p: I || What is foreshortening? || An object pointing toward you looks shorter.
+p: I || A box is 2.5 mugs wide and the mug is drawn 6 cm. How wide is the box? || 15 cm.
+p: I || Why must you stand in the same spot? || Moving changes all the measurements.
+p: I || Where do fingertips reach on a standing figure? || About mid-thigh.
+p: C || Why does looking at negative space help? || Shapes between objects are easier to see accurately than familiar objects.
+p: C || Why do drawings look wrong upside down? || The brain stops relying on symbols and sees shapes as they are.
+p: C || How do proportions differ for a young child? || The head is larger relative to the body.
+p: C || Why do artists still sight even after years of practice? || The eye is easily fooled by what we think things look like.
+mis: Drawing what you know instead of what you see | Moving your arm or position while sighting | Thinking eyes sit near the top of the head
+et: Explain the sighting method in three steps. | State one figure proportion.
+mc: B || Sighting uses || a pencil held at arm's length | a ruler on the object | a camera | guessing
+mc: B || When sighting you should || keep your arm straight | bend your elbow | walk closer | use both eyes
+mc: B || The eyes sit || about halfway down the head | at the top of the head | near the chin | at the ears only
+mc: B || A unit of measure is || one part used to measure others | a ruler | a colour | a brush size
+mc: I || An adult figure is about || seven and a half heads tall | three heads tall | twelve heads tall | one head tall
+mc: I || If the mug is 5 cm and the bottle is 3 mugs, draw the bottle || 15 cm | 8 cm | 3 cm | 53 cm
+mc: I || A plumb line checks || vertical alignment | colour | texture | value
+mc: I || Foreshortening makes a pointing arm look || shorter | longer | brighter | flatter in colour
+mc: I || Fingertips on a standing figure reach about || mid-thigh | the knee | the waist | the ankle
+mc: C || Looking at negative space helps because || unfamiliar shapes are seen more accurately | it is darker | it saves time | it adds colour
+mc: C || Turning a drawing upside down helps to || reveal proportion errors | finish faster | add value | clean the paper
+mc: C || A child's head compared to an adult's body ratio is || larger | smaller | identical | invisible
+sa: B || Define proportion. || The size of one part compared to another or the whole.
+sa: B || Describe how to hold the pencil for sighting. || Arm straight, one eye closed, pencil lined up with the object.
+sa: I || Calculate: a 32 cm figure, how tall is the head? || About 4.3 cm.
+sa: I || Explain plumb lines. || Imaginary vertical lines used to check what lines up.
+sa: I || What is foreshortening? || Objects pointing toward the viewer look shorter.
+sa: I || Name two figure proportions. || Eyes halfway down the head; elbows at waist; fingertips mid-thigh.
+sa: C || Explain why artists measure rather than guess. || The brain distorts sizes based on what it expects.
+sa: C || Describe one correction you made and why. || Answers vary.
+
+=== ART10.A1 2
+hook: A circle on paper is flat. Add a shadow, a highlight and a little reflected light, and suddenly it's a ball you could pick up. That's the power of value: the range from light to dark that makes forms look three-dimensional.
+sc: I can identify the parts of light on a form | I can render a form using a full value range | I can use hatching, cross-hatching and blending
+v: value :: How light or dark a tone is.
+v: highlight :: The brightest spot where light hits directly.
+v: core shadow :: The darkest part of the shadow on the form itself.
+v: cast shadow :: The shadow a form throws onto a nearby surface.
+v: reflected light :: Light bounced back onto the shadow side from nearby surfaces.
+v: rendering :: Shading a drawing to show form, light and texture.
+ts: Light on Form || Studio task || How does value turn flat shapes into 3-D forms?
+tx: Materials: 2H, HB, 2B and 6B pencils; blending stump; kneaded eraser; white egg, ball or cylinder; one desk lamp. ¶ Part 1, Parts of light (10 minutes): Light one white ball from one side. Find and label: highlight, light side, half-tone (mid value), core shadow, reflected light and cast shadow. Note: the cast shadow is darkest right where the ball touches the table. ¶ Part 2, Value scale (10 minutes): Make a 7-step scale from white to the darkest dark. Make one with hatching (parallel lines), one with cross-hatching and one blended. ¶ Part 3, Render (25 minutes): Draw the egg or ball lit by the lamp. Lightly map the shapes of light and shadow first, then build values gradually from light to dark. Keep the highlight as clean paper. Lift highlights with a kneaded eraser if needed. Shade reflected light lighter than the core shadow but darker than the light side. ¶ Part 4, Critique (5 minutes): Squint at your drawing beside the real object. Squinting simplifies values. Is your darkest dark dark enough?
+src: Original studio task written for this lesson; light and form terms from standard drawing instruction.
+st: Identify six parts of light on a form | Make three value scales | Map light and shadow shapes | Render the form from light to dark | Compare by squinting and adjust
+org: Part of light | Where it is | Value (1–7) | Technique used
+an: Why is reflected light never as bright as the light side? | Where is the cast shadow darkest? | Which technique gave the smoothest result? | Why do beginners' drawings often look flat?
+pr: Render a single lit object with all six parts of light labelled in a small diagram beside it, using at least five distinct values.
+ex: Highlight || How do you show a highlight with pencil? || Paper as white || Leave the paper untouched or lift with an eraser || Why not use white pencil?
+ex: Cast shadow || Where is a cast shadow darkest? || Near contact || Right where the object touches the surface || How does it change farther away?
+ex: Reflected light || A ball sits on a white table. What happens on its shadow side near the bottom? || Bounced light || It gets a little lighter from light reflected off the table || Would a black table do the same?
+ex: Squint || Why squint at a drawing? || Simplify || Details blur and only big value shapes remain, so errors are easy to see || What should you check first?
+p: B || What is value? || How light or dark a tone is.
+p: B || What is a highlight? || The brightest spot where light hits directly.
+p: B || What is a cast shadow? || The shadow an object throws onto a surface.
+p: B || What is hatching? || Shading with parallel lines.
+p: B || What does a 6B pencil make? || Soft, dark marks.
+p: I || What is the core shadow? || The darkest part of the shadow on the form.
+p: I || What is reflected light? || Light bounced onto the shadow side from nearby surfaces.
+p: I || Order from lightest to darkest: core shadow, highlight, half-tone. || Highlight, half-tone, core shadow.
+p: I || What is cross-hatching? || Layers of crossing parallel lines.
+p: I || Why build values from light to dark? || It is easier to darken than to lighten.
+p: I || What tool lifts graphite to make highlights? || A kneaded eraser.
+p: C || Why should reflected light stay darker than the light side? || It is weaker, bounced light; making it too bright breaks the form.
+p: C || Why do drawings without a full value range look flat? || Without strong darks and lights, there is no contrast to suggest depth.
+p: C || How does the cast shadow show the light direction? || It falls on the side opposite the light.
+p: C || Why is one light source useful when learning? || It creates clear, simple light and shadow shapes.
+mis: Outlining shadows with hard lines | Making reflected light as bright as the highlight | Being afraid to use dark values
+et: Name the six parts of light on a form. | Draw a three-step value scale.
+mc: B || Value means || lightness or darkness | colour name | texture | size
+mc: B || A highlight is || the brightest spot | the darkest spot | the cast shadow | the outline
+mc: B || A cast shadow falls || on a nearby surface | on the highlight | inside the object | nowhere
+mc: B || Hatching uses || parallel lines | dots only | colour | erasers
+mc: I || The core shadow is || the darkest part of the shadow on the form | the cast shadow | the highlight | reflected light
+mc: I || Reflected light comes from || light bouncing off nearby surfaces | the lamp directly | the pencil | the eraser
+mc: I || The cast shadow is darkest || where the object touches the surface | farthest away | in the highlight | nowhere
+mc: I || To lighten an area of graphite you can use || a kneaded eraser | a 6B pencil | a ruler | water
+mc: I || Lightest to darkest is || highlight, half-tone, core shadow | core shadow, highlight, half-tone | half-tone, highlight, core shadow | all equal
+mc: C || Reflected light that is too bright makes the form || look flat or broken | look rounder | look darker | invisible
+mc: C || Squinting at a drawing helps you || see big value shapes | add detail | find colours | draw outlines
+mc: C || A drawing looks flat mainly because || it lacks a full value range | it uses pencil | it has a cast shadow | it shows a highlight
+sa: B || Define value. || How light or dark a tone is.
+sa: B || Name three shading techniques. || Hatching, cross-hatching, blending.
+sa: I || Describe where the cast shadow is darkest. || Where the object touches the surface.
+sa: I || Explain reflected light. || Light bounced onto the shadow side from surrounding surfaces.
+sa: I || List the parts of light from lightest to darkest. || Highlight, light side, half-tone, reflected light, core shadow (cast shadow near contact).
+sa: I || Why keep the highlight as clean paper? || Paper is the brightest white available.
+sa: C || Explain how value creates the illusion of form. || Gradual change from light to dark shows how surfaces turn away from light.
+sa: C || Evaluate your rendering and name one improvement. || Answers vary.
+
+=== ART10.B1 1
+hook: Walk into a fast-food restaurant: red and yellow everywhere. Walk into a spa: soft blues and greens. Designers choose colour schemes on purpose because colour changes how we feel before we even notice it.
+sc: I can identify monochromatic, analogous, complementary, split-complementary and triadic schemes | I can explain how warm and cool colours affect mood | I can plan an artwork with a chosen scheme
+v: colour scheme :: A planned group of colours used together.
+v: monochromatic :: One hue with its tints, tones and shades.
+v: analogous :: Colours next to each other on the wheel.
+v: complementary :: Colours opposite each other on the wheel.
+v: triadic :: Three colours evenly spaced on the wheel.
+v: warm and cool colours :: Reds, oranges and yellows feel warm; blues, greens and violets feel cool.
+ts: Colour and Mood || Studio task || How do colour schemes create mood and meaning?
+tx: Part 1, Scheme gallery (10 minutes): Look at examples: Picasso's Blue Period (monochromatic blue, sadness), Van Gogh's "Café Terrace at Night" (complementary yellow and blue), a sunset photo (analogous warm). Name each scheme and the mood. ¶ Part 2, Five schemes (20 minutes): Draw one simple line drawing (for example a window with a plant) five times as small thumbnails. Paint or colour each with a different scheme: monochromatic, analogous, complementary, split-complementary (one colour plus the two beside its complement, such as blue with yellow-orange and red-orange), triadic (such as red, yellow, blue). ¶ Part 3, Warm vs cool (10 minutes): Paint the same thumbnail once in warm colours and once in cool. Which feels like morning? Which feels like night? ¶ Part 4, Plan (10 minutes): Choose a mood (calm, tense, joyful, lonely). Choose the scheme that best fits and justify it in two sentences for your final composition next lesson.
+src: Original studio task written for this lesson.
+st: Identify schemes in famous artworks | Paint one image in five schemes | Compare warm and cool versions | Choose a mood | Justify a scheme for your final work
+org: Scheme | Colours used | Mood created | Best use
+an: Which scheme felt most energetic? Why? | How did warm and cool change the time of day? | Why might an artist limit the palette? | Can the same scheme create different moods?
+pr: Submit five colour-scheme thumbnails of one image, a warm and cool pair, and a written plan naming the scheme and mood for your final composition.
+ex: Identify || Blue, blue-green and green. Which scheme? || Neighbours on the wheel || Analogous || What mood might it create?
+ex: Triadic || Name a triadic scheme besides red, yellow, blue. || Evenly spaced || Orange, green and violet || Where might you see it?
+ex: Split-complementary || Give the split-complementary of red. || Red's complement is green; take its neighbours || Red with yellow-green and blue-green || Why is it softer than a complementary scheme?
+ex: Mood || Which scheme fits "lonely night"? || Cool, limited || A cool monochromatic blue scheme || How would you add one point of interest?
+p: B || What is a colour scheme? || A planned group of colours used together.
+p: B || What is monochromatic? || One hue with tints and shades.
+p: B || Name three warm colours. || Red, orange, yellow.
+p: B || Name three cool colours. || Blue, green, violet.
+p: B || What is a complementary scheme? || Colours opposite on the wheel.
+p: I || What is a triadic scheme? || Three colours evenly spaced on the wheel.
+p: I || Give the split-complementary of blue. || Blue with yellow-orange and red-orange.
+p: I || Which scheme did Picasso use in his Blue Period? || Monochromatic blue.
+p: I || Why do restaurants use red and yellow? || Warm colours feel energetic and appetizing.
+p: I || How does a cool palette affect time of day? || It often feels like evening or night.
+p: I || What scheme is blue, blue-violet and violet? || Analogous.
+p: C || Why might an artist choose a limited palette? || It creates unity and a strong mood.
+p: C || How can a complementary accent work in an analogous painting? || A small opposite colour draws the eye to a focal point.
+p: C || Can the same scheme feel different? || Yes, value, saturation and subject change the mood.
+p: C || Justify a scheme for a tense scene. || Answers vary, e.g. complementary red and green with high contrast.
+mis: Thinking colour schemes are rules that can't be broken | Thinking warm always means happy | Ignoring value when choosing colours
+et: Name five colour schemes. | Choose a scheme for "calm" and explain.
+mc: B || A monochromatic scheme uses || one hue | two opposite hues | three hues | no colour
+mc: B || Which is a warm colour? || orange | blue | green | violet
+mc: B || Complementary colours are || opposite on the wheel | next to each other | the same | black and white
+mc: B || Analogous colours are || next to each other | opposite | evenly spaced | neutral
+mc: I || A triadic scheme uses || three evenly spaced colours | one colour | two opposites | five colours
+mc: I || The split-complementary of red uses || red, yellow-green and blue-green | red and green | red, orange, yellow | red only
+mc: I || Picasso's Blue Period is || monochromatic | triadic | complementary | warm
+mc: I || Cool palettes often suggest || night or calm | noon and heat | fire | excitement
+mc: I || Red, yellow and blue form a || triadic scheme | analogous scheme | monochromatic scheme | neutral scheme
+mc: C || A small complementary accent in an analogous painting || creates a focal point | ruins the scheme | adds texture | removes mood
+mc: C || A limited palette helps create || unity and strong mood | confusion | more detail | louder colour
+mc: C || The same scheme can feel different because of || value, saturation and subject | the frame | the title | the canvas size
+sa: B || Define colour scheme. || A planned group of colours used together.
+sa: B || Name two cool colours. || Blue, green, violet.
+sa: I || Explain split-complementary with an example. || One colour plus the two beside its complement; e.g. blue with yellow-orange and red-orange.
+sa: I || Describe how warm and cool colours change mood. || Warm feels energetic or warm; cool feels calm or distant.
+sa: I || Identify the scheme in an artwork you know. || Answers vary.
+sa: I || Why might a spa use blues and greens? || Cool, analogous colours feel calm.
+sa: C || Justify the scheme chosen for your final composition. || Answers vary.
+sa: C || Explain how a limited palette strengthens mood. || It unifies the work and focuses the feeling.
+
+=== ART10.B1 2
+hook: Two paintings can use the same colours and still look completely different, because one is organized and the other isn't. The principles of design (balance, emphasis, movement, contrast, unity) are the tools artists use to organize what's on the page.
+sc: I can name and identify the principles of design | I can plan a composition with a clear focal point and balance | I can paint a composition that combines colour and design principles
+v: principles of design :: Ways of organizing elements: balance, contrast, emphasis, movement, pattern, rhythm, unity, proportion.
+v: focal point :: The area that attracts the eye first.
+v: balance :: How visual weight is distributed (symmetrical, asymmetrical, radial).
+v: rule of thirds :: Dividing the picture into a 3 × 3 grid and placing key elements on the lines or intersections.
+v: movement :: The path the viewer's eye takes through a work.
+v: unity :: The sense that all parts belong together.
+ts: Putting It Together || Studio task || How do design principles organize a painting?
+tx: Part 1, Principles hunt (10 minutes): Look at three paintings (for example Hokusai's "The Great Wave," Mary Pratt's still lifes of jelly jars, and a Lawren Harris landscape). For each, find the focal point, the type of balance and how the eye moves. ¶ Part 2, Thumbnails (15 minutes): Using the colour scheme from last lesson, draw four thumbnails of your subject: centred, rule of thirds, diagonal movement, and high-contrast focal point. Choose the strongest. ¶ Part 3, Paint (35 minutes or across classes): Transfer the composition to your final surface. Block in large shapes first, then build up values and details. Keep the strongest contrast and most detail at the focal point. Use repeated colours across the painting for unity. ¶ Part 4, Check (5 minutes): Look from 3 m away. Where does your eye go first? Does it travel through the painting? Make one adjustment.
+src: Original studio task written for this lesson.
+st: Find principles in three artworks | Draw four composition thumbnails | Choose and justify the strongest | Paint the final composition | Check from a distance and adjust
+org: Principle | How I used it | Where in my painting
+an: How did placing the subject on a third line change the energy? | Where is your focal point and what makes it stand out? | How did repeating colours create unity? | What did you change after viewing from a distance?
+pr: Complete a painting that uses your chosen colour scheme, a clear focal point and at least three principles of design, with a short statement naming them.
+ex: Focal point || How can you make a focal point stand out? || Contrast, detail, colour || Put the strongest value contrast, most detail or a complementary accent there || Name another method.
+ex: Balance || A large tree on the left and a small red boat on the right. What kind of balance? || Unequal but balanced || Asymmetrical balance; the bright boat balances the larger tree || Why does colour add weight?
+ex: Rule of thirds || Where should a horizon go using the rule of thirds? || 3 × 3 grid || On the upper or lower third line, not the centre || What effect does each choice have?
+ex: Unity || How can colour create unity? || Repetition || Repeat a colour in several places across the painting || What happens without repetition?
+p: B || What is a focal point? || The area the eye sees first.
+p: B || Name three principles of design. || Balance, contrast, emphasis, movement, pattern, rhythm, unity, proportion.
+p: B || What is symmetrical balance? || Both sides are the same or very similar.
+p: B || What is unity? || The sense that all parts belong together.
+p: B || What is the rule of thirds? || Placing key elements on a 3 × 3 grid's lines or intersections.
+p: I || What is asymmetrical balance? || Different elements with equal visual weight on each side.
+p: I || Name three ways to create emphasis. || Contrast, detail, colour, isolation, placement.
+p: I || What is movement in a composition? || The path the eye follows.
+p: I || Why block in large shapes first? || To set the composition and values before details.
+p: I || Why view a painting from a distance? || To see overall composition and value.
+p: I || What is radial balance? || Elements radiate from a centre.
+p: C || Why does a bright small area balance a large dull area? || Bright colours carry more visual weight.
+p: C || How can diagonals create movement? || Diagonal lines lead the eye and feel dynamic.
+p: C || What happens if a painting has two equally strong focal points? || The eye is pulled back and forth and the work feels unresolved.
+p: C || How do colour and design principles work together? || Colour creates mood while principles organize where the eye goes.
+mis: Always placing the subject in the centre | Adding detail everywhere equally | Thinking balance means symmetry only
+et: Name your focal point and how you emphasized it. | Name the type of balance in your painting.
+mc: B || A focal point is || where the eye goes first | the frame | the background only | the signature
+mc: B || Symmetrical balance means || both sides are similar | one side is empty | colours are opposite | there is no balance
+mc: B || Unity means || all parts belong together | every part is different | only one colour | no focal point
+mc: B || The rule of thirds uses || a 3 × 3 grid | a circle | a triangle only | no grid
+mc: I || Asymmetrical balance uses || different elements with equal visual weight | identical halves | a central point | no weight
+mc: I || A way to create emphasis is || strong contrast at the focal point | equal detail everywhere | removing colour | centring everything
+mc: I || Diagonal lines tend to feel || dynamic | static | silent | flat
+mc: I || Repeating a colour across a painting creates || unity | chaos | a focal point only | texture
+mc: I || Blocking in large shapes first helps || set composition and values | finish details | sign the work | frame it
+mc: C || A small bright area can balance a large dull area because || bright colour carries visual weight | it is smaller | it is lighter in weight | it is in the centre
+mc: C || Two equally strong focal points make a work feel || unresolved | balanced | unified | calm
+mc: C || Placing the horizon on the centre line often feels || static | dynamic | chaotic | invisible
+sa: B || Name four principles of design. || Answers vary.
+sa: B || Define focal point. || The area that attracts the eye first.
+sa: I || Explain asymmetrical balance with an example. || Answers vary.
+sa: I || Describe how you used the rule of thirds. || Answers vary.
+sa: I || Explain how you created unity. || Answers vary.
+sa: I || Give two ways to create emphasis. || Contrast, detail, colour, placement, isolation.
+sa: C || Explain how colour and design principles work together in your painting. || Answers vary.
+sa: C || Describe one adjustment you made after viewing from a distance. || Answers vary.

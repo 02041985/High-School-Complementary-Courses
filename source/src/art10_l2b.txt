@@ -1,0 +1,231 @@
+=== ART10.C1 1
+hook: A mask from the Pacific Northwest, a Japanese woodblock print and a Renaissance portrait were all made for very different reasons: ceremony, mass audiences, a wealthy patron. Comparing art across cultures starts with asking what each artwork was for.
+sc: I can compare artworks from different cultures using the elements and principles | I can explain how purpose and context shape art | I can describe similarities and differences respectfully
+v: culture :: The shared beliefs, practices and objects of a group of people.
+v: purpose :: The reason an artwork was made, such as ceremony, decoration, storytelling or status.
+v: context :: The time, place and situation in which an artwork was made.
+v: formline :: The flowing, swelling lines that define Northwest Coast Indigenous art.
+v: motif :: A repeated design element or symbol.
+v: compare and contrast :: To describe how things are alike and different.
+ts: Art Across the World || Comparative study || How do culture and purpose shape the way art looks?
+tx: Three works to compare (teacher shows images): ¶ 1. A Haida or Kwakwaka'wakw transformation mask (Northwest Coast, Canada): formline design, bold red and black, made for ceremony and storytelling; opens to reveal another being. Owned and used by families with rights to the stories. ¶ 2. Katsushika Hokusai, "The Great Wave off Kanagawa" (Japan, about 1831): woodblock print made in thousands of copies for ordinary people; flat areas of colour, strong outlines, Prussian blue (a newly imported pigment). ¶ 3. Leonardo da Vinci, "Mona Lisa" (Italy, about 1503–1519): oil portrait, smooth blending (sfumato), realistic perspective, made for a wealthy patron. ¶ Part 1 (15 minutes): Fill the organizer for each work: purpose, materials, use of line, colour, space and who it was for. ¶ Part 2 (15 minutes): In pairs, write three similarities and three differences between two of the works. ¶ Part 3 (10 minutes): Discuss: Why might a museum display a ceremonial mask differently from a painting? What should viewers know?
+src: Comparative study written for this lesson; summarized from museum and art history sources.
+st: Study three works from three cultures | Record purpose, materials and elements | Compare two works | Discuss display and respect | Write a comparison
+org: Artwork | Culture and time | Purpose | Materials | Line, colour, space | Audience
+an: How did purpose affect materials and style? | Why might the mask's meaning be lost in a glass case? | How is a print for thousands different from a portrait for one patron? | What can we learn about a culture from its art?
+pr: Write a 300-word comparison of two artworks from different cultures covering purpose, context, elements and one similarity in meaning.
+ex: Purpose || Why was the transformation mask made? || Use || For ceremony and storytelling in a family's potlatch || How does that change how we view it?
+ex: Line || Compare line in the mask and the Mona Lisa. || Formline vs blending || The mask uses bold, swelling formlines; the Mona Lisa uses soft blended edges || Why the difference?
+ex: Audience || Who was "The Great Wave" for? || Mass production || Ordinary people; prints were affordable || Who was the Mona Lisa for?
+ex: Similarity || Find one similarity between the wave and the mask. || Look for shared features || Both use strong outlines and flat areas of colour || What else?
+p: B || What is culture? || Shared beliefs, practices and objects of a group.
+p: B || What is purpose in art? || The reason an artwork was made.
+p: B || Where is formline art from? || The Northwest Coast of North America.
+p: B || Who made "The Great Wave"? || Katsushika Hokusai.
+p: B || What medium is the Mona Lisa? || Oil paint.
+p: I || What is sfumato? || Soft blending of tones without hard lines.
+p: I || Why was "The Great Wave" affordable? || It was a woodblock print made in many copies.
+p: I || What is special about a transformation mask? || It opens to reveal another being.
+p: I || What is a motif? || A repeated design element or symbol.
+p: I || Name one difference between the mask and the print. || Purpose: ceremony vs mass audience; materials: wood vs paper.
+p: I || Why do context and purpose matter? || They explain why the art looks the way it does.
+p: C || Why might displaying a ceremonial mask in a museum be sensitive? || It was made to be used in ceremony and belongs to family and community traditions.
+p: C || How did a new pigment influence Hokusai's work? || Prussian blue allowed rich, lasting blues.
+p: C || Why avoid ranking one culture's art above another? || Each has different purposes and standards.
+p: C || Write one similarity in meaning between two of the works. || Answers vary.
+mis: Judging all art by European realism | Thinking ceremonial objects are just decoration | Assuming one culture's art is more advanced
+et: Name the purpose of each of the three works. | Write one similarity and one difference.
+mc: B || Formline design comes from || the Northwest Coast | Japan | Italy | Egypt
+mc: B || "The Great Wave" is a || woodblock print | oil painting | sculpture | mask
+mc: B || Purpose means || why an artwork was made | its size | its price | its age
+mc: B || The Mona Lisa was painted in || Italy | Japan | Canada | Mexico
+mc: I || Sfumato means || soft blending without hard lines | bold outlines | flat colour | carving
+mc: I || "The Great Wave" was made for || ordinary people in many copies | one king | a church only | a ceremony
+mc: I || A transformation mask || opens to reveal another being | is painted on canvas | is printed | is a photograph
+mc: I || A motif is || a repeated design element | a frame | a price | a brush
+mc: I || The mask and the wave both use || strong outlines and flat colour | sfumato | perspective only | oil paint
+mc: C || Displaying a ceremonial mask needs care because || it belongs to living traditions and ceremony | it is fragile only | it is small | it is new
+mc: C || Comparing art fairly means || considering purpose and context | judging by realism only | ranking cultures | ignoring materials
+mc: C || Prussian blue mattered to Hokusai because || it was a new, rich, lasting pigment | it was cheap red | it was invisible | it was banned
+sa: B || Define context. || The time, place and situation an artwork was made in.
+sa: B || Name the three artworks studied. || A Northwest Coast transformation mask, The Great Wave, Mona Lisa.
+sa: I || Compare the use of line in two works. || Answers vary.
+sa: I || Explain how purpose shaped one artwork. || Answers vary.
+sa: I || Give two differences between the print and the portrait. || Audience, medium, technique, colour.
+sa: I || What is sfumato? || Soft blending of tones.
+sa: C || Explain why respectful display of Indigenous art matters. || Answers vary; living traditions, ownership, ceremony.
+sa: C || Write a short comparison of two artworks. || Answers vary.
+
+=== ART10.C1 2
+hook: Art critics, gallery labels and university essays all do the same thing: turn looking into clear writing. A critical response isn't a list of likes and dislikes. It's an argument about an artwork, supported with evidence you can point to.
+sc: I can plan a critical response with a clear claim | I can support my interpretation with visual evidence and context | I can write in a formal, respectful voice
+v: critical response :: Writing that analyzes and interprets an artwork and makes a supported judgment.
+v: thesis :: The main claim of a piece of writing.
+v: visual evidence :: Specific details in an artwork that support a point.
+v: formal analysis :: Discussion of the elements and principles of design.
+v: interpretation :: An explanation of meaning.
+v: art vocabulary :: Specific terms such as contrast, composition and texture.
+ts: Writing About Art || Writing workshop || How do I write a clear, supported critical response?
+tx: Structure (five paragraphs, 400–500 words): ¶ 1. Introduction: title, artist, date, medium, one sentence of context, and a thesis. Example: "In 'The Great Wave off Kanagawa,' Hokusai uses contrast in scale and dynamic line to show the power of nature over human life." ¶ 2. Description: what is shown, without opinion. ¶ 3. Formal analysis: two or three elements or principles with specific visual evidence ("the claw-like foam at the crest," "the tiny Mount Fuji framed by the wave"). ¶ 4. Interpretation: meaning, supported by evidence and context (Japan's relationship with nature, the popularity of prints). ¶ 5. Judgment and conclusion: is the work successful? By what criteria? Restate the thesis in new words. ¶ Style: present tense, formal voice (no "I think it's cool"), art vocabulary, quotes of short labels or titles only. ¶ Activity: Read a weak paragraph ("This painting is really nice and the colours are good") and a strong one; list what makes the strong one better. Then plan your own response with the organizer and draft the thesis and analysis paragraph.
+src: Writing workshop written for this lesson.
+st: Learn the five-paragraph structure | Compare weak and strong paragraphs | Choose an artwork and write a thesis | Gather visual evidence | Draft and revise the response
+org: Paragraph | Main point | Visual evidence | Art vocabulary used
+an: What made the strong paragraph better? | Why use present tense when writing about art? | How specific should visual evidence be? | Can a critical response include personal reaction?
+pr: Write a 400–500 word critical response to an artwork of your choice with a clear thesis, formal analysis supported by visual evidence, interpretation with context, and a judgment.
+ex: Thesis || Turn "The painting is good" into a thesis. || Claim + how || "Through bold colour contrast and swirling brushstrokes, Van Gogh turns a quiet night into an emotional experience." || Is it arguable?
+ex: Evidence || Make specific: "The colours are nice." || Point to details || "The bright yellow stars stand out against the deep blue sky." || What does the contrast do?
+ex: Voice || Rewrite formally: "I think the guy looks sad." || Formal voice || "The figure's lowered gaze and muted palette suggest sadness." || Why avoid slang?
+ex: Judgment || Write a judgment with a criterion. || Criterion + evidence || "The work succeeds in expression; its composition makes the viewer feel the wave's force." || Which criterion did you use?
+p: B || What is a critical response? || Writing that analyzes, interprets and judges an artwork.
+p: B || What is a thesis? || The main claim.
+p: B || What is visual evidence? || Specific details in the artwork.
+p: B || What tense is used for writing about art? || Present tense.
+p: B || What goes in the introduction? || Title, artist, date, medium, context and thesis.
+p: I || What is formal analysis? || Discussion of elements and principles.
+p: I || Rewrite "it's cool" formally. || For example: "The composition is striking."
+p: I || What should a conclusion do? || Give a judgment and restate the thesis in new words.
+p: I || Why should description avoid opinion? || To show what is there before interpreting.
+p: I || Name three art vocabulary words. || Contrast, composition, texture, emphasis, palette.
+p: I || How many paragraphs is the suggested structure? || Five.
+p: C || What makes a thesis arguable? || Someone could reasonably disagree; it makes a claim, not a fact.
+p: C || How does context strengthen interpretation? || It explains why choices were made.
+p: C || Can personal reaction be included? || Yes, if it is supported by evidence and kept formal.
+p: C || Why is specific evidence more convincing? || Readers can see exactly what supports the claim.
+mis: Writing only opinions without evidence | Summarizing the artist's life instead of analyzing the work | Using informal language
+et: Write a thesis for an artwork you know. | Give one piece of specific visual evidence.
+mc: B || A thesis is || the main claim | a quotation | the title | the date
+mc: B || Writing about art usually uses || present tense | future tense | past tense only | no verbs
+mc: B || Visual evidence is || specific details in the artwork | the artist's birthday | the price | a guess
+mc: B || The introduction includes || title, artist, date and thesis | only the judgment | only opinions | only the conclusion
+mc: I || Formal analysis discusses || elements and principles | the artist's family | the museum café | ticket prices
+mc: I || Which is formal voice? || The muted palette suggests sadness. | It's sooo sad. | I don't like it lol. | Kinda cool.
+mc: I || Which is specific evidence? || The yellow stars stand out against the deep blue sky. | The colours are nice. | It looks good. | I like it.
+mc: I || The conclusion should || judge the work and restate the thesis | introduce a new artwork | list facts only | be blank
+mc: I || Description should be || free of opinion | full of opinion | very short only | about the artist only
+mc: C || An arguable thesis || makes a claim others could debate | states a plain fact | is a question | repeats the title
+mc: C || Context strengthens interpretation by || explaining why choices were made | replacing analysis | adding length | removing evidence
+mc: C || Personal reaction in a critical response should be || supported by evidence and formal | the whole essay | removed always | written in slang
+sa: B || Define critical response. || Writing that analyzes, interprets and judges an artwork.
+sa: B || List the five paragraphs of the structure. || Introduction, description, analysis, interpretation, judgment and conclusion.
+sa: I || Write a thesis statement. || Answers vary.
+sa: I || Rewrite a vague sentence with specific evidence. || Answers vary.
+sa: I || Explain why formal voice matters. || It sounds credible and focuses on evidence.
+sa: I || How does context help interpretation? || It explains purpose and choices.
+sa: C || Write an analysis paragraph with evidence. || Answers vary.
+sa: C || Evaluate your draft and name one revision. || Answers vary.
+
+=== ART10.D1 1
+hook: Edvard Munch's "The Scream" doesn't show what a person looks like. It shows what anxiety feels like. Expressive art uses colour, line and distortion to make feelings visible.
+sc: I can use colour, line, mark-making and distortion to express a feeling | I can develop a sketchbook idea into a finished expressive artwork | I can make deliberate choices that strengthen meaning
+v: expression :: Showing feelings or ideas through art.
+v: Expressionism :: An early 20th-century movement that distorted form and colour to express emotion.
+v: distortion :: Changing shapes or proportions on purpose for effect.
+v: mark-making :: The different lines, dots and textures an artist makes.
+v: symbolic colour :: Colour chosen for meaning rather than realism.
+v: gesture :: Energetic, expressive marks showing movement or emotion.
+ts: Make Feelings Visible || Studio task || How do artists express emotion through visual choices?
+tx: Part 1, Look (10 minutes): Compare Munch's "The Scream" (1893), Van Gogh's "The Starry Night" (1889) and an Emily Carr forest painting. How do line, colour and distortion show feeling? ¶ Part 2, Mark-making warm-up (10 minutes): Fill a page with six boxes labelled calm, anger, joy, fear, loneliness, excitement. Fill each with marks only (no pictures). Compare with a partner: can they guess the emotion? ¶ Part 3, Create (35 minutes or across classes): Take your strongest sketchbook concept from the last lesson. Plan three deliberate choices: (1) a colour scheme chosen for symbolic meaning, (2) a type of mark-making, (3) one distortion (stretched shapes, exaggerated scale, tilted space). Make the final artwork in any 2D medium (paint, oil pastel, mixed media). ¶ Part 4, Check (5 minutes): Ask a classmate what feeling they get, without explaining. Does it match your intent?
+src: Original studio task written for this lesson.
+st: Analyze expression in three artworks | Explore emotion through mark-making | Plan colour, marks and distortion | Create the final artwork | Test whether viewers read the feeling
+org: Choice | What I chose | Feeling it expresses
+an: Which marks best showed anger? Calm? | How does distortion add emotion? | Did your classmate read the intended feeling? | When is realism less important than expression?
+pr: Create an expressive artwork from your sketchbook idea using symbolic colour, deliberate mark-making and at least one distortion.
+ex: Mark-making || What marks might show anger? || Energy || Sharp, jagged, heavy, fast lines || What marks show calm?
+ex: Distortion || How does Munch distort the figure? || Shape changes || The figure is stretched and wavy, echoing the swirling sky || What feeling does it create?
+ex: Symbolic colour || Why paint a sad face blue-green instead of skin tone? || Meaning over realism || Cool, sickly colours express sadness or unease || What colour might show jealousy?
+ex: Test || A viewer sees "joy" in your "fear" artwork. What do you change? || Adjust choices || Use darker values, tighter marks or a tense composition || Why test with viewers?
+p: B || What is expression in art? || Showing feelings through art.
+p: B || Who painted "The Scream"? || Edvard Munch.
+p: B || What is distortion? || Changing shapes on purpose for effect.
+p: B || What is mark-making? || The lines, dots and textures an artist makes.
+p: B || What is symbolic colour? || Colour chosen for meaning.
+p: I || What was Expressionism? || An early 20th-century movement distorting form and colour to show emotion.
+p: I || What marks might show calm? || Long, smooth, horizontal, soft lines.
+p: I || How does Van Gogh show energy in "The Starry Night"? || Swirling, thick brushstrokes.
+p: I || Name a colour often linked to anger. || Red.
+p: I || Why test your artwork with a viewer? || To see if the feeling comes across.
+p: I || What year was "The Scream" made? || 1893.
+p: C || When is realism less important than expression? || When the goal is to communicate feeling.
+p: C || Can colour meanings change across cultures? || Yes, for example white means mourning in some cultures and weddings in others.
+p: C || How can composition add emotion? || Tilted, crowded or empty spaces create tension or loneliness.
+p: C || Why plan deliberate choices? || So every choice supports the intended feeling.
+mis: Thinking expressive art means careless art | Thinking colours always mean the same thing everywhere | Thinking realism is the only skill that counts
+et: Name three choices you made and the feeling each expresses. | Draw marks for two emotions.
+mc: B || "The Scream" was painted by || Edvard Munch | Claude Monet | Emily Carr | Leonardo da Vinci
+mc: B || Distortion means || changing shapes on purpose | copying exactly | erasing | framing
+mc: B || Mark-making refers to || lines, dots and textures | prices | titles | frames
+mc: B || Symbolic colour is chosen for || meaning | realism only | cost | brightness only
+mc: I || Expressionism focused on || emotion through distorted form and colour | perfect realism | geometry only | photography
+mc: I || Calm is usually shown with || smooth horizontal lines | jagged lines | heavy scribbles | sharp angles
+mc: I || "The Starry Night" shows energy through || swirling brushstrokes | straight grids | dots only | collage
+mc: I || Anger is often shown with || jagged, heavy marks | soft blending | pale pastel colours | empty space
+mc: I || Testing with a viewer checks || whether the feeling comes across | the price | the frame | the signature
+mc: C || Colour meanings || can differ across cultures | are the same everywhere | never matter | are random
+mc: C || A tilted, crowded composition often creates || tension | calm | boredom | silence
+mc: C || Expressive art is || deliberate choices to communicate feeling | careless work | copying photos | decoration only
+sa: B || Define expression. || Showing feelings or ideas through art.
+sa: B || Name an Expressionist artwork. || The Scream (other valid answers).
+sa: I || Describe marks for fear. || Answers vary; e.g. shaky, thin, tense lines.
+sa: I || Explain how distortion adds emotion. || Exaggerated shapes intensify feeling.
+sa: I || Name your colour scheme and its meaning. || Answers vary.
+sa: I || Why might colour meanings differ across cultures? || Cultures associate colours with different events and ideas.
+sa: C || Explain how three choices in your artwork express a feeling. || Answers vary.
+sa: C || Reflect on whether viewers read your intended feeling. || Answers vary.
+
+=== ART10.D1 2
+hook: Next to every artwork in a gallery is a small block of text. In 100 words or so, the artist statement tells viewers what the work is about and why it was made, without explaining away the mystery.
+sc: I can explain the purpose of an artist statement | I can write a clear, concise statement about my artwork | I can revise my statement using feedback
+v: artist statement :: A short text explaining an artwork's idea, process and intent.
+v: intent :: What the artist hoped to communicate.
+v: process :: How the artwork was made.
+v: concise :: Clear and brief, with no unnecessary words.
+v: first person :: Writing with "I" and "my."
+v: reflection :: Thinking about what you learned and what worked.
+ts: In My Own Words || Writing workshop || How do artists explain their work in a clear statement?
+tx: An artist statement answers: What is the work about? (concept) How did I make it? (materials and process) Why these choices? (intent) Sometimes: what do I hope viewers feel or think? ¶ Model statement (original): "Weight. Acrylic and collage on board, 2026. My backpack has carried me through ten years of school. In this painting, I stacked collage papers from old tests and timetables until the backpack seems ready to burst, and painted the background in a cramped, cool palette. I distorted the straps to stretch across the whole surface, so the viewer feels the pull. I want the viewer to think about what young people carry, and what we might put down." (90 words) ¶ Tips: first person, present tense, specific details, 75–150 words, avoid "I just liked it" and long technical lists, don't tell viewers exactly what to feel. ¶ Activity 1 (10 minutes): Read two statements, one vague and one specific. List differences. ¶ Activity 2 (20 minutes): Draft your statement for your expressive artwork. ¶ Activity 3 (15 minutes): Peer feedback: highlight one sentence that helps you understand the work and one that's vague. Revise. ¶ Activity 4 (5 minutes): Read your final statement aloud next to your artwork.
+src: Model statement and workshop written for this lesson.
+st: Learn what an artist statement includes | Compare vague and specific statements | Draft your statement | Revise with peer feedback | Present it beside your artwork
+org: Question | My answer | Specific detail
+an: What made the model statement effective? | Why keep statements short? | How much should you explain about meaning? | How did peer feedback change your draft?
+pr: Write a 75–150 word artist statement for your expressive artwork covering concept, process and intent, revised after peer feedback.
+ex: Vague vs specific || Improve: "I used lots of colours because I like them." || Specific choice and reason || "I used clashing reds and greens to make the space feel tense." || What makes it stronger?
+ex: Process || Write a process sentence. || Materials and method || "I layered torn magazine pages, then painted over them with thin washes." || Why include process?
+ex: Intent || Write an intent sentence that doesn't over-explain. || Invite thought || "I want viewers to consider what home means when it keeps changing." || Why not say exactly what to feel?
+ex: Length || A statement is 300 words. What should you do? || Concise || Cut repeated ideas and technical lists to about 150 words || What do you keep?
+p: B || What is an artist statement? || A short text explaining an artwork's idea, process and intent.
+p: B || What is intent? || What the artist hoped to communicate.
+p: B || What point of view is used? || First person.
+p: B || How long should a statement usually be here? || About 75–150 words.
+p: B || What does concise mean? || Clear and brief.
+p: I || Name three things a statement answers. || What it's about, how it was made, why choices were made.
+p: I || Why avoid "I just liked it"? || It gives no meaning or reason.
+p: I || What tense is used? || Present tense.
+p: I || Why include specific details? || They help viewers understand choices.
+p: I || What is process? || How the artwork was made.
+p: I || What did the model artist use for collage? || Old tests and timetables.
+p: C || Why shouldn't a statement explain everything? || Viewers need room to interpret.
+p: C || How does a statement help a viewer? || It gives context and invites deeper looking.
+p: C || How can peer feedback improve a statement? || It shows which parts are clear or vague to readers.
+p: C || Why are statements used in portfolios? || They show thinking and intent to reviewers.
+mis: Writing a long list of materials only | Telling viewers exactly what to feel | Writing in a casual, unclear voice
+et: Write one sentence about your concept. | Write one sentence about your process.
+mc: B || An artist statement explains || concept, process and intent | the price only | the frame | the gallery hours
+mc: B || Artist statements are written in || first person | third person only | second person | no person
+mc: B || Concise means || clear and brief | very long | confusing | decorative
+mc: B || Intent means || what the artist hoped to communicate | the materials | the frame | the date
+mc: I || Which sentence is most specific? || I layered torn maps to show my family's travels. | I like maps. | It's nice. | I did art.
+mc: I || A good length here is about || 75–150 words | 10 words | 1,000 words | 5 pages
+mc: I || Process describes || how the work was made | who bought it | where it hangs | the title only
+mc: I || Statements use || present tense | future tense only | no verbs | past tense only
+mc: I || "I just liked it" is weak because || it gives no reason or meaning | it is too long | it is formal | it is specific
+mc: C || A statement shouldn't explain everything because || viewers need room to interpret | it is too short | galleries forbid it | it confuses artists
+mc: C || Peer feedback helps by || showing what is clear or vague to readers | writing it for you | making it longer | replacing the artwork
+mc: C || Statements matter in portfolios because they || show thinking and intent | replace artworks | list prices | add colour
+sa: B || Define artist statement. || A short text explaining an artwork's idea, process and intent.
+sa: B || Name three questions a statement answers. || What, how, why.
+sa: I || Rewrite a vague sentence specifically. || Answers vary.
+sa: I || Write an intent sentence. || Answers vary.
+sa: I || Why use present tense and first person? || It is direct and personal.
+sa: I || What did you change after feedback? || Answers vary.
+sa: C || Explain how a statement can invite rather than limit interpretation. || It shares intent without dictating meaning.
+sa: C || Write your final artist statement. || Answers vary.
